@@ -1,0 +1,501 @@
+transcation_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,store_representation
+WATM45JUMU,2/23/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.13,Debit Card,Adult,Male,Ambato,Online
+2JDDLXZ1EP,2/25/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.11,Bank Transfer,Young,Female,Manta,Online
+C1S79CQPZ8,2/29/24,Ecuador,103,Bimbo Bread,Bakery,0.3,10,0.15,0.01,Credit Card,Adult,Female,Riobamba,Online
+BFOFRROSN2,1/7/24,Ecuador,101,Diana Rice,Food,1.5,7,1,0.28,Debit Card,Adult,Male,Manta,Physical Store
+RW9N9VPUP6,2/11/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.05,Bank Transfer,Adult,Female,Guayaquil,Physical Store
+W785F3BI0I,2/15/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.32,Credit Card,Young,Female,Cuenca,Online
+YAT9K215CD,2/29/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,7,2.5,0.13,Bank Transfer,Adult,Male,Cuenca,Online
+UKSENPBZGX,2/13/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.04,Bank Transfer,Adult,Male,Riobamba,Online
+BVOWEUHCFH,2/19/24,Ecuador,102,Vita Milk,Dairy,0.9,7,0.6,0.06,Cash,Adult,Female,Manta,Physical Store
+Z3XO1U9HQ6,1/22/24,Ecuador,109,Dove Soap,Personal Care,1.2,5,0.8,0.12,Debit Card,Adult,Male,Guayaquil,Online
+W6FRTORQYE,1/11/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.02,Debit Card,Adult,Female,Cuenca,Physical Store
+KYSV552AYY,1/26/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,4,3,0.06,Debit Card,Young,Female,Cuenca,Online
+3G0TUB5ZMS,2/2/24,Ecuador,101,Diana Rice,Food,1.5,10,1,0.22,Bank Transfer,Adult,Male,Manta,Online
+IKCZQACW7W,1/16/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.25,Credit Card,Adult,Female,Riobamba,Physical Store
+S95JDRTF2Y,2/14/24,Ecuador,102,Vita Milk,Dairy,0.9,1,0.6,0.16,Bank Transfer,Adult,Male,Guayaquil,Online
+ZX612UI5U4,1/28/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.07,Credit Card,Young,Female,Quito,Online
+8NKIQ1PDJB,1/29/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.05,Credit Card,Young,Male,Quito,Online
+IVNJWR36ZR,1/31/24,Ecuador,102,Vita Milk,Dairy,0.9,10,0.6,0.03,Bank Transfer,Senior,Male,Guayaquil,Online
+QOLQBZKYBO,1/27/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,4,3,0.41,Bank Transfer,Young,Female,Loja,Physical Store
+TI66MT7AJG,1/9/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,4,4,0.66,Credit Card,Adult,Male,Manta,Physical Store
+1P2886MKR1,1/31/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0.03,Cash,Young,Male,Riobamba,Physical Store
+JCM39K0RXP,1/27/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.61,Cash,Adult,Female,Loja,Online
+CQB7SS684N,1/25/24,Ecuador,104,Valdez Sugar,Food,1.1,7,0.8,0.08,Debit Card,Adult,Male,Guayaquil,Physical Store
+YBBP8JNCPC,2/13/24,Ecuador,104,Valdez Sugar,Food,1.1,1,0.8,0.01,Bank Transfer,Young,Female,Ambato,Online
+C8TGJWYXNS,1/21/24,Ecuador,102,Vita Milk,Dairy,0.9,7,0.6,0.04,Cash,Adult,Female,Ambato,Online
+16I94VJBIC,1/21/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.13,Cash,Adult,Female,Cuenca,Physical Store
+K6901G3B1M,2/21/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.82,Cash,Adult,Female,Guayaquil,Online
+BMHFT2ZOOZ,1/9/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.24,Credit Card,Senior,Female,Ambato,Physical Store
+683WJ9F2WI,1/26/24,Ecuador,103,Bimbo Bread,Bakery,0.3,4,0.15,0.02,Credit Card,Senior,Male,Ambato,Online
+5KB373CGDL,1/14/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.15,Credit Card,Senior,Female,Guayaquil,Physical Store
+K9J9ENZB6K,2/9/24,Ecuador,104,Valdez Sugar,Food,1.1,5,0.8,0.04,Credit Card,Adult,Female,Guayaquil,Physical Store
+CXW9O09HQJ,2/1/24,Ecuador,104,Valdez Sugar,Food,1.1,10,0.8,0.17,Cash,Adult,Female,Quito,Online
+S8UDQPQBKS,2/12/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.52,Debit Card,Adult,Male,Manta,Physical Store
+TSGYZ75Q6M,1/15/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,8,4,0.81,Bank Transfer,Adult,Male,Guayaquil,Online
+GPPQFBC8J6,1/2/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,4,1.8,0.12,Bank Transfer,Young,Female,Manta,Physical Store
+6ELDMV5DNA,2/29/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,7,2.5,0.22,Credit Card,Young,Female,Riobamba,Physical Store
+3XRAAOIW59,2/4/24,Ecuador,101,Diana Rice,Food,1.5,8,1,0.21,Debit Card,Adult,Male,Riobamba,Physical Store
+TEC8822YBY,1/6/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.48,Credit Card,Adult,Male,Cuenca,Physical Store
+QHEQWWCH8J,1/28/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,3,1.8,0.09,Bank Transfer,Adult,Male,Guayaquil,Physical Store
+RYWNLO5O9J,2/4/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.95,Bank Transfer,Adult,Male,Loja,Online
+XADOJL7R38,1/19/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,10,3,0.34,Debit Card,Adult,Female,Riobamba,Online
+UB7EXBCTPB,2/26/24,Ecuador,102,Vita Milk,Dairy,0.9,6,0.6,0.06,Debit Card,Adult,Female,Manta,Online
+KMTUY2RJ05,1/4/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.18,Cash,Senior,Male,Riobamba,Online
+FDVD77R6I6,1/4/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.51,Credit Card,Young,Male,Cuenca,Physical Store
+M1ZZ9GVQVG,1/4/24,Ecuador,109,Dove Soap,Personal Care,1.2,3,0.8,0.08,Cash,Young,Female,Cuenca,Physical Store
+33U986REYK,2/7/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.13,Debit Card,Adult,Male,Riobamba,Online
+5QRIDVCEC9,2/25/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,8,1.8,0.35,Bank Transfer,Adult,Female,Loja,Physical Store
+7UQUNQXHC5,2/15/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,7,4,0.33,Credit Card,Young,Female,Quito,Physical Store
+IZ0ZUO0XOL,1/10/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,4,3,0.11,Credit Card,Adult,Female,Ambato,Physical Store
+3V9ZF00N6I,1/29/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.19,Bank Transfer,Adult,Male,Cuenca,Online
+A0HEW1Z4IO,1/12/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.01,Credit Card,Senior,Male,Ambato,Online
+4T6DZAD29K,1/17/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,7,1.8,0.19,Cash,Adult,Female,Riobamba,Online
+F0P3GHJ5RJ,2/23/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.17,Bank Transfer,Senior,Female,Guayaquil,Online
+P86SS4S7BF,2/16/24,Ecuador,101,Diana Rice,Food,1.5,10,1,0.11,Credit Card,Senior,Male,Ambato,Online
+AH97413FDG,2/18/24,Ecuador,103,Bimbo Bread,Bakery,0.3,8,0.15,0.04,Bank Transfer,Young,Male,Cuenca,Physical Store
+C23HHN8S0V,1/23/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,2,2.9,0.7,Cash,Young,Male,Manta,Physical Store
+Y99N6WACC8,2/22/24,Ecuador,103,Bimbo Bread,Bakery,0.3,8,0.15,0.01,Cash,Adult,Male,Ambato,Physical Store
+QP52MYCHF1,2/17/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.32,Credit Card,Senior,Male,Ambato,Physical Store
+E7B730ND7H,1/15/24,Ecuador,103,Bimbo Bread,Bakery,0.3,9,0.15,0.06,Bank Transfer,Adult,Male,Riobamba,Online
+ZVWI229P1E,2/7/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.35,Cash,Adult,Female,Riobamba,Physical Store
+4QC0VZ1R2S,1/21/24,Ecuador,101,Diana Rice,Food,1.5,1,1,0.17,Cash,Adult,Female,Manta,Online
+FNDGUEI2N7,2/11/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.11,Bank Transfer,Young,Female,Loja,Physical Store
+K858E2O7BN,2/6/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,7,3,0.55,Credit Card,Young,Male,Guayaquil,Online
+Z6WI5WVDCN,1/14/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.17,Credit Card,Young,Female,Guayaquil,Physical Store
+KMF8Y8FUNA,1/7/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.46,Credit Card,Senior,Female,Guayaquil,Physical Store
+XZ55KG43Y7,2/19/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.03,Bank Transfer,Adult,Male,Loja,Physical Store
+PEETHS10AG,1/20/24,Ecuador,103,Bimbo Bread,Bakery,0.3,2,0.15,0.03,Debit Card,Senior,Female,Cuenca,Physical Store
+SHVDJFVT5A,2/18/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,5,2.9,0.5,Bank Transfer,Young,Female,Guayaquil,Online
+SVBD1VLSWM,1/1/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.01,Credit Card,Young,Female,Quito,Online
+W4KRQ0AU8S,1/20/24,Ecuador,104,Valdez Sugar,Food,1.1,8,0.8,0.11,Bank Transfer,Senior,Female,Quito,Physical Store
+WN1RI2LDL8,1/29/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.12,Cash,Senior,Male,Loja,Physical Store
+47L7CJUNZS,3/1/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.14,Bank Transfer,Young,Male,Loja,Physical Store
+Y08P5AC0LK,1/23/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,5,2.9,0.5,Credit Card,Adult,Female,Guayaquil,Online
+YK9XWNWKVT,2/2/24,Ecuador,104,Valdez Sugar,Food,1.1,5,0.8,0.07,Cash,Young,Male,Loja,Online
+IBTC49QHK2,1/25/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.16,Credit Card,Young,Female,Guayaquil,Physical Store
+P2DNTF1S1G,1/8/24,Ecuador,101,Diana Rice,Food,1.5,5,1,0.25,Credit Card,Adult,Female,Riobamba,Online
+GAVWTEXBFU,2/8/24,Ecuador,109,Dove Soap,Personal Care,1.2,1,0.8,0.23,Debit Card,Young,Male,Cuenca,Physical Store
+S9WTQDO5HV,1/26/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,7,2.9,0.26,Debit Card,Young,Female,Guayaquil,Physical Store
+I3PNGNNG5B,1/30/24,Ecuador,109,Dove Soap,Personal Care,1.2,3,0.8,0.22,Bank Transfer,Senior,Male,Loja,Physical Store
+MKRUIK6C45,1/9/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.12,Bank Transfer,Adult,Female,Manta,Physical Store
+FU000J3XPI,1/3/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.6,Debit Card,Adult,Female,Cuenca,Online
+06036RALZJ,2/7/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,5,2.5,0.01,Cash,Young,Female,Ambato,Physical Store
+FGYUGAPPYO,1/16/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.05,Debit Card,Young,Female,Manta,Physical Store
+A1L2FTANVC,1/23/24,Ecuador,104,Valdez Sugar,Food,1.1,10,0.8,0.02,Debit Card,Senior,Male,Riobamba,Physical Store
+WKF7R8GXV9,2/29/24,Ecuador,103,Bimbo Bread,Bakery,0.3,2,0.15,0.06,Cash,Young,Female,Guayaquil,Physical Store
+U0W5UOH093,2/22/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,4,2.9,0.58,Bank Transfer,Young,Female,Quito,Physical Store
+70FBMTTEKI,1/2/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.49,Debit Card,Adult,Female,Quito,Online
+XZQPML0T1A,2/9/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.34,Bank Transfer,Young,Female,Quito,Online
+WT9HMWBLEB,2/16/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.53,Credit Card,Adult,Male,Loja,Online
+EB6185160Y,1/12/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,4,3,0.58,Credit Card,Adult,Male,Riobamba,Online
+0DMIN9G19G,2/27/24,Ecuador,101,Diana Rice,Food,1.5,5,1,0.04,Bank Transfer,Senior,Female,Guayaquil,Physical Store
+UJJG3UIG6A,2/1/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,7,4,0.92,Credit Card,Adult,Male,Manta,Online
+1OIE25UR8K,2/9/24,Ecuador,109,Dove Soap,Personal Care,1.2,3,0.8,0.21,Cash,Senior,Female,Manta,Physical Store
+YV1WTLW6JH,1/4/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.12,Cash,Young,Male,Quito,Online
+BDZK9AEHVT,1/30/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,2,2.9,0.21,Bank Transfer,Adult,Female,Ambato,Online
+LQJ6BS5TSH,2/29/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,5,4,0.87,Debit Card,Adult,Female,Guayaquil,Online
+9A5V608JVY,2/15/24,Ecuador,104,Valdez Sugar,Food,1.1,1,0.8,0.06,Bank Transfer,Adult,Male,Ambato,Online
+0ILDJ9M9X8,1/30/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,3,2.5,0.19,Credit Card,Adult,Male,Cuenca,Physical Store
+Q6QAJ699S4,1/12/24,Ecuador,104,Valdez Sugar,Food,1.1,6,0.8,0.14,Bank Transfer,Young,Female,Guayaquil,Online
+6ISFF2GDWS,1/11/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.14,Debit Card,Adult,Female,Riobamba,Physical Store
+M5EKB8FILJ,1/13/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.09,Cash,Adult,Male,Loja,Physical Store
+EA3GIWLI9S,2/25/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,4,4,0.01,Cash,Senior,Male,Ambato,Online
+H7C68ZGS1J,2/27/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.35,Debit Card,Senior,Female,Riobamba,Online
+WI1LDH4NSA,1/24/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,1.07,Cash,Adult,Male,Loja,Online
+JF5ZIQM373,1/25/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.19,Cash,Young,Male,Quito,Online
+HI74GXULNE,1/16/24,Ecuador,104,Valdez Sugar,Food,1.1,5,0.8,0.13,Bank Transfer,Adult,Male,Cuenca,Physical Store
+V8ZXR664SZ,1/20/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.03,Debit Card,Adult,Female,Cuenca,Physical Store
+I2FVM6W6CW,2/23/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.13,Bank Transfer,Senior,Female,Ambato,Physical Store
+075YW7YU35,2/26/24,Ecuador,101,Diana Rice,Food,1.5,3,1,0.2,Credit Card,Adult,Male,Quito,Online
+UNNWEW3PFC,1/31/24,Ecuador,109,Dove Soap,Personal Care,1.2,1,0.8,0.18,Cash,Young,Male,Quito,Online
+MCIWNHJ6MZ,2/28/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.76,Credit Card,Adult,Male,Ambato,Physical Store
+UNQTMZWPUK,2/13/24,Ecuador,109,Dove Soap,Personal Care,1.2,5,0.8,0.15,Bank Transfer,Adult,Female,Ambato,Physical Store
+OE36U19XEW,1/17/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,2,3,0.55,Credit Card,Senior,Female,Guayaquil,Physical Store
+17VOG88YBG,2/22/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.13,Bank Transfer,Young,Female,Ambato,Physical Store
+0II0K4MSUA,1/9/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,9,1.8,0.44,Bank Transfer,Young,Male,Guayaquil,Online
+LNVUW8SI08,1/27/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.03,Cash,Senior,Male,Cuenca,Online
+F4YTL96KV5,2/18/24,Ecuador,102,Vita Milk,Dairy,0.9,10,0.6,0.16,Cash,Senior,Male,Guayaquil,Online
+OGTV81TFZQ,1/3/24,Ecuador,109,Dove Soap,Personal Care,1.2,10,0.8,0.06,Debit Card,Adult,Female,Quito,Physical Store
+4SQFBX07VZ,2/25/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.03,Cash,Young,Male,Cuenca,Physical Store
+FRT1SCCAUW,2/9/24,Ecuador,103,Bimbo Bread,Bakery,0.3,2,0.15,0.03,Debit Card,Senior,Female,Cuenca,Online
+IPZHFBEJV2,2/20/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.32,Bank Transfer,Young,Male,Loja,Physical Store
+OLSCW0RC7F,1/13/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.19,Credit Card,Adult,Female,Quito,Online
+LDAUN6GQF2,1/12/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.04,Credit Card,Adult,Female,Loja,Online
+I0SPUWHEQ0,1/14/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,4,1.8,0.28,Bank Transfer,Adult,Female,Riobamba,Physical Store
+TZBYKHTVS3,2/1/24,Ecuador,101,Diana Rice,Food,1.5,9,1,0.02,Credit Card,Adult,Male,Loja,Physical Store
+NIR6CN1PCT,1/7/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.06,Debit Card,Senior,Female,Ambato,Online
+AHYQOOMG0D,2/11/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.07,Cash,Senior,Female,Loja,Online
+MWU31LXX8A,1/6/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.04,Credit Card,Adult,Male,Quito,Physical Store
+JAV5FOKZDX,2/25/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.18,Credit Card,Adult,Male,Manta,Online
+F8IL5RI7G1,1/2/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,1,1.8,0.09,Cash,Young,Male,Cuenca,Physical Store
+1TGZL04BE4,2/12/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.4,Credit Card,Adult,Female,Ambato,Online
+G11YGQIW3A,2/20/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.55,Bank Transfer,Adult,Female,Ambato,Online
+YQIGEYMAHI,2/15/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.12,Cash,Adult,Female,Riobamba,Physical Store
+GF36CTQ531,1/3/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.07,Cash,Adult,Male,Manta,Physical Store
+RGCM4E86S4,2/5/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0.06,Debit Card,Young,Female,Loja,Online
+Q00WC67YG1,1/27/24,Ecuador,104,Valdez Sugar,Food,1.1,8,0.8,0.12,Cash,Young,Male,Riobamba,Physical Store
+WND1UDRRZ4,1/6/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.05,Credit Card,Young,Male,Guayaquil,Physical Store
+DR2CWU5Z2B,1/5/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.49,Credit Card,Young,Female,Riobamba,Physical Store
+8PXKQ6VSL4,2/11/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.05,Credit Card,Adult,Female,Ambato,Physical Store
+P53NRIP1RS,2/6/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.38,Credit Card,Young,Male,Loja,Online
+9LQRT83SP0,1/24/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.37,Bank Transfer,Adult,Female,Quito,Physical Store
+UTY4BSKK6M,1/24/24,Ecuador,103,Bimbo Bread,Bakery,0.3,3,0.15,0,Debit Card,Adult,Male,Ambato,Online
+KR7AQWT41V,2/2/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.82,Cash,Adult,Male,Manta,Online
+F9BULJS81G,2/14/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.17,Credit Card,Young,Female,Cuenca,Physical Store
+0E3SIMMZVV,2/3/24,Ecuador,101,Diana Rice,Food,1.5,9,1,0.11,Bank Transfer,Senior,Female,Quito,Physical Store
+DQ7X7OX73D,2/4/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,5,3,0.32,Bank Transfer,Young,Female,Loja,Physical Store
+HEWMORJO8E,2/28/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.12,Debit Card,Adult,Female,Guayaquil,Online
+XI63P0GLQQ,1/15/24,Ecuador,101,Diana Rice,Food,1.5,4,1,0.07,Cash,Adult,Male,Manta,Physical Store
+2ACP2NEK7J,1/9/24,Ecuador,101,Diana Rice,Food,1.5,9,1,0.23,Credit Card,Adult,Male,Ambato,Physical Store
+BKIAGAO8IZ,1/21/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,2,1.8,0.15,Debit Card,Adult,Female,Quito,Physical Store
+XLRY97TAFF,1/21/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.12,Debit Card,Adult,Male,Guayaquil,Physical Store
+TPCZLW6GDD,1/5/24,Ecuador,101,Diana Rice,Food,1.5,9,1,0.11,Debit Card,Young,Male,Guayaquil,Physical Store
+YGYPFYOS23,3/1/24,Ecuador,101,Diana Rice,Food,1.5,2,1,0.11,Bank Transfer,Adult,Male,Manta,Online
+35HG1DJH74,1/23/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.38,Cash,Adult,Female,Riobamba,Online
+PKM5XT92OJ,2/14/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.68,Bank Transfer,Young,Female,Loja,Online
+Q09BNNZ17Y,1/13/24,Ecuador,101,Diana Rice,Food,1.5,8,1,0.13,Cash,Adult,Male,Quito,Online
+DU32UHOKS8,1/7/24,Ecuador,102,Vita Milk,Dairy,0.9,10,0.6,0.04,Credit Card,Adult,Male,Quito,Online
+EZ3MICI5PP,1/23/24,Ecuador,101,Diana Rice,Food,1.5,7,1,0.15,Cash,Senior,Male,Manta,Physical Store
+0QRNV033HT,2/22/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,3,2.5,0.28,Debit Card,Senior,Female,Manta,Online
+UA6TXZW9J4,2/2/24,Ecuador,109,Dove Soap,Personal Care,1.2,3,0.8,0.14,Credit Card,Senior,Female,Riobamba,Physical Store
+EXR9FLLDNX,2/15/24,Ecuador,103,Bimbo Bread,Bakery,0.3,1,0.15,0.03,Credit Card,Adult,Female,Quito,Online
+N4VXE78RRC,2/21/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.2,Debit Card,Senior,Female,Loja,Physical Store
+9DAIMLGVQN,1/4/24,Ecuador,104,Valdez Sugar,Food,1.1,1,0.8,0.03,Cash,Adult,Female,Quito,Online
+KTVR1Z4AT2,3/1/24,Ecuador,102,Vita Milk,Dairy,0.9,7,0.6,0,Debit Card,Adult,Female,Cuenca,Physical Store
+2PW6ZCA6AS,1/30/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,4,1.8,0.4,Cash,Adult,Female,Guayaquil,Physical Store
+XSZP8167XT,1/5/24,Ecuador,102,Vita Milk,Dairy,0.9,3,0.6,0.11,Credit Card,Senior,Male,Cuenca,Physical Store
+MGY6R0D1JO,2/3/24,Ecuador,101,Diana Rice,Food,1.5,1,1,0.17,Bank Transfer,Young,Female,Manta,Physical Store
+X2ON5VXNRN,1/14/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,1,2.9,0.66,Debit Card,Adult,Female,Quito,Physical Store
+IP9WB2KF2I,1/11/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.01,Cash,Young,Female,Cuenca,Physical Store
+TK302L4OI7,2/28/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.36,Cash,Senior,Male,Loja,Online
+9H7DAK4B7H,2/26/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,3,3,0.44,Cash,Adult,Female,Loja,Physical Store
+TMYWCYH09W,1/14/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,8,1.8,0.1,Credit Card,Young,Male,Cuenca,Online
+97UU96RZR2,1/29/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,2,4,0.2,Debit Card,Adult,Female,Loja,Physical Store
+XUUE4FB7Z0,2/23/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,1,4,0.4,Debit Card,Senior,Female,Loja,Online
+7WZT2M967W,2/13/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.16,Debit Card,Adult,Male,Manta,Physical Store
+FVTD9WQKCA,2/14/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,4,4,0.14,Bank Transfer,Adult,Male,Guayaquil,Physical Store
+Y698EAUF57,1/25/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,1,1.8,0.06,Credit Card,Adult,Female,Riobamba,Online
+GCT120LGXZ,1/8/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,4,4,0.1,Bank Transfer,Senior,Female,Guayaquil,Physical Store
+AQ2Z2RVVCS,2/23/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.09,Bank Transfer,Senior,Female,Manta,Online
+9YEEP2GG0E,2/26/24,Ecuador,101,Diana Rice,Food,1.5,5,1,0.16,Debit Card,Adult,Female,Riobamba,Physical Store
+OYV0Y5A5SB,1/17/24,Ecuador,103,Bimbo Bread,Bakery,0.3,1,0.15,0.01,Credit Card,Senior,Female,Quito,Online
+HS81P4M28M,1/8/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,8,2.9,0.55,Cash,Young,Female,Cuenca,Physical Store
+LGPIS3U6OC,1/22/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.02,Debit Card,Adult,Male,Guayaquil,Physical Store
+SYXFDNZE2L,1/2/24,Ecuador,101,Diana Rice,Food,1.5,10,1,0.01,Credit Card,Young,Male,Riobamba,Physical Store
+BH12TP03I4,2/14/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,5,2.9,0.25,Credit Card,Adult,Male,Quito,Physical Store
+2LB6D9Z3LV,2/18/24,Ecuador,102,Vita Milk,Dairy,0.9,7,0.6,0.17,Debit Card,Adult,Female,Loja,Online
+A4AGP287HA,2/14/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,9,3,0.26,Bank Transfer,Young,Female,Riobamba,Online
+W6PXFKYBQ6,2/7/24,Ecuador,104,Valdez Sugar,Food,1.1,1,0.8,0.04,Bank Transfer,Senior,Female,Loja,Physical Store
+R5QUMY3FUW,2/13/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,2,1.8,0.48,Debit Card,Young,Male,Cuenca,Online
+EB0N83MJPR,2/13/24,Ecuador,104,Valdez Sugar,Food,1.1,10,0.8,0.03,Bank Transfer,Adult,Male,Guayaquil,Physical Store
+PRE595SR7H,2/18/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.03,Cash,Adult,Female,Riobamba,Physical Store
+920GRFZFXM,1/4/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,4,1.8,0.31,Credit Card,Young,Male,Riobamba,Physical Store
+GRD6NIGLC0,2/2/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,2,3,0.1,Cash,Adult,Female,Loja,Online
+FH19ZJ3QTQ,1/12/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.06,Credit Card,Senior,Female,Guayaquil,Physical Store
+3HKZVX5S7U,2/3/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.07,Credit Card,Senior,Female,Quito,Physical Store
+MQBPJTYJ8Y,1/28/24,Ecuador,101,Diana Rice,Food,1.5,6,1,0.16,Bank Transfer,Young,Female,Loja,Online
+HJ6F010QIQ,1/2/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,6,2.9,0.21,Bank Transfer,Young,Male,Guayaquil,Online
+DEFIEAHL14,2/27/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,2,1.8,0.08,Bank Transfer,Senior,Female,Cuenca,Physical Store
+LSYHDDUHC1,1/2/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,5,4,0.21,Credit Card,Adult,Female,Manta,Physical Store
+O5PA1D6TQ4,1/29/24,Ecuador,101,Diana Rice,Food,1.5,4,1,0.27,Cash,Young,Male,Manta,Physical Store
+VUBTA03J2B,1/28/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,2,3,0.22,Cash,Young,Male,Guayaquil,Online
+IIFNM0NOC4,1/23/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.26,Cash,Young,Female,Loja,Online
+C71K3Y4WSB,2/3/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.15,Cash,Senior,Male,Manta,Online
+O1DUHMKDSA,2/18/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.1,Credit Card,Adult,Male,Loja,Physical Store
+5RHR5CZ13A,2/12/24,Ecuador,103,Bimbo Bread,Bakery,0.3,1,0.15,0.05,Credit Card,Adult,Male,Guayaquil,Physical Store
+J7C9WMKX2L,1/12/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.07,Cash,Adult,Male,Manta,Physical Store
+51QZ2FBBCG,2/8/24,Ecuador,104,Valdez Sugar,Food,1.1,5,0.8,0.04,Bank Transfer,Young,Female,Cuenca,Physical Store
+9YVXO9BKV0,1/9/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,1,4,0.13,Credit Card,Adult,Male,Ambato,Physical Store
+HQ5BMIGG5T,1/26/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.1,Cash,Adult,Female,Cuenca,Physical Store
+IMV8U4KTS7,2/9/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.02,Credit Card,Adult,Female,Loja,Online
+FK0YY4C6LC,1/24/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,9,3,0.31,Debit Card,Adult,Male,Cuenca,Physical Store
+DO15LXQ4NP,1/11/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.04,Debit Card,Young,Female,Manta,Online
+O9FZFZPD5V,2/24/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,9,3,0.03,Bank Transfer,Adult,Female,Ambato,Physical Store
+O0G8739OOC,1/2/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.24,Bank Transfer,Adult,Female,Loja,Physical Store
+S42QPJUG5I,2/27/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0.01,Bank Transfer,Adult,Female,Guayaquil,Online
+1OD47WCOKE,1/13/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.01,Bank Transfer,Adult,Male,Cuenca,Online
+KGARUMHDU3,2/26/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.5,Cash,Adult,Female,Ambato,Physical Store
+3Q7LXL2P9Y,1/29/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,3,3,0.54,Bank Transfer,Adult,Female,Guayaquil,Online
+8HB6H580BR,1/16/24,Ecuador,102,Vita Milk,Dairy,0.9,7,0.6,0.13,Bank Transfer,Adult,Male,Ambato,Physical Store
+LV4498028R,1/3/24,Ecuador,101,Diana Rice,Food,1.5,7,1,0.05,Credit Card,Young,Female,Ambato,Physical Store
+9A90VBPVNR,2/21/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,6,2.9,0.14,Bank Transfer,Adult,Male,Manta,Physical Store
+E65OUJFVOA,1/4/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,10,4,0.49,Credit Card,Adult,Female,Quito,Online
+94OMPKGMU0,2/13/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,1,2.5,0.51,Cash,Adult,Male,Cuenca,Physical Store
+HW4G72L4EG,1/5/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,1,4,1.04,Cash,Adult,Female,Ambato,Physical Store
+YMU9Y7UT2Z,1/14/24,Ecuador,103,Bimbo Bread,Bakery,0.3,8,0.15,0,Bank Transfer,Adult,Male,Guayaquil,Physical Store
+IUJXNK0UH9,2/4/24,Ecuador,102,Vita Milk,Dairy,0.9,1,0.6,0.03,Debit Card,Senior,Male,Cuenca,Physical Store
+4R9B70I3I7,2/21/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,8,4,0.68,Debit Card,Adult,Male,Manta,Online
+2IGDISN74T,2/23/24,Ecuador,104,Valdez Sugar,Food,1.1,10,0.8,0.09,Cash,Young,Female,Quito,Online
+T22WP4JX7N,2/26/24,Ecuador,103,Bimbo Bread,Bakery,0.3,7,0.15,0.01,Cash,Adult,Male,Loja,Physical Store
+MCMV30Q141,2/28/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,1,2.9,0.57,Debit Card,Adult,Male,Loja,Online
+40CTANKPKH,2/2/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.23,Cash,Adult,Male,Manta,Online
+W6MRIM3IMN,2/18/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.46,Cash,Adult,Male,Quito,Online
+9YTA0BDE0E,1/21/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.58,Bank Transfer,Adult,Female,Cuenca,Physical Store
+W79338ZR2E,2/23/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.09,Debit Card,Adult,Male,Cuenca,Online
+L2YMY7SSRU,1/2/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.18,Bank Transfer,Senior,Male,Loja,Online
+7GZ6D98MQO,1/5/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,5,3,0.12,Credit Card,Young,Male,Loja,Online
+4LK4F9OBYA,2/18/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,2,3,0.48,Bank Transfer,Young,Female,Riobamba,Online
+L0KZU49HZI,2/9/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.28,Credit Card,Adult,Female,Cuenca,Online
+1KI3HAFUW5,1/4/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.11,Credit Card,Senior,Female,Manta,Physical Store
+DFC6I0184W,2/7/24,Ecuador,101,Diana Rice,Food,1.5,3,1,0.3,Bank Transfer,Adult,Male,Manta,Physical Store
+G9EY0H5AMG,1/13/24,Ecuador,103,Bimbo Bread,Bakery,0.3,3,0.15,0.05,Credit Card,Young,Female,Ambato,Online
+PK0BEZ9W38,2/12/24,Ecuador,101,Diana Rice,Food,1.5,7,1,0.25,Bank Transfer,Young,Female,Quito,Physical Store
+S18OGRLIDJ,1/6/24,Ecuador,101,Diana Rice,Food,1.5,5,1,0.3,Cash,Adult,Male,Ambato,Physical Store
+AVO8AQ3A4P,1/22/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,8,3,0.67,Debit Card,Young,Female,Ambato,Physical Store
+VILFCQ2MXT,1/22/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,4,2.5,0.16,Bank Transfer,Adult,Female,Riobamba,Physical Store
+ZIMEDV5KBU,2/10/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.11,Debit Card,Senior,Male,Quito,Online
+Z83EGH1QMQ,1/23/24,Ecuador,109,Dove Soap,Personal Care,1.2,6,0.8,0.04,Bank Transfer,Adult,Male,Quito,Physical Store
+VZH8T99K2X,1/29/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,8,2.9,0.13,Cash,Senior,Male,Ambato,Online
+0VHKOX3UVC,2/1/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.52,Debit Card,Adult,Male,Manta,Online
+NUX1YVBXAC,1/12/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.44,Bank Transfer,Adult,Female,Quito,Physical Store
+7FV64D02MX,1/28/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,8,1.8,0.26,Cash,Adult,Female,Riobamba,Physical Store
+U9P0GKTW97,1/25/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.33,Cash,Adult,Male,Loja,Online
+JE7VHRX6SM,1/16/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,10,4,0.97,Bank Transfer,Adult,Female,Loja,Physical Store
+JKWXU7JQOO,1/21/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.21,Cash,Adult,Male,Cuenca,Online
+EL7ZH42FEB,2/26/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.22,Cash,Adult,Male,Ambato,Online
+E3DV3YJGIS,2/13/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.02,Credit Card,Adult,Male,Cuenca,Online
+PA58RMBDBW,2/4/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.02,Credit Card,Young,Female,Cuenca,Physical Store
+MIU4QC7K9N,2/25/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.1,Bank Transfer,Adult,Male,Manta,Physical Store
+AT0GKOJULQ,1/20/24,Ecuador,101,Diana Rice,Food,1.5,10,1,0.13,Bank Transfer,Young,Male,Loja,Physical Store
+AMXDIIHIPD,2/27/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.12,Bank Transfer,Adult,Female,Manta,Online
+IQSEFY4GX5,2/5/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,1,1.8,0.24,Debit Card,Adult,Male,Loja,Physical Store
+IJHO51MYSM,1/19/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.14,Credit Card,Young,Male,Ambato,Online
+5MOFB2EEHW,2/6/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,7,2.5,0.42,Cash,Senior,Female,Guayaquil,Physical Store
+WPLP4UT24M,1/26/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0,Credit Card,Adult,Female,Quito,Online
+H2778OW2BV,2/5/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.24,Credit Card,Adult,Male,Manta,Physical Store
+VQQUYV9FHO,2/22/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.06,Cash,Senior,Male,Quito,Physical Store
+IGSIC3CQJT,2/6/24,Ecuador,104,Valdez Sugar,Food,1.1,9,0.8,0.07,Cash,Senior,Female,Quito,Online
+486H3PGGS2,1/16/24,Ecuador,109,Dove Soap,Personal Care,1.2,10,0.8,0.05,Cash,Adult,Male,Manta,Online
+OOC0Q5GJKH,2/14/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,2,3,0.3,Cash,Adult,Male,Quito,Online
+JNOUVSXGKE,1/8/24,Ecuador,101,Diana Rice,Food,1.5,6,1,0.26,Bank Transfer,Senior,Male,Ambato,Physical Store
+QE8G9K8JHZ,1/27/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,2,1.8,0.26,Cash,Adult,Female,Guayaquil,Online
+GXW43RHIVX,1/13/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,7,4,0.61,Bank Transfer,Adult,Female,Manta,Online
+17O34PZUWS,2/21/24,Ecuador,109,Dove Soap,Personal Care,1.2,1,0.8,0.05,Credit Card,Adult,Male,Ambato,Physical Store
+M42I38V0MY,1/16/24,Ecuador,101,Diana Rice,Food,1.5,4,1,0.25,Bank Transfer,Senior,Male,Quito,Online
+63878F3G43,1/30/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,6,2.9,0.14,Cash,Young,Male,Manta,Physical Store
+CDQR5Y7A9N,1/2/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,6,3,0.13,Debit Card,Young,Male,Ambato,Physical Store
+UDMFC4E0WR,2/5/24,Ecuador,101,Diana Rice,Food,1.5,2,1,0.1,Bank Transfer,Adult,Male,Riobamba,Physical Store
+PGUBYMEQNN,1/10/24,Ecuador,104,Valdez Sugar,Food,1.1,4,0.8,0.09,Cash,Adult,Male,Guayaquil,Online
+5DC985AEI3,2/13/24,Ecuador,102,Vita Milk,Dairy,0.9,3,0.6,0.1,Credit Card,Adult,Female,Manta,Online
+0WXRBQNWOT,1/20/24,Ecuador,109,Dove Soap,Personal Care,1.2,5,0.8,0.17,Credit Card,Young,Female,Cuenca,Physical Store
+0S9IAETRGU,2/1/24,Ecuador,101,Diana Rice,Food,1.5,8,1,0.04,Bank Transfer,Young,Male,Guayaquil,Physical Store
+RLYXF6PWPW,1/2/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,7,2.9,0.58,Debit Card,Young,Female,Manta,Physical Store
+N5WRZFPTLS,1/6/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.18,Debit Card,Adult,Male,Guayaquil,Physical Store
+CKDFQVYQ1J,2/25/24,Ecuador,101,Diana Rice,Food,1.5,7,1,0.01,Debit Card,Senior,Male,Riobamba,Online
+JNEE6CHITL,1/31/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.9,Bank Transfer,Adult,Female,Loja,Online
+MR8XE30KBM,1/30/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.1,Debit Card,Young,Female,Cuenca,Online
+XZX2J1OFMH,2/24/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,9,1.8,0.19,Bank Transfer,Young,Male,Quito,Physical Store
+MXRANY6SWF,1/24/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,3,2.5,0.17,Debit Card,Young,Female,Riobamba,Physical Store
+WZEJMO19KC,1/2/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,7,4,1.09,Bank Transfer,Young,Female,Loja,Physical Store
+79X6YW3AZF,1/4/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,9,1.8,0.47,Cash,Adult,Male,Loja,Physical Store
+V3BRNQH6R7,1/11/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.76,Cash,Young,Female,Riobamba,Online
+SLIEZV9K91,2/14/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.02,Cash,Adult,Male,Loja,Physical Store
+3N16XFC11J,2/16/24,Ecuador,101,Diana Rice,Food,1.5,6,1,0.11,Debit Card,Senior,Female,Guayaquil,Online
+WRG62ISE5M,2/1/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.19,Credit Card,Adult,Female,Ambato,Physical Store
+ADXXHOVZPM,2/29/24,Ecuador,109,Dove Soap,Personal Care,1.2,2,0.8,0.24,Cash,Senior,Female,Guayaquil,Online
+FTWGCYWVMJ,1/12/24,Ecuador,101,Diana Rice,Food,1.5,8,1,0.08,Cash,Young,Female,Guayaquil,Online
+Y3VCHDLO84,1/16/24,Ecuador,109,Dove Soap,Personal Care,1.2,2,0.8,0.17,Cash,Adult,Female,Riobamba,Physical Store
+KZHWZ74OQR,2/21/24,Ecuador,104,Valdez Sugar,Food,1.1,9,0.8,0.01,Debit Card,Young,Male,Loja,Physical Store
+OVCKPG07T7,1/19/24,Ecuador,103,Bimbo Bread,Bakery,0.3,7,0.15,0.01,Bank Transfer,Senior,Male,Ambato,Physical Store
+JMVORS5S04,1/17/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,5,2.5,0.32,Cash,Adult,Male,Riobamba,Physical Store
+1HS8W0J9CH,2/2/24,Ecuador,101,Diana Rice,Food,1.5,4,1,0.27,Cash,Young,Male,Quito,Online
+ZWBOSWMR7W,1/6/24,Ecuador,104,Valdez Sugar,Food,1.1,5,0.8,0.06,Debit Card,Adult,Female,Guayaquil,Physical Store
+DJU4LVO7T7,2/11/24,Ecuador,103,Bimbo Bread,Bakery,0.3,9,0.15,0.01,Credit Card,Adult,Male,Loja,Online
+OV2MYMLR12,2/19/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.04,Credit Card,Adult,Female,Manta,Physical Store
+R5Y7G11E2D,1/7/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,2,4,0.43,Cash,Adult,Female,Ambato,Online
+IO6WYC55T3,1/16/24,Ecuador,103,Bimbo Bread,Bakery,0.3,9,0.15,0.05,Debit Card,Senior,Male,Riobamba,Physical Store
+DP0LP7M8N3,1/15/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,5,3,0.01,Debit Card,Adult,Male,Ambato,Online
+RRHKIBJET9,2/26/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.52,Cash,Adult,Female,Cuenca,Physical Store
+TOKLF8HWQC,2/4/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,2,2.9,0.61,Cash,Adult,Male,Manta,Online
+WOV9X7LSR3,1/15/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.64,Bank Transfer,Adult,Male,Loja,Online
+795ABBKRRN,2/8/24,Ecuador,109,Dove Soap,Personal Care,1.2,10,0.8,0.04,Credit Card,Young,Male,Manta,Online
+2XO9BB02IA,2/29/24,Ecuador,109,Dove Soap,Personal Care,1.2,1,0.8,0.23,Debit Card,Young,Female,Quito,Online
+UHIXL1GRUF,2/21/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.19,Cash,Young,Female,Ambato,Online
+C43YIKNFL3,1/11/24,Ecuador,104,Valdez Sugar,Food,1.1,7,0.8,0.03,Cash,Adult,Male,Quito,Physical Store
+MAV5RKKHIV,1/3/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.05,Cash,Young,Male,Ambato,Physical Store
+WWC0JS055M,2/13/24,Ecuador,103,Bimbo Bread,Bakery,0.3,10,0.15,0.02,Credit Card,Adult,Male,Loja,Online
+L3U8Q0PU05,2/16/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.01,Debit Card,Senior,Female,Ambato,Online
+DTZNGVFP8N,1/11/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.32,Bank Transfer,Adult,Female,Loja,Physical Store
+E8LZEBFG9I,1/21/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,7,1.8,0.04,Debit Card,Adult,Female,Ambato,Online
+E52JOQKMCI,2/29/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,7,3,0.71,Credit Card,Adult,Female,Guayaquil,Online
+L1QZEZRPID,1/4/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,6,3,0.24,Bank Transfer,Adult,Male,Cuenca,Online
+LC4UZZRI6Z,1/4/24,Ecuador,101,Diana Rice,Food,1.5,9,1,0.01,Debit Card,Young,Male,Cuenca,Online
+I9ODCN8C3G,2/27/24,Ecuador,103,Bimbo Bread,Bakery,0.3,9,0.15,0.03,Bank Transfer,Young,Male,Guayaquil,Physical Store
+JEHYCX5FNJ,1/15/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,8,2.9,0.6,Credit Card,Senior,Male,Loja,Physical Store
+PMICGKCNJ9,1/10/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.03,Debit Card,Adult,Female,Ambato,Physical Store
+2CJ2A373R2,1/11/24,Ecuador,104,Valdez Sugar,Food,1.1,6,0.8,0.07,Debit Card,Senior,Female,Cuenca,Physical Store
+3CGMU3Y19M,2/22/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.75,Credit Card,Senior,Male,Ambato,Online
+BN6FMWI6JI,2/27/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.12,Cash,Young,Male,Guayaquil,Physical Store
+U0SQRC1AEG,2/10/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,6,3,0.43,Debit Card,Adult,Female,Riobamba,Online
+PL51OQDQ9T,1/23/24,Ecuador,104,Valdez Sugar,Food,1.1,7,0.8,0.09,Credit Card,Young,Female,Quito,Physical Store
+AHQ00I6U3O,2/12/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,5,2.5,0.2,Bank Transfer,Young,Male,Quito,Online
+XISGCJDKJS,1/28/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.15,Cash,Young,Male,Guayaquil,Physical Store
+SH8H10DB28,2/26/24,Ecuador,101,Diana Rice,Food,1.5,3,1,0.21,Cash,Young,Female,Cuenca,Physical Store
+3GCSVGN44X,1/13/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,2,2.9,0.47,Bank Transfer,Senior,Male,Ambato,Online
+5QS7GB1WX3,2/17/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.05,Credit Card,Adult,Female,Quito,Physical Store
+VF84C1UDV7,2/7/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,8,2.9,0.11,Cash,Adult,Male,Quito,Physical Store
+XD8X6G86YS,1/4/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.49,Bank Transfer,Adult,Male,Loja,Online
+SRUCXP2MZJ,1/4/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.11,Debit Card,Young,Male,Quito,Physical Store
+BJEQJ233LV,1/14/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,7,4,0.06,Cash,Senior,Male,Manta,Online
+THNBQZU14K,2/5/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,2,1.8,0.34,Cash,Adult,Female,Guayaquil,Online
+PQPVCV320I,2/10/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.14,Debit Card,Senior,Male,Manta,Online
+N2T3XNIWKS,1/5/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.1,Debit Card,Adult,Male,Ambato,Physical Store
+OE0FJXCSPR,1/31/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,7,4,1.09,Bank Transfer,Adult,Male,Quito,Physical Store
+MM4HOYD0H1,1/2/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.22,Credit Card,Young,Male,Loja,Online
+C0FSW953ZQ,2/13/24,Ecuador,102,Vita Milk,Dairy,0.9,1,0.6,0.16,Cash,Senior,Male,Cuenca,Online
+AETTDVZYFO,1/6/24,Ecuador,104,Valdez Sugar,Food,1.1,10,0.8,0.06,Credit Card,Senior,Male,Manta,Physical Store
+09RMFALFE5,1/14/24,Ecuador,103,Bimbo Bread,Bakery,0.3,2,0.15,0.04,Cash,Senior,Female,Riobamba,Online
+K4EIWF81CH,1/8/24,Ecuador,104,Valdez Sugar,Food,1.1,5,0.8,0.21,Bank Transfer,Senior,Female,Riobamba,Physical Store
+IEC4T3OJ6B,1/8/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,1,2.9,0.67,Bank Transfer,Adult,Male,Manta,Online
+BI4BOGU1I2,1/27/24,Ecuador,103,Bimbo Bread,Bakery,0.3,3,0.15,0.02,Bank Transfer,Adult,Male,Riobamba,Physical Store
+0LTIM3ZV6E,1/7/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.02,Debit Card,Adult,Male,Loja,Online
+N94LFNWVH6,2/27/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.08,Bank Transfer,Senior,Female,Loja,Online
+BDSAT89STW,1/11/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.05,Credit Card,Adult,Female,Manta,Online
+DE7NPKJGSX,1/13/24,Ecuador,101,Diana Rice,Food,1.5,1,1,0.29,Debit Card,Senior,Female,Loja,Physical Store
+RM0G6U6F9Z,2/1/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.06,Cash,Adult,Female,Quito,Online
+L4ZZBWEW4U,2/18/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,3,1.8,0.37,Cash,Senior,Female,Loja,Physical Store
+1UTHZWEC3J,2/4/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,4,1.8,0.29,Credit Card,Young,Female,Cuenca,Online
+2DUD9FVBT4,1/18/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.01,Debit Card,Young,Female,Guayaquil,Physical Store
+1M56DKF6OM,1/4/24,Ecuador,103,Bimbo Bread,Bakery,0.3,2,0.15,0.06,Credit Card,Senior,Male,Quito,Physical Store
+40Y9LMVTS4,1/30/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,7,2.5,0.57,Bank Transfer,Adult,Female,Cuenca,Online
+TC06PKLW9G,2/17/24,Ecuador,103,Bimbo Bread,Bakery,0.3,8,0.15,0.05,Bank Transfer,Young,Female,Cuenca,Online
+CQ8Q0HM7QO,1/16/24,Ecuador,104,Valdez Sugar,Food,1.1,10,0.8,0.01,Bank Transfer,Adult,Male,Loja,Online
+5H4VAD9RBK,2/22/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.59,Bank Transfer,Young,Male,Loja,Online
+BXKOGS5OOI,2/3/24,Ecuador,103,Bimbo Bread,Bakery,0.3,8,0.15,0.05,Debit Card,Adult,Male,Quito,Online
+3C6MLUB70Y,2/8/24,Ecuador,109,Dove Soap,Personal Care,1.2,5,0.8,0.13,Credit Card,Young,Female,Riobamba,Online
+KRBNS4LH6V,1/28/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0.01,Debit Card,Adult,Male,Guayaquil,Physical Store
+9ECRS4SMO9,1/23/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.15,Debit Card,Senior,Female,Quito,Online
+OYR4NTQS4I,2/24/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.04,Cash,Senior,Female,Cuenca,Online
+YX9OZVHUPT,2/11/24,Ecuador,102,Vita Milk,Dairy,0.9,10,0.6,0.1,Credit Card,Adult,Female,Manta,Physical Store
+KQYGYY764P,1/1/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0.03,Debit Card,Young,Male,Guayaquil,Online
+EOURGVSCRM,1/2/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.28,Credit Card,Young,Male,Ambato,Physical Store
+1ESFOW5R4Z,1/31/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,4,2.5,0.49,Cash,Adult,Male,Cuenca,Physical Store
+DQTHHB9UJG,1/1/24,Ecuador,104,Valdez Sugar,Food,1.1,4,0.8,0.14,Credit Card,Young,Female,Guayaquil,Online
+X8SHDO6SWC,2/28/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.66,Credit Card,Senior,Male,Loja,Physical Store
+LL834OK0MD,2/9/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.06,Bank Transfer,Young,Female,Quito,Physical Store
+1250D1APSN,1/15/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,4,2.9,0.44,Debit Card,Adult,Female,Manta,Online
+QS8AT5ILVN,1/1/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,3,1.8,0.31,Credit Card,Adult,Female,Riobamba,Online
+7EI3DEUW9A,1/14/24,Ecuador,103,Bimbo Bread,Bakery,0.3,7,0.15,0.04,Cash,Adult,Male,Loja,Physical Store
+EBDW31X9NM,2/23/24,Ecuador,104,Valdez Sugar,Food,1.1,4,0.8,0.1,Debit Card,Young,Male,Quito,Online
+N20LYTJUB6,2/23/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.64,Bank Transfer,Young,Male,Riobamba,Physical Store
+DWX1535HP1,1/18/24,Ecuador,109,Dove Soap,Personal Care,1.2,10,0.8,0.13,Debit Card,Young,Male,Loja,Physical Store
+B5HZ6S3BUI,2/29/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.08,Credit Card,Young,Female,Cuenca,Physical Store
+M37BGK1U6A,2/26/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0,Cash,Adult,Female,Ambato,Online
+M9BRA9T2KM,1/18/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.34,Debit Card,Adult,Female,Quito,Physical Store
+UNBMFXMBOM,1/1/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,7,3,0.61,Cash,Adult,Female,Ambato,Online
+VNK4RBL87M,2/8/24,Ecuador,109,Dove Soap,Personal Care,1.2,6,0.8,0.1,Bank Transfer,Adult,Male,Guayaquil,Physical Store
+C7KJER79ZP,1/5/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,2,4,0.13,Bank Transfer,Young,Female,Loja,Physical Store
+WXXCUBVBT5,1/13/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.09,Debit Card,Adult,Male,Loja,Online
+YLLUIK7BT7,1/3/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,8,4,0.22,Debit Card,Adult,Female,Guayaquil,Physical Store
+7AZCKLS4ID,2/14/24,Ecuador,104,Valdez Sugar,Food,1.1,4,0.8,0.14,Credit Card,Young,Male,Ambato,Physical Store
+AJ3PBD1J0D,1/15/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,7,2.9,0.54,Bank Transfer,Senior,Female,Ambato,Physical Store
+X771LR2SOB,2/14/24,Ecuador,102,Vita Milk,Dairy,0.9,1,0.6,0.03,Credit Card,Young,Male,Manta,Physical Store
+IIBZ3B1B3O,1/6/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.79,Debit Card,Adult,Female,Quito,Online
+PYCU6J12HA,1/6/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.2,Debit Card,Senior,Female,Cuenca,Online
+WYRULRCKWK,1/17/24,Ecuador,109,Dove Soap,Personal Care,1.2,3,0.8,0.08,Debit Card,Young,Male,Cuenca,Online
+74ALYMTPLN,3/1/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,5,2.5,0.56,Debit Card,Senior,Male,Riobamba,Online
+SGQBA40KIL,2/11/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.25,Cash,Young,Male,Guayaquil,Online
+DO9VD1H19M,1/29/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.04,Credit Card,Young,Male,Guayaquil,Online
+P7B5E6UMPY,1/23/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,7,3,0.24,Credit Card,Adult,Female,Quito,Online
+NJ5NXHMTKO,1/22/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.25,Bank Transfer,Adult,Female,Ambato,Physical Store
+82FUX5ATMJ,2/19/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.48,Debit Card,Adult,Female,Loja,Online
+RWVFUMGTRK,1/27/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,9,1.8,0.48,Cash,Senior,Female,Guayaquil,Online
+0BQXMSEOKF,2/4/24,Ecuador,101,Diana Rice,Food,1.5,1,1,0.27,Debit Card,Adult,Male,Guayaquil,Physical Store
+VLVH9ZJGDJ,1/17/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.4,Cash,Adult,Male,Guayaquil,Physical Store
+XSJN0M25UH,1/13/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.07,Debit Card,Young,Male,Loja,Physical Store
+V40ZCII1YV,1/3/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,3,3,0.5,Credit Card,Adult,Female,Riobamba,Physical Store
+7IJ7FB5HPE,2/16/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.16,Debit Card,Adult,Female,Manta,Online
+ZAM9YXW3PM,1/30/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.01,Debit Card,Adult,Male,Quito,Online
+B1JFO5G8IA,1/18/24,Ecuador,103,Bimbo Bread,Bakery,0.3,1,0.15,0.01,Debit Card,Young,Female,Ambato,Physical Store
+VTVWT09M0U,1/29/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,5,4,0.53,Credit Card,Young,Male,Cuenca,Online
+8ZE7W2Y1ZR,3/1/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.39,Cash,Adult,Female,Loja,Physical Store
+TVP02TVXFD,1/29/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,10,3,0.64,Bank Transfer,Young,Male,Cuenca,Physical Store
+6TWG07C4KX,2/14/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.09,Debit Card,Young,Male,Quito,Physical Store
+ZNK10F7XFL,2/2/24,Ecuador,109,Dove Soap,Personal Care,1.2,2,0.8,0.03,Cash,Adult,Female,Guayaquil,Physical Store
+X8JVY540T5,1/11/24,Ecuador,103,Bimbo Bread,Bakery,0.3,10,0.15,0.03,Debit Card,Adult,Female,Riobamba,Online
+EJCX7XNOJQ,1/16/24,Ecuador,102,Vita Milk,Dairy,0.9,3,0.6,0.05,Bank Transfer,Senior,Male,Riobamba,Online
+RF6JDLNKJY,1/4/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.01,Cash,Senior,Female,Guayaquil,Online
+CM24JS1AT9,2/27/24,Ecuador,103,Bimbo Bread,Bakery,0.3,3,0.15,0.04,Credit Card,Adult,Female,Quito,Physical Store
+TQ5TQAD6GW,1/28/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.02,Credit Card,Young,Female,Ambato,Online
+YX83K9KIRF,2/23/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,1,1.8,0.42,Cash,Young,Male,Quito,Physical Store
+VFWMCJCP1Y,2/20/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,10,3,0.55,Credit Card,Young,Female,Riobamba,Online
+WFNIRCVVQD,2/7/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.04,Debit Card,Senior,Female,Quito,Online
+ZVQVHX619P,2/17/24,Ecuador,101,Diana Rice,Food,1.5,6,1,0.06,Cash,Adult,Female,Cuenca,Online
+C728HSQ6S7,2/26/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,10,4,1.08,Cash,Adult,Female,Guayaquil,Physical Store
+P0IWA5DTP5,1/30/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.06,Cash,Adult,Male,Guayaquil,Online
+KCP5UI5BJB,3/1/24,Ecuador,104,Valdez Sugar,Food,1.1,9,0.8,0.18,Debit Card,Adult,Female,Quito,Online
+81SWACEZRE,1/17/24,Ecuador,101,Diana Rice,Food,1.5,5,1,0.23,Bank Transfer,Adult,Male,Riobamba,Physical Store
+RE2NN2YX02,1/22/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,8,3,0.54,Cash,Adult,Male,Manta,Physical Store
+OG50VA4Q9K,2/7/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,2,4,0.31,Credit Card,Adult,Male,Manta,Online
+7IJ4WM5AYC,2/18/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.34,Credit Card,Young,Female,Manta,Physical Store
+QR8E2GEBBZ,2/20/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.13,Credit Card,Young,Female,Quito,Online
+VVK5RX8EI2,1/31/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,6,4,0.41,Credit Card,Adult,Male,Quito,Online
+CKI649KRQ1,2/29/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,8,3,0.35,Cash,Young,Male,Quito,Online
+H1M28SL647,2/25/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.19,Cash,Young,Female,Ambato,Physical Store
+VYZM523S6B,1/11/24,Ecuador,101,Diana Rice,Food,1.5,4,1,0.05,Debit Card,Young,Male,Quito,Physical Store
+72HIM1VCTU,2/8/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,8,2.9,0.49,Credit Card,Young,Female,Manta,Physical Store
+HU4J6B4YBN,1/26/24,Ecuador,103,Bimbo Bread,Bakery,0.3,4,0.15,0.04,Bank Transfer,Adult,Female,Riobamba,Physical Store
+JXNH2KBY76,2/14/24,Ecuador,109,Dove Soap,Personal Care,1.2,3,0.8,0.01,Debit Card,Adult,Female,Loja,Physical Store
+A4PNVQYWIH,2/1/24,Ecuador,104,Valdez Sugar,Food,1.1,9,0.8,0.18,Debit Card,Young,Female,Quito,Online
+FEIYSYH0DB,2/28/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,4,3,0.44,Cash,Young,Female,Ambato,Physical Store
+YCJG3MTY4D,1/15/24,Ecuador,104,Valdez Sugar,Food,1.1,1,0.8,0.1,Bank Transfer,Adult,Female,Cuenca,Physical Store
+Q6KOBDJFWE,1/19/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.06,Cash,Adult,Female,Loja,Physical Store
+530XLB9MGA,1/25/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.6,Credit Card,Young,Female,Ambato,Physical Store
+U8XZ0JA4YT,2/20/24,Ecuador,102,Vita Milk,Dairy,0.9,6,0.6,0.09,Cash,Adult,Male,Quito,Physical Store
+EK3KX7XIQJ,1/7/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,2,4,0.35,Credit Card,Adult,Male,Cuenca,Online
+L7FUCH2H4S,1/29/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.19,Cash,Young,Female,Riobamba,Physical Store
+EG2W63HBST,1/1/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,8,2.9,0.17,Debit Card,Young,Male,Loja,Physical Store
+YYAAJPHGRX,1/14/24,Ecuador,101,Diana Rice,Food,1.5,2,1,0.01,Debit Card,Young,Female,Quito,Online
+EIC9GOJCWE,2/2/24,Ecuador,103,Bimbo Bread,Bakery,0.3,4,0.15,0.03,Credit Card,Adult,Male,Manta,Physical Store
+54679LWJ78,2/9/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.76,Cash,Adult,Female,Guayaquil,Online
+ZWH5TBGUNO,2/8/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,2,3,0.38,Debit Card,Adult,Female,Ambato,Physical Store
+2M4JD5IN9Q,2/13/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.2,Debit Card,Adult,Male,Quito,Online
+QIDUYFSZBL,2/19/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.51,Bank Transfer,Adult,Female,Ambato,Physical Store
+THWYRCOSWU,1/20/24,Ecuador,104,Valdez Sugar,Food,1.1,8,0.8,0.02,Debit Card,Adult,Female,Ambato,Physical Store
+LE816V42XT,1/19/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,6,3,0.16,Debit Card,Adult,Male,Quito,Physical Store
+K576B7ICA7,1/18/24,Ecuador,101,Diana Rice,Food,1.5,4,1,0.04,Credit Card,Adult,Male,Ambato,Online
+1HRHHAQRUC,1/23/24,Ecuador,101,Diana Rice,Food,1.5,10,1,0.3,Cash,Adult,Female,Loja,Physical Store
+DEJRHCYPAW,2/28/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.03,Cash,Young,Female,Guayaquil,Physical Store
+0Y27CH81EO,1/15/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.08,Bank Transfer,Young,Male,Guayaquil,Physical Store
+60HV1TM24O,1/31/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.07,Cash,Adult,Female,Loja,Online
+7KN5AE6Y0E,1/8/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.16,Cash,Senior,Male,Loja,Online
+FJ31IOZNHZ,1/22/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.11,Debit Card,Adult,Female,Quito,Online
+5IOX105ZX4,2/16/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.29,Cash,Young,Male,Quito,Online
+ZVMOTWNV5V,2/3/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.09,Credit Card,Adult,Female,Cuenca,Online
+0AX2Y6M6UK,1/31/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,4,2.9,0.28,Debit Card,Adult,Female,Ambato,Online
+LD54WBRR6Q,1/24/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,1,2.5,0.62,Bank Transfer,Young,Female,Riobamba,Online
+Z8N8TEYQS7,1/30/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.09,Cash,Adult,Male,Quito,Online
+KORPXUBGHI,1/27/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,7,3,0.45,Cash,Adult,Male,Riobamba,Physical Store
+EXQ0CVBR9D,3/1/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,6,3,0.18,Bank Transfer,Adult,Male,Riobamba,Physical Store
+V69YT367RH,3/1/24,Ecuador,109,Dove Soap,Personal Care,1.2,2,0.8,0.06,Debit Card,Adult,Male,Manta,Online
+YV7RWOH813,2/5/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.49,Credit Card,Adult,Female,Quito,Online
+UWLATUWM5H,1/16/24,Ecuador,109,Dove Soap,Personal Care,1.2,6,0.8,0.23,Bank Transfer,Adult,Male,Ambato,Online
+0Z4YPYLWGA,1/25/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.49,Debit Card,Adult,Female,Manta,Online
+CG6ME4G6SF,3/1/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,3,1.8,0.11,Cash,Young,Male,Ambato,Online
+PGATJVM1WK,1/25/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,6,3,0.58,Cash,Adult,Male,Loja,Physical Store
+GQ7PYPL4V3,2/17/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,3,2.9,0.25,Bank Transfer,Young,Male,Riobamba,Online
+Q315XP1WD2,1/3/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.17,Debit Card,Adult,Male,Manta,Physical Store
+R2BRA66E89,2/21/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,8,1.8,0.01,Cash,Young,Male,Ambato,Online
+LVMROJGCXA,2/28/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,4,1.8,0.26,Bank Transfer,Adult,Male,Ambato,Physical Store
+ANINGTTDLX,1/21/24,Ecuador,101,Diana Rice,Food,1.5,8,1,0.06,Bank Transfer,Adult,Female,Quito,Physical Store
+OJIAYI75V9,1/30/24,Ecuador,103,Bimbo Bread,Bakery,0.3,10,0.15,0.03,Cash,Adult,Male,Cuenca,Physical Store
+JXH95DT91I,2/24/24,Ecuador,103,Bimbo Bread,Bakery,0.3,9,0.15,0.04,Cash,Senior,Male,Guayaquil,Physical Store
+GJPKU7NR64,1/19/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.1,Cash,Adult,Male,Ambato,Online
+NP791HZRV5,1/1/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,4,2.9,0.05,Bank Transfer,Senior,Male,Riobamba,Online
+7UNFVHMCJF,1/4/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,10,4,0.4,Cash,Young,Female,Cuenca,Physical Store
+G3RU5GTGY8,2/24/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,2,1.8,0.38,Debit Card,Adult,Female,Loja,Physical Store
+MFSNX5UJNA,2/12/24,Ecuador,101,Diana Rice,Food,1.5,6,1,0.08,Debit Card,Adult,Female,Ambato,Physical Store
+MQLPZ8GPT8,2/19/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,4,2.9,0.43,Credit Card,Adult,Female,Riobamba,Online
+NNEJ0ZOUBM,2/5/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.05,Cash,Adult,Female,Riobamba,Physical Store
+XN3RKYXD8F,1/8/24,Ecuador,104,Valdez Sugar,Food,1.1,9,0.8,0.18,Credit Card,Adult,Female,Loja,Online
+50LIJ001IB,2/24/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0.05,Bank Transfer,Adult,Male,Ambato,Physical Store
+HVUAL4FGWQ,2/9/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.18,Credit Card,Young,Female,Guayaquil,Online
+OZ3NHG8AC2,2/3/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.11,Bank Transfer,Adult,Female,Cuenca,Physical Store
+GX0EZO9VOG,1/23/24,Ecuador,103,Bimbo Bread,Bakery,0.3,2,0.15,0.04,Cash,Senior,Female,Riobamba,Physical Store
+ZNSN0HNAUF,1/6/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,8,3,0.55,Credit Card,Young,Male,Ambato,Online
+55K9CBTEDX,2/24/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,4,3,0.58,Bank Transfer,Adult,Male,Quito,Physical Store
+2ZP70RCW9D,2/3/24,Ecuador,101,Diana Rice,Food,1.5,7,1,0.26,Bank Transfer,Adult,Female,Loja,Physical Store
+2HRYTKREJJ,2/15/24,Ecuador,102,Vita Milk,Dairy,0.9,7,0.6,0.14,Debit Card,Adult,Male,Cuenca,Physical Store
+4621GYIU4R,1/21/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.02,Cash,Young,Female,Quito,Online
+QHCSSLYPWC,2/10/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.13,Credit Card,Adult,Male,Cuenca,Physical Store
