@@ -1,501 +1,501 @@
 transaction_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,sales_representative
-GU6718,4/30/24,Canada,58764d37-5fb7-41fb-8314-e374a26a35e3,Samsung QLED TV,Electronics,1983.17,1,1983.17,0,Mobile Wallet,Young,Male,Vancouver,Noah Gagnon
-cF0738,3/25/24,Canada,c92dceae-1b7e-4782-8d92-3f1fe5f27a1f,The North Face Jacket,Apparel,165.59,10,1655.9,0,Cash,Adult,Female,Montreal,Benjamin Brown
-ON0391,,Canada,,Yeti Tumbler,Outdoor,47.71,8,381.68,0,Credit Card,Young,Male,Toronto,Olivia Johnson
-yo3387,9/15/24,Canada,6711b4a5-f4f2-40d6-b125-3da75f4a2aa0,Samsung QLED TV,Electronics,1180.07,7,8260.49,0.15,Online Payment,Young,Female,Vancouver,Emma Smith
-Ku9319,5/5/24,Canada,60baf209-bc79-4c7b-bfb6-c574f9084e40,Coca-Cola Can,Beverages,1.29,10,12.9,0.1,Cash,Senior,Male,Ottawa,Sophie Wilson
-yz0285,,Canada,b64a1a66-532c-402a-b066-1dc9ce0df798,iPhone 14,Electronics,846.08,3,2538.24,0.2,Online Payment,Young,Male,Vancouver,Lucas Campbell
-yD3805,1/3/25,Canada,28d9a9dc-0a8b-43c9-9254-fce76d55cf6e,The North Face Jacket,Apparel,172.83,8,1382.64,0.1,Online Payment,Adult,Male,Ottawa,William Wilson
-eP2067,9/13/24,,2b42ce8f-1200-47d0-890d-0d0a1b5e542e,Coca-Cola Can,Beverages,1.56,10,15.6,0.15,Debit Card,Young,Male,Calgary,Emma Martin
-CD3638,6/23/24,Canada,cbaf9558-7a1c-4683-9a9a-eb5a8223c47d,Levi's 501 Jeans,Apparel,57.79,6,346.74,,Online Payment,Senior,Female,Montreal,
-uM8935,10/30/24,Canada,a8815e57-54bd-40ff-b682-73b349539fd0,iPhone 14,Electronics,1018.87,8,8150.96,0.05,Debit Card,,Female,Toronto,Olivia Campbell
-Po7786,4/25/24,Canada,fe65486c-dfb2-4f47-bc60-3d1096591d39,iPhone 14,Electronics,,9,7978.59,0.15,Cash,Senior,Female,Calgary,Sophie Martin
-cF0447,5/17/24,Canada,1ef022bf-c595-4c2a-8b5c-68f6a3d93c19,Doritos Chips,Snacks,3.68,4,,0.15,Mobile Wallet,Senior,Female,Toronto,Lucas Johnson
-Oa1078,3/6/25,,f21638ba-129e-49c2-868e-a0219ccfdc7a,,Electronics,1697.52,6,10185.12,0.2,Mobile Wallet,Senior,Female,Vancouver,Emma Smith
-xx2358,3/25/24,Canada,7168920b-ccd8-4860-bd07-f5b8c149ad8a,Samsung QLED TV,Electronics,1694.11,9,15246.99,0.05,Mobile Wallet,Young,Male,Calgary,Benjamin Brown
-dA9851,6/23/24,Canada,c4eab231-0d0e-4c03-8a31-13aa42415134,,Electronics,971.57,7,6800.99,0.05,,Senior,Male,Vancouver,Olivia Lee
-xY6776,10/30/24,Canada,51fe86af-320b-4abb-8932-442cd1bca48f,Yeti Tumbler,Outdoor,40.95,4,163.8,0.1,Cash,Senior,Male,Vancouver,Chloe Lee
-LT4162,2/8/25,Canada,8da3ae45-2332-4870-9659-9fd4ae5ad30b,Yeti Tumbler,Outdoor,40.9,,409,0.05,Online Payment,Young,Male,Montreal,Sophie Johnson
-ru1812,9/13/24,Canada,,Levi's 501 Jeans,Apparel,54.57,4,218.28,0.2,Debit Card,Senior,Male,Calgary,Chloe Johnson
-WP5442,2/8/25,Canada,da672123-18f5-4173-b5ac-9e1361e2fbab,Coca-Cola Can,Beverages,1.47,7,10.29,0,Mobile Wallet,,Female,Toronto,Sophie Martin
-Zh8817,9/15/24,Canada,cc01fe3a-0b8c-4896-bb85-cecb95227915,iPhone 14,Electronics,982.37,10,9823.7,0.05,Cash,Senior,Male,Calgary,William Brown
-ay9504,11/25/24,Canada,7ab94c99-b88a-41d6-a67b-f2ffadbd9048,Levi's 501 Jeans,Apparel,73.38,10,733.8,0,Mobile Wallet,,,Montreal,Noah Campbell
-ed7406,4/27/24,Canada,c9f991ac-fd48-488c-aea1-391a841a3408,Coca-Cola Can,Beverages,1.46,1,1.46,0.1,Mobile Wallet,Adult,Female,Vancouver,Thomas Wilson
-iS2636,10/8/24,Canada,,Apple MacBook Pro,Electronics,2115.25,8,,0.2,Mobile Wallet,Senior,Male,Toronto,Lucas Roy
-hX6538,8/8/24,Canada,c914ab03-edc8-4804-b27c-d18e5e806701,Yeti Tumbler,Outdoor,26.18,7,183.26,0.2,Mobile Wallet,Senior,Female,Montreal,Liam Smith
-nV5363,1/30/25,Canada,2675d0cd-c84b-4174-ab1b-e0e5bcc0bf05,Samsung QLED TV,Electronics,1544.79,1,1544.79,0.1,Debit Card,,Female,Calgary,Lucas Roy
-Pf1076,2/6/25,Canada,1d8742a9-6f3a-457a-96d3-147d2641cba5,Samsung QLED TV,Electronics,1196.58,5,5982.9,0.2,Credit Card,Senior,Male,Montreal,Thomas Gagnon
-rz6502,10/14/24,Canada,e17c0466-bd83-4dc5-b1ff-f3c54798f7b6,Doritos Chips,Snacks,3.13,9,28.17,0.2,Credit Card,Young,Female,,Olivia Gagnon
-Vx0852,4/29/24,Canada,f67331ae-62aa-494f-ab47-bccc2828563d,Levi's 501 Jeans,Apparel,76.15,7,533.05,0.1,Online Payment,Adult,Male,Montreal,Emma Tremblay
-iF4764,4/1/24,Canada,4d66ad34-ab77-4ef3-ac04-bb5bbb24d54b,Apple MacBook Pro,Electronics,2013.01,7,14091.07,0.2,Online Payment,Adult,Female,Ottawa,Benjamin Lee
-ZV6454,10/30/24,Canada,6e61d6a8-8f02-40fb-b181-43efcc8109aa,Samsung QLED TV,Electronics,1217.64,6,7305.84,0,Online Payment,Senior,Female,Montreal,William Campbell
-SX5472,8/29/24,Canada,6e1e5465-ded4-4722-9b0c-9feae6d0b3cd,Doritos Chips,Snacks,1.93,7,13.51,0,Mobile Wallet,Young,Female,Calgary,Benjamin Martin
-xR9124,9/11/24,Canada,d97bdfea-5779-46e6-81b3-71370e486360,The North Face Jacket,Apparel,251.65,5,1258.25,0.05,Mobile Wallet,Adult,Male,Toronto,Emma Wilson
-Gh5645,6/2/24,Canada,339ce44e-27b1-466a-a14b-ce19674208ef,Levi's 501 Jeans,Apparel,70.71,7,,0.2,Cash,Senior,Male,,Emma Lee
-zv1881,4/13/24,Canada,2d332d7f-6484-499c-bde4-c5151b797ac8,KitchenAid Mixer,Home Appliances,491.83,7,3442.81,0.1,Cash,Adult,Male,Vancouver,Noah Brown
-Wt3404,2/6/25,Canada,ff0c01bc-de20-429f-8e1c-c332f7a82519,iPhone 14,Electronics,1197.03,5,5985.15,0.1,Cash,Adult,Male,Ottawa,Liam Campbell
-uX3605,1/18/25,Canada,c677bb80-8112-4467-9416-86310f4c74d4,The North Face Jacket,Apparel,257.86,10,2578.6,0,Credit Card,Young,Female,Ottawa,Thomas Smith
-dV8501,5/6/24,Canada,e295d79c-18eb-4c1f-b803-40fe46b8ec70,Apple MacBook Pro,Electronics,1965.57,1,1965.57,0,Cash,Young,Female,Toronto,Noah Gagnon
-bz1355,2/20/25,Canada,bf80d1f3-cbeb-4e9a-8328-d63c00fa224c,Levi's 501 Jeans,Apparel,92,3,276,0.2,Online Payment,Senior,,Ottawa,Thomas Smith
-Dy4439,9/6/24,Canada,e111b763-139e-40b2-aa44-a52eda352d62,Doritos Chips,Snacks,4.32,5,21.6,0,Cash,Young,Male,Vancouver,William Wilson
-Yj3640,12/23/24,Canada,f7ca9425-762d-470b-b3b7-9d0af75b3adb,Nike Air Max,Footwear,,9,968.58,0.15,Cash,Senior,Female,Vancouver,Noah Johnson
-qf0069,10/24/24,Canada,a7a63497-c76f-44c1-9519-2aa7c239271a,The North Face Jacket,Apparel,145.7,9,1311.3,0,Online Payment,Senior,Female,Calgary,Lucas Wilson
-nN4213,8/14/24,Canada,ce1e032f-e6fd-4eb9-86ac-f703c7deba96,Levi's 501 Jeans,Apparel,97.57,3,292.71,0.1,Cash,Young,Male,Ottawa,Lucas Johnson
-tc9648,8/19/24,Canada,1c85f1d6-6a89-4320-922e-53592dc56dba,Coca-Cola Can,Beverages,0.88,10,8.8,0.05,Online Payment,Young,Male,Montreal,Emma Lee
-yJ3542,2/19/25,Canada,5803c7cc-3a84-43f1-80d3-aa398ab69a99,,Electronics,1004.43,5,5022.15,,Credit Card,Adult,Female,Montreal,Sophie Wilson
-mF6557,11/25/24,Canada,015452f0-2df1-4e53-83bf-685a8097a56b,Apple MacBook Pro,Electronics,2475.48,7,17328.36,0.2,Mobile Wallet,Young,Male,Ottawa,Benjamin Roy
-Fx7325,11/11/24,Canada,5e3bb3b5-8e6e-4120-8bb9-7b19518cc883,Levi's 501 Jeans,Apparel,,5,491.65,0.2,Mobile Wallet,Young,Male,Montreal,Chloe Tremblay
-MS7268,8/9/24,Canada,dbdc6675-13ea-4565-9ada-d8f505a769c5,KitchenAid Mixer,Home Appliances,367.94,8,2943.52,0.1,Credit Card,Senior,Male,Vancouver,Thomas Johnson
-jC2343,4/4/24,Canada,5e79a07a-11fc-4ac0-b680-9af636301fa3,Coca-Cola Can,Beverages,1.24,6,7.44,0.2,Mobile Wallet,Senior,,Toronto,Olivia Campbell
-xD6200,9/28/24,Canada,c230391b-6173-402c-abc8-f86f85d83f70,KitchenAid Mixer,,419.54,1,419.54,,Online Payment,Young,Female,Ottawa,
-IU3481,9/26/24,Canada,5e1fda7b-95a9-4322-8826-c6ce48268b3c,Yeti Tumbler,Outdoor,25.06,1,25.06,0.2,Mobile Wallet,Young,Female,Ottawa,Chloe Campbell
-Zr8438,7/16/24,Canada,153dccc9-984a-4902-b704-43b960b61de9,Samsung QLED TV,Electronics,908.27,6,5449.62,0.2,Cash,Senior,Female,,Olivia Wilson
-Xq9458,10/17/24,Canada,de781a07-bf17-4e25-9704-cc90b58cbb2c,Nike Air Max,Footwear,107.11,2,214.22,0.1,Mobile Wallet,Adult,Female,Montreal,Benjamin Wilson
-Gs8945,3/30/24,Canada,b959174d-500b-4b9c-beab-d9e4e9a19af3,,Home Appliances,256.4,1,256.4,0.05,Mobile Wallet,Senior,Male,Calgary,Chloe Tremblay
-kz6458,12/5/24,Canada,4165be89-4dfc-4ec5-822e-849cfe2009ae,iPhone 14,Electronics,,3,2480.67,0.1,Cash,Senior,Female,Toronto,Chloe Tremblay
-Eq0730,6/25/24,Canada,68334c6a-0dff-4642-9ae1-9bd355737977,The North Face Jacket,Apparel,139.3,1,139.3,0,Credit Card,Adult,Female,Calgary,Liam Tremblay
-lc0892,1/24/25,Canada,21ba683b-5df3-4fe1-a6af-40f61fb77ab3,Yeti Tumbler,Outdoor,23.3,2,46.6,0.15,Credit Card,Adult,Female,Vancouver,Olivia Tremblay
-nj7325,10/9/24,Canada,dc111e94-b0b6-41dc-b28d-00e39a32b14f,Nike Air Max,Footwear,184.49,4,737.96,0.1,Debit Card,Senior,Male,Calgary,Noah Tremblay
-SK1063,7/9/24,Canada,3c9ecb98-ed2a-4353-9a43-591ab0e3c381,KitchenAid Mixer,Home Appliances,328.34,1,328.34,0,Cash,Young,Male,Ottawa,William Lee
-IH3285,9/18/24,Canada,5c9d7eea-f73b-444f-81dc-3573dbd0dd0e,KitchenAid Mixer,Home Appliances,318.96,10,3189.6,0.05,Mobile Wallet,Adult,Male,Ottawa,William Lee
-wD0821,2/16/25,Canada,5fc08be4-c8f8-4079-8477-a0e47356b384,Apple MacBook Pro,Electronics,1605.22,3,4815.66,0.05,Mobile Wallet,Senior,Male,Montreal,Olivia Brown
-hN4417,11/19/24,Canada,b0b81cb2-1b5a-4e09-ad85-1fe34c050e00,KitchenAid Mixer,Home Appliances,279.52,7,1956.64,0.2,Online Payment,Young,Female,Calgary,
-kC1656,10/15/24,Canada,e23f1742-11c7-4b4b-b3be-476a0dc62306,iPhone 14,Electronics,1167.13,3,3501.39,0.05,Mobile Wallet,Senior,Female,Ottawa,
-VU9705,9/14/24,Canada,e0cd229f-5dff-4329-9c3e-82e13601610c,iPhone 14,Electronics,836.47,10,8364.7,0.2,Mobile Wallet,Young,Male,Vancouver,Benjamin Campbell
-zv7179,10/7/24,Canada,c4a8b11e-f355-4e48-82f7-670a5ef4dddc,Nike Air Max,Footwear,171.56,3,514.68,0.1,Credit Card,Young,Female,Toronto,Lucas Johnson
-lK2855,10/21/24,Canada,35c1ef14-85f9-41ae-84ca-38c6bdbe37ec,Levi's 501 Jeans,Apparel,79.12,7,553.84,0,Online Payment,Senior,,,William Brown
-Tx5827,6/7/24,Canada,accb4e1f-0163-450b-b836-46a477c5611e,The North Face Jacket,Apparel,238.36,7,1668.52,0,Debit Card,Adult,,Calgary,Thomas Wilson
-oP6511,10/18/24,Canada,f0835cb4-f1ac-4eae-b66d-cc950f789c7f,The North Face Jacket,Apparel,188.59,,377.18,,Cash,Senior,Female,Vancouver,Liam Gagnon
-YY7177,4/29/24,Canada,,,Apparel,81.41,,651.28,0.05,Cash,Adult,Male,Calgary,Liam Roy
-AV4094,11/8/24,Canada,,Levi's 501 Jeans,Apparel,92.84,8,742.72,0.15,Credit Card,Adult,,Toronto,Chloe Campbell
-Wr8522,9/24/24,,20facabd-6fcf-4845-8842-f54fd88c693f,Coca-Cola Can,Beverages,0.92,6,5.52,0.2,Cash,Young,Male,Calgary,Olivia Tremblay
-pB0671,4/7/24,Canada,f4859423-0a5d-4ec6-badb-b774bb355bc6,Samsung QLED TV,Electronics,1218.49,2,2436.98,0.15,Cash,Adult,Female,Calgary,Noah Roy
-Tw6042,1/10/25,Canada,be704c82-38ee-4a9d-88e5-5cf142891a39,Apple MacBook Pro,Electronics,1299.14,10,12991.4,0.1,Mobile Wallet,Senior,Male,Vancouver,Sophie Johnson
-NL7680,7/14/24,Canada,,KitchenAid Mixer,Home Appliances,389.82,4,1559.28,0.2,Debit Card,Senior,Female,Ottawa,Emma Wilson
-bs2917,4/17/24,Canada,65c1e6ee-51a0-4c96-b009-ff5c48fd63da,KitchenAid Mixer,Home Appliances,304.65,7,2132.55,0.1,Credit Card,Young,Male,Toronto,Lucas Johnson
-Cy6304,5/22/24,Canada,990d00d0-07bb-4a1c-a6f6-4727a540f01f,Doritos Chips,Snacks,3.66,4,14.64,0.1,Credit Card,Adult,Male,Ottawa,William Gagnon
-Js6723,11/13/24,Canada,c3868ea6-feba-4ab6-9fa9-6673ca7a6648,iPhone 14,Electronics,1072.25,8,8578,0.2,Mobile Wallet,Adult,Male,,Sophie Smith
-DK5061,,Canada,7a639a66-6b8f-4cc3-a537-1bd9f98c083c,,Home Appliances,343.06,1,343.06,0.05,Credit Card,Young,Male,Ottawa,Olivia Roy
-TL5466,9/29/24,Canada,3ae374c1-0830-4f78-b038-8c0d687563ee,Doritos Chips,Snacks,1.7,1,1.7,0,Cash,Senior,Male,Toronto,Liam Lee
-xN6183,10/29/24,Canada,9c8e0bad-d6d6-4f14-b76b-eeee43221dbe,Nike Air Max,Footwear,177.11,2,,0.05,Debit Card,Senior,Female,Calgary,Olivia Johnson
-DL9709,5/8/24,Canada,71ba0fe6-b3a7-4c0d-a996-c44510479598,KitchenAid Mixer,Home Appliances,346.42,4,1385.68,0,Credit Card,Senior,Male,Vancouver,Noah Martin
-SY5409,,Canada,cd5679b3-1b11-4049-bc25-0c165e7bbcfc,Coca-Cola Can,Beverages,1.46,1,1.46,0.15,Debit Card,Young,Female,Toronto,Lucas Gagnon
-iH9426,2/16/25,Canada,9cf2240a-c2c5-4303-a866-d370a56c3730,Samsung QLED TV,Electronics,1358.58,1,1358.58,0.05,Mobile Wallet,Senior,Male,Calgary,
-CS2106,,Canada,2ea622f8-c59a-4fb1-8303-b4cd72b8fc18,Apple MacBook Pro,Electronics,2358.5,9,21226.5,0.15,Mobile Wallet,Adult,Female,Toronto,William Brown
-tv9115,5/24/24,Canada,102a3883-99a0-484b-8dbd-1e8cb29fe213,Coca-Cola Can,Beverages,1.4,10,14,0.1,Mobile Wallet,Senior,Female,Montreal,William Brown
-vo7236,12/18/24,Canada,,Samsung QLED TV,Electronics,865.74,10,8657.4,0.1,Cash,Young,Female,,Lucas Roy
-eF5749,10/6/24,Canada,616ef462-c619-4524-97e4-f47b6f65df79,Nike Air Max,,195.23,5,976.15,0,,Adult,Female,Montreal,Thomas Brown
-RY5718,11/7/24,Canada,b15a30a0-8f0f-49e5-95ad-766b82836760,KitchenAid Mixer,Home Appliances,445.9,10,,0,Mobile Wallet,Young,Male,Montreal,William Wilson
-MM1198,4/10/24,Canada,65d96ded-598f-4429-9eb6-1bd3c1bc29ea,Samsung QLED TV,Electronics,728.89,4,2915.56,0.05,Online Payment,Young,Female,Calgary,Chloe Johnson
-tf9398,9/20/24,Canada,0446dafd-5124-449c-a74b-dbf09f0eccf0,The North Face Jacket,Apparel,134.02,1,134.02,0,Credit Card,Adult,Male,Vancouver,Chloe Tremblay
-HY7218,7/30/24,Canada,ad5729a7-e64f-4e57-a1c1-585ab7071df9,Apple MacBook Pro,Electronics,,2,3980.08,0.1,Debit Card,Senior,Male,Vancouver,Lucas Wilson
-Pm8771,6/19/24,Canada,,Levi's 501 Jeans,Apparel,86.05,1,86.05,0,Mobile Wallet,Senior,Female,Toronto,Emma Wilson
-cM7945,2/2/25,,3a4cc932-0a54-4f28-8e33-8dac4d2ea130,The North Face Jacket,Apparel,144.43,3,433.29,0,Mobile Wallet,Young,Female,Calgary,Noah Campbell
-gi8506,6/12/24,Canada,a4c4b7bd-34d5-4478-ba4e-76377b8eb7bc,Nike Air Max,Footwear,124.27,3,372.81,0.05,Debit Card,Senior,Male,Ottawa,Sophie Martin
-fQ3181,7/2/24,Canada,1ddeda1c-449a-4e81-a4e4-5ec7cef2816a,,Outdoor,,8,310.88,0.1,Debit Card,Senior,Female,Montreal,William Roy
-VQ2258,3/22/24,Canada,e7d8c6d3-b5b3-46b8-8d08-c5dc16c4c3af,The North Face Jacket,Apparel,185.45,6,1112.7,0.15,Mobile Wallet,Senior,Male,Montreal,William Johnson
-ox7203,4/23/24,Canada,2e676c9c-53f7-4e8f-8940-158ccc1ca62b,Coca-Cola Can,,0.62,8,4.96,0.05,Cash,Senior,Female,Vancouver,Lucas Johnson
-zP2837,,Canada,f78886f0-731e-4e95-942e-049925523efd,Levi's 501 Jeans,Apparel,75.92,,531.44,0.15,Mobile Wallet,Adult,Female,Vancouver,Liam Smith
-uH8493,,Canada,c961e41b-d719-47a8-95eb-93b8f9847c03,Apple MacBook Pro,Electronics,2245.82,1,2245.82,0.1,Online Payment,Senior,Female,Toronto,Chloe Gagnon
-bR2552,1/19/25,Canada,01c161c7-470f-4acc-b7d3-72a15f5350e8,KitchenAid Mixer,Home Appliances,375.42,5,1877.1,0.2,Credit Card,Young,Female,Calgary,Sophie Gagnon
-Vk0560,10/11/24,Canada,90e61da6-9ac4-4c10-8dcc-1e07d0bf5760,KitchenAid Mixer,Home Appliances,254.32,7,1780.24,0.05,Mobile Wallet,Adult,Female,Ottawa,
-yC0650,9/17/24,,21b9508b-a69c-4c46-b2d3-3b9a75d6250e,Nike Air Max,Footwear,128,1,,0.1,Credit Card,Senior,Female,Toronto,Emma Brown
-Zs4887,3/19/25,Canada,,Coca-Cola Can,Beverages,1.39,8,11.12,0.2,Credit Card,,Male,Vancouver,Sophie Wilson
-Ej4692,7/25/24,Canada,4ade540d-b204-4207-a9db-0e2e27817dbe,Samsung QLED TV,Electronics,569.38,,4555.04,0.05,Credit Card,Senior,Male,Vancouver,Chloe Smith
-AE9284,7/13/24,Canada,d74f9116-5883-492c-a23c-bf52869ecece,Levi's 501 Jeans,Apparel,79.6,1,79.6,0.2,Credit Card,Adult,Female,Calgary,Olivia Brown
-rs4977,6/15/24,Canada,4bf59b5d-f8d0-4501-aa78-bd04e6e63552,Yeti Tumbler,Outdoor,33.49,1,33.49,0.1,Cash,Young,Male,Vancouver,Liam Johnson
-EZ6926,7/17/24,,07695865-26d3-4627-8ec7-c5d60bcb6f54,Coca-Cola Can,Beverages,0.99,5,4.95,0,Debit Card,Young,,Montreal,Benjamin Brown
-ml4215,7/4/24,Canada,575a47f9-4065-4905-8c99-043e1688df4a,Samsung QLED TV,Electronics,1013.97,,2027.94,0,Credit Card,Senior,Male,Ottawa,Benjamin Roy
-Nv6107,9/8/24,Canada,34421a33-8189-46bb-b7bf-6b851d62d71e,Coca-Cola Can,Beverages,1.41,7,,0.2,Online Payment,Young,Male,Calgary,Olivia Johnson
-Zg2331,11/18/24,Canada,f7cb7fc8-3d17-4717-b5cb-6f343bd75994,iPhone 14,Electronics,,8,8924,0.1,Credit Card,Young,Female,Vancouver,Emma Brown
-DP2910,7/13/24,Canada,08268dfd-2657-4b0f-947e-a6d9db8d8188,,Electronics,810.55,9,7294.95,0.15,Credit Card,Senior,,Toronto,Noah Gagnon
-tK5975,3/1/25,Canada,8b8588fe-b0fd-40b0-a08e-c8cb7e2c8a0f,The North Face Jacket,Apparel,209.54,1,209.54,0.05,Debit Card,Senior,Female,Toronto,Chloe Roy
-UX5289,12/1/24,Canada,df563d01-8155-44a6-a408-109cb084b1ea,Samsung QLED TV,Electronics,1522.13,3,4566.39,0.15,Credit Card,Young,Female,Montreal,Noah Campbell
-tE1915,6/27/24,Canada,8e1b9960-7bf3-45ed-90c9-5642d3fe5123,Yeti Tumbler,Outdoor,30.05,8,240.4,0.2,Mobile Wallet,Senior,Male,Montreal,Chloe Martin
-Lz4524,2/20/25,Canada,1e499c5b-3525-4da9-b056-1401cc7a0670,Coca-Cola Can,Beverages,1.21,2,2.42,0.1,Online Payment,Young,Female,Montreal,William Gagnon
-ub5096,8/13/24,Canada,f307ab91-a6f2-40cb-811b-6873c9d6e035,Levi's 501 Jeans,Apparel,77.88,2,155.76,0,Online Payment,Senior,Female,Montreal,Lucas Wilson
-RU4407,8/21/24,Canada,bb5c05e5-c251-4a82-b5b5-1716eabce2e4,Nike Air Max,Footwear,166.31,6,997.86,0.05,Mobile Wallet,Senior,Male,,Olivia Smith
-pF6081,4/1/24,,a164caa5-31ea-424f-8be5-37731f6249a1,Coca-Cola Can,Beverages,1.16,7,8.12,0,Online Payment,Adult,Male,Ottawa,Sophie Roy
-AI3560,,Canada,02693644-90a5-44a8-854c-ab19dcdc18b1,Yeti Tumbler,Outdoor,38.72,8,309.76,0.2,Cash,Adult,Male,Calgary,Emma Lee
-wk4475,4/1/24,,b7119a06-8460-484f-a886-3e910fc96ab2,Samsung QLED TV,Electronics,561.83,5,2809.15,,Debit Card,Senior,Male,Toronto,Olivia Smith
-aL6759,4/10/24,Canada,c4c21677-e14f-4f07-9c34-d3a0ae06c47b,KitchenAid Mixer,Home Appliances,438.71,7,3070.97,0,,Senior,,Vancouver,Liam Roy
-Ey9605,1/15/25,Canada,448a2b6a-ff41-44c9-aaef-c068dc5ef78b,Coca-Cola Can,Beverages,1.52,3,4.56,0.05,Online Payment,Adult,Female,Vancouver,Sophie Roy
-Xd2926,5/14/24,Canada,,Nike Air Max,Footwear,187.36,5,,0.1,Debit Card,Senior,Female,Montreal,Chloe Johnson
-lF1887,2/15/25,Canada,ab4c4902-c45c-460b-9c39-e345f1129d50,,Snacks,4.47,7,31.29,0,Cash,Senior,Male,Vancouver,Emma Tremblay
-uO1052,8/5/24,Canada,1e97531c-6b10-46c2-a490-9b00daed15b9,The North Face Jacket,Apparel,258.87,5,1294.35,0.15,Debit Card,Adult,Male,Montreal,Chloe Roy
-Pr0093,,Canada,3ff1e1cc-97b0-49ce-a464-db5d19e53a53,Levi's 501 Jeans,Apparel,91.25,9,821.25,0.05,Credit Card,Young,Male,Toronto,Lucas Brown
-EV3984,1/16/25,Canada,f91465ff-78e2-4111-a2c1-d318d164d059,Apple MacBook Pro,Electronics,2225.64,7,15579.48,0.2,Online Payment,Adult,Female,Ottawa,Sophie Wilson
-uo2147,6/8/24,Canada,df5a4d00-a901-46f5-b308-aaec66b4bcaa,Coca-Cola Can,Beverages,1.12,9,10.08,0.05,Debit Card,Young,Female,Ottawa,
-UO6095,7/21/24,Canada,9b8c463a-e149-49aa-8c18-87449b4ee177,iPhone 14,Electronics,979.5,5,4897.5,0.2,Credit Card,Young,Female,,Liam Campbell
-fh3807,1/6/25,Canada,4980b5d4-f340-4d09-9621-405c93e703d0,Nike Air Max,Footwear,133.95,8,1071.6,0.05,Debit Card,Young,Female,Ottawa,Chloe Campbell
-Tv0178,7/21/24,,55dcef36-f1ca-437b-be00-7b560514f3e2,Samsung QLED TV,Electronics,1719.61,6,10317.66,0.1,Debit Card,Senior,Male,Toronto,Thomas Roy
-ES3116,6/30/24,Canada,8b6a1035-5823-4d89-9751-8f42a58eefa4,,Snacks,4.44,1,4.44,0.05,Cash,Adult,Male,Ottawa,Noah Gagnon
-np2048,10/23/24,Canada,33324409-12d9-474c-8abe-42cdd55b4357,Yeti Tumbler,Outdoor,41.34,6,,,Mobile Wallet,Senior,Male,Montreal,Thomas Smith
-eK3002,,Canada,8a992e39-e448-48c5-b639-579775a1df5e,Doritos Chips,Snacks,,8,37.52,0.1,Credit Card,Adult,Female,Ottawa,Thomas Brown
-ih1761,10/24/24,Canada,07939b86-ae1d-440a-b093-340dbba96e8d,Samsung QLED TV,Electronics,803.87,4,,,Mobile Wallet,Young,Female,,Noah Gagnon
-mT4282,4/13/24,Canada,ec0b72cc-7c4f-4543-8ec7-b78d19827b3d,Doritos Chips,Snacks,3.19,1,3.19,0.1,Online Payment,Young,Male,Vancouver,Liam Brown
-vg6093,10/5/24,Canada,4d2549e8-426b-44ca-9009-07450a9919f4,,,,5,705.1,0.1,Online Payment,Adult,Male,Montreal,Emma Martin
-GU6234,,Canada,14b2f780-086d-4ffc-bc29-bfa62a036847,Samsung QLED TV,Electronics,1317.82,,13178.2,0,Online Payment,Senior,Female,Montreal,Emma Gagnon
-uO2709,2/27/25,Canada,ea0c1147-6941-49ea-9fe9-3a4cc3c75e47,Levi's 501 Jeans,Apparel,94.41,4,377.64,0.05,Debit Card,Adult,Female,Calgary,Sophie Gagnon
-bB3012,4/18/24,Canada,c0eadd98-7f00-4b78-ace4-7761b4e60863,Yeti Tumbler,Outdoor,28.27,7,197.89,0,Cash,Adult,Male,Vancouver,Noah Martin
-EK3419,8/18/24,,adc3edf5-b9b5-475f-87b5-980b07879aae,Nike Air Max,Footwear,161.35,1,161.35,0.2,,Senior,Female,Vancouver,Sophie Brown
-sy0490,1/8/25,Canada,,iPhone 14,Electronics,962.96,3,2888.88,0.1,Debit Card,Young,Male,Toronto,Noah Smith
-AM8009,3/24/24,Canada,a100806d-6002-4ed4-91cc-2603edf33af7,Nike Air Max,Footwear,105.15,8,841.2,0.05,Cash,Young,Female,Toronto,
-tM1655,12/31/24,Canada,83b79a06-8b55-40e1-82eb-5ac4dde5d769,KitchenAid Mixer,Home Appliances,369.63,9,3326.67,0.05,Mobile Wallet,Adult,Male,Montreal,Chloe Martin
-vf1978,1/10/25,Canada,0fda665b-822c-45da-b8af-43a6dd0c0bff,Samsung QLED TV,Electronics,1231.03,6,7386.18,0.05,Debit Card,Young,Male,Vancouver,Liam Johnson
-xT3016,1/6/25,Canada,5d4c1474-ca5a-428a-bb04-9cf20f4c3950,Nike Air Max,Footwear,108.49,10,1084.9,0.15,Cash,Young,Male,Montreal,Noah Brown
-wM2127,12/21/24,Canada,9fdeb51c-7804-43b1-8edb-802e9ff671dd,Doritos Chips,Snacks,3.73,2,7.46,0.15,Mobile Wallet,Young,Female,Vancouver,William Tremblay
-QC0736,5/31/24,Canada,0ac5b70f-82a3-4a1f-b994-92c717b309fa,KitchenAid Mixer,Home Appliances,381.15,5,1905.75,0.1,Online Payment,,,Montreal,Thomas Gagnon
-sT6142,9/8/24,Canada,abefae6b-0daf-48a6-8d0f-15cfea530ddf,Levi's 501 Jeans,Apparel,81.39,7,569.73,0.05,Credit Card,Young,Male,Toronto,Chloe Roy
-MI9275,3/22/24,Canada,a813b098-8db4-462f-b0c7-df6c3eaeacfb,Apple MacBook Pro,Electronics,2047.3,9,18425.7,0.05,Debit Card,Adult,,Toronto,Liam Martin
-NN0546,,Canada,311ed426-b8a7-429c-931b-b152e97ab862,,Outdoor,36.17,1,36.17,0.2,Credit Card,Senior,Male,Vancouver,Benjamin Roy
-Rp6233,2/15/25,Canada,593f47c9-dbc8-4e23-80e0-a96106457f5e,Samsung QLED TV,Electronics,959.1,2,,0.05,Mobile Wallet,Young,Female,,Olivia Brown
-aI4283,1/31/25,,12d2bb7b-923f-4b31-bc22-2126ee076f06,Coca-Cola Can,Beverages,1.74,1,1.74,0.05,Credit Card,Young,Male,Toronto,Lucas Campbell
-sp5082,11/20/24,Canada,772636d0-90d4-4a18-a8f5-5da38be22664,Coca-Cola Can,Beverages,1.37,3,4.11,0.05,Mobile Wallet,Adult,Male,Vancouver,Olivia Tremblay
-JO3488,7/4/24,Canada,208ea6d2-4ffe-4f1a-b193-e1879ec3126f,Nike Air Max,Footwear,100.57,5,502.85,0.1,Online Payment,Senior,Female,,Chloe Johnson
-MV8065,5/30/24,Canada,1bad72e6-0579-461f-b5a7-d7cd3ca70f38,KitchenAid Mixer,Home Appliances,484.92,9,4364.28,0.2,Cash,Adult,Male,Toronto,Lucas Tremblay
-CI9934,2/21/25,Canada,534f4fce-a448-4329-aaa8-792ed5df4d88,Samsung QLED TV,Electronics,873.83,6,5242.98,0.15,Credit Card,Young,Female,Toronto,Emma Brown
-hk2285,4/18/24,Canada,4f8397ee-8773-46fa-a959-ff4ea25ecfa3,KitchenAid Mixer,Home Appliances,330.19,3,990.57,0.15,,Young,Male,Toronto,Sophie Campbell
-bQ4972,12/24/24,Canada,ff045130-7914-47bf-9e4a-3b38a295a60e,iPhone 14,Electronics,1082.34,5,5411.7,0.05,Mobile Wallet,Young,,Calgary,Lucas Lee
-Ff2879,3/15/25,Canada,15573ed2-4a53-4956-b395-c71900d3b675,Apple MacBook Pro,Electronics,2053.82,1,2053.82,0.1,Debit Card,Senior,Female,Vancouver,Emma Smith
-Bg4826,7/21/24,Canada,2ccc5dc3-6590-453e-8faa-122d4923c0d0,Apple MacBook Pro,Electronics,1569.53,5,7847.65,0.1,Credit Card,,Female,Calgary,William Gagnon
-bM0418,7/18/24,Canada,e4de098b-1f2c-4046-b25f-75a956bd44ce,Doritos Chips,Snacks,2.55,7,17.85,0.05,Cash,,Male,Calgary,
-nk8563,8/20/24,Canada,f5674a4b-c316-4f6d-93d0-e911f0ac216b,Levi's 501 Jeans,Apparel,81.84,7,572.88,0.1,Debit Card,Young,Female,Calgary,Liam Brown
-Wn5724,7/4/24,Canada,fd46e40d-c6ec-4704-bd14-56267061bbb9,Nike Air Max,,137.22,3,411.66,0.2,Debit Card,Senior,Male,Montreal,Sophie Smith
-Wf0538,,Canada,66a0e744-28e8-4d40-b45d-3296426535c1,Coca-Cola Can,Beverages,0.67,10,6.7,0.1,Cash,Senior,Male,Ottawa,Olivia Smith
-Qg4637,6/1/24,Canada,8a3282c4-0407-4a8d-b7f6-b83a2b6b214b,Apple MacBook Pro,,1511.92,8,12095.36,0.15,Credit Card,Young,Male,Montreal,Sophie Gagnon
-xc7681,6/7/24,Canada,bc535585-6955-4228-b7cb-54fc43b705be,KitchenAid Mixer,,336.1,2,672.2,0.1,Mobile Wallet,Senior,Female,Ottawa,Benjamin Roy
-eS3872,8/22/24,Canada,2deec2b6-3371-4d25-b9da-a584e6b4e409,The North Face Jacket,Apparel,281.46,7,,0.1,Mobile Wallet,Young,Male,Toronto,Noah Wilson
-qm6132,6/3/24,Canada,daee099e-4e60-4faa-94e9-52064bc58378,iPhone 14,Electronics,,8,6562.16,0.05,Online Payment,Senior,Male,Ottawa,
-Ta3670,4/27/24,Canada,7a788ae9-f974-40a3-954f-44f13ff90f29,Apple MacBook Pro,Electronics,2084.6,7,14592.2,0.05,Debit Card,Senior,Female,Toronto,
-mu6381,10/26/24,Canada,8e779c9b-b5d2-4f66-8a0a-9795ef82f734,KitchenAid Mixer,Home Appliances,307.94,1,307.94,0.15,Mobile Wallet,Adult,Female,Toronto,William Smith
-Vj2297,10/28/24,Canada,c12248ad-e173-4994-a728-042e803ac0c2,The North Face Jacket,Apparel,212.88,4,851.52,0.2,Online Payment,Adult,Female,Montreal,Emma Lee
-AL1647,6/9/24,Canada,c04cfd6c-5cf3-431d-96e0-db78e8e55431,,Apparel,83.49,7,,0.05,Online Payment,Young,Male,Toronto,Olivia Martin
-fP7243,4/1/24,Canada,4fbe7ed2-76fc-4019-ac2b-18fc99730ec2,KitchenAid Mixer,Home Appliances,,,3385.27,0.2,Online Payment,Young,Female,Calgary,Emma Roy
-NG6351,12/28/24,Canada,762b4971-4c2e-4f7b-8862-d63e1e1c3fe8,Coca-Cola Can,Beverages,0.51,3,1.53,0.2,Cash,Adult,Female,Vancouver,William Martin
-fL4438,6/30/24,Canada,e99789d6-50eb-44df-ad77-174eac590380,Apple MacBook Pro,Electronics,,4,7533.28,0.05,Mobile Wallet,Adult,,Montreal,Olivia Martin
-YQ2945,10/29/24,Canada,b26ceb5e-3241-4457-bac2-667814b3630a,Yeti Tumbler,Outdoor,39.54,2,79.08,0,Cash,Senior,Male,Calgary,Olivia Smith
-It6438,6/18/24,Canada,81fce404-651e-4c89-a039-081b680fc7a2,Yeti Tumbler,Outdoor,34.58,8,276.64,0.05,Debit Card,Adult,Female,Montreal,Emma Brown
-dy3834,9/1/24,,46bd3f5d-bdf3-4e51-abf1-44ac6a81ef19,iPhone 14,Electronics,918.62,3,2755.86,0,Credit Card,Senior,Female,Vancouver,Noah Tremblay
-oO6529,7/23/24,Canada,,,Apparel,83.71,7,585.97,0.05,Mobile Wallet,Young,Male,Vancouver,Sophie Gagnon
-mb6413,8/7/24,Canada,20dd7e60-3efc-4a6f-8174-cb601c3e42f4,The North Face Jacket,Apparel,145.41,2,290.82,0.05,Mobile Wallet,,Male,Montreal,Emma Wilson
-ky2350,4/18/24,Canada,ab13d707-ac8a-4a79-862e-dfbd8f51bae6,iPhone 14,Electronics,1121.12,5,5605.6,0.2,Credit Card,Young,Female,Ottawa,William Martin
-Uh5043,8/28/24,Canada,d5def13e-91f5-4e72-8ece-6464649774dd,KitchenAid Mixer,Home Appliances,455.31,4,1821.24,0.15,Online Payment,Adult,Female,Vancouver,Emma Gagnon
-DM2641,6/30/24,Canada,b53baff4-c9cc-4178-912d-0d1c34a9b81f,Levi's 501 Jeans,Apparel,57.33,5,286.65,0.1,Credit Card,Adult,Male,Toronto,Emma Roy
-cY2753,12/17/24,Canada,38259b74-59b8-4af2-8347-dfb65101eac6,Nike Air Max,Footwear,113.51,3,340.53,0.05,Credit Card,Senior,Male,Toronto,Liam Smith
-bU8634,10/4/24,Canada,8e4e94db-4a5f-4e74-a8dd-16becd2d6a63,Doritos Chips,Snacks,3.67,10,36.7,0,Debit Card,Senior,Male,Toronto,
-ND5657,9/3/24,Canada,b7c17ad8-0bf4-4e09-b5ca-c686f84d319f,Levi's 501 Jeans,Apparel,56.25,,56.25,0.15,Debit Card,Senior,Male,Vancouver,Emma Roy
-pN0079,,Canada,b1d36dc9-0cc9-44a1-80a9-6b3ecc57b6d5,Apple MacBook Pro,Electronics,1528.33,3,4584.99,0,Cash,Adult,Female,Toronto,William Johnson
-PU2204,2/27/25,Canada,c7b6f143-a468-4795-8aef-210a350ceed8,Apple MacBook Pro,Electronics,2366.49,1,2366.49,0,,Senior,Male,Toronto,Thomas Tremblay
-km7925,7/4/24,Canada,f7b60d29-71bd-4ba9-bbc5-abebc735d4ae,Yeti Tumbler,Outdoor,,1,28.46,0.2,Credit Card,Young,Male,Montreal,Noah Gagnon
-Ls3432,2/24/25,Canada,0c352224-515e-41a2-a178-6eacd49f5d93,The North Face Jacket,Apparel,161.98,5,809.9,0,Online Payment,Senior,Male,Vancouver,Benjamin Tremblay
-zA5228,10/20/24,Canada,e93433ba-1c09-4ee6-8f08-9e6be804487f,Nike Air Max,Footwear,131.96,,527.84,0.15,Online Payment,Adult,Female,Montreal,Lucas Lee
-gC6152,6/24/24,Canada,ea859035-fef9-498f-8ff4-f8939ba607ef,Nike Air Max,Footwear,193.08,,579.24,0.1,Debit Card,Adult,Female,,Noah Lee
-FF7416,11/24/24,Canada,d75b2d3e-1a5d-4f2a-979b-cffd1ec32585,Apple MacBook Pro,Electronics,2498.6,8,19988.8,0.1,Cash,Adult,Female,Vancouver,Noah Wilson
-Ek6629,5/13/24,Canada,7efa82d0-1337-4017-b2fa-1335d1fb5e98,Samsung QLED TV,Electronics,617.46,,1852.38,0,Credit Card,Adult,Male,Ottawa,Emma Roy
-EG1438,12/17/24,Canada,e9a692ec-27bb-4b7d-bcb6-b6cf1f92ee00,Coca-Cola Can,Beverages,1.02,7,7.14,0.05,Online Payment,Adult,Female,Vancouver,Thomas Tremblay
-AW5750,3/31/24,Canada,e4fe9ea6-1b0d-4400-b68e-b1d8659c3f8f,Doritos Chips,Snacks,1.52,4,6.08,0,Online Payment,Young,Female,Ottawa,Chloe Tremblay
-Oe4123,11/16/24,Canada,0f6f5308-116b-4112-ac55-cb7464eaf4a6,Yeti Tumbler,Outdoor,38.45,5,192.25,0.05,Mobile Wallet,Young,Female,Toronto,Olivia Johnson
-Sb3668,4/13/24,Canada,942d21bb-62d9-4313-a84a-b9fa5c5ff681,Doritos Chips,Snacks,3.32,5,16.6,0.2,Cash,Adult,Male,Toronto,Sophie Wilson
-Vi5816,8/20/24,,a9bb4a25-0c5d-4ff3-a824-7009f494af16,Levi's 501 Jeans,,94.4,10,944,0.15,Debit Card,Senior,Female,Toronto,Lucas Gagnon
-sT8884,5/7/24,Canada,363c219b-9466-465a-9747-f07980e07aff,The North Face Jacket,Apparel,124.95,4,499.8,0.15,Credit Card,Senior,Male,Ottawa,William Lee
-Dx6501,10/28/24,Canada,417f02b5-3356-4b83-9a23-57ffa5a8fad1,Apple MacBook Pro,Electronics,2272.39,5,11361.95,0.05,Credit Card,Young,Male,Calgary,Sophie Johnson
-Zk4072,8/26/24,Canada,5a13b4a9-5093-47b2-aa98-cdaeeac82890,iPhone 14,Electronics,1007.18,10,10071.8,0.05,Debit Card,Adult,Male,Calgary,Liam Johnson
-UY2637,6/26/24,Canada,5e8d3eca-b6cd-4095-a679-81535891ed5c,Doritos Chips,Snacks,4.49,4,17.96,0.1,Cash,Adult,Female,Vancouver,Lucas Wilson
-wc9823,12/11/24,Canada,4ac32e26-9991-47e7-8263-3fbb52effb1f,Coca-Cola Can,Beverages,0.56,5,2.8,0.2,Cash,Senior,Male,Toronto,Liam Wilson
-RN7462,9/20/24,Canada,d54e1621-fd6a-4444-9f40-3d3b8ea3e2ea,iPhone 14,Electronics,1059.54,5,5297.7,0.05,Debit Card,Senior,Male,Vancouver,Liam Roy
-pe3869,3/25/24,Canada,6c6f92b0-8bf1-47b4-b4f3-10f6ab3370df,Coca-Cola Can,Beverages,1.85,4,7.4,0.2,,Young,Male,Montreal,Benjamin Gagnon
-Xy2173,10/29/24,Canada,44f21657-d433-4679-8601-ca07735ec508,Nike Air Max,Footwear,194.91,8,1559.28,0.1,Online Payment,Young,Female,Vancouver,Benjamin Wilson
-zw0973,9/20/24,Canada,ddc7c075-b34e-4b50-aafa-1c9414a9ddd8,Nike Air Max,Footwear,110.86,1,110.86,0.2,,,Female,Vancouver,Benjamin Lee
-Yk9043,4/14/24,Canada,ae4a0b2b-a98f-48b3-aabe-337864ba8944,Levi's 501 Jeans,,,1,50.5,0.15,Cash,Young,Male,Vancouver,Lucas Roy
-DN8676,1/26/25,Canada,88ee0f8b-89c4-4d90-9ff1-b5712255bb2e,iPhone 14,Electronics,819.9,9,7379.1,0.2,Cash,Senior,Male,Toronto,Sophie Johnson
-mr8616,1/12/25,Canada,a0d17271-dc9b-4c0f-bcb4-8f3b9bd64816,KitchenAid Mixer,Home Appliances,458,7,3206,0.2,Debit Card,Young,,Montreal,Emma Wilson
-Xh7458,1/4/25,Canada,9f10b3b9-2091-432e-b7c3-85c41243409c,Nike Air Max,Footwear,126.97,9,1142.73,0.2,,Senior,Male,Toronto,Olivia Lee
-Rx2476,8/12/24,Canada,97c87600-fbb9-4c0c-a2f9-b9ff2a270922,Nike Air Max,Footwear,198.68,6,1192.08,,Credit Card,Adult,Male,Vancouver,Olivia Roy
-Ic7742,10/26/24,Canada,4dc5274a-a7b5-4e0f-81b3-37e3ad15de68,iPhone 14,Electronics,889.83,8,7118.64,0,Cash,Adult,Male,Montreal,Emma Lee
-gI0715,4/23/24,Canada,80e98895-f9ab-4bfc-921b-7c473be3b9b8,Yeti Tumbler,Outdoor,47.59,1,47.59,0.05,Credit Card,Adult,Male,Toronto,Thomas Lee
-Pg0493,11/6/24,Canada,8aa9dce2-fe0a-465d-86c1-b89c409d7ebf,iPhone 14,Electronics,891.23,4,3564.92,0.15,Mobile Wallet,Young,Female,Calgary,Thomas Martin
-DX5789,3/15/25,Canada,03c2233d-2277-488e-b96a-f5ad8ca03696,Doritos Chips,Snacks,2.94,10,29.4,0.2,Online Payment,Senior,,Calgary,William Gagnon
-rV8311,10/12/24,Canada,24755fe3-bec4-4b25-9bb3-4299bf2f262c,Doritos Chips,Snacks,3.68,4,14.72,0,Cash,Adult,Female,Vancouver,William Smith
-Rp2256,2/5/25,Canada,63790938-98e3-4cd3-9464-f83341832e50,Apple MacBook Pro,,,8,14906,0.15,Credit Card,Adult,Female,Ottawa,Sophie Gagnon
-ZH4127,8/25/24,Canada,,Coca-Cola Can,Beverages,0.76,7,5.32,0.2,Credit Card,Adult,Female,Montreal,Olivia Martin
-TG7448,2/16/25,Canada,1d9d240e-8ef5-4b9c-8dd8-e4397859648c,Coca-Cola Can,Beverages,1.07,4,4.28,0.05,Mobile Wallet,Senior,,Toronto,Noah Roy
-vk5417,3/13/25,Canada,a229a2ab-45ae-47c4-b5e7-a32ba5289676,Doritos Chips,Snacks,1.88,2,3.76,0.2,Mobile Wallet,Senior,Male,Vancouver,Chloe Tremblay
-xW2525,8/31/24,Canada,0ff967f6-c5d6-4ef4-a9e2-f26102a628b0,Nike Air Max,Footwear,144.97,9,1304.73,0.05,Online Payment,Adult,Male,Toronto,Lucas Martin
-fj6400,10/4/24,Canada,42734fa5-69f7-4df5-bd64-3041c8656bd7,The North Face Jacket,,232.61,10,2326.1,0,Cash,Young,Female,Montreal,Sophie Roy
-GF4333,,Canada,a691be9f-fdef-4299-a581-7a6b1623756f,Levi's 501 Jeans,Apparel,78.06,5,390.3,0.2,Credit Card,Adult,Female,Toronto,William Tremblay
-jA4273,3/20/24,Canada,1dae5f37-b31b-4a8a-9b46-5e245804aec6,KitchenAid Mixer,,407.63,5,2038.15,0.15,Online Payment,Young,Male,Montreal,Noah Tremblay
-Fs8284,6/28/24,Canada,5474562b-607e-49fc-990d-c3d9abfeb0d7,,Footwear,192.15,5,960.75,0,Debit Card,Senior,Female,Calgary,Chloe Martin
-Th5488,10/24/24,Canada,339275d6-10a1-4519-b056-2f1aeafa28b2,Apple MacBook Pro,Electronics,1545.12,9,13906.08,0.1,Cash,Adult,Male,Ottawa,William Wilson
-wm3461,4/9/24,Canada,fb30b0ea-178c-4fb3-a145-5dd35db7d3a1,Coca-Cola Can,Beverages,,2,3.52,0.15,Online Payment,Young,Female,Vancouver,
-DM0317,6/18/24,Canada,8867986f-a057-4811-a0ee-d2fb9319c8a9,Nike Air Max,,128.15,10,1281.5,0.1,Credit Card,Adult,Female,Vancouver,Liam Roy
-RS2094,12/11/24,Canada,ee0bc42a-dd5c-4d73-8efd-250e21a59ff3,Apple MacBook Pro,Electronics,1939.64,7,13577.48,0,Mobile Wallet,Senior,Male,Ottawa,Benjamin Johnson
-Sm9071,9/16/24,Canada,a4602b67-017b-4b7d-82e0-b193606c5521,iPhone 14,Electronics,1124.36,9,10119.24,0.1,Online Payment,Young,Female,Vancouver,Emma Roy
-rj5340,9/13/24,Canada,c6235353-12fd-434c-87d2-b80ffa69d1f2,Samsung QLED TV,Electronics,918.45,9,8266.05,,Online Payment,Adult,Male,Calgary,Emma Tremblay
-jc2917,1/17/25,Canada,5b0cabb2-0ac1-4406-9581-9f90a857297c,Nike Air Max,Footwear,180.61,2,361.22,0.15,Credit Card,Young,Male,Ottawa,Lucas Roy
-bj2717,3/6/25,Canada,554a438d-dcc1-4531-a030-39c28447a447,Samsung QLED TV,Electronics,996.4,3,2989.2,0.15,Debit Card,Senior,,Montreal,Olivia Brown
-gm5731,11/21/24,Canada,0cfcb02a-3c33-421e-b084-785139230440,Yeti Tumbler,Outdoor,47.81,10,478.1,0,Mobile Wallet,Senior,Male,Vancouver,Emma Martin
-jW9093,6/1/24,Canada,f8e62dec-d8bb-4879-ab44-398f3c4218d8,,Home Appliances,252.45,2,504.9,0,Debit Card,Senior,Female,Vancouver,Olivia Wilson
-Xn6372,12/23/24,Canada,a2d98601-4132-4cfb-bed0-d4e84b8d4274,Doritos Chips,Snacks,3.35,6,20.1,0.05,Debit Card,Adult,Female,Vancouver,Sophie Smith
-wA2773,8/21/24,Canada,,The North Face Jacket,Apparel,225.93,3,677.79,,Debit Card,Senior,Female,Montreal,Thomas Roy
-Fp3548,7/5/24,Canada,2fad47b0-50fb-468d-bf24-e0336a6bfae3,Doritos Chips,Snacks,1.93,3,5.79,,Mobile Wallet,Young,Male,Calgary,Sophie Smith
-bm8361,5/19/24,Canada,95071491-aebc-4400-baf8-73143fcca57f,The North Face Jacket,Apparel,111.88,5,559.4,,Debit Card,Adult,Female,Toronto,Lucas Campbell
-le6295,1/1/25,Canada,1ac9c17c-d1ed-4365-b58a-2088d197ed45,The North Face Jacket,Apparel,111.9,10,1119,0.15,Online Payment,Young,,Ottawa,Lucas Smith
-BZ5962,4/14/24,Canada,9305a1aa-8713-4e23-b1e8-c2638d1102e3,Coca-Cola Can,Beverages,1.58,6,9.48,0,Debit Card,Young,Male,Toronto,Sophie Gagnon
-Tm2958,3/17/25,Canada,,iPhone 14,Electronics,1153.4,5,5767,0.15,Mobile Wallet,Young,Male,Montreal,Liam Wilson
-Jw1868,9/18/24,Canada,7c9afefc-6ac5-49ef-a699-34be5d54dc5a,Doritos Chips,Snacks,1.83,8,14.64,0.15,Online Payment,Senior,Female,Montreal,Lucas Lee
-ck6091,10/21/24,Canada,,Coca-Cola Can,Beverages,0.52,,0.52,0,Mobile Wallet,Adult,Female,Montreal,Emma Johnson
-xf9831,1/31/25,Canada,808738d6-ee38-4fe7-92a3-58d4bbc09785,Samsung QLED TV,Electronics,515.67,4,,0.1,Mobile Wallet,Adult,Female,Toronto,Thomas Campbell
-Wt1295,3/20/24,Canada,,Coca-Cola Can,Beverages,0.57,10,5.7,0.05,,Senior,Male,Montreal,Noah Roy
-EW0231,12/24/24,Canada,bb686575-b1d1-46d0-97d5-57350ea674c3,Coca-Cola Can,Beverages,0.93,9,8.37,0.2,Debit Card,Adult,Female,Vancouver,Liam Roy
-OM5858,5/1/24,,86823da2-4bcd-42a9-a537-944a9edb9bce,Coca-Cola Can,Beverages,1.46,2,2.92,0.15,Cash,,Male,Ottawa,Emma Roy
-rK0593,,Canada,4446a19a-971e-4247-a3c0-cfe08905f1b2,Coca-Cola Can,Beverages,1.51,4,6.04,0.05,Online Payment,Adult,Female,Ottawa,
-PU2839,2/11/25,Canada,0a7721ff-283e-4f46-8da0-907f703067c2,Apple MacBook Pro,Electronics,1573.81,,11016.67,0.1,Online Payment,Senior,Female,Toronto,Sophie Tremblay
-CA4427,12/7/24,Canada,53b326eb-934a-4f52-97df-4bdfe779d1bb,Samsung QLED TV,Electronics,1279.8,8,10238.4,0,Debit Card,Young,Male,Toronto,Olivia Campbell
-aG4061,3/22/24,Canada,abe88b45-4a1b-47ff-8611-6b93cc7b5ad4,Yeti Tumbler,Outdoor,48.72,4,194.88,0.15,Cash,Adult,Male,Montreal,Benjamin Tremblay
-Xo3531,6/2/24,Canada,f5045b03-8462-46f3-89ad-ec835fa35517,Samsung QLED TV,Electronics,1076.19,6,6457.14,0.1,,Senior,Male,Calgary,Lucas Smith
-li3116,2/22/25,Canada,a6e60b6d-7611-4468-8c30-457aa69a8cae,Doritos Chips,Snacks,2.22,8,17.76,0,Mobile Wallet,Adult,Male,Montreal,Olivia Lee
-sN7141,11/6/24,Canada,a3cf10d2-e0d5-4d08-a424-7048a3365fcc,Coca-Cola Can,Beverages,1.02,7,7.14,0.1,Mobile Wallet,Senior,Male,Calgary,Noah Martin
-sZ2841,5/19/24,Canada,5ce0b54d-60eb-4dc3-9558-9a04ddc4cb81,Apple MacBook Pro,Electronics,1465.06,9,13185.54,0.2,Online Payment,Young,Male,,Noah Tremblay
-sO2000,10/2/24,Canada,314c2a17-b4cf-4c16-94c0-1506a9f42536,Coca-Cola Can,Beverages,1.31,5,,0.2,Credit Card,Adult,Male,Vancouver,Lucas Gagnon
-WD9966,,Canada,764c2649-ddd6-47ee-be35-c2a857a4dabe,The North Face Jacket,Apparel,183.44,9,1650.96,0.05,Credit Card,Adult,Male,Montreal,Sophie Brown
-YA3681,5/22/24,Canada,64b60389-c668-48e1-a240-601f0a5d4d08,Coca-Cola Can,Beverages,1.62,5,8.1,0.1,Cash,Senior,Female,,
-Yr9783,12/3/24,Canada,b754078f-51a4-4bd0-9307-c00842954fa4,Nike Air Max,Footwear,133.91,6,803.46,0.1,Mobile Wallet,Young,Male,Ottawa,Liam Smith
-ws8687,8/22/24,Canada,b7a07ad8-575a-4725-a9a4-04f7c83398fd,KitchenAid Mixer,Home Appliances,400.4,6,2402.4,0.1,Credit Card,Adult,Male,Vancouver,Chloe Brown
-xS5378,3/28/24,Canada,603694ca-4c0f-4dc5-a7c2-2d47f26eb79a,KitchenAid Mixer,Home Appliances,427.96,6,2567.76,0.15,Mobile Wallet,Young,Male,Calgary,
-jv4692,9/5/24,Canada,6edaf405-29d0-42ef-8832-54deb976b41e,Nike Air Max,Footwear,173.97,6,1043.82,,Debit Card,Senior,Male,Ottawa,Emma Tremblay
-zU3018,7/29/24,Canada,b38f8575-a333-4064-bb22-5aa82624a052,Apple MacBook Pro,Electronics,1781.15,6,10686.9,0.2,Mobile Wallet,Senior,Female,Toronto,Lucas Roy
-Ps3899,9/24/24,Canada,3604344f-ee06-4e6f-96f2-c57d0e71fe8e,iPhone 14,Electronics,1080.12,7,7560.84,0.2,Credit Card,Young,Female,Vancouver,Thomas Gagnon
-EA6046,9/25/24,Canada,ebd26a7b-1b85-46a4-859a-f24c4433daab,Nike Air Max,Footwear,166.12,6,996.72,0.05,Mobile Wallet,Senior,Female,Vancouver,Sophie Smith
-AY2804,1/1/25,Canada,ab372cc6-0698-4f0b-b3d6-10822e95275f,The North Face Jacket,Apparel,172.21,7,1205.47,0.05,Mobile Wallet,Young,Female,Ottawa,Emma Smith
-wu6268,7/10/24,Canada,72db0858-8706-4eb4-b911-5c3fae088f6e,iPhone 14,Electronics,932.2,,932.2,0.15,Online Payment,Senior,Male,Montreal,Benjamin Gagnon
-rM5838,4/20/24,Canada,60e059af-a905-4113-8119-2dc30f60be8a,Nike Air Max,Footwear,105.25,2,210.5,0.15,Debit Card,Adult,Female,Toronto,Emma Gagnon
-WL8443,6/13/24,Canada,60e93feb-b882-4871-972d-a0fd262e1301,,Snacks,3.34,6,20.04,0.15,Debit Card,Senior,Female,Vancouver,William Smith
-yG4658,1/2/25,Canada,3f45cebf-025d-404a-b26f-251c6f605e37,iPhone 14,Electronics,825.72,9,7431.48,0.15,Cash,Adult,Male,Toronto,William Tremblay
-Es8237,8/24/24,Canada,c3a4de1e-fbd4-43d5-8101-3109da430b57,Samsung QLED TV,Electronics,1131.49,6,6788.94,0.2,Credit Card,Young,Female,Vancouver,Liam Roy
-Sn7910,4/6/24,Canada,da231faa-ce54-4f7b-a836-09f222d80f12,Levi's 501 Jeans,Apparel,94.19,9,847.71,0.2,Mobile Wallet,Young,Female,Vancouver,Noah Tremblay
-Oe8654,,Canada,90227045-3e86-4552-bbd4-d39b31b9d6ab,Apple MacBook Pro,Electronics,1820,8,14560,0.05,Online Payment,Young,Female,Vancouver,Benjamin Wilson
-TG8189,,Canada,a2894b36-251d-4667-98cc-cc74c5bdd77b,Apple MacBook Pro,Electronics,1723.07,4,6892.28,0.05,Cash,Senior,Male,Montreal,Lucas Lee
-uy7043,3/23/24,Canada,6f12dad7-5a0d-43c3-be69-94eafda3a1fa,KitchenAid Mixer,Home Appliances,483.9,6,2903.4,0,Credit Card,,Female,Vancouver,William Tremblay
-Fq7360,8/1/24,Canada,3541f551-7c22-4a91-86e1-9588860509b2,Apple MacBook Pro,Electronics,1414.56,,11316.48,,Debit Card,Young,Male,Toronto,Liam Roy
-gt0303,2/18/25,Canada,1b3903d1-95f5-4cef-8fb4-7398a240dbf6,Nike Air Max,Footwear,129.5,2,259,0.05,Cash,Senior,Male,Montreal,Liam Johnson
-zN4639,3/20/24,Canada,ac668771-9f51-438f-9597-71133c7f0f64,Doritos Chips,Snacks,3.86,9,34.74,0.2,Credit Card,Senior,Female,Vancouver,Sophie Smith
-CE6969,1/23/25,,bb34731b-5969-466d-884a-a054680f729b,The North Face Jacket,Apparel,236.59,7,1656.13,0,Cash,Adult,Female,Calgary,Chloe Campbell
-hB0695,11/19/24,Canada,7f62ca22-3c9a-46b3-831e-e3a8ca365a37,The North Face Jacket,Apparel,278.16,4,1112.64,0.2,Credit Card,Senior,Male,Vancouver,Olivia Lee
-wC9990,,Canada,568bfa34-0125-4b54-82f8-f20fb23e4b91,Doritos Chips,Snacks,4.03,4,16.12,0.2,Debit Card,Adult,Male,Vancouver,Benjamin Campbell
-aE6039,,,92d5b242-8c03-45bf-b02c-da7fffccb4ed,The North Face Jacket,Apparel,146.65,9,1319.85,0.05,Online Payment,Senior,Female,Calgary,Chloe Smith
-BB1423,2/14/25,Canada,73562c85-7d2e-4c51-813d-d9045e1e0319,Samsung QLED TV,Electronics,1037.08,7,7259.56,0.05,Credit Card,Senior,Female,Calgary,Liam Lee
-nc0988,9/15/24,Canada,1f8a9121-a3e5-4919-8bed-833346bb3082,Apple MacBook Pro,Electronics,1796.97,3,5390.91,0,Mobile Wallet,Young,Female,Ottawa,Chloe Smith
-CP8255,12/15/24,Canada,ab72f28c-0a54-4c6b-809d-71de761eecbe,Coca-Cola Can,Beverages,1.37,5,6.85,0.05,Credit Card,Adult,Female,Vancouver,Chloe Campbell
-dg3878,2/27/25,Canada,bf2dabe1-76a7-4496-bbf9-6e362e6493fa,Levi's 501 Jeans,Apparel,53.61,8,428.88,0,Debit Card,Young,Male,Ottawa,Sophie Campbell
-kk9703,9/4/24,Canada,081167da-4a11-4efb-8af2-67363e3deeff,Yeti Tumbler,Outdoor,22.42,9,201.78,0.15,Online Payment,Young,Female,Vancouver,Thomas Wilson
-jJ9563,8/9/24,Canada,aab21026-dc40-4638-9868-c51f2c6f0bbd,Levi's 501 Jeans,Apparel,,3,205.11,0.1,Mobile Wallet,Senior,Male,Vancouver,Olivia Johnson
-mG8178,6/23/24,Canada,a73a254e-9302-42cf-97b8-186ff316f540,Levi's 501 Jeans,Apparel,78.99,4,315.96,0.2,Mobile Wallet,Senior,Male,Ottawa,Sophie Johnson
-kC5543,12/30/24,Canada,0f64299f-e514-4e85-b62a-d49b8f064d49,Apple MacBook Pro,Electronics,2067.61,6,12405.66,0,Credit Card,Senior,Female,Ottawa,Sophie Lee
-WE9875,6/28/24,Canada,821105d4-3447-426c-969c-6b3935fc3afa,Apple MacBook Pro,Electronics,1670.98,4,6683.92,,Credit Card,Young,Female,Ottawa,Emma Gagnon
-Wx1319,2/3/25,Canada,77ca03b5-4f3e-4af3-93de-499720e3ff11,Apple MacBook Pro,Electronics,1500.84,6,9005.04,0.2,Online Payment,Young,Male,Montreal,Chloe Martin
-GM9810,8/9/24,Canada,6bd9b67c-9566-42e4-8e89-cbfa091c4e9e,The North Face Jacket,Apparel,108.03,2,216.06,0,Debit Card,Senior,Female,Calgary,Sophie Tremblay
-Ix3464,8/9/24,Canada,,Yeti Tumbler,Outdoor,39.58,,197.9,0.2,Credit Card,Senior,Male,Montreal,Chloe Johnson
-Ws4930,,Canada,697516af-8752-43af-bbc6-0787cdc285c6,The North Face Jacket,Apparel,281.95,8,2255.6,0.2,Cash,Adult,Female,Ottawa,Chloe Tremblay
-xm4833,12/15/24,Canada,a452f53f-6ba8-49c1-b9fd-814e945c791b,Doritos Chips,,2.05,3,,0,Online Payment,Senior,Female,Calgary,
-hC7170,1/2/25,Canada,618f291b-fa0e-431a-ae33-c6c9d0e2cd69,Levi's 501 Jeans,Apparel,70.94,5,354.7,0.1,Cash,Adult,Male,Calgary,Thomas Tremblay
-Gd8639,12/4/24,Canada,a6b05ae8-35d2-48bf-84c3-c1ad280f81b1,,Home Appliances,477.78,1,477.78,0,Online Payment,Young,Male,Calgary,William Wilson
-Oa6387,10/14/24,Canada,e0989d25-88c8-4bab-9569-efc54e930445,Samsung QLED TV,Electronics,1726.43,,8632.15,0.2,Credit Card,Senior,Male,Ottawa,Thomas Wilson
-gz7523,4/3/24,Canada,15fef1e8-8839-4c65-a752-73dbffac4a25,Coca-Cola Can,Beverages,1.06,3,3.18,0.1,Debit Card,Young,Male,Toronto,
-ra8748,5/19/24,Canada,daff07bc-d8ba-406f-905d-6a1a3aa490fe,iPhone 14,Electronics,933.23,3,2799.69,0.05,,Senior,Male,Vancouver,Olivia Tremblay
-zp6465,,Canada,b42afdf8-dbf7-41e5-afc2-d05fe9b94829,Coca-Cola Can,Beverages,1.59,5,7.95,0.15,Online Payment,Senior,Female,Vancouver,Emma Wilson
-Nl8629,5/17/24,Canada,cf59b8d8-d05f-418d-b104-7ba86ad6f536,Doritos Chips,,3.9,4,15.6,0.15,Credit Card,Adult,Female,Ottawa,Benjamin Wilson
-lt6972,12/19/24,Canada,ab45daf9-44a0-409d-bac4-a1fff65d6c8d,Doritos Chips,Snacks,3.71,6,22.26,0.1,Cash,Young,Female,Calgary,Sophie Lee
-Vu9715,12/21/24,Canada,7a2e9e29-e93e-4776-b0fb-109a7cf524ac,Nike Air Max,Footwear,133.03,4,532.12,0,Debit Card,Senior,Male,Calgary,
-yp1871,5/19/24,Canada,cafe59a7-4ed4-454a-ba15-29cbb81efbf3,Samsung QLED TV,Electronics,,5,6425.15,0.05,Cash,Senior,Male,Calgary,
-al6032,7/26/24,Canada,a06543e2-3df2-4f17-9da0-6f2cc5b0abb4,Levi's 501 Jeans,Apparel,61.77,5,308.85,0,Debit Card,Senior,,Ottawa,Benjamin Campbell
-cz7340,5/18/24,Canada,0535eedf-80ae-499f-a0f3-adc26d78a492,Doritos Chips,Snacks,3.52,10,35.2,0.05,Cash,Young,Female,Montreal,Emma Smith
-nc0042,12/9/24,Canada,,Coca-Cola Can,Beverages,,9,14.67,0,Credit Card,Young,Male,Toronto,Chloe Martin
-sq7685,2/21/25,Canada,714f7df3-69c5-424c-998c-b22df165005f,Yeti Tumbler,,,2,79.38,0.2,Mobile Wallet,Adult,Female,Calgary,Chloe Brown
-kL2583,9/7/24,Canada,7338c5bd-f6b4-444d-a891-1dc996953a94,Coca-Cola Can,Beverages,1.08,3,3.24,0.2,Cash,Young,Male,Ottawa,Benjamin Brown
-KL0547,3/19/25,Canada,a531f152-942c-4d1b-9654-c62799b3725f,Levi's 501 Jeans,Apparel,84.22,5,421.1,0.1,Debit Card,Adult,Female,Toronto,William Roy
-bO8601,10/8/24,,8dc9b608-4c7e-433c-898b-763e40086932,Nike Air Max,Footwear,,7,1212.75,0.2,Credit Card,Adult,Male,,Sophie Lee
-Qz4314,10/21/24,Canada,8dd898e7-322e-4b4a-8448-53974a8b6da1,KitchenAid Mixer,Home Appliances,,10,2601.8,0.2,Debit Card,Young,Male,Vancouver,Chloe Campbell
-bB0226,1/7/25,Canada,28dea0ce-4094-4cf3-8a9d-fc9bdab18619,KitchenAid Mixer,Home Appliances,358.87,1,358.87,0.2,Credit Card,Adult,Female,Calgary,Liam Tremblay
-Ag1295,,Canada,9af30ba1-cee3-4e96-a096-99dbf3d8a32b,Samsung QLED TV,Electronics,768.82,8,6150.56,,Mobile Wallet,Young,Male,Toronto,Olivia Tremblay
-qp7197,4/19/24,Canada,9fc8df12-b2e8-479c-b1c3-07eaef49a8f8,Nike Air Max,Footwear,188.31,7,1318.17,0.1,Credit Card,Adult,Female,Calgary,Olivia Tremblay
-eU8248,3/7/25,Canada,d197567d-0fc1-4e5c-b6a8-680feb996b26,,Beverages,1.61,4,6.44,0.15,Online Payment,Adult,Female,Montreal,Emma Wilson
-gG0603,8/2/24,Canada,089819a6-dc22-4364-b2f8-7589cac855ed,Coca-Cola Can,Beverages,1.15,3,3.45,0,Mobile Wallet,Senior,Female,Montreal,Olivia Gagnon
-Tq4818,3/12/25,Canada,313f4272-acc0-4c49-afe2-056bd1c336d4,Coca-Cola Can,Beverages,1.12,1,1.12,0,Debit Card,Adult,Female,Montreal,Lucas Smith
-Ri5539,12/25/24,Canada,27e7cebc-fa52-47d9-8462-547c2a3223c3,Nike Air Max,Footwear,143.63,1,143.63,0.1,Credit Card,Senior,Female,Calgary,Lucas Johnson
-my5283,8/21/24,Canada,55f73114-cef4-46e1-aa80-a728bcbcf47c,Apple MacBook Pro,Electronics,2256.23,7,15793.61,0.15,Credit Card,Young,Male,Toronto,William Smith
-Yr8402,9/23/24,Canada,78a1c52b-6b8f-44e1-9541-4336fc58a07f,KitchenAid Mixer,,467.5,10,4675,0.2,Cash,Young,Male,Montreal,Thomas Lee
-LJ8907,7/10/24,Canada,8839eea2-027f-4953-8e71-549d4dd7eff5,KitchenAid Mixer,Home Appliances,424.36,8,3394.88,0.05,Debit Card,Senior,Male,Calgary,Benjamin Roy
-jJ9509,1/21/25,Canada,64e5702b-2060-44b4-aaaf-ac21428f3b47,,Snacks,2.45,1,2.45,0.2,Debit Card,Adult,Female,Montreal,Benjamin Campbell
-dx4953,2/1/25,Canada,eaf43635-4bb7-420c-8d1d-2cfcb11d0e44,,Home Appliances,272.53,1,272.53,,Credit Card,Senior,Male,Montreal,Liam Martin
-Yx6746,7/15/24,Canada,640572e4-9f66-47d5-9606-721a4cfe2a9f,Coca-Cola Can,Beverages,,1,1.54,0.2,Credit Card,Senior,Male,Vancouver,Olivia Lee
-ah8655,11/26/24,Canada,0281350b-7c5b-4e59-8aa5-29b1ea45f7dc,Yeti Tumbler,Outdoor,29.32,2,58.64,0.15,Credit Card,Adult,Male,Montreal,Lucas Tremblay
-rN3053,3/12/25,Canada,282ae75e-583f-48f0-b67c-b4e96b93434c,Nike Air Max,Footwear,104.69,6,628.14,0,Online Payment,Adult,Female,Ottawa,Emma Johnson
-Yx7890,11/21/24,Canada,4a1c5c90-aeac-47b9-97d3-245d15c0b756,Coca-Cola Can,Beverages,1.66,6,9.96,0,,Young,Female,Calgary,Emma Lee
-nA8110,3/4/25,Canada,0f9a343d-004f-4136-b4ec-773fd30ed7e6,Coca-Cola Can,Beverages,1.64,6,9.84,,Credit Card,Adult,Female,Montreal,Benjamin Campbell
-Tx2221,3/31/24,Canada,0179d17e-c527-49e9-855f-a50078346907,Coca-Cola Can,Beverages,1.42,4,5.68,0.2,Mobile Wallet,,Male,Ottawa,Emma Martin
-Fh2156,1/2/25,,c4c9cf80-4894-4f5c-8301-3ffb73a43a38,Levi's 501 Jeans,Apparel,91.35,1,91.35,0.1,Cash,Adult,Male,Toronto,Sophie Smith
-un2852,6/24/24,Canada,3b574018-1530-4a7f-abef-196a702f6200,Doritos Chips,Snacks,1.92,10,19.2,0.2,Mobile Wallet,Adult,Male,Calgary,Lucas Johnson
-IJ2279,5/10/24,Canada,a5ec9de7-aa58-402a-91c4-c19ff210ae57,Nike Air Max,Footwear,118.54,1,118.54,0.2,Cash,Young,Female,Vancouver,Sophie Campbell
-zx3424,11/27/24,Canada,2ecae1fd-3c3b-4035-ae0b-0bbe0d219fce,Levi's 501 Jeans,Apparel,,,557.68,0,Online Payment,Senior,Female,Montreal,Sophie Brown
-HA1795,3/19/25,Canada,289398e6-5883-4d6c-af2d-cae871b2dad0,Levi's 501 Jeans,Apparel,73.65,5,368.25,0.15,Mobile Wallet,Adult,Female,Montreal,Olivia Tremblay
-Nn4269,2/17/25,Canada,a6f57f22-d093-4a9d-a362-e525ca3c3aa8,Coca-Cola Can,Beverages,1.1,5,,0.2,Mobile Wallet,Young,Female,Calgary,Liam Tremblay
-sS6175,4/17/24,Canada,42f9d39c-72f3-4ca2-89b8-818aeaacd072,KitchenAid Mixer,Home Appliances,384.95,6,2309.7,0.2,Cash,Senior,Female,Ottawa,Liam Smith
-kF9833,2/7/25,Canada,20f4550b-3eb8-4c60-a922-78f1fc028410,Doritos Chips,Snacks,4.18,9,37.62,0.05,Credit Card,Senior,Male,Vancouver,Thomas Campbell
-Vz2422,8/27/24,Canada,b47c6412-8a49-4882-95f5-6fb762c49d87,Yeti Tumbler,Outdoor,46.15,9,415.35,0.15,Online Payment,Senior,Female,Montreal,Liam Roy
-bn0768,,Canada,e10edd6e-a440-4405-92eb-38c7250fdb2e,iPhone 14,Electronics,,5,4124.2,0.15,Mobile Wallet,Young,Female,Calgary,Emma Martin
-hc2731,5/22/24,Canada,4799ec70-d95d-4bbb-9800-ecda614333ce,Apple MacBook Pro,Electronics,1562.44,1,1562.44,0.1,Debit Card,Senior,Male,Toronto,Chloe Tremblay
-HW2803,12/11/24,Canada,ba325dbf-148c-433f-8fc7-a767bc487af7,Coca-Cola Can,Beverages,1.99,6,11.94,0.05,Mobile Wallet,Adult,Female,Toronto,Emma Wilson
-AK3923,9/26/24,Canada,84d40220-2d6d-47d0-b7e5-1a5aafbaea20,The North Face Jacket,Apparel,133.95,2,267.9,0.1,Debit Card,Adult,Female,Montreal,Chloe Campbell
-RF8339,9/15/24,Canada,09549633-520e-4e1d-b583-39863a751679,The North Face Jacket,Apparel,272.46,9,2452.14,0.1,Debit Card,Young,Male,Calgary,Lucas Johnson
-pO4184,9/3/24,Canada,fe77eb99-cba2-4f98-8ce6-70bec7a92a8e,,Apparel,84.44,7,591.08,,Debit Card,Young,Female,Toronto,Sophie Johnson
-pe5942,2/5/25,,e30c6e91-c7cf-4705-b084-b6a13dd79857,The North Face Jacket,Apparel,160.56,9,1445.04,0.15,Cash,Adult,Female,Calgary,William Roy
-vq0459,2/1/25,Canada,b94f1437-c50b-48d5-bee0-6831fb08ee2d,The North Face Jacket,Apparel,102.66,2,205.32,0.05,Debit Card,Senior,Female,Ottawa,Thomas Smith
-ms5145,3/1/25,Canada,f3b9bd89-0efb-42e1-a229-89a1c8c6f477,iPhone 14,Electronics,833.35,10,8333.5,0.1,Debit Card,,,Ottawa,Sophie Wilson
-mg0202,5/21/24,Canada,509d8659-eeed-49f4-84de-1600bd2c2c53,Doritos Chips,Snacks,4.69,10,46.9,0.05,Debit Card,Adult,Female,Toronto,Noah Martin
-ZU4467,12/7/24,Canada,e835d1db-1d31-4146-8c11-24e934bd93f3,iPhone 14,Electronics,,2,1850.52,0.05,Debit Card,Adult,Male,Vancouver,Olivia Smith
-Fg9821,1/5/25,Canada,68ba7958-30aa-4955-a3a4-31bc774cf729,Nike Air Max,Footwear,116.45,2,232.9,0.05,Debit Card,Senior,Male,Vancouver,
-ZW3325,9/14/24,Canada,2e9c23f2-efd0-43f3-aef5-3c2630b0625d,Apple MacBook Pro,,1606.71,2,3213.42,0.2,Online Payment,Senior,Female,Montreal,
-pY8490,10/9/24,Canada,e6ab7ce1-3fc9-407f-91e4-7ad9a3e49a86,Nike Air Max,Footwear,182.47,9,1642.23,0,Cash,Young,Male,Calgary,Chloe Roy
-NJ2587,4/16/24,Canada,1be60ec5-4c24-423c-9f3c-d409fe831cc5,The North Face Jacket,Apparel,117.48,3,352.44,0.2,Cash,Young,Female,Vancouver,Noah Martin
-LS9195,3/15/25,Canada,c268ecb2-2e0d-4256-8358-88b10cac2c2c,Samsung QLED TV,Electronics,1474.26,10,14742.6,0.1,Mobile Wallet,Adult,Male,Vancouver,Olivia Tremblay
-KI8578,3/28/24,Canada,,iPhone 14,Electronics,992.03,7,6944.21,0.15,Online Payment,Senior,Male,Toronto,Lucas Martin
-bU9904,,Canada,f3344061-fe57-42d6-8b04-2240c44904f8,Samsung QLED TV,Electronics,843.46,10,8434.6,0.05,Cash,Adult,Male,Vancouver,Olivia Brown
-lr7888,11/24/24,Canada,6177c076-7e66-4a7a-813e-d21cf0b7a849,KitchenAid Mixer,Home Appliances,305.82,8,2446.56,0.05,Online Payment,Adult,Female,Vancouver,Thomas Roy
-QJ7844,8/20/24,Canada,59fed608-e535-4863-addb-21792ab96f59,Coca-Cola Can,Beverages,1.72,6,10.32,0,Online Payment,Young,Female,Vancouver,Thomas Tremblay
-IX0391,7/6/24,Canada,d8bb3647-76dd-4694-ba8e-18867158b9d2,Doritos Chips,Snacks,4.84,4,19.36,,Debit Card,Adult,Male,Calgary,Emma Martin
-Jg7764,11/19/24,Canada,0c484c9e-103a-4927-a72a-d96134dd55d4,Apple MacBook Pro,Electronics,2012.41,6,12074.46,0.1,Debit Card,Adult,,Calgary,Thomas Lee
-Ti3975,2/28/25,Canada,9b2d282e-7553-49be-b7ac-cc1fcfcd1e8f,iPhone 14,Electronics,1077.35,10,10773.5,0,Online Payment,Young,Female,Toronto,Noah Johnson
-pg8227,10/1/24,Canada,b1057f38-08da-41dc-93a6-902a8c961c67,Doritos Chips,Snacks,4.41,10,44.1,0.1,Cash,Adult,Female,Montreal,Noah Campbell
-zA1594,2/7/25,Canada,2a81c0bb-78a9-470c-bfae-2e7f31585830,Apple MacBook Pro,Electronics,1823.65,10,18236.5,0.2,Mobile Wallet,Senior,Male,Montreal,William Tremblay
-Tf3664,4/4/24,Canada,aa3c2356-e4d5-4776-bd73-b5bccbec3e45,,Footwear,141.86,10,1418.6,0.1,Mobile Wallet,Adult,Male,,Olivia Johnson
-CY5157,5/16/24,Canada,8e70b0e5-6247-4333-be19-1b861c19bac5,,Electronics,1007.12,8,8056.96,0.2,,Young,Female,Vancouver,Liam Martin
-Bq0223,8/3/24,Canada,0d7e4d68-acfd-4fba-8a63-cdb10a45efa9,Coca-Cola Can,,1.29,6,7.74,0.1,Credit Card,Senior,Male,Vancouver,Sophie Lee
-IA2290,8/15/24,Canada,c45108ef-b9d3-401d-85eb-e44861475a88,Levi's 501 Jeans,Apparel,65.32,9,587.88,0,Mobile Wallet,Adult,Male,,Liam Wilson
-pp2007,3/14/25,Canada,275874fc-6e87-44dc-869d-71d7502dd9b1,Apple MacBook Pro,Electronics,1944.21,2,,0.2,Debit Card,Young,Female,Toronto,Liam Tremblay
-me2927,6/15/24,Canada,eecb7940-88b2-4d91-916e-f5811e53e4eb,Apple MacBook Pro,Electronics,2385.15,8,19081.2,0.05,Debit Card,Senior,Male,Ottawa,Emma Martin
-yv8174,2/23/25,Canada,8f410c6d-1ab2-4812-9dc8-f64f04bde74e,KitchenAid Mixer,Home Appliances,,10,3474.3,0.05,Cash,Adult,Female,Toronto,Emma Campbell
-yU7265,10/1/24,Canada,1d30387e-f22d-46c8-8d6f-27938492d070,KitchenAid Mixer,Home Appliances,443.47,10,4434.7,0.1,Online Payment,Young,Female,Toronto,Emma Wilson
-Ky9604,6/17/24,Canada,,KitchenAid Mixer,Home Appliances,456.24,4,1824.96,0.05,Online Payment,Senior,Male,Calgary,Liam Gagnon
-uO7325,4/4/24,Canada,37eeb062-4cb8-4a01-9016-88af1cbba442,Apple MacBook Pro,Electronics,2368.9,,9475.6,0.2,Debit Card,Senior,Male,Montreal,Sophie Tremblay
-mN4123,9/13/24,,8a47985f-e2b0-4b2d-a6d2-a1d28e1e7f66,Coca-Cola Can,Beverages,0.97,,5.82,0,Debit Card,Young,Female,,Chloe Lee
-Ee2593,7/26/24,Canada,ba19a22b-dbb4-4d9f-bb16-2b622c45c4fe,Coca-Cola Can,Beverages,1.69,8,13.52,0,Debit Card,Senior,Female,Montreal,William Wilson
-nm9043,6/3/24,Canada,d8818df9-f245-4bd0-b09f-835005e647ae,Levi's 501 Jeans,Apparel,52.45,8,419.6,,Cash,Senior,Male,Ottawa,Lucas Smith
-Gm3449,6/29/24,Canada,8af8d798-7ee5-457f-af86-0f34d0f621d5,Coca-Cola Can,Beverages,1.44,8,11.52,,Online Payment,Young,Male,Ottawa,Benjamin Lee
-Kk8034,3/10/25,,5a45dd6f-b163-4164-a742-d934d9e0615c,Doritos Chips,Snacks,3.1,9,27.9,0.05,Credit Card,Adult,Male,Vancouver,Thomas Martin
-Tu3084,9/6/24,Canada,ac150638-a36a-412b-83af-6d2d12d3a2a7,Samsung QLED TV,Electronics,1184.26,3,3552.78,0.05,Debit Card,Young,Female,Toronto,Chloe Gagnon
-Mc8011,1/25/25,Canada,32201ea1-da71-40d9-b937-71225c45bd2c,Nike Air Max,Footwear,195.63,9,1760.67,0.1,Online Payment,Senior,Female,Montreal,Sophie Martin
-gb2649,2/4/25,Canada,c5884b2b-d979-4214-b04b-db1101f68c42,KitchenAid Mixer,Home Appliances,279.2,9,2512.8,0.05,Mobile Wallet,Senior,Male,Montreal,Sophie Gagnon
-iu0920,5/27/24,Canada,49452ca0-ccaf-4215-84b4-7a61866026d6,Nike Air Max,,185.26,8,1482.08,0.15,Mobile Wallet,Senior,Female,,Benjamin Martin
-ey2784,12/7/24,Canada,0f4e2f11-d7f3-40ec-96e3-896d4cfe104a,Coca-Cola Can,Beverages,1.35,7,9.45,0.05,Cash,Young,Male,Toronto,Sophie Brown
-Oj3886,1/9/25,Canada,ca85f897-2880-4ce4-8f54-412569217d8e,Levi's 501 Jeans,Apparel,57.22,9,514.98,0,Online Payment,Adult,Male,Calgary,Olivia Johnson
-xR7846,4/30/24,Canada,d639307b-26ea-4238-a8f3-b5b040a9661a,Samsung QLED TV,Electronics,999.74,5,,0.15,Online Payment,Senior,Female,Ottawa,Lucas Tremblay
-Nh6053,6/10/24,Canada,942591d1-9cc1-486a-8ca2-03762187d394,iPhone 14,Electronics,922.3,4,3689.2,0.05,Debit Card,Adult,Male,Toronto,Liam Martin
-Wc8154,3/26/24,Canada,15b30c54-e4d2-41b3-8818-b2c69577ad60,Apple MacBook Pro,Electronics,1582.85,,14245.65,0,Mobile Wallet,Adult,Male,Ottawa,Olivia Wilson
-kV4782,,Canada,3d7a208d-d766-4bda-b05a-efe5913b22cb,The North Face Jacket,Apparel,246.86,2,493.72,0.2,Online Payment,Adult,Male,Calgary,Lucas Tremblay
-nS7614,10/24/24,Canada,eaea17d4-1cce-4df1-bd3c-089432ee8df1,KitchenAid Mixer,Home Appliances,426.46,2,,0.15,Mobile Wallet,Adult,Male,Ottawa,Chloe Tremblay
-HZ6413,7/13/24,Canada,5f85ed28-0a9e-4fae-95bb-df788be8a0db,Doritos Chips,Snacks,1.8,10,18,0.15,Debit Card,Adult,Female,Toronto,Noah Tremblay
-aF2716,6/23/24,Canada,d832ae68-e53a-4641-9372-9d7645fa4287,KitchenAid Mixer,Home Appliances,459.06,3,,0.2,Online Payment,Senior,Male,Calgary,Noah Tremblay
-SH7248,9/7/24,Canada,4923d408-73c9-4dab-b6b1-3ca2f688e871,KitchenAid Mixer,Home Appliances,465.46,5,2327.3,0.15,Cash,Young,Male,Toronto,Emma Roy
-EX4686,9/20/24,Canada,b9e0874c-0ef3-4821-a651-dc3283e2d7fa,Coca-Cola Can,,1.11,2,2.22,0.2,Credit Card,Senior,Female,Montreal,Olivia Smith
-jJ3443,11/8/24,Canada,de6feb13-5934-42ca-ada3-2477aeada076,Levi's 501 Jeans,Apparel,62.62,10,,0.15,Online Payment,Young,,Calgary,Emma Johnson
-TN3371,2/4/25,Canada,2404c43a-558b-42e5-952b-068301584500,KitchenAid Mixer,Home Appliances,446.49,8,3571.92,0.2,Online Payment,Adult,Female,Calgary,Lucas Johnson
-xp6522,8/2/24,Canada,7194833f-36c6-478c-b35f-b8c1560a9ff3,,Beverages,1.81,1,1.81,0,Debit Card,Senior,Female,Vancouver,Lucas Campbell
-Ah0769,3/12/25,Canada,520c191b-5690-445e-b37a-91837935d7f8,Yeti Tumbler,Outdoor,,8,208,0.2,Debit Card,Senior,Male,Vancouver,
-QN3879,4/8/24,Canada,1c9053b4-d68c-421f-bcb0-6b2be73cfbe2,Yeti Tumbler,Outdoor,42.76,1,42.76,0.1,Mobile Wallet,Adult,Female,Ottawa,
-rx9776,4/19/24,Canada,52052023-c04b-40f0-8c85-7c3100132e20,Yeti Tumbler,Outdoor,46.36,5,231.8,0.2,Credit Card,Young,Male,,William Wilson
-os7620,5/18/24,Canada,b0aa3d2e-e847-4a3e-a236-586f68913ada,The North Face Jacket,Apparel,186.3,5,931.5,0.1,Credit Card,Young,Female,Vancouver,Emma Johnson
-cc9203,1/17/25,Canada,55e55ffb-bb4c-4ded-b869-d0f87c7931d7,Coca-Cola Can,Beverages,1.48,9,13.32,0.15,Online Payment,Young,Female,Ottawa,Emma Gagnon
-LU9309,5/2/24,Canada,e7239c07-58ef-4749-b92f-8a024bed31b9,Samsung QLED TV,Electronics,1637.35,1,1637.35,0.2,Mobile Wallet,Young,Male,Toronto,Olivia Campbell
-ka8278,4/9/24,Canada,6d8b2d6c-61e2-4b28-86b3-4c8b3e24d0a3,Coca-Cola Can,Beverages,0.92,9,8.28,0,Credit Card,Senior,Male,Ottawa,Noah Smith
-kn0329,8/3/24,Canada,02bb96c3-388b-4eaf-8d84-fed9922c50d6,Levi's 501 Jeans,Apparel,76.58,10,765.8,0.1,Cash,Adult,Male,,Sophie Gagnon
-sM2032,3/11/25,Canada,96995cc0-5b8c-4130-bebf-381f0a50f8c3,Coca-Cola Can,Beverages,1.91,3,5.73,0,Online Payment,Adult,Female,Ottawa,Sophie Lee
-vU8284,11/19/24,Canada,ef23bfb4-0fa0-435f-95f6-0d34768ac0db,The North Face Jacket,Apparel,139.42,7,975.94,0.1,Debit Card,Senior,Male,Vancouver,Chloe Smith
-wj5773,3/9/25,Canada,c436a8e9-1f14-4e6c-9882-0975438739c8,Coca-Cola Can,Beverages,1.99,5,9.95,0.1,Mobile Wallet,Adult,,Toronto,Lucas Wilson
-BN0578,12/22/24,Canada,170e3b5c-120f-4062-bb19-731067c0ddc4,Levi's 501 Jeans,Apparel,69,3,207,0,Online Payment,Senior,Male,Toronto,Sophie Wilson
-zY2468,9/26/24,Canada,add80911-25ed-4e4c-8331-dd52826dbbaa,The North Face Jacket,Apparel,260.92,,2609.2,0.05,Online Payment,,Female,Vancouver,Olivia Tremblay
-Fq1970,6/5/24,Canada,76bc8829-82ab-4934-a21b-ae5721696e40,iPhone 14,Electronics,1163.59,1,1163.59,0.1,,Senior,Female,Calgary,Noah Campbell
-It3299,10/24/24,Canada,f162ebfc-e9f4-4b79-a3fb-0250fe4897b7,Samsung QLED TV,Electronics,1836.6,,5509.8,0.15,Mobile Wallet,Adult,Female,Vancouver,Lucas Johnson
-bH1100,4/17/24,Canada,d1dc0667-b8c8-4662-93f9-6f97507ec037,Coca-Cola Can,Beverages,1.03,6,6.18,0.15,Mobile Wallet,Adult,,Ottawa,Sophie Brown
-oj0678,9/16/24,Canada,35129244-e6c2-4a7c-8b20-449c53469299,Coca-Cola Can,Beverages,0.9,7,6.3,0.15,Mobile Wallet,Adult,Male,Toronto,Noah Brown
-cI2361,8/17/24,Canada,82a35f3c-8a79-4612-ae5c-1d5e7ca3872e,Coca-Cola Can,Beverages,0.74,10,7.4,0.05,,Adult,Male,Montreal,Chloe Martin
-pe8356,7/2/24,Canada,696cd0d8-5e44-42be-b019-dbe871684b38,Yeti Tumbler,Outdoor,,3,107.16,0,Mobile Wallet,Adult,Female,Ottawa,Lucas Brown
-in3214,4/17/24,Canada,68614c99-fc2f-488b-a231-c2baed22e03f,Levi's 501 Jeans,Apparel,79.84,4,319.36,0,Debit Card,Senior,Male,Ottawa,William Tremblay
-pe7613,12/21/24,Canada,23eb113f-24ac-4340-aaa4-de321dc2f53b,Yeti Tumbler,Outdoor,29.21,3,87.63,0.1,Credit Card,Adult,Female,Vancouver,Thomas Roy
-rJ0122,8/12/24,Canada,50a57e5c-3bc8-4bc7-bbe4-1b679b75957f,KitchenAid Mixer,Home Appliances,309.55,10,3095.5,0,Debit Card,Adult,Female,Montreal,Emma Martin
-ky1941,7/17/24,Canada,e03ec954-31e3-4d99-97d4-58baf12b4b32,Levi's 501 Jeans,Apparel,70.11,4,280.44,0.15,Cash,Young,,Toronto,Thomas Campbell
-cw6591,9/7/24,Canada,e1cfa352-2b3b-4d2d-accf-8c8e4bdf2927,Nike Air Max,Footwear,128.29,3,384.87,0.15,Debit Card,,Male,Toronto,Chloe Tremblay
-tV1596,8/20/24,Canada,5a824772-eb00-4d7e-8a69-b7281bca1aff,KitchenAid Mixer,Home Appliances,402.52,2,805.04,0,Debit Card,Adult,Male,Montreal,Noah Brown
-JV3160,5/4/24,Canada,a1964b4c-dede-4e8c-84f4-5b9fd0c9db09,Doritos Chips,Snacks,3.78,10,,0.05,Cash,Senior,Male,Toronto,
-iB0594,12/19/24,Canada,d28d7a7e-0740-4054-a4ae-4220ca576e3d,Coca-Cola Can,Beverages,1.28,6,7.68,0.2,Mobile Wallet,Adult,Male,Ottawa,Emma Tremblay
-JY8144,1/17/25,Canada,8c92fd40-a88e-4641-aeee-6256aee79b30,The North Face Jacket,Apparel,192.08,3,576.24,0,Credit Card,Adult,Male,Ottawa,Olivia Johnson
-nU2357,8/18/24,Canada,7797cb08-94ce-47a8-9d4c-45be1f1bf56b,The North Face Jacket,Apparel,133.09,9,1197.81,0,Cash,Senior,Female,Toronto,Olivia Wilson
-zs2791,7/4/24,Canada,e482db07-f5ab-4741-b697-48b40d39b5cc,The North Face Jacket,Apparel,174.05,2,348.1,0.1,Cash,Senior,Female,Montreal,Emma Wilson
-Ab7487,2/26/25,Canada,e5bcbe62-5aca-45a4-a488-1f5d79c46a3b,Nike Air Max,Footwear,192.42,6,1154.52,0.05,Mobile Wallet,Senior,,Calgary,Benjamin Johnson
-tP3997,4/24/24,Canada,523eec68-8a87-4d31-a549-46d0d8dacbaa,Doritos Chips,Snacks,3.67,2,7.34,0.15,Mobile Wallet,Young,Female,Montreal,Noah Campbell
-bU5918,10/18/24,Canada,abbadee0-2a6a-4083-85bf-3c3c55873869,The North Face Jacket,Apparel,154.25,1,154.25,0.1,Online Payment,Young,Male,Ottawa,Benjamin Roy
-td2248,11/1/24,Canada,f32a43c2-c4b7-416e-b768-cc96c234630a,KitchenAid Mixer,Home Appliances,408.17,3,1224.51,0.05,Mobile Wallet,Young,Female,Calgary,Sophie Gagnon
-Gp0099,,Canada,927f5647-24b5-4d94-ade5-a25a2e9f489d,Apple MacBook Pro,Electronics,1768.96,9,15920.64,0.15,Mobile Wallet,Adult,Male,Calgary,Liam Lee
-GI2690,,Canada,24d3f9ec-39a4-493f-a7e6-6155b0925ee3,Yeti Tumbler,Outdoor,21.99,3,65.97,0.15,Cash,Senior,Male,Ottawa,Olivia Lee
-qq8087,11/19/24,Canada,49cf9a83-42a8-4d84-abbf-ac34d96a8f45,Apple MacBook Pro,Electronics,2256.25,5,11281.25,0.05,Mobile Wallet,Adult,Male,Montreal,Sophie Johnson
-Gg0717,,Canada,a5b63f7e-6203-4ce0-b24c-4ed2d42bee23,Coca-Cola Can,Beverages,1.94,4,7.76,0,Credit Card,Adult,Male,Calgary,
-VQ2349,2/28/25,Canada,0552a2ad-d70e-47e9-b94b-a490d1b88afb,iPhone 14,Electronics,887.57,10,8875.7,0.05,Cash,Adult,Male,Vancouver,Noah Lee
-AX9079,4/24/24,,abcf86c4-b1ce-484a-8afd-eeb87256032c,The North Face Jacket,Apparel,103.64,3,310.92,0.2,Credit Card,Young,Male,Montreal,Olivia Campbell
-RE3766,10/9/24,Canada,529a1394-1a53-43ce-b70a-abb40fc446ad,Samsung QLED TV,Electronics,851.15,9,7660.35,0,,Senior,Female,Montreal,Sophie Gagnon
-iz1306,8/2/24,Canada,012aff57-c864-442f-b565-e85efff89b5b,Coca-Cola Can,Beverages,1.42,3,4.26,0.15,Mobile Wallet,Young,Female,Toronto,Chloe Wilson
-eo2901,11/3/24,Canada,32b7163c-6f74-4ccf-a4ae-dc4023cf588f,Samsung QLED TV,Electronics,818.59,9,7367.31,0.05,Credit Card,Senior,Female,Toronto,Liam Johnson
-Bi9388,9/30/24,Canada,de85a7e8-c17d-42ea-8e73-96c83ecc6477,Apple MacBook Pro,Electronics,1949.88,5,9749.4,0.2,Credit Card,Senior,Female,Toronto,Noah Lee
-UU9969,3/28/24,Canada,6f3dbfa3-fb82-4af1-b428-31c30fbf599b,Levi's 501 Jeans,Apparel,55.38,2,110.76,0.05,Debit Card,Adult,,Calgary,Liam Roy
-zx5033,4/21/24,Canada,e87f74d8-f33a-4206-b30e-f01b3f12a59f,Coca-Cola Can,,1.95,1,1.95,0.1,Debit Card,Senior,Female,Vancouver,
-RT5114,5/14/24,Canada,,Nike Air Max,Footwear,192.69,6,1156.14,0.05,Credit Card,Senior,Female,Ottawa,Benjamin Campbell
-ZA2202,8/4/24,Canada,742f1866-1b59-4f77-9104-a9488a4a8ee0,Coca-Cola Can,Beverages,1.39,10,13.9,0.15,Credit Card,,Male,Ottawa,Olivia Brown
-CM4171,12/22/24,Canada,99284d23-91f1-4c2e-ba08-fe078a974fa9,The North Face Jacket,Apparel,260.25,5,1301.25,0.05,Mobile Wallet,Young,Male,Toronto,Chloe Martin
-be5398,9/28/24,Canada,1c2783fa-e2fe-4ac8-b588-7232a4b718f6,iPhone 14,Electronics,1110.73,8,8885.84,0,Online Payment,Young,Male,,Benjamin Roy
-Gn6502,,Canada,f7a295e6-7908-4147-96d9-990ce759dd1f,Yeti Tumbler,Outdoor,36.33,7,254.31,0.15,Debit Card,Adult,Female,Calgary,Lucas Wilson
-ff5058,5/16/24,Canada,445693d9-4fb3-4179-b568-2299e6721e98,KitchenAid Mixer,Home Appliances,457.89,1,457.89,0.2,Debit Card,Senior,Female,Calgary,Liam Brown
-yF0341,1/5/25,Canada,42fcb597-bd3b-4dbe-b214-75e988b87171,Nike Air Max,Footwear,159.29,7,1115.03,0.2,Mobile Wallet,Senior,Male,Montreal,Emma Smith
-kw0913,9/23/24,Canada,6b2feb3b-be56-491c-b4db-3f6434eadb6e,KitchenAid Mixer,Home Appliances,307.75,9,2769.75,0.05,Credit Card,Young,Male,Toronto,Liam Johnson
-eB5468,9/23/24,Canada,f6de0532-53d1-47da-a06b-3804d88f4458,Apple MacBook Pro,Electronics,1347.67,5,6738.35,0.1,Cash,Senior,Female,Ottawa,
-RI4722,3/19/25,Canada,98191a09-4d26-45cd-b2a0-f505bced7a40,iPhone 14,Electronics,805.05,7,5635.35,0,Online Payment,Senior,Female,Vancouver,Olivia Martin
-mu0915,1/19/25,Canada,3943f0a3-b0e5-4a78-adc6-732399f55fcd,Doritos Chips,Snacks,4.78,8,38.24,0,Mobile Wallet,Young,Female,Ottawa,William Roy
-dO3845,10/17/24,Canada,1be9f848-8479-469e-801a-600f85a7c3f0,The North Face Jacket,Apparel,129.46,10,1294.6,0.1,Mobile Wallet,Senior,Female,Toronto,Lucas Wilson
-bR8559,12/12/24,Canada,eef5fb87-47d9-4659-bdc7-630bbec7cb48,Doritos Chips,Snacks,3.42,3,,0,Debit Card,Senior,Male,Vancouver,Emma Gagnon
-tG9807,3/9/25,Canada,fca1e908-91fe-4df6-be01-a028f69e411f,The North Face Jacket,Apparel,129.85,5,649.25,0.1,Online Payment,Adult,Female,Ottawa,Sophie Wilson
-yg7138,5/27/24,Canada,aef02f85-6749-4da6-9fa7-cac033196a5b,Doritos Chips,Snacks,2.18,4,8.72,0.15,Mobile Wallet,Senior,Male,Toronto,
-Qm0541,2/2/25,Canada,259df824-38b8-4d11-841e-692d9ae7579f,Nike Air Max,Footwear,176.04,6,1056.24,0.15,Credit Card,Young,Female,Calgary,Benjamin Tremblay
-dg3514,8/1/24,Canada,a1b010dc-c708-4162-9834-555b6afa5344,Doritos Chips,Snacks,2.68,4,10.72,,Mobile Wallet,Adult,Female,Montreal,Noah Martin
-yh1771,12/31/24,Canada,6459a9ee-00ed-4bb0-8cbd-87ab67d0b926,KitchenAid Mixer,Home Appliances,459.06,8,3672.48,0.1,Credit Card,Adult,Male,Montreal,Liam Roy
-ly7044,5/22/24,Canada,eaa97d2a-dfef-4e2e-8d26-97fe629f866b,KitchenAid Mixer,Home Appliances,305.64,4,1222.56,0.1,Debit Card,Senior,Male,Montreal,Sophie Lee
-ur0431,3/14/25,Canada,8e96cf8b-b3bd-49b2-ae02-dbd87619a570,iPhone 14,Electronics,938.17,3,2814.51,0.15,Credit Card,Adult,Female,Calgary,Sophie Tremblay
-KL4975,9/23/24,Canada,7acc1f97-10d4-42f1-b94e-a59fe8e7ff02,Samsung QLED TV,Electronics,545.34,6,3272.04,0.1,Debit Card,Young,Male,Ottawa,Noah Roy
-ng2091,9/23/24,Canada,a81b45e4-6cf5-4fa9-80c5-58453ffb225f,Apple MacBook Pro,Electronics,1937.83,1,1937.83,0.05,Debit Card,Senior,Male,Ottawa,William Martin
-pb7684,8/29/24,,befa57fc-f275-4191-a9bd-b14320453741,iPhone 14,Electronics,909.53,7,6366.71,0.1,Debit Card,,Male,Montreal,Sophie Campbell
-Ed5156,7/12/24,Canada,c594c986-ac25-4d65-ae03-c884f95891be,Coca-Cola Can,Beverages,1.18,1,1.18,0,Debit Card,Adult,,,Liam Tremblay
-ol3335,4/9/24,Canada,,Samsung QLED TV,Electronics,639.21,,3196.05,0.2,Debit Card,Young,Female,Calgary,Noah Brown
-nR1376,2/18/25,Canada,27d331a7-3d9b-40c3-8cf5-e7f5d852b320,KitchenAid Mixer,Home Appliances,387.86,6,2327.16,0.05,Mobile Wallet,Adult,Male,Toronto,Lucas Tremblay
-oZ8440,3/16/25,Canada,c25075a1-51cc-4701-8d79-141a0824918d,Coca-Cola Can,Beverages,1.29,9,11.61,0.2,Cash,Senior,Male,Toronto,Chloe Martin
-LR7911,2/6/25,Canada,4d2b7732-5716-49cc-96f6-ed7fff729998,Yeti Tumbler,Outdoor,44.8,5,224,0.1,Online Payment,Young,Male,Ottawa,William Brown
-Sa3746,4/24/24,Canada,472c764e-b1ed-4678-b919-235d44d5837d,Samsung QLED TV,Electronics,1548.58,6,9291.48,,Credit Card,Senior,Male,Montreal,Lucas Lee
-JW1981,4/22/24,Canada,4857953a-a251-4334-b43b-f02b631ddf89,Yeti Tumbler,Outdoor,36.09,3,108.27,,Debit Card,Young,Male,Ottawa,Chloe Roy
-dy8660,,Canada,075fabf2-1176-48dd-a086-6e699f9348db,Yeti Tumbler,,47.15,7,330.05,0,,Adult,Female,Montreal,Emma Smith
-AA4913,9/22/24,,a5460aee-f105-49ea-bb85-c7f3ad8aeba8,Doritos Chips,Snacks,3.07,3,9.21,0.2,Credit Card,Young,Female,Vancouver,Benjamin Brown
-rO0371,4/5/24,Canada,f046074e-4ff0-4ff2-9839-bd3062a9d530,KitchenAid Mixer,Home Appliances,413.26,1,413.26,0.05,,Senior,,Montreal,Liam Roy
-UM2523,3/27/24,Canada,9e151d45-8932-4f1f-9306-c49263025f67,Levi's 501 Jeans,Apparel,53.5,4,214,0.2,Online Payment,Young,Male,Calgary,Sophie Campbell
-Aw9113,5/24/24,Canada,,Nike Air Max,Footwear,114.9,8,,0.1,,Senior,Female,Montreal,
-En6805,2/20/25,Canada,,Doritos Chips,Snacks,4.84,2,9.68,0.1,Cash,Senior,Female,Calgary,Lucas Martin
-TO1082,4/9/24,Canada,1b971291-b0b9-4519-94c6-2b087055a4d0,iPhone 14,Electronics,1098.32,7,7688.24,0.05,Online Payment,Senior,Female,Calgary,Benjamin Brown
-cS8225,,Canada,368b8061-e8d6-4088-b45e-b2635124ed70,Yeti Tumbler,Outdoor,40.95,3,122.85,0,Debit Card,Young,Female,Vancouver,Emma Lee
-nB8153,9/23/24,Canada,6eab3fee-c5ac-47ad-af29-be0b7d2932ba,Doritos Chips,Snacks,2.03,4,8.12,0,Mobile Wallet,Adult,Male,Toronto,Lucas Smith
-wB7183,3/26/24,Canada,9bdb44e8-270f-4b7d-9a3d-d6d160b390d0,Nike Air Max,Footwear,126.58,9,1139.22,0.15,Online Payment,Senior,Female,Toronto,Emma Brown
-fE8714,11/21/24,Canada,13cd3b3b-a1a4-48e7-8d6f-cbaf76b0f728,iPhone 14,Electronics,857.73,6,5146.38,0.15,Online Payment,Young,Female,Toronto,William Johnson
-LQ3122,8/3/24,Canada,232f761a-cc1a-4a30-9b20-527b2e0e6bc5,Levi's 501 Jeans,Apparel,58.56,8,468.48,0.15,Online Payment,,Male,Ottawa,William Gagnon
-yg8484,1/16/25,Canada,13ae83b0-c6e5-449c-9889-a1e6b7df3bee,Apple MacBook Pro,Electronics,2299.89,6,13799.34,0.2,Online Payment,Adult,Female,Montreal,Emma Tremblay
-nx8611,8/13/24,Canada,88919b36-a5b1-46d0-984c-8110f86492b4,Doritos Chips,Snacks,4.01,8,32.08,0.1,Credit Card,Adult,Female,Calgary,Sophie Lee
-xE0603,1/31/25,Canada,5a27172a-c572-457e-9f0f-f7aa6758f18f,Coca-Cola Can,Beverages,1.23,3,3.69,0,Online Payment,Adult,Male,Montreal,Thomas Lee
-xf1483,7/14/24,Canada,e514a9d7-6662-4f4b-9796-b3d886fcbc4e,Levi's 501 Jeans,,52.13,2,104.26,0.15,Credit Card,Young,Male,Ottawa,Noah Wilson
-Bq7043,4/3/24,Canada,9ace9e1d-afcc-4087-adbf-f83a84be500f,Nike Air Max,Footwear,143.83,8,1150.64,0.1,Debit Card,Adult,Male,Montreal,
-NX6925,3/31/24,Canada,16c36929-cb05-4c46-a45d-1a65ffc3658f,iPhone 14,Electronics,801.11,8,6408.88,0.15,,Senior,Male,Calgary,Liam Campbell
-yT2218,8/11/24,Canada,95dc160a-0dc7-4799-bde0-5d43ff665f38,Coca-Cola Can,Beverages,0.95,10,9.5,0,Online Payment,Senior,Female,Calgary,Olivia Campbell
-XY9143,6/17/24,Canada,df22f30d-6682-4a94-b59a-69d4f7fb1817,Samsung QLED TV,Electronics,,5,6943.75,0.05,Mobile Wallet,Adult,Female,Montreal,Lucas Wilson
-lo3074,10/20/24,Canada,c9ae31ae-b32c-4162-8b99-8a8314eaa440,,Footwear,171.19,10,1711.9,0.05,Online Payment,Young,Female,Montreal,Liam Lee
-rS1651,3/5/25,Canada,d9e26520-8404-4733-a402-efe4b3c1d4dd,Samsung QLED TV,Electronics,,3,3563.76,0.05,Online Payment,Adult,Female,Montreal,Lucas Johnson
+Ei2591,7/21/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1491.65,3,4474.95,0.05,Credit Card,Young,Female,Vancouver,Olivia Roy
+Ba9056,11/18/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,47.58,1,47.58,0.15,Mobile Wallet,Senior,Male,Ottawa,Chloe Lee
+Ow8625,6/1/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2107.41,,4214.82,0.2,Debit Card,Senior,Male,Ottawa,Olivia Campbell
+nG9205,4/25/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,87.37,2,174.74,0.1,Mobile Wallet,Senior,Female,Montreal,Sophie Tremblay
+yx7864,7/1/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1011.1,2,2022.2,0.05,Debit Card,Young,Female,Toronto,William Lee
+nK2457,6/9/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,26.7,9,240.3,0.1,Credit Card,Adult,Male,Montreal,Emma Wilson
+Om9661,5/19/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.8,9,43.2,0.1,Online Payment,Young,Male,Ottawa,Liam Tremblay
+tM5912,11/23/24,,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,102.22,8,817.76,0.1,Debit Card,Young,Male,Calgary,Olivia Wilson
+PL0496,8/8/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,423.02,8,3384.16,0.15,Credit Card,Adult,Female,Calgary,Lucas Wilson
+jx2569,,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,,8,886.24,0.15,Cash,Senior,Female,Toronto,Chloe Smith
+LF6294,7/4/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,,1.7,8,13.6,0.1,Credit Card,Senior,Male,Vancouver,Benjamin Campbell
+pT4019,4/28/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,518.06,3,1554.18,0.15,Online Payment,Adult,Female,Toronto,Benjamin Smith
+me5362,1/17/25,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2264.67,4,9058.68,0.15,Online Payment,Adult,Female,Toronto,Sophie Smith
+Au1847,8/6/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2047,10,20470,0.15,Mobile Wallet,Young,Female,Calgary,Liam Lee
+Lr3745,9/16/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,1.85,7,12.95,0,Cash,Adult,Female,Montreal,Chloe Martin
+Xo3363,4/14/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,172.53,7,1207.71,0.2,Mobile Wallet,Young,Male,Vancouver,Chloe Wilson
+yg5688,12/4/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,,157.47,4,629.88,0.15,Cash,Senior,Female,Calgary,Olivia Brown
+lb8723,,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,187.79,3,563.37,0.05,Online Payment,Senior,Male,Montreal,Benjamin Roy
+ks4682,12/20/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,,0.53,2,1.06,,Credit Card,Senior,Male,Ottawa,William Martin
+gG2614,1/16/25,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,117.85,4,471.4,0.15,Debit Card,Young,,Vancouver,Sophie Gagnon
+sk2117,3/9/25,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,841.12,4,3364.48,0.15,Cash,Senior,Female,Montreal,Olivia Gagnon
+Le0966,10/17/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,808.98,2,1617.96,0.15,Debit Card,Adult,Female,,
+rT6858,7/5/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,112.39,5,561.95,0.2,Debit Card,Senior,Female,Toronto,Chloe Johnson
+fR5062,4/17/24,,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.04,6,6.24,0.05,Debit Card,Senior,,Montreal,William Gagnon
+at7845,8/22/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1308.3,6,7849.8,0.15,Debit Card,Young,,Vancouver,Liam Johnson
+oO2362,2/24/25,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.33,7,9.31,0,Cash,Young,Female,Calgary,William Johnson
+gy2219,11/15/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,187.09,1,187.09,0.15,Credit Card,Adult,,Montreal,William Lee
+qf8422,7/27/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.91,7,34.37,0.05,Debit Card,Adult,Female,Ottawa,Olivia Tremblay
+CX5344,3/27/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,164.27,5,821.35,0.05,Credit Card,Young,Male,Vancouver,Chloe Tremblay
+UE9479,9/14/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,364.57,9,3281.13,0.05,Mobile Wallet,,Female,Ottawa,Noah Lee
+AY3552,2/20/25,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.74,9,42.66,,Cash,Young,Male,Montreal,Thomas Wilson
+MG4597,1/6/25,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,,4.11,2,8.22,0.2,,Young,Male,Montreal,Thomas Brown
+WG4868,10/1/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,,8,613.84,0.1,Online Payment,Adult,Female,Calgary,Lucas Campbell
+OK1675,9/18/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.63,4,6.52,0.05,,Adult,Male,Calgary,Thomas Gagnon
+kV1812,11/3/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,,Electronics,1151.5,5,5757.5,,Credit Card,Young,Male,Toronto,
+Hw8234,4/10/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2349.1,1,,,Credit Card,Senior,Female,Vancouver,Chloe Lee
+vg2867,9/11/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,458.87,7,3212.09,0.05,Mobile Wallet,Senior,Female,Montreal,Lucas Tremblay
+vI1419,4/23/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,25.33,7,177.31,0.2,Online Payment,Senior,Female,Toronto,Emma Johnson
+hA6697,11/14/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1193.27,3,3579.81,0.05,Credit Card,Young,Female,Montreal,Olivia Gagnon
+hN6040,12/14/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1380.96,,13809.6,0.05,Credit Card,Adult,Female,Ottawa,Thomas Smith
+lm8334,8/5/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,62.68,7,438.76,0.05,Mobile Wallet,Young,Female,Calgary,
+FZ4005,12/23/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,3.61,6,21.66,0.05,Mobile Wallet,Senior,Male,Ottawa,Olivia Gagnon
+Xz8516,2/19/25,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,96.21,1,96.21,,Credit Card,Senior,Female,Calgary,William Tremblay
+CT5127,,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.57,10,15.7,0.15,Cash,Adult,Male,Vancouver,William Wilson
+ez0516,11/26/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,391.5,8,3132,0,Mobile Wallet,Adult,Male,Ottawa,Benjamin Tremblay
+FX2759,9/21/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,122.32,4,489.28,0.05,Cash,Young,Male,Toronto,Emma Smith
+xW2488,,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.77,6,10.62,0.05,Cash,Young,Male,Ottawa,Noah Smith
+Bp4551,3/24/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,105.13,2,210.26,0.2,Cash,Senior,Female,Montreal,William Wilson
+nJ7830,6/1/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,339.9,3,1019.7,0.1,Mobile Wallet,Adult,Male,,Liam Smith
+ir8420,9/17/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,968.37,5,4841.85,0.1,Cash,Adult,Female,Toronto,Sophie Campbell
+Rq3776,7/29/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1823.38,2,3646.76,0,Mobile Wallet,Young,Female,Ottawa,Lucas Gagnon
+JW1077,9/10/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,,8,278.16,0.1,Credit Card,Young,Female,Toronto,Liam Campbell
+ED0514,2/28/25,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1156.14,5,5780.7,0,Credit Card,Senior,Male,Montreal,William Wilson
+Rq4047,1/16/25,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,24.83,2,49.66,0.05,Debit Card,,Female,Calgary,Chloe Roy
+SC5645,11/24/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,3.78,10,37.8,0.05,Credit Card,Senior,Male,Toronto,Benjamin Tremblay
+aQ2585,8/24/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,,850.82,7,5955.74,0,Cash,Senior,Male,Toronto,
+uu3540,2/23/25,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,245.21,6,1471.26,0,Online Payment,Young,Male,Calgary,William Gagnon
+LQ4486,2/17/25,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1757.05,10,17570.5,0.15,Credit Card,Adult,Male,Montreal,
+tB8874,3/11/25,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,80.71,2,161.42,0.1,Online Payment,Young,Male,Ottawa,
+Fk3430,11/21/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1957.31,6,11743.86,0.15,Mobile Wallet,Young,Male,Vancouver,Thomas Wilson
+Ev1109,4/27/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,46.99,2,93.98,0.05,,Senior,Female,Calgary,Sophie Johnson
+PD2647,4/5/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,,Electronics,2463.32,6,14779.92,0.2,Debit Card,Young,Male,Ottawa,Liam Campbell
+bt1915,9/26/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,48.91,7,342.37,0.05,Online Payment,Senior,,Vancouver,
+NI3445,4/14/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,1.97,5,9.85,0.05,Online Payment,,Female,Vancouver,Lucas Roy
+wo3155,11/12/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,290.14,1,290.14,0,Mobile Wallet,,Female,Vancouver,Noah Lee
+ON0620,10/6/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1068.23,10,10682.3,0.2,Credit Card,Senior,Female,Toronto,Olivia Brown
+qf3057,11/23/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,,Outdoor,41.16,10,411.6,0,Debit Card,Senior,Male,Ottawa,Thomas Roy
+iW2952,7/20/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,,108.26,7,757.82,0.05,Mobile Wallet,Adult,Male,Calgary,Thomas Johnson
+dE1203,7/2/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1547.16,6,9282.96,0.2,Credit Card,Adult,Male,Toronto,Emma Martin
+Qc8363,8/24/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.3,6,7.8,0,Mobile Wallet,Young,Male,,Benjamin Martin
+oF3595,3/16/25,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1826.47,7,12785.29,0.15,Debit Card,Young,Female,Montreal,Lucas Campbell
+pf6902,11/8/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,36.63,4,146.52,0.15,Debit Card,Adult,Female,Toronto,Sophie Campbell
+IW9251,1/31/25,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1752.15,4,7008.6,0.1,Online Payment,Adult,Male,Calgary,Liam Martin
+fS3621,5/3/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.85,6,,0.15,Debit Card,Adult,Female,Montreal,Chloe Smith
+JJ3723,5/24/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,919.9,9,8279.1,0.1,Mobile Wallet,Young,Female,Ottawa,Thomas Brown
+yf2160,5/15/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1159.9,5,5799.5,0.2,Debit Card,Adult,Female,Ottawa,Liam Brown
+vW5387,2/22/25,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,,Beverages,0.65,5,,0.1,Mobile Wallet,Adult,Male,,Olivia Brown
+TP8697,7/26/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,55.91,9,,0.15,Cash,Young,Female,Ottawa,Benjamin Johnson
+bY5401,10/25/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,174.72,1,174.72,0.05,Debit Card,Adult,Female,Montreal,Noah Martin
+wk8887,,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1151.15,3,3453.45,0.05,Cash,,Male,Calgary,Noah Roy
+uP5534,6/13/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,,Beverages,1.67,10,16.7,0.2,Credit Card,Adult,Male,Ottawa,Chloe Brown
+ny4023,1/3/25,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,167.87,3,503.61,0,Credit Card,Adult,Male,,Sophie Johnson
+Dp6356,2/24/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,277.54,1,277.54,0,Cash,Senior,,Vancouver,
+ND8403,12/13/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,,8,571.28,0.1,Mobile Wallet,Adult,Female,,Sophie Roy
+PZ2074,12/7/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,198.92,,397.84,0.1,Cash,Adult,Female,,Sophie Roy
+cU2337,11/17/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1079.58,8,8636.64,0,Cash,,,Toronto,Liam Martin
+DP1704,4/1/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,958.8,1,958.8,0.2,Debit Card,Young,Male,Ottawa,Sophie Lee
+um9617,8/12/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,0.71,9,6.39,0.05,Debit Card,Young,Male,Montreal,Liam Roy
+go3359,12/13/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,,1936.82,6,11620.92,,Mobile Wallet,Adult,Female,Vancouver,Lucas Brown
+fW9576,3/17/25,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,,1.6,2,3.2,0.15,Cash,Senior,Male,Montreal,Chloe Smith
+GW0006,9/13/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,67.15,6,402.9,0.2,Online Payment,Senior,Male,Vancouver,Thomas Smith
+WA6877,8/9/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,313.82,5,1569.1,0.15,Debit Card,Senior,Female,Calgary,Thomas Lee
+sg7117,4/28/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,279.15,1,279.15,0.05,Debit Card,Young,Male,Vancouver,Sophie Wilson
+ek9509,1/14/25,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1373.83,,13738.3,0.15,Cash,Young,Male,Ottawa,Chloe Johnson
+sc9780,12/13/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,88.44,3,265.32,0.05,Mobile Wallet,Senior,Female,Vancouver,Thomas Roy
+AZ2087,3/29/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,60.3,4,241.2,0.15,Online Payment,Senior,Male,Calgary,Benjamin Martin
+gw2362,10/25/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,454.08,3,1362.24,0.15,Debit Card,Senior,Male,Calgary,Liam Roy
+FA2837,8/27/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,,Electronics,2225.79,1,2225.79,0,Debit Card,Senior,Female,Ottawa,Chloe Smith
+nP2306,1/15/25,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.5,9,13.5,0.15,Online Payment,Young,Male,Vancouver,Lucas Martin
+DO0450,2/18/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,284.73,10,2847.3,,Online Payment,Senior,Male,Calgary,Olivia Smith
+oD3790,4/18/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,122.48,,1224.8,0.15,Mobile Wallet,Young,Male,Vancouver,Liam Martin
+Om3660,7/28/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,202.17,6,1213.02,0.05,Debit Card,Adult,Female,Toronto,Thomas Campbell
+Ny0505,8/30/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,302.5,6,1815,0.2,Credit Card,Senior,Female,Ottawa,William Roy
+WO4577,5/3/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,852.19,1,852.19,0.05,Credit Card,Adult,Female,Ottawa,William Smith
+Sx9740,10/2/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,40.02,4,160.08,0.2,Online Payment,Senior,Male,Toronto,William Campbell
+Wj9222,12/11/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,707.46,5,3537.3,0,Cash,Senior,Female,Montreal,Sophie Roy
+AU9947,5/4/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,,,1601.25,0.05,Credit Card,,Female,Ottawa,William Martin
+Ik1644,1/24/25,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,166.92,6,1001.52,0.1,Online Payment,,Male,Vancouver,Olivia Wilson
+hY2463,7/13/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1337.14,10,13371.4,0.05,Online Payment,Adult,Female,Vancouver,Lucas Wilson
+Az2988,7/17/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,,1,271.85,0.15,Cash,Young,Male,Toronto,Liam Johnson
+Oz6653,10/14/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1202,3,3606,0.2,Credit Card,Young,Male,Toronto,Noah Campbell
+Po9210,3/27/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,,Electronics,770.09,3,2310.27,0.2,Debit Card,Senior,Male,,Sophie Lee
+Qr7855,6/3/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,81.63,6,489.78,0.15,Credit Card,Adult,,Calgary,Lucas Gagnon
+Nk6061,9/26/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.05,7,,0,Debit Card,Adult,Female,Calgary,
+ir2214,3/28/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,,Outdoor,45.89,10,458.9,0.2,Debit Card,Young,Female,Toronto,Liam Wilson
+Qt7718,11/1/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1481.43,1,1481.43,0.15,Online Payment,Adult,Male,Montreal,Lucas Gagnon
+zy7355,2/11/25,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,782.75,6,4696.5,0.15,Credit Card,Adult,Male,Vancouver,Sophie Smith
+mk1585,8/22/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,100.12,5,500.6,0.2,Online Payment,,Female,Montreal,Chloe Roy
+EZ3728,5/9/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,89.23,3,267.69,0.2,Mobile Wallet,Adult,Male,Ottawa,Sophie Johnson
+EK1762,7/9/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.63,1,,0.05,Credit Card,Senior,Female,Montreal,Lucas Gagnon
+aB0089,12/24/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,802.88,10,8028.8,0.1,Mobile Wallet,Adult,Female,Ottawa,Emma Wilson
+Ih0659,8/26/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,79.91,1,79.91,0.1,Online Payment,Adult,Female,Toronto,Olivia Lee
+lI0219,5/3/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2024.07,2,4048.14,,Mobile Wallet,Young,Female,Vancouver,Benjamin Brown
+nO9122,2/8/25,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,193.66,7,1355.62,0.2,Online Payment,Adult,Female,Ottawa,William Gagnon
+Me1498,8/31/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,61.58,,61.58,0.15,Debit Card,Adult,Male,Montreal,Benjamin Lee
+Hn5935,7/8/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,,8,,0.15,Mobile Wallet,Senior,Female,,Lucas Lee
+WA8044,1/6/25,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,,Electronics,1624.35,1,1624.35,0.2,Debit Card,Senior,Female,Toronto,Liam Lee
+WK0795,8/26/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1946.11,8,15568.88,0.2,Cash,Adult,Male,Toronto,
+qA1316,5/24/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,,,204.61,0.2,Credit Card,Young,Female,,Noah Wilson
+Ez1819,3/25/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,107.77,9,969.93,0.15,Cash,Young,Male,Calgary,William Gagnon
+ci0615,8/30/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,,34.73,2,69.46,0.15,Debit Card,Adult,Female,Vancouver,Thomas Roy
+Oy8456,8/3/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1701.59,7,11911.13,0.05,Cash,Senior,Male,Toronto,Emma Martin
+DX8704,6/4/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,410.39,2,820.78,0,Cash,Senior,Female,Montreal,Emma Martin
+RO8741,11/22/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,409.95,,3279.6,0.05,Online Payment,Young,Male,Vancouver,Chloe Gagnon
+RJ7440,9/25/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,79.03,6,474.18,0.2,Debit Card,Adult,Female,Toronto,Chloe Johnson
+wk6033,11/3/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,2.59,6,15.54,,Mobile Wallet,Adult,Female,Vancouver,Chloe Smith
+jd6857,7/9/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,418.26,1,,0.2,Cash,Adult,Female,Calgary,Benjamin Brown
+iP2467,3/2/25,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,,Snacks,4.45,6,26.7,0.2,Cash,Young,,Ottawa,Sophie Lee
+Pf5570,12/4/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,67.94,9,611.46,0.1,Online Payment,Young,Female,Montreal,Olivia Gagnon
+CL0114,11/25/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,36.61,8,292.88,0,Online Payment,Young,Female,Toronto,Noah Smith
+nc1721,1/10/25,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,105.25,1,105.25,0.1,Credit Card,Adult,Female,Montreal,Emma Martin
+wF4483,5/21/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1119.1,3,3357.3,0,Online Payment,Adult,Female,Montreal,Emma Roy
+cJ7730,8/5/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,,,13.8,0.2,Cash,Adult,Male,Vancouver,Chloe Martin
+OV7039,5/29/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.44,1,4.44,0.05,Cash,Senior,Female,Calgary,Lucas Lee
+RH2101,11/20/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,265.18,8,2121.44,0,Cash,Young,Female,Montreal,Liam Gagnon
+xJ2302,10/9/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,24.97,7,174.79,0.15,Credit Card,Senior,Male,Vancouver,Thomas Roy
+WT7589,7/1/24,Canada,7e672610-4998-4c0c-b307-04243730de19,,Apparel,67.6,4,270.4,0,Mobile Wallet,Young,Female,Vancouver,William Gagnon
+Qx0853,4/9/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,97.47,10,974.7,0.15,Credit Card,Adult,Male,Montreal,Liam Martin
+Bh5796,7/29/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,902.74,9,8124.66,0.05,Debit Card,Young,Male,Montreal,Thomas Johnson
+xn9553,9/1/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,75.11,3,225.33,0.1,Debit Card,Young,Male,Montreal,Thomas Tremblay
+Ag4999,6/28/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,3.68,4,14.72,0.2,Debit Card,Young,Female,Vancouver,Benjamin Tremblay
+XG9247,10/19/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,416.78,5,2083.9,0,Mobile Wallet,Senior,Male,Ottawa,Liam Wilson
+pk0856,12/30/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,,Outdoor,,4,120.6,0.2,Mobile Wallet,Young,Male,Calgary,Benjamin Gagnon
+sk5174,4/18/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,815.35,9,7338.15,,Credit Card,Young,Male,Vancouver,Liam Roy
+Wu0898,4/15/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1098.56,3,3295.68,0,Online Payment,Adult,,Ottawa,Sophie Gagnon
+Jo4921,6/7/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,,2,4249,0.1,Debit Card,Senior,Female,Montreal,William Johnson
+LG7646,1/18/25,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.03,8,32.24,0.05,Mobile Wallet,Senior,Male,Vancouver,Benjamin Gagnon
+fc1233,8/19/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.75,1,1.75,0.15,Online Payment,Young,Female,Montreal,Thomas Roy
+Ol3261,5/9/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,564.2,1,564.2,0.1,Online Payment,Adult,Male,Toronto,Benjamin Johnson
+HE1442,10/10/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1085.46,,,0.2,Online Payment,Senior,Female,Montreal,Liam Martin
+Cx5488,1/24/25,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,83.45,2,166.9,0.05,Online Payment,Young,Female,Montreal,
+nL5240,1/21/25,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2129.61,8,17036.88,0.05,Credit Card,Adult,,,Olivia Roy
+lU3212,10/25/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,151.14,2,302.28,0.1,Mobile Wallet,Adult,Female,Vancouver,Chloe Smith
+oq5623,8/30/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,193.45,,580.35,0.05,Credit Card,Young,Female,Vancouver,Thomas Lee
+Dk1022,11/2/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,324.67,4,1298.68,0.15,Cash,Senior,Male,Toronto,Sophie Campbell
+wW7906,9/17/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,166.69,8,1333.52,,Debit Card,Adult,Male,Calgary,Thomas Smith
+eW7596,6/9/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,318.16,9,2863.44,0.05,Credit Card,Senior,Female,Ottawa,Thomas Lee
+tq4179,7/26/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,158.36,1,158.36,0.15,Credit Card,Adult,Female,Toronto,
+TM2963,5/26/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,58.81,10,588.1,0.05,Online Payment,Adult,Female,Calgary,Sophie Tremblay
+PR2010,10/5/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,880.99,4,3523.96,0.15,Credit Card,Senior,Male,Toronto,Lucas Roy
+Ei1802,7/31/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,125.84,1,125.84,0.2,,Young,Male,Montreal,Emma Smith
+GS5297,12/17/24,,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,158.13,5,790.65,0,Credit Card,,Male,Montreal,Emma Johnson
+TR4983,9/12/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.52,3,13.56,0.2,Cash,Adult,Male,Toronto,William Johnson
+rF0627,8/30/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1527.47,1,1527.47,0.15,Online Payment,Young,Female,Calgary,Liam Brown
+RY2160,12/19/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,,1038.45,3,3115.35,,Cash,Young,Male,Montreal,William Roy
+LJ1226,9/12/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,0.85,8,6.8,0.15,Online Payment,Senior,Female,Calgary,Liam Smith
+Ju6784,9/14/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,181.79,,1817.9,0,Debit Card,Senior,Female,Montreal,Sophie Campbell
+Jj0435,12/30/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,101,8,808,0,Debit Card,Adult,Male,Ottawa,Sophie Brown
+aH9004,8/31/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,,867.91,8,6943.28,0.1,Debit Card,Adult,Female,Toronto,Emma Johnson
+Ci6425,8/3/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,474.45,3,1423.35,0.15,Mobile Wallet,,Male,Vancouver,Chloe Campbell
+Nz5628,5/18/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,177.15,8,1417.2,0.15,Mobile Wallet,Adult,Female,Ottawa,Liam Gagnon
+YF3578,11/20/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,3.19,1,3.19,,Credit Card,Adult,Female,Calgary,Thomas Johnson
+ey5375,11/17/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,46.3,3,138.9,0.05,Online Payment,Adult,Female,Calgary,Sophie Roy
+cA1553,1/5/25,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,177.14,7,1239.98,0.1,Cash,Young,Female,Vancouver,Chloe Lee
+Ox2480,3/31/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.92,10,19.2,0.05,Mobile Wallet,Senior,Male,Montreal,Thomas Brown
+SC3614,10/15/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.31,1,1.31,0.1,Mobile Wallet,Adult,Female,Ottawa,Noah Smith
+wa4039,9/20/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,,Home Appliances,407.99,2,815.98,0.05,Mobile Wallet,,Male,Calgary,Liam Wilson
+HX2868,7/11/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,24.81,6,148.86,0.1,Mobile Wallet,Senior,Female,Vancouver,Olivia Wilson
+uZ6978,10/18/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.1,8,8.8,0.05,Cash,Young,Male,Toronto,Sophie Roy
+lK5529,2/15/25,Canada,7e672610-4998-4c0c-b307-04243730de19,,Apparel,94.23,7,659.61,0.15,Online Payment,Adult,Male,Calgary,Sophie Campbell
+YF2432,7/27/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2090.72,2,4181.44,0.2,Mobile Wallet,Adult,Male,Ottawa,Lucas Campbell
+st5384,2/8/25,,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1067.37,2,2134.74,0.05,Mobile Wallet,Young,Female,Ottawa,Emma Campbell
+Qq4143,10/3/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,2.59,5,,0.15,Cash,Adult,Female,Toronto,Olivia Gagnon
+CY6936,12/12/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1894.57,8,15156.56,0,Debit Card,Senior,Male,Toronto,Chloe Wilson
+Fu1418,4/16/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,,,,0.1,Cash,Senior,Female,Montreal,Thomas Gagnon
+sU6579,11/5/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,32.59,5,162.95,0.1,Debit Card,Adult,Female,Ottawa,Thomas Gagnon
+uL5309,7/29/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,302.32,9,2720.88,0.1,Debit Card,Young,Female,Montreal,William Roy
+lJ7571,1/15/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,319.06,9,2871.54,0.1,Online Payment,Senior,Male,Calgary,Emma Smith
+HY4196,2/3/25,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,,4,710.44,0.1,Online Payment,Young,Male,Ottawa,Lucas Roy
+lL3902,6/20/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,3.42,5,17.1,0.15,Debit Card,Young,Male,Vancouver,Chloe Lee
+xA4237,9/22/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2497.62,8,19980.96,,Online Payment,Adult,Male,Calgary,William Lee
+xg6304,7/20/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,60.19,1,60.19,0.05,Credit Card,Young,Female,Calgary,Sophie Smith
+ij9902,8/12/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,931.61,5,4658.05,0,Credit Card,Young,Male,Ottawa,Emma Martin
+OC1077,5/24/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,,4,4284.96,0.05,Online Payment,Young,Male,Calgary,Emma Wilson
+QG9099,2/10/25,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,98.11,6,588.66,0.05,Mobile Wallet,Senior,Male,Calgary,Sophie Tremblay
+Dd9366,11/6/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,,Electronics,809.83,10,8098.3,0,Mobile Wallet,Young,Male,Ottawa,Chloe Martin
+TQ2695,12/27/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,,6,637.08,0.1,Online Payment,Young,Male,Montreal,Benjamin Johnson
+Qn7263,5/17/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.87,3,5.61,0.15,Online Payment,Senior,Male,Ottawa,Chloe Wilson
+uT9811,,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,,36.58,7,256.06,0.1,Credit Card,Adult,Female,,Chloe Wilson
+fl6534,2/15/25,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,967.95,4,3871.8,0.1,Cash,Young,Female,,Noah Smith
+VG8019,7/1/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,191.08,8,1528.64,0.05,Debit Card,Adult,Male,Ottawa,Emma Tremblay
+zQ0698,6/19/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,838.35,7,5868.45,0,Mobile Wallet,Young,Female,Ottawa,William Campbell
+qh5387,7/6/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.65,7,32.55,0,Cash,Adult,Male,Montreal,
+pb9739,9/17/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,249.37,8,1994.96,0.1,Debit Card,Adult,Male,Ottawa,William Tremblay
+kP4824,6/22/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,,53.55,1,53.55,0.2,Credit Card,Adult,,Ottawa,Liam Roy
+TZ5310,5/7/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,,4,158.96,0,Mobile Wallet,Young,Male,Ottawa,Olivia Lee
+Rp5897,11/7/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2104.35,8,16834.8,0,Credit Card,Senior,Male,,Chloe Gagnon
+zm5239,5/9/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.08,7,28.56,0.2,Debit Card,Young,Male,Vancouver,Benjamin Martin
+Lw0625,2/22/25,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1193.49,6,7160.94,0,Online Payment,Adult,Male,Calgary,Olivia Gagnon
+Ji4776,12/28/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.18,5,5.9,0.2,Online Payment,Senior,Female,Ottawa,Chloe Brown
+ke5393,10/12/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,73.94,8,591.52,,Online Payment,Senior,Female,Calgary,Lucas Lee
+hq2333,11/25/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2047.81,10,20478.1,0.1,Debit Card,Senior,Male,Vancouver,Olivia Martin
+OJ9529,7/30/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,498.56,2,997.12,0.1,Mobile Wallet,Young,Male,Vancouver,Chloe Roy
+qp6269,6/23/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,445.93,2,891.86,0,Cash,Adult,Male,Ottawa,Emma Wilson
+TH6798,10/26/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1389.3,4,5557.2,0.1,Mobile Wallet,Senior,Male,Toronto,Liam Smith
+sT5430,7/20/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,272.94,4,1091.76,0.15,Mobile Wallet,Young,Female,Vancouver,Chloe Tremblay
+Hc7321,10/26/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1357.99,3,4073.97,0.05,Mobile Wallet,Senior,Male,Montreal,Benjamin Gagnon
+yC6251,9/22/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,126.55,3,379.65,0.15,,Adult,Male,,Benjamin Lee
+qP5713,3/5/25,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,43.24,2,86.48,0,Mobile Wallet,Young,Male,Ottawa,Benjamin Tremblay
+tA4118,1/17/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,379.4,7,2655.8,,Online Payment,Senior,Female,Toronto,Chloe Martin
+EI9185,12/6/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,92.42,7,,0.2,Cash,Senior,Male,Toronto,Benjamin Brown
+BD6260,8/10/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,27.78,,277.8,0.15,Online Payment,Senior,Female,,Emma Campbell
+pE9688,8/25/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,,1654.85,9,14893.65,0.05,Cash,Adult,Female,Ottawa,
+CZ2359,6/25/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.16,1,4.16,,Online Payment,Young,Female,Calgary,Emma Roy
+Wy1143,11/27/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1018.94,2,2037.88,0.15,Credit Card,Young,Female,Toronto,Thomas Martin
+kP4163,8/8/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,278.85,5,1394.25,0.1,Debit Card,Young,Male,Calgary,Liam Brown
+yZ5473,7/8/24,,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,831.71,8,6653.68,0.2,,Senior,Female,Toronto,Thomas Roy
+Lw2556,8/8/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,943.16,9,8488.44,0.05,Debit Card,Young,Male,Montreal,
+DD9452,1/17/25,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,1.68,3,5.04,0.05,Debit Card,Senior,Female,,Benjamin Brown
+Pv4310,2/11/25,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,1.53,5,7.65,0.05,Mobile Wallet,Young,Male,Toronto,Liam Wilson
+tQ3019,11/12/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,356.2,8,2849.6,0.15,Mobile Wallet,Adult,Female,Montreal,Chloe Gagnon
+bV2645,2/24/25,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,0.82,6,4.92,,Credit Card,Adult,Female,Ottawa,Chloe Johnson
+DJ1959,4/9/24,,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,68.22,7,477.54,0.2,Debit Card,Senior,Male,,Sophie Martin
+Va1169,10/22/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,106.05,1,106.05,0.05,Online Payment,Young,Male,Toronto,Thomas Lee
+lV1543,6/2/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,1.55,2,3.1,0,Cash,Young,Female,Ottawa,William Brown
+QE7572,11/23/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2366.68,2,4733.36,0.1,Mobile Wallet,Senior,Male,Ottawa,Sophie Wilson
+Jj7226,,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,271.31,8,2170.48,0.2,Online Payment,Senior,Female,Ottawa,
+rK4669,2/13/25,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2327.85,4,9311.4,0.2,Debit Card,Adult,Female,Calgary,Olivia Johnson
+tI6456,7/21/24,,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1474.42,1,1474.42,0.2,Credit Card,Adult,Male,Calgary,Chloe Lee
+TB2109,9/17/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,961.21,3,2883.63,0.1,Credit Card,Young,Female,Toronto,Sophie Brown
+on5990,,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,,32.01,5,160.05,0.2,Cash,Young,Female,Calgary,Liam Johnson
+fh1509,1/10/25,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,212.99,,212.99,0,Online Payment,,Male,Ottawa,Sophie Gagnon
+vk1479,5/30/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,0.87,5,4.35,0,Cash,Young,Female,Montreal,Thomas Campbell
+Fd9584,2/5/25,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,241.79,1,241.79,0.1,Cash,Adult,Female,Calgary,Sophie Campbell
+MJ0541,10/14/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,,7,9657.34,0.2,Mobile Wallet,Adult,Male,,William Roy
+zi1143,7/14/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1737.65,7,12163.55,0,Credit Card,Senior,Male,,Liam Campbell
+iL0511,4/17/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,128.56,3,385.68,0.1,Mobile Wallet,Senior,Male,Vancouver,Noah Lee
+Om7994,8/25/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1887.56,9,16988.04,0.1,Debit Card,Young,Male,Calgary,Sophie Lee
+cE5221,6/28/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,68.51,3,205.53,0.2,Cash,Senior,Male,Calgary,Lucas Brown
+Jq1055,1/17/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,448.95,4,1795.8,0.2,Online Payment,Young,Female,Ottawa,Emma Wilson
+td2034,1/16/25,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,187.72,6,1126.32,0.1,Cash,Adult,Female,Toronto,Lucas Roy
+XK5327,8/11/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,79.79,2,159.58,0.05,Online Payment,Senior,Male,Vancouver,Lucas Martin
+mj3020,11/12/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,57.31,10,573.1,0.1,Credit Card,Senior,Female,Montreal,Liam Campbell
+FX6283,8/7/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,148.53,2,,0.1,Online Payment,Young,Female,Vancouver,Emma Wilson
+mo7121,2/22/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,,Home Appliances,325.72,1,325.72,0,Mobile Wallet,Senior,Male,Vancouver,William Wilson
+Zb8115,11/20/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1616.89,2,3233.78,0.05,Online Payment,Senior,Female,Calgary,Emma Martin
+fU8556,7/25/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1102.81,3,3308.43,0.2,Credit Card,Adult,Male,Calgary,Benjamin Johnson
+Ex6469,3/19/25,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,2.93,2,5.86,0.05,Cash,Adult,Female,Ottawa,Thomas Roy
+aZ0432,5/18/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,,72.73,6,436.38,0,Mobile Wallet,Young,Female,Ottawa,William Gagnon
+OG3592,8/11/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,267.66,7,1873.62,0,Credit Card,Young,Female,,Lucas Gagnon
+FC0682,4/9/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,0.81,8,6.48,0.15,Debit Card,Young,Male,Calgary,Emma Lee
+Fo5206,9/2/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1054.53,6,6327.18,0.1,Credit Card,Young,Female,Ottawa,Liam Roy
+Ga2287,3/9/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,352.63,3,1057.89,0,Credit Card,Young,,Toronto,Noah Gagnon
+ey2482,4/7/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,813.83,3,2441.49,0.2,Credit Card,Adult,Female,Toronto,Liam Smith
+Tc9392,11/17/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,953.75,8,7630,0.05,Debit Card,Young,Male,,Emma Johnson
+Dw4487,3/18/25,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,0.91,1,0.91,0,Mobile Wallet,Senior,Male,Montreal,Chloe Smith
+Qd9490,6/4/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,,Electronics,1155.42,2,2310.84,0.05,Cash,Adult,Male,Vancouver,Chloe Tremblay
+tP1714,5/10/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,37.66,4,150.64,,Online Payment,Young,Male,Calgary,William Roy
+It6088,10/20/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,76.53,3,229.59,0.1,Credit Card,Young,Male,Toronto,Chloe Campbell
+Ym2517,3/26/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,20.29,10,202.9,0,Credit Card,Adult,Male,Montreal,Sophie Campbell
+JE8158,2/21/25,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,2.69,5,13.45,0.15,Online Payment,Adult,Male,Vancouver,
+iQ0363,,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,103.76,8,830.08,0.1,Mobile Wallet,Senior,Male,Vancouver,Emma Roy
+uD1866,,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,108.89,9,980.01,0.1,Mobile Wallet,Young,Male,Montreal,Sophie Roy
+SR3886,11/6/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1322.71,6,7936.26,0.2,Credit Card,Young,Male,Ottawa,Chloe Johnson
+bg2741,1/16/25,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,2.02,3,6.06,0.2,Cash,Adult,Male,Vancouver,William Wilson
+oA2582,4/22/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,,4,2.04,0.05,Credit Card,Senior,Male,,Liam Martin
+xO6974,9/30/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,95.54,9,859.86,0.2,Credit Card,Adult,Female,Vancouver,Olivia Tremblay
+wh4129,6/11/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,186.71,1,186.71,0.1,Debit Card,Young,Female,Ottawa,Olivia Gagnon
+hi6579,2/6/25,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,152.44,8,1219.52,0.05,Online Payment,Adult,Male,Montreal,Benjamin Roy
+CX9928,2/14/25,,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,,8,21.52,0,Online Payment,Young,Male,Ottawa,Noah Tremblay
+Fh3025,,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,974.88,8,7799.04,0.2,,Young,Female,Calgary,William Lee
+JS6679,3/20/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,,1.48,9,13.32,0.1,Mobile Wallet,Senior,Male,Calgary,Thomas Martin
+UQ2149,7/19/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,284.73,1,284.73,0.1,Debit Card,Adult,Female,Toronto,Emma Martin
+pe6375,11/3/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,23.42,2,46.84,0.15,Credit Card,Young,Male,Ottawa,
+eS4552,9/1/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,798.54,5,3992.7,,Mobile Wallet,Senior,Female,Ottawa,Lucas Smith
+lh3538,,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,380.38,8,3043.04,0.1,Mobile Wallet,,Male,Vancouver,Liam Tremblay
+Qp0036,1/20/25,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,64.7,6,388.2,0,Online Payment,Adult,Male,Calgary,Thomas Smith
+nx7626,1/23/25,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,,4,4400.2,0.15,Debit Card,Young,Female,Ottawa,Sophie Smith
+Nn6292,,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.51,9,40.59,0.2,Mobile Wallet,Adult,Female,Ottawa,Noah Brown
+CE0136,1/25/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,,7,3134.04,0.15,Credit Card,Senior,Female,Montreal,Thomas Johnson
+Wv1331,5/10/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.13,4,16.52,0,Cash,Young,Female,Calgary,Liam Johnson
+sh1323,8/20/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,228.29,5,1141.45,0.15,Mobile Wallet,Senior,Male,Montreal,Chloe Tremblay
+bM3822,4/8/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,171.47,2,342.94,0.2,Online Payment,Adult,Female,Toronto,William Gagnon
+cC0937,,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,3.79,8,30.32,0.1,Credit Card,Young,Female,Ottawa,Lucas Smith
+PR0959,11/27/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,3.62,,3.62,0.2,Debit Card,Adult,Male,Calgary,Lucas Brown
+SH4492,2/19/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,476.53,4,1906.12,0,Online Payment,Senior,Female,Ottawa,Thomas Wilson
+XI2797,3/9/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,,309.05,2,618.1,0.05,Mobile Wallet,Senior,,Toronto,Olivia Roy
+sW7299,11/8/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,214.76,10,2147.6,0.2,Credit Card,Young,Male,Montreal,William Wilson
+Jm0481,10/14/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.16,5,5.8,0.1,Cash,Adult,Female,Vancouver,Liam Gagnon
+eT9819,4/11/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,,Snacks,4.86,2,9.72,0.2,Cash,Senior,Female,Toronto,Thomas Tremblay
+Qr2495,11/21/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.13,3,3.39,0.05,Cash,Adult,Male,Montreal,Benjamin Brown
+sG1062,3/6/25,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,851.51,4,3406.04,0.2,Debit Card,Adult,Male,Ottawa,Chloe Roy
+je2128,8/11/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,66.56,10,665.6,0,Credit Card,Adult,Male,Montreal,Liam Martin
+ah7650,5/22/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,150.83,6,904.98,0,Online Payment,Young,Male,Toronto,Liam Campbell
+nh9071,3/8/25,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,,9,11958.84,0.15,Online Payment,Senior,Male,Calgary,
+nl3078,4/23/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1867.61,2,3735.22,,Mobile Wallet,Adult,,Calgary,Chloe Tremblay
+Tp7792,7/28/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,120.02,3,360.06,,Cash,Young,Female,Ottawa,William Tremblay
+qf7620,4/11/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,244.97,7,1714.79,0.05,Cash,Young,Male,Vancouver,Emma Tremblay
+Ow0381,11/27/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,437.79,1,437.79,0,Debit Card,Young,Male,Toronto,William Wilson
+Yw6886,8/1/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1169.85,1,1169.85,0.1,Debit Card,Senior,Female,Vancouver,Sophie Brown
+Bx1935,8/10/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,112.33,1,112.33,0.05,Debit Card,Young,Female,Montreal,Liam Tremblay
+bH4659,9/18/24,,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,,1029.66,8,8237.28,0.05,Debit Card,Adult,Male,Toronto,Thomas Campbell
+ue5362,11/18/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,570.21,10,5702.1,0.1,Cash,Senior,Female,Ottawa,William Gagnon
+PU1137,5/25/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,2.55,10,25.5,0.15,Online Payment,Young,Male,Montreal,William Gagnon
+He0307,5/9/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,169.75,8,1358,0.1,Mobile Wallet,Adult,Male,Toronto,Thomas Smith
+TP1394,4/14/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,76.26,10,762.6,0.1,Mobile Wallet,Adult,Male,Montreal,Chloe Martin
+Wy1980,11/6/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,174.53,3,523.59,0.2,Credit Card,Young,Male,Toronto,Noah Martin
+qS4716,4/10/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,47.73,6,286.38,0.15,Debit Card,Adult,,Toronto,Olivia Tremblay
+Rk8009,11/24/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,,9,1052.82,0.15,Mobile Wallet,Young,Male,Montreal,Liam Campbell
+oT6570,4/28/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,256.8,1,256.8,0,Cash,Adult,Male,Calgary,Sophie Smith
+Zo4000,12/2/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,49.9,8,399.2,0,Credit Card,Young,Male,Calgary,Sophie Martin
+Yd1988,7/13/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,37.52,6,225.12,0.05,Mobile Wallet,Senior,Male,Ottawa,Liam Wilson
+Do2555,2/20/25,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,245.63,8,1965.04,0.1,Mobile Wallet,Young,Female,Calgary,Benjamin Martin
+nK3926,4/30/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,903.44,3,2710.32,0.1,Mobile Wallet,Adult,Male,Ottawa,Chloe Gagnon
+WP1746,9/2/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,,8,9245.52,0.2,Credit Card,Senior,Female,Calgary,Sophie Lee
+GC6355,,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.56,3,13.68,0.05,Debit Card,Young,Female,Vancouver,Lucas Campbell
+bu5081,6/4/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,136.86,3,410.58,0,Mobile Wallet,Adult,Female,Ottawa,Chloe Tremblay
+uU9333,9/5/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,0.75,2,1.5,0,Mobile Wallet,Adult,Female,Calgary,Thomas Lee
+IA9403,10/1/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,827.66,1,827.66,0.05,Credit Card,Adult,Female,Toronto,Emma Brown
+Ur0276,11/11/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,1.7,1,1.7,0,Credit Card,Adult,Female,Montreal,Thomas Brown
+as4508,7/26/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,53.39,8,427.12,0.15,Cash,Adult,Male,Vancouver,Lucas Tremblay
+ZU9290,3/10/25,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,143.16,1,143.16,0,Credit Card,Young,Female,Montreal,Lucas Brown
+Us6098,3/27/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,313.41,10,3134.1,0.2,,Senior,Female,Ottawa,Chloe Lee
+eK1200,10/25/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.11,5,5.55,,Online Payment,Young,Female,Calgary,William Lee
+dv6880,2/5/25,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1669.08,3,5007.24,0.1,Credit Card,Adult,Male,Montreal,William Campbell
+NL9549,6/11/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,,Outdoor,43.32,10,433.2,0.1,Mobile Wallet,Senior,Male,Toronto,Thomas Wilson
+Om8896,5/16/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,,8,1083.36,0.1,Mobile Wallet,Young,Male,Vancouver,
+tu6065,6/18/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,91.74,6,550.44,0.1,Debit Card,Senior,Female,Calgary,Olivia Smith
+bj1381,2/19/25,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,181.95,9,,0,Credit Card,Senior,,Vancouver,Benjamin Johnson
+ne2898,7/22/24,,9cc85375-17db-41b9-a867-a183e85fcb6e,,Footwear,146.76,7,1027.32,0,Cash,Young,Female,Ottawa,Chloe Lee
+DF8404,8/20/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,0.97,2,1.94,0.1,Mobile Wallet,Senior,Male,Toronto,Noah Gagnon
+Ll7578,9/3/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,85.31,7,597.17,0.2,Online Payment,Young,Male,Toronto,Liam Wilson
+pZ7743,10/11/24,,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,,10,10675.7,0.15,Cash,Adult,Male,Calgary,Sophie Johnson
+BN1016,1/29/25,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,105.54,3,316.62,0.1,Debit Card,,Female,Montreal,Benjamin Gagnon
+OO2155,12/2/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,101.4,9,912.6,0.1,Cash,,Male,Calgary,William Wilson
+Ai4422,9/14/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,313.75,3,941.25,0.1,Cash,Adult,Male,Ottawa,Benjamin Johnson
+jS1289,2/16/25,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,1.66,5,8.3,0.2,Debit Card,Senior,Female,Vancouver,William Gagnon
+IW1904,4/9/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,480.91,3,1442.73,0.1,Debit Card,Adult,Male,Calgary,Sophie Campbell
+HK1894,8/14/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2041.5,10,20415,0.1,Mobile Wallet,Adult,Male,Ottawa,Benjamin Roy
+lP4207,1/20/25,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1927.65,1,1927.65,0.15,Mobile Wallet,Adult,Male,Ottawa,Emma Lee
+JZ9452,6/1/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1033.26,4,4133.04,0.1,Credit Card,Adult,Male,Vancouver,Emma Wilson
+cH8613,6/6/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,414.07,6,2484.42,0.2,Mobile Wallet,Adult,Male,Montreal,
+rH8700,9/14/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1141.56,8,9132.48,0.05,Cash,Adult,Female,Toronto,William Gagnon
+NZ6907,3/18/25,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.5,8,12,0.1,Mobile Wallet,Adult,Female,Vancouver,Thomas Roy
+gb0486,4/8/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,2.78,6,16.68,,Cash,Senior,Male,Vancouver,Olivia Gagnon
+XZ2118,12/31/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,3.04,5,15.2,0,Debit Card,Senior,Female,Vancouver,Chloe Campbell
+GO3228,2/5/25,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,,10,1983,0.05,Online Payment,Senior,Female,Calgary,Noah Campbell
+Yv2759,7/7/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,2.81,5,14.05,0.15,Mobile Wallet,Senior,Female,Vancouver,Noah Campbell
+LH1052,1/30/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,362.19,9,3259.71,0.15,Mobile Wallet,Senior,Male,Toronto,Emma Roy
+IO3580,,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,783.74,5,3918.7,0.2,Debit Card,Adult,Male,Toronto,Emma Johnson
+wB2860,4/22/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,41.46,4,165.84,0,Credit Card,Senior,Male,Toronto,Emma Lee
+hp8935,8/4/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,491.08,7,3437.56,0.2,Credit Card,Adult,,,Liam Martin
+yJ4458,5/15/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,2.68,3,8.04,0.1,Online Payment,Senior,Female,,Liam Gagnon
+oV9601,7/5/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2345.62,8,18764.96,0.1,Debit Card,Young,Male,Vancouver,Olivia Smith
+Eg4511,6/29/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,159.89,3,,,Online Payment,Adult,Male,Ottawa,Olivia Martin
+TP5465,1/17/25,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.53,7,10.71,0,Cash,Adult,Female,Ottawa,Sophie Johnson
+RS1075,2/20/25,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,0.71,6,4.26,0.2,Mobile Wallet,Adult,Male,Calgary,Liam Gagnon
+OQ6672,11/27/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,199.31,4,797.24,0.1,Credit Card,Adult,Female,Montreal,Noah Johnson
+ud8824,11/20/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,0.74,2,1.48,0.05,Credit Card,Young,Female,Montreal,Sophie Campbell
+ok1121,9/13/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,,Electronics,1132.17,3,3396.51,0.05,Credit Card,Senior,Male,Vancouver,Sophie Lee
+Ov0622,10/15/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,133.28,5,666.4,0.2,Mobile Wallet,Young,Male,Toronto,Noah Brown
+QP3120,7/21/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.36,6,26.16,0.15,Cash,Adult,Male,Toronto,Lucas Gagnon
+ow7977,8/15/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1814.69,9,16332.21,0.15,Cash,Senior,Male,Toronto,Liam Martin
+wE2370,3/29/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,103.06,4,412.24,0.15,Debit Card,,Male,,Benjamin Lee
+FV9583,3/26/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,,2009.65,7,,0,Credit Card,,Female,Vancouver,Sophie Lee
+xh5434,1/18/25,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,834.79,4,3339.16,0.05,Online Payment,Adult,Male,Vancouver,Noah Lee
+La0635,9/12/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,847.84,1,847.84,0,,Adult,Male,Toronto,Sophie Brown
+wa7105,2/16/25,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2114.22,2,4228.44,0.05,Mobile Wallet,Senior,Male,Ottawa,Thomas Gagnon
+rd7065,11/27/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.39,4,17.56,,Debit Card,Young,Male,Calgary,Chloe Johnson
+Et6504,2/24/25,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,143.6,10,1436,0.05,Cash,Senior,Female,Toronto,Benjamin Campbell
+TM6506,4/14/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,,97.92,10,979.2,0.2,Cash,Senior,Male,Vancouver,Emma Wilson
+Bk9553,7/15/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,151.74,2,303.48,0.2,Credit Card,Young,Female,Toronto,Noah Roy
+Qx3901,11/1/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,284.41,10,2844.1,,Online Payment,Adult,Female,Ottawa,Liam Brown
+UK2638,9/24/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,108.09,9,972.81,0,Debit Card,,Female,Calgary,
+In7474,9/21/24,,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,185.15,2,370.3,0.05,Cash,Adult,Female,Calgary,Lucas Campbell
+LM6339,7/31/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,908.15,1,908.15,0.2,Debit Card,Adult,Female,Ottawa,Chloe Brown
+ER3259,1/7/25,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1463.68,5,7318.4,0.15,Cash,Senior,Male,Vancouver,Lucas Gagnon
+EQ4198,1/18/25,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1108.14,8,8865.12,0.05,Credit Card,Senior,Male,Ottawa,Chloe Campbell
+vF9575,10/25/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,,Electronics,1039.89,6,6239.34,0.1,Debit Card,Young,Male,Ottawa,Benjamin Wilson
+Dr4855,8/5/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.04,6,6.24,0.05,Online Payment,,Male,Calgary,Lucas Johnson
+Uz2065,5/12/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,448.16,7,3137.12,0.15,Mobile Wallet,Young,Female,Montreal,Noah Tremblay
+Hm0760,10/20/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1351.29,4,,0,Cash,Senior,Female,Montreal,Olivia Brown
+EZ3859,1/31/25,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2307.54,3,6922.62,0,Online Payment,Adult,Male,Calgary,Lucas Martin
+hE9579,9/5/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1851.25,3,5553.75,0,Cash,Adult,Female,,Sophie Johnson
+yI8980,5/19/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,,1019.04,6,6114.24,0.2,Debit Card,Young,Female,Vancouver,Benjamin Smith
+fX9780,2/16/25,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,42.11,7,294.77,0.15,Cash,Senior,Male,Toronto,Lucas Lee
+qR4198,1/19/25,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,177.43,3,532.29,0.2,,Young,Male,Montreal,Olivia Martin
+jo8388,3/28/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,,Apparel,237.23,2,474.46,0,Mobile Wallet,Senior,Male,Toronto,Sophie Smith
+YB8310,3/12/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,461.84,8,3694.72,0.05,Credit Card,Adult,Male,,Lucas Brown
+jC7972,7/22/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,0.71,9,6.39,0.2,Cash,Young,Female,Calgary,Sophie Brown
+LQ5313,9/25/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,348.63,10,3486.3,0,Cash,Senior,Female,Vancouver,Liam Wilson
+eX3635,5/12/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,154.76,3,464.28,0.15,Debit Card,Young,Female,Calgary,Sophie Wilson
+Da3199,2/4/25,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,1.9,6,11.4,0.2,Cash,Young,Female,Ottawa,Benjamin Brown
+jv7072,12/5/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,45.15,7,316.05,0.05,Debit Card,Young,Female,Toronto,Benjamin Johnson
+jk6584,12/14/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,292.88,7,2050.16,0.05,Cash,Senior,Male,Toronto,Noah Roy
+lb2987,7/9/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.24,8,33.92,0,Online Payment,Adult,Male,Toronto,
+yX3412,5/15/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1186.51,1,1186.51,0.1,Mobile Wallet,Adult,Male,Calgary,Liam Tremblay
+bJ9063,3/19/25,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,216.29,2,432.58,0,Cash,Senior,Female,Ottawa,Liam Smith
+NZ9370,12/2/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1311.59,,5246.36,0.05,Credit Card,Senior,Male,Ottawa,Liam Martin
+sK0568,,,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,67.96,2,135.92,0.15,Credit Card,Adult,Female,Calgary,Lucas Johnson
+AI5211,5/29/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.73,1,1.73,0,Online Payment,Senior,Male,Calgary,Olivia Tremblay
+Bm7123,10/26/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,51.47,8,411.76,0.2,Debit Card,Young,Male,Ottawa,Chloe Smith
+Zx0003,1/23/25,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.69,10,16.9,0.05,Debit Card,Adult,Female,Toronto,Noah Martin
+Qh1725,4/12/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,143.48,10,1434.8,0,Mobile Wallet,Young,Female,Ottawa,Thomas Martin
+qr4267,8/6/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,272.83,2,545.66,0.2,Credit Card,Senior,Male,Toronto,Olivia Gagnon
+hO0394,,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,,,267.92,3,803.76,0.1,Cash,Adult,Female,Ottawa,Lucas Campbell
+BR5310,4/1/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.74,3,14.22,0.05,,Adult,Male,Vancouver,William Lee
+Fe8370,4/14/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,48.64,2,97.28,0,Debit Card,Senior,Female,Toronto,
+oo2033,4/21/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,,1.81,1,1.81,0.2,Cash,Adult,Male,Ottawa,Sophie Smith
+bb0600,8/25/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,0.83,2,1.66,0.05,Debit Card,Young,Female,Toronto,Lucas Wilson
+dH8935,9/14/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,342.12,7,2394.84,0.05,Online Payment,Young,Male,Ottawa,Chloe Gagnon
+Nl9653,2/2/25,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,3.53,3,10.59,0,Debit Card,Young,Male,Vancouver,Olivia Smith
+li3259,12/5/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,186.93,6,1121.58,0.1,Credit Card,Senior,Female,Vancouver,Liam Brown
+ck4445,12/21/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,272.63,1,272.63,,Cash,Young,Female,Vancouver,Emma Lee
+nG8368,12/22/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1295.22,6,7771.32,0.05,Online Payment,Senior,Female,Montreal,Sophie Roy
+HX2214,7/4/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,21.93,,153.51,0.1,Debit Card,Young,,Calgary,William Martin
+DO5894,7/22/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,171.8,1,171.8,0.15,Online Payment,Young,Female,Toronto,Emma Smith
+zs8246,7/3/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2045.37,1,2045.37,0,Debit Card,Adult,Female,Montreal,Lucas Wilson
+Be0472,11/10/24,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,4.45,3,13.35,0.1,Credit Card,Senior,Female,Toronto,Noah Tremblay
+vg6035,10/30/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,,1.73,8,13.84,0.1,Online Payment,Adult,Male,Ottawa,Lucas Tremblay
+rk8676,5/1/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,283.6,5,1418,,Debit Card,Senior,Male,Calgary,Liam Tremblay
+JG0934,8/2/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,577.4,5,2887,0.1,Debit Card,Young,Male,,William Wilson
+Aj7897,3/10/25,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.96,7,13.72,0.2,Mobile Wallet,Senior,Female,Ottawa,Liam Martin
+kX0060,,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,189.57,5,947.85,0.2,Cash,Adult,Female,Toronto,William Campbell
+Qx0700,4/11/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1553.48,3,4660.44,0,Online Payment,Senior,Male,Vancouver,Noah Brown
+sf7642,9/23/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,353.32,4,1413.28,0,,Senior,Male,Toronto,Benjamin Brown
+xl1729,5/17/24,,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,414.73,5,2073.65,0.15,Debit Card,Adult,Female,Vancouver,Liam Lee
+ec0945,12/26/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,855.06,6,5130.36,0.05,Debit Card,Adult,Male,Montreal,Benjamin Martin
+Ul4481,1/28/25,,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,,Beverages,1.05,4,4.2,0.05,Mobile Wallet,,,Montreal,Liam Brown
+qS7406,10/27/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,266.35,,1864.45,0.1,Credit Card,Adult,Female,Ottawa,Noah Smith
+Ov4740,11/30/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,282.89,2,565.78,0,Online Payment,Young,Female,Vancouver,Noah Campbell
+oT6783,2/11/25,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1071.76,5,5358.8,0.05,Cash,Young,,Ottawa,Sophie Brown
+Os5552,2/7/25,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,44.22,1,44.22,0.2,Cash,Senior,Male,Montreal,Lucas Campbell
+Zb6866,10/21/24,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,1152.4,6,6914.4,0.1,Credit Card,Adult,Male,Calgary,Benjamin Roy
+Rs6431,1/22/25,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,922.34,9,,0.05,Mobile Wallet,Senior,Female,Ottawa,Thomas Gagnon
+HW9190,9/20/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,,4,902.36,0.2,Mobile Wallet,Adult,Male,,William Tremblay
+SN1006,7/4/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2351.16,7,16458.12,0.15,Credit Card,Young,Male,Calgary,Olivia Wilson
+pG8439,2/22/25,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,35.6,3,106.8,0.2,Online Payment,Adult,Male,Toronto,William Brown
+sM4958,5/26/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,174.92,10,,0.15,Credit Card,Adult,Male,Toronto,Liam Martin
+QG2379,3/27/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2029.42,4,8117.68,0,Debit Card,Adult,Male,Toronto,Olivia Lee
+BC8025,2/22/25,,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,110.34,10,1103.4,0.15,Mobile Wallet,Young,Female,Ottawa,Sophie Lee
+Tb5557,9/11/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.66,1,1.66,0.1,,Senior,Female,Montreal,Emma Tremblay
+ZQ9769,6/8/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.44,3,4.32,0.05,Mobile Wallet,Adult,Male,Toronto,Chloe Tremblay
+xz2373,11/6/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,175.6,3,526.8,0.1,,Senior,Female,Ottawa,Emma Martin
+kJ6271,2/19/25,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,23.33,,23.33,0.15,Cash,Young,Male,Vancouver,Chloe Tremblay
+QB4646,1/10/25,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1277.01,5,6385.05,0.05,,Adult,,Montreal,Noah Martin
+Kr5675,11/28/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1353.29,5,6766.45,0.05,Online Payment,Senior,Male,Vancouver,Chloe Lee
+wR9453,2/4/25,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,121.16,10,,0.05,Online Payment,Senior,Male,Ottawa,Emma Lee
+BV6896,2/17/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,449.69,8,3597.52,0.05,Credit Card,Adult,Female,Ottawa,Liam Lee
+gm2077,2/8/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,268.44,2,536.88,0.2,Mobile Wallet,Young,Male,Montreal,Noah Smith
+HG7546,1/18/25,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,37.01,4,148.04,0.05,Debit Card,Senior,Male,Calgary,Liam Wilson
+RK0863,9/4/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,,65.45,1,65.45,0,Online Payment,Young,Female,Ottawa,William Wilson
+ci0458,8/4/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2432.37,5,12161.85,0.1,Cash,Adult,Male,Toronto,Olivia Tremblay
+ps8406,1/24/25,,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,2186.64,1,2186.64,0.1,Credit Card,Senior,Female,Vancouver,Olivia Brown
+Di1762,3/12/25,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1786.57,8,14292.56,0.2,Debit Card,Young,Male,Calgary,Benjamin Lee
+fT4613,12/20/24,Canada,7e672610-4998-4c0c-b307-04243730de19,Levi's 501 Jeans,Apparel,53.89,9,,0.05,Credit Card,Young,Male,Vancouver,Lucas Smith
+Fq1863,5/2/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,184.55,8,1476.4,0.1,Debit Card,Senior,Female,Ottawa,Lucas Brown
+ec7491,,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,259.59,6,1557.54,0.05,Debit Card,Senior,Male,Toronto,Olivia Johnson
+fH7930,6/20/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,,210.71,,842.84,0.05,Cash,Senior,Male,Ottawa,Thomas Johnson
+LG3198,10/24/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1478.54,8,11828.32,0.05,Debit Card,Adult,Male,Vancouver,William Tremblay
+fC0519,2/20/25,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,,2,935.12,0.2,Credit Card,Adult,Female,Ottawa,Noah Gagnon
+zo4650,4/8/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,114.52,5,572.6,0.05,Online Payment,Senior,Male,Montreal,Noah Brown
+KW5568,4/2/24,Canada,7f990f3a-7e0e-4b9e-b449-a94289ffabbe,KitchenAid Mixer,Home Appliances,326.32,8,2610.56,0.2,Cash,Young,Male,Vancouver,Noah Johnson
+LB5950,11/5/24,Canada,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,1917.6,3,5752.8,0.05,,Young,Male,Montreal,
+Uy9348,5/13/24,Canada,a7bab1af-c775-4177-b6ab-7371e345bfa2,Yeti Tumbler,Outdoor,37.59,10,375.9,0.05,Online Payment,Adult,Male,Toronto,Olivia Martin
+CJ6766,12/25/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,,2250.18,7,15751.26,0,Mobile Wallet,Adult,Female,Montreal,William Smith
+qZ8360,11/2/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,170.56,4,682.24,0,Credit Card,Adult,Male,Calgary,Sophie Campbell
+wu1971,11/8/24,,9e05f900-2cd4-40f7-9262-0775e70584b1,Samsung QLED TV,Electronics,567.61,10,5676.1,0.2,Credit Card,Adult,Male,Ottawa,Noah Wilson
+Wc6609,10/7/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,132.12,8,,0.15,Mobile Wallet,Young,Male,Vancouver,Noah Tremblay
+xr6379,1/16/25,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.62,4,6.48,0.2,Cash,Young,,Vancouver,Chloe Roy
+si7858,8/28/24,Canada,6e6e86c4-6190-413b-9186-4d7cc6ed37e6,Apple MacBook Pro,Electronics,1636.53,10,16365.3,0.05,Debit Card,Young,Male,Toronto,Liam Smith
+ms5581,2/1/25,Canada,0228de52-c300-4d0c-8038-8986e14c3581,iPhone 14,Electronics,904.04,6,5424.24,0.1,Mobile Wallet,Adult,Male,Calgary,Emma Campbell
+gl2787,7/25/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,102.63,8,821.04,0.2,Debit Card,Senior,Female,,Benjamin Martin
+Ub2275,12/12/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,The North Face Jacket,Apparel,272.22,7,1905.54,0.15,Cash,Adult,Male,Calgary,Olivia Gagnon
+rW7008,9/16/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,118.38,6,710.28,0.05,Debit Card,Young,Female,Ottawa,Emma Campbell
+KW5923,6/28/24,Canada,3b5c94bd-4f18-4e38-aaf0-2b1e46451443,,Apparel,262.37,4,1049.48,0.05,Cash,,Female,Montreal,William Brown
+ay1555,1/20/25,Canada,4b43c33b-02dd-4f32-8a38-99feb1814757,Doritos Chips,Snacks,2.43,,12.15,0.05,Cash,Senior,Female,Ottawa,Chloe Brown
+bE4201,10/23/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,122.28,8,978.24,0.1,Online Payment,Adult,Female,Toronto,Emma Brown
+Iq1438,4/2/24,Canada,9cc85375-17db-41b9-a867-a183e85fcb6e,Nike Air Max,Footwear,123.13,,1231.3,0.05,Debit Card,Senior,Female,Toronto,William Johnson
+gg3716,4/29/24,Canada,dd83f2aa-8fa0-415b-89d9-d4b8f8c60847,Coca-Cola Can,Beverages,1.21,,4.84,0.2,Cash,Young,Female,Montreal,Lucas Roy
