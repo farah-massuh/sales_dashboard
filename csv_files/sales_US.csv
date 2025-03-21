@@ -1,501 +1,501 @@
 transaction_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,sales_representative
-Cm6769,1/31/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,41.64,3,124.92,0.1,Mobile Wallet,Senior,Male,Los Angeles,Kenneth Walker
-Id6314,8/21/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,819.43,,7374.87,0,Online Payment,Young,Male,New York,Joseph Alexander
-nP8973,7/16/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,3.35,1,3.35,0.05,Debit Card,Senior,Male,Phoenix,Amanda Flores
-Ij0174,11/20/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1634.29,10,16342.9,0,Mobile Wallet,Young,Female,New York,James Scott
-cG9036,,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,137.25,8,1098,0.15,Credit Card,Young,,Houston,Stephanie Mason
-Fd3963,8/20/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1998.02,6,11988.12,0,Online Payment,Adult,,Los Angeles,Christopher Cantrell
-fM0797,8/25/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,339.81,10,3398.1,0.15,Cash,Senior,Male,Houston,Lauren Tapia
-Kd6050,12/19/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,275.4,2,550.8,0.2,Online Payment,Adult,Male,New York,Danielle Diaz
-OP4263,3/2/25,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,98.18,3,294.54,0.15,Cash,Adult,Male,New York,Monica Keller
-Sx6403,9/5/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.81,6,10.86,0.15,Mobile Wallet,Senior,Female,New York,Jennifer Gallegos
-Vu4815,3/26/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,,4,456.4,0.05,Cash,Senior,,Chicago,Patricia Cummings
-mG8563,9/14/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,814.33,5,4071.65,0,Online Payment,Adult,Male,Phoenix,Brian Barnes
-jz5594,10/27/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,148.66,,891.96,,Mobile Wallet,Young,Female,New York,Maureen Martin
-pF2224,9/30/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,845.33,3,2535.99,0.2,Online Payment,Adult,Male,Phoenix,Janet Walker
-az9483,12/25/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,50.92,4,203.68,0.05,Online Payment,Senior,Male,,Tyler Williams
-DM0329,6/13/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1031.3,,4125.2,0,Debit Card,Adult,Male,Chicago,Corey Stephens
-SZ6669,4/9/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,0.83,10,8.3,0,Credit Card,Senior,Male,Phoenix,David Tyler
-Ph0525,,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,433.87,2,867.74,0.05,Online Payment,Senior,Female,,Mrs. Lisa Gates
-Lp6876,10/15/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,,5,112.05,0.1,Mobile Wallet,Young,Male,New York,Eric Booker
-Cf2148,12/13/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,,Snacks,2.56,1,2.56,0.1,Online Payment,Adult,Male,New York,Jennifer Graves
-qV8004,12/12/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1488.18,8,11905.44,0.05,Credit Card,Adult,Female,New York,Cathy Hayes
-fe3628,7/22/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,156.45,10,1564.5,0.05,Debit Card,Senior,Female,Los Angeles,Donald Ferguson
-hK8739,,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1572.43,10,15724.3,0.05,Mobile Wallet,Senior,Female,,Samantha Davis
-cI0721,6/15/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1147.51,3,3442.53,0.05,Online Payment,Adult,Female,Phoenix,Autumn Rowland
-GG6329,6/19/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1107.69,2,2215.38,0.2,Online Payment,Senior,Male,New York,Eric Erickson
-JA0418,6/17/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,89.88,,179.76,0.05,,Adult,Male,Houston,Taylor Tanner
-JK8332,3/17/25,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1188.38,2,2376.76,,Mobile Wallet,Adult,Male,Houston,Jennifer Peterson
-rB1537,6/20/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,107.9,10,1079,0.15,Credit Card,,Female,Houston,Joe Gonzalez
-Op7928,9/10/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,889,,,0.15,Cash,Young,Male,Chicago,Larry Johnson
-mD2874,4/30/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,668.67,8,5349.36,,Debit Card,Young,Male,Los Angeles,Misty Patton
-PO3407,2/22/25,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,605.82,3,1817.46,0.2,Debit Card,Senior,Male,Chicago,Janice Thompson
-cy8679,1/5/25,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,,Snacks,4.69,9,42.21,0.05,Debit Card,Senior,Female,Los Angeles,Joe Russell
-yY7452,3/6/25,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,331.47,8,2651.76,0.15,Online Payment,Adult,Female,Houston,Andrew Montgomery
-eH8082,2/18/25,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,,4,16.68,0.15,Cash,Senior,Female,Houston,Matthew Baker
-LN2959,12/6/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,57.99,1,57.99,0.05,Credit Card,,,Chicago,Alan Silva
-NC6417,11/14/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,68.36,5,341.8,0.15,Debit Card,Young,Male,New York,Robin Baldwin
-Bq8756,7/28/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,159.53,5,797.65,0.1,,Senior,Male,New York,David Wagner
-dQ4249,8/15/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,165.27,10,,,Mobile Wallet,Young,Male,Los Angeles,Monica Jones
-ba5341,8/21/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,577.73,8,4621.84,0.15,Debit Card,Senior,Female,Phoenix,Daniel Weaver
-hI8305,11/5/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,141.78,8,1134.24,0.15,Cash,Senior,Female,Los Angeles,Dr. Angelica Elliott
-OP7486,11/2/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,,411.92,4,1647.68,0.2,Credit Card,Adult,Male,Houston,Tyler Miller
-KP5549,,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,29.49,8,235.92,0.05,Mobile Wallet,Senior,,Houston,Lisa Washington
-Ra0513,11/21/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,287.84,4,1151.36,0.05,Debit Card,Adult,Male,Los Angeles,Margaret Porter
-Us5573,8/13/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,256.75,1,256.75,0.2,Debit Card,,Male,Chicago,Lauren Peterson
-Jb2729,10/29/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,241.66,8,1933.28,,Debit Card,Senior,Male,Chicago,Kenneth Osborn
-pf1893,1/10/25,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,312.26,4,1249.04,0.2,Credit Card,Adult,Male,New York,Brittney Weaver
-Ib5913,12/10/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,220.42,5,,0.15,Debit Card,Adult,Male,New York,Cindy Baker
-pn5511,12/14/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1715.24,10,17152.4,0.1,Cash,,Female,New York,Brandon Marshall
-Us5184,8/15/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,80,4,320,0.2,Cash,Adult,Female,,Loretta Martin
-wV8580,10/25/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2460.67,2,4921.34,0.1,Debit Card,Young,Female,Chicago,Susan Schmidt
-pm9079,4/28/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,281.04,9,2529.36,0.2,Online Payment,Young,Male,Los Angeles,Erika Foster
-Zl9900,7/27/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,,73.56,1,73.56,0.05,Credit Card,Young,Male,Los Angeles,Kayla Davidson
-ks4448,12/2/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,30.53,3,91.59,0.15,Online Payment,Young,Male,Houston,
-fM3387,11/21/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,,427.39,8,3419.12,0,Online Payment,Young,Male,Phoenix,Jennifer Bean
-SC9619,10/20/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,,Apparel,274.23,9,2468.07,0,Online Payment,Young,Male,Los Angeles,Cameron Williams
-la8195,1/26/25,USA,7246c997-d100-4fc3-a493-4630af6218da,,Apparel,,10,610.5,0.2,Cash,Senior,Male,Phoenix,Melanie Grant
-nL6086,6/24/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,193.38,5,966.9,0.15,Debit Card,Young,Male,New York,Frank Lyons
-Tm1153,2/9/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,32.37,10,323.7,,Cash,Adult,Male,Chicago,Michael Holden
-nb5541,6/27/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,,230.96,10,2309.6,0.05,Debit Card,Senior,Female,Los Angeles,Mr. Alexis Mckee
-aj4961,12/29/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,29.68,7,,0.2,Online Payment,Young,Male,Los Angeles,James Meyers
-Qs2336,1/16/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,35.38,3,106.14,0.1,,Adult,Female,New York,David Cox
-pi7101,5/29/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,810.98,2,1621.96,0.2,Credit Card,Adult,Female,Chicago,Raymond Kim
-PD5770,10/19/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,546,7,3822,0.05,Credit Card,Adult,Female,Houston,Emily Smith
-aG9339,3/22/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1130.47,1,1130.47,0.1,Cash,Young,Female,,Melissa Ramsey
-FO6091,10/5/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,54.66,3,163.98,0.2,Mobile Wallet,Adult,Female,Chicago,Mary Morgan
-mm8264,,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,,Home Appliances,370.33,6,2221.98,0.1,Mobile Wallet,Young,Male,Houston,Sheena Jackson
-xz4359,5/26/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,76.37,9,687.33,0,Mobile Wallet,Senior,Female,Houston,Jenny Cole
-rZ4343,6/13/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,198.36,9,1785.24,0.15,Mobile Wallet,Adult,Male,Los Angeles,Allison Mccullough
-gz0096,11/25/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,138.19,8,1105.52,0.1,Credit Card,Senior,Male,Houston,Susan Dixon
-Te7563,9/14/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,2.81,9,,0.05,Cash,Young,Male,Phoenix,Michele Tucker
-zH5963,5/18/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,323.63,9,2912.67,0.2,Debit Card,Adult,Male,Houston,Geoffrey Guerra
-Mz1885,1/11/25,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,61.12,5,305.6,0.2,Online Payment,Adult,Female,Los Angeles,Daniel Ashley
-py1217,10/2/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,261.69,,2355.21,0.2,Online Payment,Adult,Female,Los Angeles,
-af0670,3/28/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,,202.25,2,404.5,0.05,Cash,Adult,Male,Los Angeles,Shawn Patton
-YB2581,,USA,7246c997-d100-4fc3-a493-4630af6218da,,Apparel,52.63,3,157.89,0.1,Online Payment,Young,Male,Los Angeles,Aaron Martin
-HN9467,11/27/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,136.37,,954.59,0.15,Cash,Senior,Female,Los Angeles,Stephanie Young
-ei4615,11/7/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,181.9,8,1455.2,0.05,Cash,Adult,Male,Phoenix,Kevin Mitchell
-ph8334,9/26/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1847,2,3694,0.2,Mobile Wallet,Adult,,Los Angeles,Andrea Williams
-Yr0193,3/2/25,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,,7,1197.91,0.05,Debit Card,Adult,Female,Los Angeles,Abigail Alvarez
-VZ0934,11/19/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.56,7,10.92,0.05,Credit Card,Senior,Female,Phoenix,Garrett Bernard
-UB1674,12/15/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,148.7,6,892.2,0.1,Cash,Young,Male,Houston,Kari Blackwell
-wx8852,3/19/25,,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,,Outdoor,25.35,9,228.15,0.1,Debit Card,Adult,Male,Phoenix,Suzanne Webb
-si9833,8/13/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,,6,5770.98,0.1,Debit Card,Adult,Male,Houston,Colleen Stewart
-jE3191,1/26/25,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1145.01,9,10305.09,0.1,Online Payment,Adult,Female,Houston,Jordan Edwards
-IP6861,12/22/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,,Snacks,4.9,7,34.3,0.05,Cash,Adult,Female,Chicago,Lisa Gonzalez
-we6142,7/20/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4.31,6,25.86,0.2,Credit Card,Senior,Male,New York,Michael Garcia
-Sa9234,1/10/25,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,,1.64,8,13.12,0.05,Credit Card,Adult,Female,Los Angeles,Susan Duran
-DL4796,6/12/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,,1,940.03,0.2,Cash,Young,Male,New York,Jordan Graham
-FY4244,6/7/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,58.78,1,58.78,0.15,Online Payment,Adult,Female,New York,Dwayne Smith
-VF7911,2/2/25,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,219.61,5,1098.05,0.1,,Adult,Male,,Amanda Brennan
-Wk1371,7/24/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,32.29,10,322.9,0.05,Online Payment,Senior,Female,Chicago,Larry Hudson
-gA5549,7/31/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,91.44,10,914.4,0.1,Credit Card,Senior,Female,Houston,Jacob Salinas
-vq4397,2/5/25,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,263.88,5,1319.4,0,Cash,Young,Male,Phoenix,Rebecca Wilson MD
-hi7125,12/22/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,174.38,8,1395.04,,Mobile Wallet,Senior,Male,New York,Tina Hart
-xx9932,9/17/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,67.81,4,271.24,0.05,Credit Card,Adult,Male,New York,Jennifer Clark
-hn4899,3/19/25,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1794.16,5,8970.8,0.15,Online Payment,Adult,Male,Phoenix,Angela Hayes
-dh8474,9/14/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.99,9,17.91,0,Mobile Wallet,Young,Male,Los Angeles,
-SX4611,1/12/25,,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4.52,4,18.08,0,Debit Card,Adult,Female,Los Angeles,Richard Long
-cz2079,1/8/25,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,959.94,3,2879.82,0.05,Online Payment,Senior,Male,Houston,Rebecca Adams
-Mf3080,5/1/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,269.52,10,2695.2,0.05,Credit Card,Senior,Female,Los Angeles,James Barnes
-iq5804,9/27/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,,3,281.19,0.2,Online Payment,Adult,Female,Houston,Jennifer Williams
-LM3178,2/21/25,,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,499.5,7,3496.5,0.05,Debit Card,Adult,Male,Chicago,Jeremiah Tran
-by2871,11/25/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,276.06,5,1380.3,0.05,Cash,Adult,Male,Los Angeles,Eric Moody
-lq9484,12/4/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1390.75,2,2781.5,0.1,Cash,Adult,Male,Los Angeles,Deborah Woods PhD
-bv8571,12/18/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,265.29,8,2122.32,0,Credit Card,,Female,Los Angeles,
-xl3108,2/23/25,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,2.52,3,7.56,0.1,Online Payment,Adult,Female,New York,Nicholas White
-YG2518,9/7/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,859.96,9,7739.64,0,Mobile Wallet,Senior,Male,Phoenix,
-tW2724,7/11/24,,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,395.85,6,2375.1,0,Mobile Wallet,Adult,Female,Chicago,Sarah Richards
-dj2549,12/13/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,23.13,2,46.26,0.1,Cash,Senior,Female,Phoenix,Stephanie Hester
-PJ5782,12/16/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,103.97,3,311.91,0.05,Cash,Adult,Male,Houston,
-Kr6975,5/30/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1608.35,5,8041.75,0,Cash,Young,Male,New York,
-bZ6814,11/3/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1159.8,8,9278.4,0.15,Debit Card,Young,Female,Chicago,Nicholas Marshall
-Pu4748,11/21/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,,33.93,9,305.37,0.1,,Senior,Female,Los Angeles,Mary Cook
-Ly0403,10/12/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,75.14,3,225.42,0.15,Cash,Adult,Male,Los Angeles,Angelica Nguyen
-YW1343,6/29/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,479.14,7,3353.98,0,Credit Card,Senior,Male,New York,Paul Medina
-QH1578,7/1/24,USA,7246c997-d100-4fc3-a493-4630af6218da,,Apparel,69.75,10,697.5,0.2,Debit Card,Adult,Male,Phoenix,Jonathon Lee
-kw4573,2/27/25,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2455.56,3,7366.68,0.05,Debit Card,Senior,Female,New York,Tony Hill
-kn7941,4/19/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,2.56,8,20.48,0.15,Debit Card,Young,Male,Los Angeles,Nicholas Ward
-Sq3650,6/18/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,404.14,3,1212.42,0.05,,Young,Female,Los Angeles,Mark Hayes
-py5740,8/25/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1415.84,8,11326.72,0.05,Mobile Wallet,Young,Male,New York,
-Ni7120,2/10/25,,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,130.53,,913.71,0.1,Credit Card,Adult,Female,Chicago,William Hunt
-Ss2156,7/11/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,58.27,1,58.27,0.1,Credit Card,Young,Male,Chicago,Vanessa Jensen
-Gl5637,1/7/25,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.03,1,1.03,0.05,Credit Card,Young,Female,Phoenix,Megan Holmes
-Cb1454,,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,,Electronics,871.71,5,4358.55,0,Debit Card,Young,Female,Los Angeles,Bradley Todd
-RE5015,2/20/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,35.27,,317.43,0.05,Debit Card,Young,Male,Chicago,Andrew Cook
-Ym4020,10/21/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,,7,31.71,0.05,Mobile Wallet,Adult,Male,Los Angeles,Shannon Becker
-yy6840,11/14/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,187.67,10,1876.7,0.1,Cash,Senior,Female,Chicago,James Guerrero
-cr5396,1/25/25,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,316.59,6,1899.54,0.1,Debit Card,Young,Male,New York,Jonathan Phillips
-zO6781,7/7/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,,Electronics,922.02,4,,0,Mobile Wallet,Senior,,,Joshua Austin
-xA7598,8/27/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,110.83,7,775.81,0.1,Mobile Wallet,Senior,,Phoenix,Gary Brown PhD
-Lx3278,8/1/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,,5,552.1,0.05,Online Payment,Senior,Female,Phoenix,Taylor Carter
-fl4947,2/9/25,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,,3,773.85,0.2,Online Payment,Young,Male,Houston,Jeremy Torres
-bg2855,9/30/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,134.43,5,672.15,0.2,Online Payment,Young,Male,Houston,Lauren Holmes
-wn5084,11/18/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,,Electronics,952.32,3,2856.96,0.1,Online Payment,Young,Female,Los Angeles,Daniel Williams
-au5006,7/8/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1060.27,3,3180.81,0.1,Credit Card,Senior,Female,Houston,Justin Petty
-sW5885,1/15/25,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,0.52,4,,0.05,Debit Card,Senior,Female,Houston,Frank Marshall
-al4052,10/24/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1079.41,4,4317.64,0.1,Debit Card,Senior,Male,Houston,Dawn Lane MD
-Pb6518,7/28/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.8,9,16.2,0.2,Debit Card,Senior,Female,Los Angeles,Zachary Burnett
-de5821,2/15/25,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,1.76,10,17.6,0.15,Credit Card,Young,Female,Los Angeles,Karen Benton
-Du0455,11/13/24,,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,253.4,5,1267,0.2,Mobile Wallet,Young,Male,Los Angeles,Barry Hall
-lI0328,9/30/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,3.06,2,,0.15,Online Payment,Young,Female,Houston,John Thomas
-FI7468,12/29/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1900.25,6,11401.5,0.05,Mobile Wallet,,,Los Angeles,Carl Harris
-Ur3264,,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,42.71,3,128.13,0,Cash,Young,Male,Phoenix,Mrs. Felicia Jennings
-rc3011,10/29/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4.88,9,43.92,0.2,Online Payment,Senior,Female,Houston,Mr. Scott Mcmillan
-Fj0535,5/12/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,157.63,4,630.52,0.05,Cash,Young,Female,New York,Joshua Jefferson
-LZ9867,8/20/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,,Electronics,1181.27,2,2362.54,0,Online Payment,Adult,Male,Phoenix,
-nb9041,12/30/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,169.87,4,679.48,0.05,Credit Card,Senior,Male,Phoenix,Christopher Cox
-Wn0352,5/5/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,183.95,,551.85,0.2,Cash,Young,,Phoenix,Richard White
-Wr7014,8/29/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,172.07,,1720.7,0.2,Credit Card,Adult,Male,New York,Hannah Stewart
-WE3141,9/20/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,59.12,7,413.84,0.1,Cash,Adult,Male,Los Angeles,Katherine Robinson
-NM9884,6/6/24,,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,236.58,8,1892.64,0.15,Credit Card,,Male,Chicago,
-vx8752,1/24/25,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.53,2,3.06,0.1,Debit Card,Young,Male,Chicago,
-kg1235,12/5/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,949.42,4,3797.68,0.05,Online Payment,Adult,Male,Chicago,Rebecca Ferguson
-NZ5370,9/17/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,0.95,6,5.7,0.15,Mobile Wallet,Adult,Male,Los Angeles,Janet Colon
-dF0608,2/9/25,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,333.77,5,1668.85,0,Mobile Wallet,Young,Male,Chicago,Ethan Ramos
-PG9895,,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,156.05,,1248.4,0,Mobile Wallet,Adult,,Chicago,Teresa Rodriguez
-Bp3200,,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,146.96,9,1322.64,0.15,Online Payment,Young,Male,Houston,Sharon Adams
-eM6317,5/6/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,0.89,7,6.23,0.15,Mobile Wallet,Senior,Male,Los Angeles,Mark Jones
-Re3538,10/28/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4.09,4,16.36,0.2,Mobile Wallet,Senior,Female,Houston,Michael Mcneil
-zo3579,2/2/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,37.47,9,337.23,,Mobile Wallet,Adult,Male,Phoenix,Ryan Clements
-Ha0869,6/21/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,,6,1769.52,,Mobile Wallet,Adult,Female,Phoenix,Richard Brooks
-Xy7653,9/13/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.72,2,3.44,0.15,Debit Card,,Male,New York,Erica Miller
-Qr9794,10/26/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,469.08,6,2814.48,0.05,Credit Card,Senior,Male,Los Angeles,Richard Daugherty
-WE1532,1/25/25,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,84.3,,758.7,0.15,Cash,Senior,Male,Houston,Mary Stark
-yi7101,9/9/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1691.89,3,5075.67,0,Credit Card,Young,Male,New York,Mary Ortega
-vt2427,9/13/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,731.78,9,6586.02,0.1,Cash,Adult,Male,Chicago,Tonya Munoz
-BA9142,1/10/25,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1521.68,9,13695.12,0.05,Debit Card,Adult,Male,New York,Kenneth Moreno
-yW4588,5/29/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,318.71,2,637.42,0,Mobile Wallet,Senior,Female,Houston,Arthur Fritz
-iG8148,11/22/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,,Electronics,1428.15,,1428.15,0.2,Cash,Senior,Male,,Shaun Ward
-Tn2010,12/2/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,62.93,3,188.79,0.2,Credit Card,Young,Female,Chicago,Jason Bird
-Xk4098,12/11/24,,547bf2dd-a1b4-44e5-a885-b86793d4b67e,,Apparel,296.41,5,1482.05,0,Online Payment,Adult,Male,New York,
-ah6668,3/24/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4.74,5,23.7,0,Mobile Wallet,,Male,,Michelle Jacobs
-Xg5452,4/11/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,0.65,9,5.85,0,Mobile Wallet,Adult,Female,Houston,Susan Carr
-IX2403,8/31/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1717.18,6,10303.08,0.1,Online Payment,Young,Female,Chicago,Jack Lewis
-Kg9411,1/12/25,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1749.56,2,3499.12,0.2,Cash,Senior,Female,Chicago,Christopher Lynch
-gJ2540,10/31/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,,112.67,2,,0.2,Credit Card,Young,Male,Chicago,Peter Brown
-cn6581,1/7/25,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,121.8,1,121.8,0.15,Debit Card,Senior,Female,New York,Donald Newman
-jg7382,10/7/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.74,10,17.4,0.2,Mobile Wallet,Young,Male,New York,Ashley Johnson
-Hb8817,8/30/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1626.99,1,1626.99,0,Credit Card,Adult,Female,Phoenix,Alan Klein
-xP3283,3/26/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.74,5,8.7,0.1,Cash,Adult,Male,Los Angeles,Alexander Brown
-ry7040,11/21/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,174.29,10,1742.9,0,Cash,,Female,Houston,Jennifer Brennan
-rP3086,8/22/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,94.97,10,949.7,,Debit Card,Adult,,Chicago,Linda Garrison
-HJ4696,,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,191.03,7,1337.21,0.2,,Adult,Male,Phoenix,Michael Mendoza
-Da4041,1/2/25,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,171.02,6,1026.12,0.2,Credit Card,Young,Female,Chicago,William Ellis
-XT5775,9/19/24,,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1987.2,3,,0.05,Mobile Wallet,Young,Male,Houston,Donna Smith
-ic2499,10/18/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,,1164.86,4,4659.44,0.2,Debit Card,Senior,Male,New York,Alejandro Daniel
-KK0030,12/29/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,151.48,8,1211.84,0.15,Online Payment,,Female,Los Angeles,
-jN2341,2/5/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,39.75,4,159,0.2,Cash,Adult,Male,New York,James Fowler
-HQ9377,5/28/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1655.2,2,3310.4,0.15,,Young,Female,Los Angeles,Audrey Dunn
-yg2220,4/6/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1841.06,1,1841.06,0.05,Debit Card,Senior,Male,Chicago,Tanya Collins
-yS7553,12/25/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,2.69,8,21.52,0.05,Credit Card,Adult,Male,Phoenix,Joseph Hamilton
-hz6127,12/21/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,29.65,3,,0.05,Online Payment,Senior,Male,Los Angeles,Justin Clark
-Ou9008,3/18/25,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.87,7,13.09,0.15,Credit Card,Adult,Male,Phoenix,Linda Russell
-fT8244,4/16/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,3.24,1,3.24,0.15,Online Payment,Adult,Female,Houston,Melissa Walker
-SG9720,,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,128.25,3,384.75,0.2,Debit Card,Young,Male,Los Angeles,Sara Sutton
-it3742,9/25/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,325.27,,1951.62,0.05,,Senior,Male,Phoenix,Kayla Newton
-lc6289,2/16/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,35.54,2,71.08,0.2,Online Payment,Senior,Female,Houston,Jennifer Mason
-MS2544,9/22/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,,2,3641.68,0,,Adult,Male,Chicago,Yvonne Campbell
-Ya5864,10/13/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1538.98,10,15389.8,0.1,Debit Card,Adult,Male,Chicago,Timothy Hernandez
-JC1837,9/17/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,,,13.8,0.05,Debit Card,Senior,Female,Chicago,Sean Pham
-vD7730,12/16/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,,62.8,5,314,0.2,Debit Card,Senior,Female,Phoenix,Brian Stewart
-Bj0669,12/21/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,,35.47,6,212.82,0.05,Online Payment,Adult,Female,Los Angeles,Jeffery Young
-yY5413,8/28/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,222.53,7,1557.71,0.15,,Adult,Male,Phoenix,Jane Stephens
-Lh1189,10/4/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,2.51,6,15.06,0.1,Debit Card,Young,Female,Los Angeles,Heather Sawyer
-Tv9051,11/27/24,,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,1.87,10,18.7,0.15,Online Payment,Young,Female,Los Angeles,Stephanie Porter
-Qp3410,,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,222.38,9,2001.42,0.15,Debit Card,Adult,Male,New York,Lisa Dyer
-Ed5057,6/14/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,,259.72,3,779.16,0.1,Online Payment,Young,Male,Houston,Jeremy Clark
-cP8414,8/9/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,,Beverages,1.68,6,10.08,0,,Senior,Female,Los Angeles,
-Nr8774,7/16/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2336.34,9,21027.06,,Debit Card,Adult,Female,Houston,Emily Bird
-XY8422,5/19/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,842.53,3,2527.59,,Cash,Young,Female,Chicago,Johnny Hogan
-WK8105,10/7/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,195.68,7,1369.76,0.15,Mobile Wallet,,Male,Houston,Dalton Jones
-hx2524,3/31/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,3.8,6,22.8,0.1,Cash,Young,Female,Los Angeles,Alexander Knight
-ar9984,10/3/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2193.56,10,21935.6,0.05,Debit Card,Young,Female,Houston,Lisa Juarez PhD
-Dw4591,6/4/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,82.09,2,164.18,0.2,Cash,Senior,Female,Los Angeles,Jason Little
-Mv5325,4/6/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,162.48,9,1462.32,0,Online Payment,Adult,Male,Los Angeles,William Fernandez
-hE8627,7/20/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,,Outdoor,34.95,10,349.5,0.1,Mobile Wallet,Adult,Male,New York,Gerald Hill
-YJ3052,11/29/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,3.18,6,19.08,0.15,Debit Card,Adult,Male,,Noah Wright
-cG1326,9/2/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,71.94,9,647.46,0,Mobile Wallet,Senior,Male,Los Angeles,Samantha Blackburn
-gs1148,2/26/25,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1617.58,5,8087.9,0.1,Online Payment,Adult,Male,Chicago,Christopher Cruz
-Jj8104,1/1/25,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,2.71,9,24.39,0.1,Online Payment,Adult,Male,New York,Sabrina Wolfe
-ak9731,7/5/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.29,3,,0.05,Debit Card,Young,Female,New York,Dr. William Chavez Jr.
-gx9029,9/15/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1882.12,8,15056.96,0.2,Online Payment,,Female,,Kenneth Martin
-dN8504,6/21/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,65.64,8,525.12,0.2,Mobile Wallet,Young,Female,Houston,Margaret Vazquez
-tv4111,11/28/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,82.3,2,164.6,0.2,Debit Card,Adult,Male,Chicago,Terri White
-NG0764,10/10/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,490.4,4,1961.6,0.1,Online Payment,Adult,Male,New York,Mary Perkins
-ip9719,9/8/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,826.14,2,1652.28,0.2,Debit Card,Adult,Male,New York,Laura Ochoa
-MB9401,12/19/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,81.14,4,324.56,0,Cash,Senior,Female,New York,Laura Holland
-Jx7973,8/18/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,,Electronics,1271.54,6,7629.24,0.2,Mobile Wallet,Senior,Male,Phoenix,Keith Yoder
-zK4275,,,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,431.7,8,3453.6,0.2,Cash,Young,Male,Houston,Lynn Barrera
-ka6415,9/6/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,,Electronics,1785.97,5,8929.85,0.2,Cash,Young,Male,Phoenix,Timothy Terry
-uc2555,4/19/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,42.37,8,,0.2,Mobile Wallet,Adult,,Los Angeles,Robert Donovan
-ev3535,1/22/25,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2358.74,5,11793.7,0,Credit Card,Adult,Female,Los Angeles,Brandy Castaneda
-oO4419,2/19/25,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,960.32,4,3841.28,0.05,Cash,Adult,Female,Chicago,Jacqueline Lee
-lh6094,6/23/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,33.56,1,33.56,0.1,Online Payment,Adult,Female,Chicago,Anita Evans
-Yx9771,6/8/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2153.46,6,12920.76,0.15,Online Payment,Adult,Male,New York,Anthony Ferguson
-Xp5206,10/10/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,87.14,2,174.28,0.1,Credit Card,,Male,Los Angeles,Anthony Novak
-Tr8774,6/20/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,211.66,7,1481.62,0.1,Credit Card,Adult,Male,New York,April Poole
-KN4359,2/17/25,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4.86,9,,0.05,Cash,Senior,Female,Chicago,Brenda Adams
-KP1252,7/26/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,39.33,4,157.32,0.15,Cash,Young,Female,Los Angeles,Stephanie Hudson
-Xa4605,1/28/25,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,,3,5001.12,0,Debit Card,Adult,Female,Phoenix,Mr. Sean Lutz
-fl1701,,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,31.62,2,63.24,0.1,Credit Card,Young,Female,Chicago,Holly Ferguson
-lY9483,1/5/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,,3,71.22,0.2,Credit Card,,Male,Houston,Brandy Bradshaw
-EO9568,4/9/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,,Outdoor,25.49,9,229.41,0.2,Online Payment,Senior,Male,New York,Taylor Davis
-Bw4586,12/5/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,27.39,5,136.95,,,Young,Female,Los Angeles,
-tH2934,10/20/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,922.72,8,7381.76,0.1,Credit Card,Adult,Female,Houston,Arthur Elliott
-ov6840,5/25/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1542.01,3,4626.03,0.05,Cash,Senior,Male,New York,Lynn Thompson
-rn4391,8/15/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1300.71,6,7804.26,0.05,Online Payment,Adult,Female,Houston,John Sullivan
-LW9489,9/18/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1781.33,6,10687.98,0.2,Credit Card,Young,Female,Los Angeles,Chelsea Garcia
-kx3346,6/10/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1007.24,3,3021.72,0.15,Mobile Wallet,Adult,Female,Chicago,
-Ie1205,10/12/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,327.62,9,2948.58,0.15,Credit Card,Adult,Male,New York,Natasha Rodriguez
-bJ2011,3/21/24,,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,506.69,10,,0,Mobile Wallet,Adult,Male,Phoenix,Samantha Huffman
-ej3648,1/11/25,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,64.14,8,513.12,0,Credit Card,Adult,Male,Houston,Gail Johnson
-zb1615,12/7/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,376.78,7,2637.46,0,Cash,Senior,Female,Los Angeles,Austin George
-Ny8727,7/11/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2416.44,5,12082.2,0.15,Debit Card,Senior,Female,New York,Phillip Caldwell
-ON8146,1/31/25,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2090.87,2,4181.74,0.2,Credit Card,Adult,Female,Houston,James Smith
-zL4009,7/22/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,,1945.62,8,15564.96,0.05,Debit Card,Adult,Female,,
-AB5242,12/19/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1949.37,7,13645.59,0,Mobile Wallet,Young,Female,Phoenix,Andrew Wallace
-Ex8271,5/11/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,38.97,1,38.97,0.05,Mobile Wallet,Senior,Male,Houston,Charles Cabrera
-Do8316,11/18/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,837.03,6,,0,Cash,Senior,Male,Los Angeles,Donna George
-Ef3755,1/31/25,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.69,8,13.52,0.15,Cash,,Male,New York,Nicholas Conner
-Pq7666,9/9/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1254.31,7,8780.17,0.1,Mobile Wallet,Adult,Female,Chicago,Jason Wallace
-Tx9026,1/12/25,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,58.41,7,408.87,0.1,,Senior,Male,Chicago,Charles Simmons
-ZR3560,4/4/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,970.7,6,5824.2,0.2,Debit Card,Adult,Male,Phoenix,Mr. Anthony Brown IV
-eF1859,2/17/25,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.29,8,10.32,0.2,Debit Card,Adult,Female,Houston,Jacob Carter
-CV8029,7/10/24,,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,39.06,8,312.48,,Online Payment,Senior,Female,Chicago,Alfred Mccarty
-cf0011,1/18/25,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,,2,3.12,0.05,Credit Card,Senior,Male,,Carrie Johnson
-SA0141,12/27/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,71.86,9,646.74,0.2,Online Payment,,Female,New York,Jonathan Mack
-lT7661,4/26/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4.8,4,19.2,0,Credit Card,Senior,Female,Los Angeles,Corey Ford
-md7471,,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,86.14,5,430.7,0.15,Credit Card,Senior,Female,New York,Christy Diaz
-pg4305,4/14/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.71,8,13.68,0,Cash,Senior,Female,Chicago,Ryan Moore
-SV4228,11/17/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4.87,6,29.22,0.15,Debit Card,Senior,Male,Phoenix,Lauren Burton
-XF0297,1/22/25,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,55.38,9,498.42,0,Debit Card,Young,Female,Phoenix,Michelle Baker
-wm1501,4/4/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,0.9,10,9,,Credit Card,Senior,Male,Houston,Michael Boyd
-gL7539,11/21/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1155.2,7,8086.4,0.1,Online Payment,Senior,Male,Houston,Lauren Henry
-uW3980,7/22/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,111.32,2,222.64,0.2,Cash,Adult,Female,Los Angeles,Jasmine Wilson
-jN7377,5/4/24,,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,1.95,4,7.8,0,Debit Card,Adult,Female,Los Angeles,Joseph Harrington
-Sl4657,11/28/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,70.65,10,706.5,0.1,Debit Card,Young,Male,Los Angeles,Scott Kelly
-LF8891,9/4/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,136.37,6,818.22,0.05,Debit Card,Senior,Female,Chicago,Barbara Rodriguez
-Iy2301,10/31/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,870.43,7,6093.01,0,Debit Card,Young,Male,Phoenix,Jeffrey Johnson
-zM1558,1/23/25,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,149.58,2,299.16,0.15,Online Payment,Senior,Male,,Emily Reed
-jG7115,9/13/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4,5,,0.1,Credit Card,Young,Male,Houston,Gabriella Crawford
-RW2235,9/15/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1632.88,2,3265.76,0,Online Payment,Senior,Male,Houston,Jonathan Russo
-dN8977,10/6/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,126.87,8,1014.96,0,Debit Card,Adult,Female,New York,Timothy Larson
-zq4715,6/4/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.3,1,1.3,0.2,Online Payment,,Male,New York,Spencer Jones
-rI7092,12/4/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,41.59,1,41.59,0.05,Credit Card,Senior,Female,Phoenix,Alison Mckinney
-aD6265,,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,297.97,1,297.97,0.1,Online Payment,Adult,Male,Chicago,David Galloway
-yf1828,11/12/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.22,8,9.76,0.15,Credit Card,Senior,Male,,Pamela Grant
-Zs7899,10/19/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,105.98,6,635.88,0.05,Credit Card,Adult,Male,Houston,Anthony Ellis
-FK1401,1/17/25,,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,913.9,7,6397.3,0.1,Mobile Wallet,Adult,Male,New York,Dylan Peterson
-EA0976,6/30/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,983.34,8,7866.72,0.15,Mobile Wallet,Young,Male,Houston,Sean Hicks
-qI0190,7/1/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1449.68,6,8698.08,0.2,Cash,Adult,,Chicago,Tammy Ortiz
-zZ3645,7/14/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4.34,5,21.7,0.1,Credit Card,Young,Female,Phoenix,Kim Cox
-DH5638,,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,470.01,5,2350.05,0.2,Cash,Young,Female,Los Angeles,Gregory Oconnor
-Ht3717,6/13/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1055.96,1,1055.96,0.15,Online Payment,Senior,Female,Los Angeles,
-uf5124,9/4/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,529.92,8,4239.36,0,Debit Card,Young,Male,,Raven Cortez
-Zz0611,9/19/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,,86.22,6,517.32,0,Mobile Wallet,Young,Female,Los Angeles,April Jackson
-Jf8093,7/4/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.19,6,7.14,0,Credit Card,,Male,Los Angeles,Jesus Ellis
-tW2530,4/12/24,,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,45.86,1,45.86,0,Debit Card,Senior,Male,Houston,Matthew Dean
-Nu4561,3/9/25,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,257.54,9,2317.86,0,Mobile Wallet,Senior,Female,Los Angeles,Kimberly Barnes
-Ju9722,1/15/25,,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.67,10,16.7,0.2,Cash,Senior,Female,New York,
-dr7006,11/15/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,1.82,7,,0.2,Debit Card,Young,Male,New York,Melinda Lin
-Ep7075,5/11/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1101.94,9,9917.46,0.05,Debit Card,Young,Male,Chicago,Angela Nicholson
-vL2169,9/1/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,2.96,8,,0,,Senior,Female,Houston,John Jones
-Oh8371,6/14/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,,Electronics,918.11,7,,0.2,Credit Card,Senior,Female,Houston,Kaylee Young
-Jo6049,3/16/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,32.58,2,65.16,0.1,Mobile Wallet,Senior,Female,Chicago,Kyle Gonzalez
-zo2783,12/20/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,45.21,6,271.26,0.1,Online Payment,,Male,Chicago,Samuel Rodriguez
-ep1895,,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,,Footwear,192.24,,961.2,0.2,Mobile Wallet,Senior,Female,Los Angeles,Adam Bartlett
-Mz7761,2/16/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,39.37,2,78.74,0.1,Online Payment,Young,Male,Phoenix,Tammy Craig
-VQ5107,1/8/25,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,640.33,10,6403.3,0.15,Cash,Adult,Female,,Brandi Harris
-dc0909,2/22/25,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,167.38,6,1004.28,0.05,Online Payment,Young,Female,Chicago,Jennifer Wilson
-FP1601,2/2/25,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,850.79,6,5104.74,0.2,Cash,Young,Female,Chicago,Steven Combs
-KP1425,1/12/25,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,111.01,2,222.02,0.15,Debit Card,Senior,Female,,Jamie Green
-pj3440,4/2/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,156.67,4,626.68,0.15,Credit Card,Young,Female,Chicago,Nancy Johnson
-Yg8120,,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,57.66,2,115.32,0.2,Credit Card,Young,Male,Phoenix,Alexander Thomas
-Zg9492,11/2/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1926.33,1,1926.33,0.2,,Senior,Male,New York,Shelby Ashley
-VR2251,,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,34.86,9,,0.1,Cash,Young,Male,,Misty Cline
-ZO0103,10/30/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,131.38,1,131.38,,Online Payment,Adult,Female,New York,William Butler
-Xt1887,4/10/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,52.32,5,261.6,0.15,Debit Card,Senior,Male,Phoenix,Zachary Garner
-Kl0276,,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,75.82,5,379.1,0,Mobile Wallet,Senior,Male,Chicago,Patrick Wolf
-ne0128,9/25/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1797.84,5,8989.2,,Cash,Young,Female,New York,Crystal Shelton
-dM4631,6/7/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,40.07,6,240.42,0.1,Cash,Adult,Male,Chicago,Diane White
-CC2276,7/7/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,,1117.83,3,3353.49,0.2,Online Payment,Young,Female,Chicago,Steven Thomas
-wP8511,8/17/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1604.5,4,6418,0.15,Credit Card,Young,,Houston,Jacob Jones
-fg4836,1/6/25,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,,Snacks,3.6,6,21.6,0.15,Cash,Young,Female,Houston,
-lD8775,9/17/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1589.09,9,14301.81,0.2,,Adult,Male,Phoenix,Frank Castillo
-Sl7634,10/22/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1739.89,7,12179.23,0.2,Mobile Wallet,Adult,Male,Chicago,
-kU7917,8/19/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2153.51,10,21535.1,0.05,Credit Card,Young,Male,New York,Shannon Jenkins
-Ca7634,8/23/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,134.04,8,1072.32,0.1,Online Payment,Young,,Chicago,Brian Nixon
-So0940,9/7/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,46.22,1,46.22,0.1,Mobile Wallet,Young,Female,Los Angeles,Timothy Estes
-mw1521,1/3/25,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.97,3,5.91,0.15,Mobile Wallet,Young,Female,Chicago,Mary Martin
-Ur2661,8/4/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,865.65,5,4328.25,0.15,Online Payment,Senior,Male,Houston,Brian Mcdonald
-Qs9423,,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,103.05,10,1030.5,0.15,Mobile Wallet,Senior,Male,New York,Tara Moore
-QJ4210,3/30/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,105.73,8,845.84,0.15,Cash,Senior,Female,New York,Danny Jordan
-vh1837,2/7/25,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,195.6,10,1956,0.05,Credit Card,Young,Female,New York,Tara Myers
-fr5589,10/11/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1004.81,10,10048.1,0.1,Credit Card,Young,Female,Los Angeles,Tyler Ward
-nA0302,12/22/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,3.6,8,28.8,0,Mobile Wallet,Senior,Male,Chicago,Christopher Scott
-WB6081,11/17/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,2.01,9,18.09,0,Online Payment,Young,Male,Phoenix,Hunter Blake DDS
-Gk2797,8/8/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1045.38,3,3136.14,0.05,Debit Card,Senior,,Los Angeles,Crystal Jenkins
-aJ0212,5/28/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,,3.17,8,25.36,0.1,Debit Card,Young,Female,Phoenix,
-VG3538,2/25/25,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,257.51,1,257.51,,Cash,Senior,Male,Phoenix,William Mcneil
-EY4395,9/28/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,64.58,4,258.32,0,Debit Card,Young,Female,New York,Carolyn Knox
-gm2146,1/12/25,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,80.58,9,725.22,0.2,Debit Card,Senior,Female,Chicago,Andrew Burke
-hv3675,8/14/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1198.65,10,11986.5,0.1,Cash,Young,Male,Phoenix,Alejandro Snyder
-SA9526,9/26/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,39.57,8,316.56,0.1,Credit Card,Senior,Female,New York,Jeffery Murphy
-AL3803,9/20/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,30.96,,123.84,0,,Adult,Male,Houston,Arthur Bauer
-fn5710,3/7/25,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1021.85,2,2043.7,,Online Payment,Adult,Female,Phoenix,Jason Morris
-Fm5100,5/3/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,846.23,4,3384.92,0,Mobile Wallet,Adult,Male,New York,Kathryn Mccann
-um5230,6/3/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,833.91,7,5837.37,0.05,Credit Card,,Female,Phoenix,Benjamin Bauer
-Cr2834,7/7/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,,2,88.76,0.1,Debit Card,Adult,Female,Chicago,Scott Smith
-Wq0549,5/8/24,,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,,6,841.74,0.1,Cash,Adult,Male,,Sherry Mills
-fH1870,4/16/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2022.55,10,20225.5,0.15,Online Payment,,Female,New York,Jose Bennett
-mf2741,6/4/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,374.35,9,3369.15,0.1,Mobile Wallet,Young,Male,Houston,Jose Ortiz
-Fy5313,4/13/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,278.06,1,278.06,0.1,Credit Card,Young,Male,Phoenix,Amy Wilson
-DW5719,8/5/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,285.54,8,2284.32,0.15,Cash,Senior,Female,New York,Courtney Clark
-xA4174,9/25/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,166.45,7,1165.15,0.15,Credit Card,Senior,Female,Los Angeles,Felicia Johnson
-xA7517,4/1/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,158.29,6,949.74,0.15,Credit Card,Adult,Male,New York,Catherine Davis
-Nc5967,6/23/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,0.6,10,6,0.1,Mobile Wallet,Young,Male,New York,Marissa Peters
-gK7238,5/26/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1575.74,5,7878.7,0,Cash,Young,,Chicago,Debra Wilson
-VF6378,5/12/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,926.94,9,8342.46,0.2,Mobile Wallet,Adult,Male,Houston,Colleen Walker
-ml6898,4/27/24,,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,95.77,1,95.77,0.2,Mobile Wallet,Young,Male,New York,
-sU3224,8/17/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,865.02,10,8650.2,0.1,Debit Card,Young,Female,Houston,Caroline Boone
-KQ4094,2/24/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,44.26,6,265.56,0.1,Online Payment,Young,Male,,Charles Morales
-XP1027,10/22/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4.64,4,,0.15,Mobile Wallet,Senior,Male,New York,Lauren Ruiz
-sM4809,4/19/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,382.69,10,3826.9,,Cash,Young,Male,Houston,Vicki Franco
-nA9310,10/21/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,0.72,3,2.16,0.1,Cash,Young,Male,,Joseph Payne
-aj2203,10/1/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,104.69,,418.76,0.2,Online Payment,Adult,Male,Los Angeles,Brittany Robinson
-uO7032,11/27/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1025.81,9,9232.29,0,Debit Card,Senior,Female,Phoenix,Tracy Ruiz
-Ge7211,9/5/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2213.44,9,19920.96,0,Online Payment,,Male,Chicago,Melanie Ali
-Af1838,,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,,0.82,,1.64,,Debit Card,Adult,Male,Los Angeles,Frances Brown MD
-cG9632,9/16/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1544.65,2,3089.3,0,Mobile Wallet,Senior,Female,Chicago,Toni Torres
-lH9599,12/30/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,35.67,3,107.01,0.1,Mobile Wallet,Young,Female,Houston,William Cowan
-Fl2752,1/8/25,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,,5,319.6,0.05,Credit Card,Young,Female,Los Angeles,Pamela Davis
-WJ6898,8/23/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,94.11,4,376.44,0.15,Mobile Wallet,Adult,Female,Los Angeles,Christina Williams
-zX8524,5/22/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,61.58,9,554.22,0.2,Mobile Wallet,Young,Female,Los Angeles,Robert Galloway DDS
-KJ2851,11/20/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2358.63,3,7075.89,0.05,Credit Card,Senior,,New York,Ronald Chavez
-LA8043,8/12/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1808.88,1,1808.88,0,Credit Card,Young,Male,Chicago,Ryan Cortez
-aA9928,6/20/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,157.72,10,1577.2,0.05,Credit Card,Adult,Female,Houston,Wayne Rogers
-ex4448,5/10/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,3.72,8,29.76,0,Mobile Wallet,Senior,Female,Phoenix,Kendra Hernandez
-Zd9077,12/9/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1175.89,10,11758.9,0.15,Online Payment,Adult,Male,Houston,Franklin Mills
-Ay8365,10/22/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,,Outdoor,25.96,1,25.96,0.2,Debit Card,Adult,Female,New York,Louis Gomez
-ws1397,11/22/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,127.24,2,254.48,0.1,Debit Card,Senior,Male,New York,Jason Baker
-uc7410,4/11/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,124.63,,498.52,0.05,Online Payment,Young,Male,Houston,Michael Turner
-rE4355,12/30/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.23,2,2.46,0.1,Credit Card,Senior,Male,Chicago,Clayton Hall
-Gb6615,12/19/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,221.77,6,1330.62,0.15,Credit Card,Senior,Female,,Monica White
-Ls9210,12/24/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,243.45,,973.8,0.05,Mobile Wallet,Senior,Female,New York,Abigail Jacobson PhD
-xq1496,2/22/25,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,113.34,9,,0.1,Online Payment,Young,Female,Los Angeles,Scott Leblanc
-Nt5641,9/27/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1777.77,7,12444.39,0.05,Mobile Wallet,Senior,Female,Chicago,Tyler Bryan
-Fc9532,10/19/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,306.57,2,613.14,0.15,,Adult,Male,Houston,Jennifer Hamilton
-rZ8003,9/12/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,0.91,4,3.64,0.05,Cash,Young,Female,Los Angeles,Kayla Davis
-EE9271,9/5/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1352.5,9,12172.5,0.15,Credit Card,,Male,Los Angeles,Nancy Trujillo
-kA1088,11/30/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2497.06,1,2497.06,0.15,Debit Card,Senior,Male,Los Angeles,Charles Donaldson
-tz1355,6/25/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1332.01,3,3996.03,,Credit Card,Young,Male,Chicago,Benjamin Henry
-Fe7707,7/25/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2151.04,8,17208.32,0.05,Online Payment,Young,Female,Los Angeles,Allen Patterson
-Ob0392,2/28/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,41.5,7,290.5,0.1,Mobile Wallet,Young,,New York,Elizabeth Ward
-ni1670,1/23/25,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,339.55,3,1018.65,0.2,Debit Card,Young,,Chicago,Jorge Rogers
-iA5761,8/26/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,287.97,7,2015.79,0.1,Mobile Wallet,Young,Female,Phoenix,James Greer
-Ux5842,9/17/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2492.97,2,4985.94,0.1,Debit Card,Adult,Female,Chicago,Andrew Thomas
-Ou3274,,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,,Footwear,128.18,10,1281.8,0.15,Online Payment,Adult,Female,Chicago,Randy King
-nj2002,3/18/25,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,122.28,7,855.96,0.05,Cash,Senior,Female,Phoenix,Brian Thompson
-QM5059,10/14/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1744.06,9,15696.54,0,Credit Card,Young,Male,Chicago,Mrs. Linda Morales
-pY8432,12/2/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2082.49,10,20824.9,0.1,Online Payment,Senior,Female,Phoenix,Heidi Lloyd
-zp6681,11/5/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,,10,1397.3,0.05,Mobile Wallet,Young,Female,Houston,Crystal Blackburn
-Xk9382,6/11/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2435.02,10,24350.2,0.05,Cash,Adult,Male,Los Angeles,Daniel Bridges
-Uf6083,11/15/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,,Beverages,0.81,3,2.43,0.2,Credit Card,Young,Male,Chicago,Michael Wyatt
-sd6214,9/1/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1068.05,6,6408.3,0,Online Payment,Senior,Female,Phoenix,Sabrina Carey
-Lw1866,7/26/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1621.93,6,9731.58,0.2,Cash,Young,Male,Los Angeles,George Smith
-PV1837,6/10/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,27.87,8,222.96,0.2,Cash,Young,Male,New York,Tammy Collins
-mm8699,4/12/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.31,9,,0.15,Online Payment,Senior,Male,Los Angeles,James Thompson
-Io3452,2/8/25,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1722.78,6,10336.68,0,Mobile Wallet,Young,Male,Chicago,William Mcmahon
-BC7955,4/12/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,3.39,8,27.12,0.2,Online Payment,Senior,Male,Phoenix,Nicole Torres
-hR2439,4/20/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1048.88,3,3146.64,0.2,Debit Card,Adult,Male,Los Angeles,Anthony Leblanc
-Db7328,4/12/24,,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4.4,5,22,,Credit Card,Young,Female,Houston,Rebecca Drake
-Up1128,11/2/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1770.11,9,15930.99,0.15,Credit Card,Adult,Female,Chicago,Grace Brown
-zB7301,12/25/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1948.79,6,11692.74,0.15,Credit Card,Senior,Female,Phoenix,John Cooper
-Tx1875,12/13/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,76.49,4,305.96,0.1,Mobile Wallet,Young,Male,Chicago,Michelle Chapman
-qT3691,4/1/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,0.75,1,0.75,0.15,Online Payment,Senior,,Los Angeles,Ryan Cochran DDS
-Ei2954,2/4/25,,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,28.73,10,287.3,0,Cash,Adult,Female,Houston,Rhonda Bennett
-yT0105,,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1098.24,2,2196.48,0.15,Cash,Senior,Male,Los Angeles,Benjamin Preston
-yi0300,4/2/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,3.41,6,20.46,0.2,Debit Card,Adult,Male,Houston,Joseph Ramos
-nE2301,8/6/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1944.04,7,13608.28,0.2,Debit Card,Senior,Male,Phoenix,Victor Lee
-PR7457,5/14/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,,6,,0.1,Credit Card,Adult,Female,New York,Joseph Wood
-Uh5719,6/10/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,26.73,7,187.11,0.2,Credit Card,Adult,Female,Los Angeles,Alice Lynch
-gd1401,2/18/25,,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1066.16,6,6396.96,0.1,Credit Card,Senior,Female,,Christina Rose
-ol4659,7/3/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.09,3,3.27,0,Debit Card,Senior,Male,Chicago,Keith Rosales
-gz3442,11/12/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,38.27,5,191.35,0.1,Cash,Adult,Male,New York,Patrick Smith
-Xh9917,10/19/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,70.55,5,352.75,0.2,Debit Card,Adult,Female,New York,Richard Wilkins
-UT4842,3/4/25,,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,98.52,1,98.52,0.1,Credit Card,Adult,Female,Phoenix,David Carter
-ma1577,6/16/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,3.74,8,29.92,0.2,Debit Card,Young,Male,Phoenix,Russell Gonzales
-Ov7415,4/14/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,169.79,8,1358.32,0.05,Cash,Young,Female,New York,Jaime Knapp
-DP9150,12/15/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1069.6,2,2139.2,0,Credit Card,Adult,Female,Los Angeles,Laura Gilbert
-GC0825,10/5/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.8,4,7.2,0.15,Debit Card,Adult,,Houston,Connie Casey
-Wt9967,7/7/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1950.09,8,15600.72,0.05,Cash,Adult,Male,Houston,James Allen
-Fv2127,11/12/24,,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,2.57,3,7.71,0.05,Debit Card,Adult,Male,New York,Michael Johnson
-DK7847,10/15/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,126.11,9,1134.99,0.15,Credit Card,Senior,Male,Houston,Jeanette Davis
-Td7888,12/12/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,91.13,9,820.17,0.2,Mobile Wallet,Senior,Male,Phoenix,Seth Odonnell
-eE9046,2/20/25,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,,1694.77,4,6779.08,0.2,Credit Card,Adult,Male,Phoenix,Jason Martinez
-yZ1306,10/21/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,34.07,8,272.56,0.15,Credit Card,Senior,Female,New York,Darlene Taylor
-QC9510,10/18/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,,1719.58,10,17195.8,0.1,Mobile Wallet,Young,,New York,Lisa Brown
-Gb6779,,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,0.55,8,4.4,0.1,Debit Card,Adult,,New York,Ariel Riley
-AW3083,12/25/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,,7,7054.18,0,Mobile Wallet,Adult,Female,Phoenix,Shari Jones
-YJ2457,1/30/25,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,0.5,10,5,,Credit Card,Young,Female,Los Angeles,Victoria Smith
-uG3800,1/2/25,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2153.29,2,4306.58,0.15,Debit Card,Young,Male,New York,Madison Smith
-Ec0733,11/2/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,682.28,1,682.28,0.1,Online Payment,Senior,Male,Phoenix,Michael Roberts
-BK8919,12/2/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1949.39,5,9746.95,0.15,Mobile Wallet,Senior,Male,Chicago,Michele Turner
-Ny4033,7/9/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,119.97,2,239.94,,Cash,Young,Female,Chicago,Kristi Todd
-Fg5115,7/30/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.35,6,8.1,0.15,Online Payment,Adult,Male,Los Angeles,Miguel Hines
-ko1904,12/25/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,814.01,5,4070.05,0.1,Credit Card,Young,Female,Houston,Nicole Vaughan
-aT9610,5/20/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2249.65,7,15747.55,0,Online Payment,Senior,Female,Chicago,Emily Morales
-SV2874,,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,,29.27,4,117.08,0,Credit Card,Adult,Female,Houston,Sharon Martinez
-eg7204,9/23/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1583.09,4,6332.36,0.1,Online Payment,Adult,Female,Phoenix,Colleen Rose
-Tr6088,7/23/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,,1.79,10,17.9,0.05,Cash,Senior,Male,Phoenix,Jill Cherry
-zM3197,5/16/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,,Outdoor,40.14,3,120.42,0,Credit Card,Adult,Male,Houston,Tyler Perkins
-mk3047,9/5/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,190.11,1,190.11,0,Cash,Young,Female,Phoenix,Joel Ochoa
-fj8334,2/22/25,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.96,4,7.84,0.15,Debit Card,Adult,Male,Chicago,Brittany Hodges
-Nj3107,10/12/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,,180.62,3,541.86,0.15,Online Payment,Young,Male,New York,Alejandra Adams DDS
-ZL8006,4/1/24,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,128.03,7,896.21,,Cash,Adult,Male,Houston,Angel Daniels
-mI1442,7/13/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,145.03,6,870.18,0,Debit Card,Adult,Female,New York,Samantha Sanchez
-Pg5736,10/29/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,103.51,8,828.08,0.15,Online Payment,Senior,Male,Houston,Michele Arnold
-VL6485,6/15/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,,1.75,5,8.75,0.05,Mobile Wallet,Senior,Female,Houston,Levi Cruz
-bv7654,3/31/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1430.19,6,8581.14,0.05,Online Payment,Senior,Female,Los Angeles,Andrew Jacobs
-ui3295,11/10/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.25,4,5,0.1,Debit Card,Adult,Male,Chicago,Travis Peterson
-vc6148,3/1/25,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,0.95,4,3.8,0.1,Debit Card,Senior,Female,Phoenix,Leslie Steele
-eq7161,2/24/25,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,315.62,9,2840.58,0.2,Mobile Wallet,Young,Male,Chicago,Erin Simon
-vQ7005,7/8/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,,Home Appliances,445.7,,4011.3,0,Mobile Wallet,Senior,Male,Chicago,Kristine Clarke
-wP7362,5/13/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4.25,4,17,0.1,Cash,,,Chicago,Amanda Oneal
-Ua3266,8/20/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,53.76,10,537.6,0.05,Mobile Wallet,Adult,Female,Phoenix,Kendra Meyers
-eT8670,7/12/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,309.26,10,3092.6,,Cash,Senior,Male,New York,Dana Noble
-jx1132,3/23/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1754.93,6,10529.58,0.15,Cash,Adult,Male,Houston,Andrea Molina
-sb8415,1/23/25,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,81.68,1,81.68,0.2,Cash,Adult,Male,Los Angeles,Cheryl Willis
-YA2756,7/2/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,2451.86,8,19614.88,,Cash,Adult,Male,Phoenix,Edward Avila
-wE4075,3/8/25,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,823.48,4,3293.92,0.1,Credit Card,Adult,Male,Houston,Lisa Jackson
-IQ5648,9/26/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,2.24,7,15.68,0.2,Mobile Wallet,Young,Female,Los Angeles,Jacqueline Koch
-TJ1617,1/16/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,47.63,4,190.52,0.1,Cash,Senior,Male,Phoenix,Susan Cook
-iW8341,2/28/25,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,191.95,9,1727.55,0.1,Online Payment,Adult,Female,Los Angeles,Barbara Case
-VX5187,1/26/25,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,,4,853.2,0.1,Cash,Senior,Male,Chicago,Alexis Stewart
-RV0664,9/22/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,997.94,6,5987.64,0.2,Debit Card,Adult,,New York,Samantha Peterson
-Iw6947,3/15/25,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,983.05,6,5898.3,0.1,Online Payment,Young,Male,Phoenix,Corey Bruce
-py6327,,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,229.57,9,2066.13,,Mobile Wallet,Senior,Female,Houston,Cassandra Hansen
-UK6926,5/8/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,26.03,9,234.27,0,Debit Card,Adult,Female,Houston,Laura Lamb
-XZ8468,5/10/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,272.98,4,1091.92,0.2,Credit Card,Young,Male,Houston,Natasha Rivers
-QO1458,8/28/24,,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,36.02,9,324.18,0.05,Debit Card,Adult,,Phoenix,Maria Dean
-Jw9176,11/1/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,1764.02,6,10584.12,0.1,Mobile Wallet,Adult,Male,Chicago,Thomas Jones
-wn1300,12/28/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,371.45,1,,0,Mobile Wallet,Young,Female,Los Angeles,Charles Gates
-CY1764,10/17/24,USA,3d03e003-0e0f-4ba2-aeea-d5bbdc309aef,Apple MacBook Pro,Electronics,1546.96,8,12375.68,0.15,Credit Card,Adult,Male,Los Angeles,Joanne Davis
-Ma3006,11/6/24,USA,f154a7af-0978-4929-bb28-2f5cfc7fe3ab,KitchenAid Mixer,Home Appliances,290.02,10,2900.2,0.15,Cash,Adult,Male,Houston,Kevin Rangel
-Vm6685,2/25/25,USA,2f85ede0-526f-458d-ae3b-ea43924d6ccd,Nike Air Max,Footwear,161.92,3,485.76,0.1,Online Payment,Adult,Male,New York,Stacy Williams
-Ln3166,8/2/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,531.5,10,5315,0.15,Cash,Young,Female,New York,Robin Smith
-Tg5824,10/16/24,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,,9,17520.66,0.15,Credit Card,Senior,Male,Phoenix,Laura Thompson
-kI8512,6/26/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,2.77,9,24.93,0.05,Debit Card,Adult,Male,Los Angeles,
-mi6733,10/24/24,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,1134.54,6,6807.24,0,Mobile Wallet,Adult,Female,Houston,Maria Jackson
-Cj9598,9/17/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,3.39,6,,0.2,Credit Card,Young,,Phoenix,Scott Yu
-Aa4707,2/17/25,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,4.57,7,31.99,0.15,Credit Card,Senior,Female,Los Angeles,Kristen Ruiz
-nl9934,4/7/24,USA,6b9073bb-c38f-4329-b65f-8359ead72b74,Doritos Chips,Snacks,2.7,8,21.6,0.1,Mobile Wallet,Senior,,Houston,Monica Scott
-Gj2854,12/3/24,USA,547bf2dd-a1b4-44e5-a885-b86793d4b67e,The North Face Jacket,Apparel,,8,,0.05,Online Payment,Senior,Male,Los Angeles,Diana Rose
-DY9726,11/22/24,USA,7246c997-d100-4fc3-a493-4630af6218da,Levi's 501 Jeans,Apparel,51.74,,310.44,0.2,Mobile Wallet,Adult,Male,Los Angeles,Tommy Carey
-mL0786,9/20/24,USA,c59b984e-2563-4729-b67c-88a7a1f1a1e7,Coca-Cola Can,Beverages,1.34,5,6.7,0.15,Cash,Senior,Female,Chicago,Nicholas Gonzalez
-ou8427,3/13/25,USA,6befb4b3-8830-42f4-bc76-f48ace12b63e,iPhone 14,Electronics,913.14,4,3652.56,0.1,Online Payment,Adult,Male,Los Angeles,Karla Jackson
-Uz2747,2/12/25,USA,12dc85ef-3b57-4744-a706-a13ab0d6d05f,Samsung QLED TV,Electronics,841.82,3,2525.46,0.05,Debit Card,Adult,Female,Phoenix,Lisa Fox
-fD2045,3/26/24,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,43.55,10,435.5,0.1,Credit Card,Adult,Female,New York,Ryan Wolf
-ad8415,2/18/25,USA,dc2d1352-7c23-4c8e-b7e3-8d708e9848ff,Yeti Tumbler,Outdoor,22.87,2,45.74,0,Debit Card,Senior,Female,Chicago,Mark Greene
+ME9492,3/22/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,342.93,1,208.94,0.1,Credit Card,Adult,Male,Phoenix,Mr. Shawn Rogers
+CO9664,10/10/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,162.47,1,117.84,0,Credit Card,Adult,Female,Houston,Alexis Robles
+eN8799,4/26/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.54,8,29.76,0.1,Debit Card,Young,Female,Houston,Jamie Mcgee
+pC5841,9/4/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,54.3,3,111.99,0.1,Credit Card,Senior,Female,Phoenix,Kerry Valdez
+Av9679,4/26/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1923.76,1,1225.2,0,Mobile Wallet,Adult,Male,Houston,Jennifer Rios
+tM9992,7/17/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,137.6,1,113.12,0.2,Credit Card,Young,Female,Houston,Kathryn Moss
+lv8139,9/13/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1008.73,2,1429.34,0.15,Credit Card,Adult,Male,Chicago,Michael Coleman
+ZM8975,12/13/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,150.03,3,338.46,0,Mobile Wallet,Young,Female,New York,Amy Hebert
+bL0232,3/20/25,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,966.72,1,656.09,0.05,Credit Card,Senior,Female,Houston,Heather Garcia
+YK3012,9/13/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.46,24,23.76,0,Debit Card,Senior,Female,New York,Ashley Hernandez
+Nk0148,1/13/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1365.36,1,901.04,0.05,Mobile Wallet,Senior,Female,Phoenix,Victoria Anderson
+Iy0429,8/20/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,53.53,2,81.64,0,Credit Card,Young,Male,New York,Jamie Frank
+Kk9165,3/9/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,257.49,2,358.34,0.2,Online Payment,Young,Male,Los Angeles,Alexandra Washington
+Qz1457,7/23/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2073.32,1,1668.53,0,Credit Card,Young,Female,Houston,Lisa Johnson
+lw7151,9/26/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,74.48,,,0.15,Cash,Young,Female,Houston,Mark Reynolds
+pd7319,3/24/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1289.23,1,902.94,0.15,Debit Card,Adult,Male,Chicago,Lindsay Reed DVM
+YQ0862,5/15/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,47.39,1,38.2,0.15,Debit Card,Adult,Male,Chicago,Christopher Hernandez MD
+wd2846,7/3/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1432.79,1,1070.99,0,Online Payment,Young,Female,Houston,Julie Mullen
+Pp0425,9/3/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1782.63,1,1082.11,0.15,Credit Card,Young,Male,Houston,Charles Watkins
+tZ1323,12/24/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,218.5,2,351.8,0,Online Payment,Adult,Male,Chicago,Patrick Campbell
+WQ4592,11/21/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,2,,0.1,Mobile Wallet,Young,Male,Houston,Carlos Bennett
+re5982,4/28/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1214.53,,,0.1,Online Payment,Adult,Male,Chicago,Vincent Russo
+AT3383,8/17/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.48,2,2.18,0,Debit Card,Adult,Male,Chicago,Drew Lopez
+KW7736,6/16/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1088.2,1,725.39,0.2,Debit Card,Adult,Female,New York,Kathy Bell
+NH7542,5/21/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,39.25,4,107.96,0.1,Debit Card,Senior,Female,New York,Dylan Sanchez
+jF7021,5/27/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,78.28,1,50.23,0.15,Cash,Young,Female,Houston,Joshua Rodriguez
+PO4732,7/29/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,46.11,4,111.56,,Debit Card,Senior,Female,Houston,Timothy Ramirez
+XS0894,10/27/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,139.52,1,96.62,0.2,Cash,Senior,Female,New York,Wesley Fox
+cv4260,9/29/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,991.8,2,1653.18,,Mobile Wallet,Young,Male,Chicago,Kelsey Harris
+uP4884,6/1/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,244.45,2,372.9,0,Debit Card,Adult,Male,Houston,Charles Carter
+Wn3420,10/3/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,174.79,1,136.06,0,Debit Card,Young,Female,New York,Joseph Hanson
+HR8763,1/16/25,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,393.65,2,633.32,0.15,Mobile Wallet,Adult,Female,New York,John Ruiz
+zh5482,10/14/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1940.99,1,1338.2,0.1,Mobile Wallet,Adult,Female,Houston,Paul Calhoun
+Ke8886,1/31/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1479.74,1,1154.61,0.15,Cash,Adult,Male,Los Angeles,Jessica Hayes
+mo4453,8/17/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,,1,,0.05,Credit Card,Young,Male,Los Angeles,Richard Stewart
+qR6186,3/23/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2163.34,1,1701.5,0.05,Cash,Young,Male,Chicago,Jessica Davis
+XO5037,11/27/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.73,5,11.55,0.05,Mobile Wallet,Adult,Male,New York,Grace Mclean
+xL4729,4/19/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.99,2,5.12,0.05,Debit Card,Senior,Male,Los Angeles,Larry Schroeder
+Xi0357,2/28/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,816.71,1,685.89,0.2,Credit Card,Senior,Female,Phoenix,Stephanie Perkins
+nD6167,3/20/25,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,170.65,1,134.81,0.15,Online Payment,Young,Male,Los Angeles,William Mcmillan
+bt1569,8/6/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1319.59,1,870.07,0.05,Debit Card,Young,Male,Los Angeles,Albert Richard
+GL5476,12/27/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,194.62,2,288.08,0.05,Credit Card,Adult,Female,Houston,Kevin King
+LV1304,8/31/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.35,23,22.54,0.05,Debit Card,Adult,Female,Houston,Samantha Norman
+zV5770,5/27/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,165.82,2,278.44,0.15,Cash,Senior,Male,Phoenix,Aaron Carroll
+ak0138,3/1/25,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,162.34,1,118.13,0.05,Cash,Senior,Male,Chicago,Stephanie Dean
+QP4940,4/5/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.82,6,14.34,0.2,Mobile Wallet,Senior,Male,Phoenix,Laura Gibson
+JO0532,7/1/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2001.58,1,1345.35,0,Debit Card,Young,Male,New York,Robert Mason
+eh5612,6/19/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1094.74,,,0.2,Mobile Wallet,Senior,Female,New York,Dawn Sharp
+XV5595,3/12/25,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,362.03,1,285.91,0.1,Online Payment,Adult,Female,Houston,Timothy Miller
+XP1019,7/23/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,193.18,1,132.8,0.05,Online Payment,Young,Male,Phoenix,Jennifer Lindsey
+kV3650,12/18/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,60,3,121.92,0.1,Mobile Wallet,Young,Male,Los Angeles,Timothy Martinez
+lU3209,12/13/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,141.8,1,114.34,0.1,Online Payment,Adult,Female,New York,Cassandra Rich
+HF8851,4/4/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.04,7,12.88,0.05,Online Payment,Adult,Male,Phoenix,William Dominguez
+Fr9364,6/26/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,26.37,4,63.48,0.2,Mobile Wallet,Senior,Male,New York,Penny Sanchez
+cr9683,10/1/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,961.38,1,696.77,,Cash,Senior,Female,Houston,Amanda Hicks
+sE9666,7/15/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,78.17,4,265.68,0.05,Debit Card,Adult,Male,Chicago,Meagan Mccullough
+hV8775,11/7/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1505.2,1,1208.25,0.15,Mobile Wallet,Adult,Female,Phoenix,Holly Christensen
+ZV3685,6/27/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1086.74,2,1392.56,0.1,Debit Card,Young,Female,Los Angeles,John Davis MD
+jV8387,9/28/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,,1,,0.15,Credit Card,Adult,Female,Los Angeles,Kristy Cervantes
+kG2845,7/22/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.2,21,18.48,0.15,Mobile Wallet,Adult,Male,New York,Matthew Johnson
+eO3750,1/14/25,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,72.92,3,161.28,0,Mobile Wallet,Adult,Female,New York,Derek Lowery
+JK0365,5/15/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,948.74,2,1588,0.15,Mobile Wallet,Young,Male,Phoenix,Jose Greene
+KR9649,12/14/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,765.27,1,611.57,0.2,Online Payment,Young,Male,New York,April French
+ei3820,2/4/25,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,39.18,2,48.46,0.2,Online Payment,Adult,Male,New York,Michelle Case
+Gf4104,1/30/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,778.85,1,517.17,0.2,Debit Card,Senior,Male,Chicago,Vanessa Hudson
+nx2940,9/3/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,984.92,1,791.4,0.15,Online Payment,Young,Male,Chicago,Gabriel Rich
+fI2306,6/20/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,134.15,1,107.14,0,Cash,Young,Female,New York,Jennifer Nelson
+Gm4720,11/27/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,54.38,3,113.58,0.05,Credit Card,Adult,Male,Los Angeles,Catherine Martin
+YA6955,2/12/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1438.27,,,0.05,Credit Card,Senior,Female,New York,Kristine Lopez
+by6692,5/22/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.56,2,4.28,0,Credit Card,Adult,Male,Houston,Craig Smith
+Ho3816,12/23/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.47,10,26.8,0.2,Online Payment,Adult,Male,Phoenix,Bill Cole
+Xn1637,12/7/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,,1,,0.2,Online Payment,Young,Female,Houston,Rebecca Wilkerson
+eE2592,5/12/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.8,2,7.88,0,Mobile Wallet,Young,Female,Houston,Susan Santiago
+Mu6535,2/21/25,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,54.64,3,116.49,0.1,Mobile Wallet,Adult,Female,Houston,Shannon Campbell
+NM3753,9/23/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1262.18,1,916.75,0.2,Credit Card,Adult,Female,New York,Timothy Williams
+wq9347,5/1/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,334.38,1,275.55,0,Cash,Young,Male,Los Angeles,Dylan Patterson
+fr2696,11/13/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.07,1,0.64,0,Debit Card,Young,Female,Phoenix,Antonio Medina
+uT8465,2/18/25,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,63.98,4,199.76,0,Mobile Wallet,Young,Male,Chicago,Timothy Mason
+iQ2687,12/29/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,856.37,1,651.21,0.2,Credit Card,Young,Male,Houston,Christopher Sullivan
+dx8312,10/27/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.35,14,15.26,0.2,Online Payment,Young,Female,Los Angeles,Benjamin Wilson
+xH3697,1/13/25,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.23,1,0.88,0.05,Credit Card,Adult,Female,Chicago,Diana Clark
+GZ4724,4/30/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,209.44,2,343.86,0.05,Mobile Wallet,Senior,Male,New York,Laura Salas
+wq0014,7/13/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,152.56,1,98.95,0.2,Cash,Senior,Female,Chicago,Monique Sweeney
+iv1771,1/5/25,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,312.03,1,216.1,0.15,Credit Card,Senior,Female,Los Angeles,Jordan Thomas
+yJ2826,10/16/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,,1,,0,Debit Card,Adult,Female,Los Angeles,David Patel
+vH5503,3/10/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,166.74,2,274.58,0.1,Debit Card,Adult,Female,Chicago,Laura West
+bS7583,10/19/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.41,16,15.2,0.05,Mobile Wallet,Senior,Female,Los Angeles,Courtney Flynn
+eN7649,8/24/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,411.17,2,579.34,0.15,Credit Card,Senior,Male,Chicago,Hannah Hicks MD
+Tm5391,6/1/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,63.58,3,157.11,0.15,Debit Card,Young,Female,Houston,Chad Wilson
+Ij6755,5/28/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1332.71,1,911.25,0.05,Credit Card,Adult,Male,Houston,Gordon Farley
+xZ5925,9/22/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,163.57,2,246.6,0.15,Credit Card,Adult,Female,Chicago,Brian Maldonado
+Lv9464,7/14/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,2,,0.2,Mobile Wallet,Adult,Male,Los Angeles,Rebecca Oneill
+Bp5509,12/19/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,447.88,1,349.35,0.05,Debit Card,Young,Female,Phoenix,Angela Armstrong
+vT4276,3/18/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,261.05,2,372.54,0.2,Credit Card,Adult,Female,Phoenix,Ashley James
+UD2519,5/13/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,765.92,1,641.09,0.15,Debit Card,Adult,Male,Los Angeles,Michael Simpson
+oG6330,8/7/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1170.97,1,975.63,0.05,Debit Card,Adult,Male,Phoenix,Sharon Joseph
+IK6636,10/1/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1805.36,1,1515.24,0.1,Cash,Adult,Female,New York,Alexander Montgomery
+Mj5615,11/7/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,371.89,2,509.76,0.1,Credit Card,Young,Female,Phoenix,Angel Fernandez
+gn8400,8/13/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,141.07,2,232.06,0.15,Cash,Young,Male,Phoenix,Chris Foley
+QD9373,10/22/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,430.99,2,674.4,0.05,Credit Card,Adult,Female,New York,Micheal Ramirez
+IT2833,3/28/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.1,,,0.1,Cash,Adult,Male,Chicago,Jeffrey Hutchinson
+fI4907,1/2/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,848.17,1,591.55,0.2,Debit Card,Adult,Female,Chicago,Sarah Wagner
+Bc3479,10/7/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.28,23,23.46,0.1,Mobile Wallet,Adult,Female,Chicago,Christina Mann
+Nb4961,1/20/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1303.1,1,972.58,0.2,Mobile Wallet,Senior,Male,Los Angeles,Todd Reese
+RN8880,7/27/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,165.32,1,121.16,0.1,Online Payment,Adult,Female,Los Angeles,Benjamin Lucero
+Nl6981,2/21/25,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.07,,,0.05,Mobile Wallet,Young,Female,Phoenix,Javier Freeman
+nf2979,2/4/25,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,25.78,2,34.32,,Mobile Wallet,Adult,Female,Houston,Tina Johnson
+hd7478,6/13/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,71.74,3,158.19,,Debit Card,Young,Female,Phoenix,Russell Bryant
+pk3848,8/16/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,44.96,3,105.33,0,Debit Card,Young,Female,Houston,Ryan Bright
+HQ4599,6/20/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,125,2,157.98,0.2,Debit Card,Young,Female,Phoenix,Katherine Greene
+fl4125,1/24/25,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.51,10,15.3,0.1,Debit Card,Adult,Female,Houston,Patricia Fisher
+LO9557,3/17/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,162.32,1,109.03,0,Cash,Adult,Female,Los Angeles,Timothy Weaver
+PT8759,8/19/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1827.76,1,1179.17,0.1,Mobile Wallet,Senior,Male,New York,Virginia Carr
+dI4131,12/31/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,204.07,2,339,0.15,Mobile Wallet,Senior,Female,Chicago,Matthew Thompson
+tg8855,7/21/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,797.69,1,636.76,0.05,Mobile Wallet,Senior,Male,Los Angeles,Mr. Jesse Turner PhD
+FF7913,5/17/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,850.86,1,554.5,0.2,Online Payment,Young,Female,New York,Selena Tyler
+uZ4444,7/16/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,69.09,,,0.2,Credit Card,Adult,Male,Phoenix,Kara Lynn
+jt7367,7/15/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,,1,,0,Cash,Senior,Male,Phoenix,Barbara Velasquez
+MJ8658,11/27/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1743.33,1,1371.64,0.15,Cash,Young,Male,Houston,Jesse Parker
+Ts0641,11/13/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,987.27,1,810.95,0.15,Online Payment,Senior,Male,Chicago,Crystal Roman
+Nf8441,5/11/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1981.2,1,1231.3,0.2,Cash,Senior,Male,Los Angeles,Benjamin Hernandez
+SL2995,11/21/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,142.17,3,275.55,0.05,Online Payment,Adult,Female,Phoenix,Matthew Fowler
+fQ0882,3/4/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1360.58,1,932.81,0,Debit Card,Adult,Male,Houston,Megan Ortiz
+Nj8643,2/24/25,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.05,10,7.5,0.2,Mobile Wallet,Senior,Male,Los Angeles,Peter Kelley
+zu1038,11/14/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,378.5,1,237.85,0,Debit Card,Senior,Male,Chicago,Dr. Karen Sweeney
+vQ9557,5/9/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,46.7,3,112.17,0.15,Cash,Young,Female,Los Angeles,Alexis Watson
+RP2694,3/19/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1191.62,1,994.38,0.1,Debit Card,Adult,Female,Los Angeles,Michael Reynolds
+Ft7868,2/6/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1873.94,1,1490.66,0.05,Cash,Young,Female,Phoenix,Mark Cooper
+dF6210,12/17/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1240.3,1,808.62,0.15,Online Payment,Senior,Male,Chicago,Ashley Robinson
+KK3136,2/19/25,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1010.18,2,1710.06,0,Debit Card,Young,Male,Chicago,David Wise
+NJ5481,3/22/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,314.38,1,221.14,0.1,Online Payment,Adult,Male,New York,David Wolfe
+mL1086,3/23/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,271.35,1,217.57,0.1,Online Payment,Adult,Female,Phoenix,Luis Anderson
+zM6559,6/27/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.15,11,9.46,,Mobile Wallet,Adult,Male,New York,Jose Jennings
+SQ7882,1/1/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2482.64,1,1700.55,0.15,Mobile Wallet,Young,Female,New York,Henry Scott
+lr8403,4/6/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,76.65,3,186.96,0.1,Mobile Wallet,Senior,Male,Chicago,Edward Jones
+Tb2083,9/20/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,172.38,3,329.58,0.2,Credit Card,Senior,Female,Chicago,Kyle King
+Hq7108,6/27/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.19,1,3.33,0.1,Cash,Young,Female,New York,Wayne Price
+dZ4182,5/20/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,255.4,1,167,0.15,Online Payment,Young,Male,Los Angeles,Kathleen Fox
+kh9269,12/9/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,47.56,3,87.03,0.05,Debit Card,Adult,Female,Los Angeles,Jennifer Cooper
+qf6712,12/8/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,311.58,1,235.36,0.2,Debit Card,Adult,Male,Houston,Erica Harris
+Vi1895,6/2/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,370.21,1,279.56,0.05,Mobile Wallet,Senior,Female,Phoenix,Cody Jones
+iR6303,10/17/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,56.74,2,90.38,0.1,Mobile Wallet,Adult,Female,Chicago,Courtney Hill
+Ok4754,5/24/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,882.67,1,678.41,0.05,Cash,Senior,Female,Phoenix,Lindsey Sharp
+qS9638,11/22/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,240.17,2,338.92,0,Mobile Wallet,Adult,Male,Phoenix,Jennifer Moreno
+AU3873,10/23/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1806.91,1,1197.78,0.05,Credit Card,Adult,Female,Houston,Melissa Lopez
+uX9012,9/5/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,1,,0,Online Payment,Young,Female,Los Angeles,Michael Marshall
+ex1983,1/7/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,778.55,1,616.77,0.1,Mobile Wallet,Adult,Male,Phoenix,Melissa Welch
+rN0770,3/3/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,192.82,1,134.57,0,Debit Card,Senior,Male,New York,Kathleen Jones
+gg0153,4/6/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,162.69,3,329.49,0.2,Credit Card,Senior,Female,Phoenix,Jennifer Paul
+oP9863,1/19/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,153.22,2,224.14,0,Mobile Wallet,Adult,Male,Chicago,Taylor Dunn
+rn2951,2/7/25,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,168.33,1,128.17,0,Online Payment,Senior,Female,Chicago,Jocelyn Brewer
+ai6230,1/31/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1589.14,1,1278.64,0.05,Cash,Young,Female,Chicago,Joshua Thomas
+nw8737,7/31/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,162.85,2,246.06,0.2,Online Payment,Adult,Male,Phoenix,Regina Harrington
+fF9029,9/25/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,343.91,2,536.1,0.1,Credit Card,Adult,Female,Phoenix,Lisa Williams
+XI6270,7/4/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,167.84,3,381.15,0.05,Debit Card,Senior,Male,Los Angeles,John Ford
+cn5218,1/23/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2343.25,1,1702.47,0.1,Online Payment,Senior,Male,Houston,Raymond Martinez
+NX4408,3/28/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,175.65,2,287.52,0,Cash,Senior,Female,New York,Aaron Padilla
+ea9401,11/18/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,,2,,0.1,Cash,Adult,Female,Los Angeles,Stephanie Turner
+MS8714,10/24/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,232.38,1,146.47,0,Credit Card,Adult,Female,Houston,Scott Kelley
+AH4440,4/1/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.36,11,12.32,0.1,Credit Card,Senior,Male,Phoenix,Michael Caldwell
+cr6308,3/1/25,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,59.19,3,134.37,0.05,Mobile Wallet,Young,Female,Houston,David Turner
+hw5308,12/6/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,434.23,2,732.4,0.2,Credit Card,Young,Female,New York,Tommy Pham
+PE1228,11/4/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1557.75,1,1273.35,0.15,Credit Card,Adult,Female,Chicago,Kelly Guerra
+ke5068,1/9/25,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,53.37,4,149.56,0.05,Debit Card,Young,Male,Los Angeles,John Anderson
+MX0321,7/15/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,175.25,,,0,Mobile Wallet,Adult,Male,Los Angeles,Jodi Jones
+Kr3348,12/20/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,127.57,1,105.04,0.05,Online Payment,Senior,Male,New York,Benjamin Lopez
+wE5896,4/13/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1040.91,,,0,Credit Card,Senior,Female,Houston,Taylor Singh
+De5130,9/9/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,378.78,1,262.36,0.2,Mobile Wallet,Adult,Male,Phoenix,Michael Murray
+IP7329,11/2/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1563.66,1,1167.42,,Mobile Wallet,Senior,Female,Houston,Christina Mcfarland
+VE3829,5/1/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,48.53,3,116.61,0.1,Mobile Wallet,Adult,Male,Chicago,Raymond Peck
+WV7369,8/26/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.24,22,19.14,0.1,Debit Card,Adult,Female,Chicago,Ruth Hughes
+WN1990,8/21/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.32,15,14.25,0.05,Mobile Wallet,Adult,Female,Phoenix,David Figueroa
+gK3304,12/28/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,,2,,0,Credit Card,Young,Male,New York,Michael Anderson
+Cj9194,4/16/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1060.62,2,1652.48,0.05,Debit Card,Adult,Female,Los Angeles,Travis Brown
+yp7744,6/1/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,27.49,2,34.6,0.15,Debit Card,Senior,Female,New York,Michael Abbott
+jj1341,11/24/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.12,3,2.13,0,Cash,Adult,Female,Chicago,John Robertson
+WT0690,12/28/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1288.99,1,897.03,0.2,Online Payment,Young,Male,Chicago,Julie Davis
+cC2129,8/1/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.01,16,11.52,0.1,Cash,Young,Female,New York,Kelsey Ortiz
+NI7501,8/10/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,927.78,2,1162.38,0.15,Online Payment,Young,Female,Phoenix,Brian Hutchinson
+DB1864,9/12/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1033.81,1,633.78,0.2,Credit Card,Senior,Male,Chicago,Michael Bailey
+HQ2486,8/20/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,54.81,3,110.37,0.05,Online Payment,Young,Female,New York,Kristi Alexander
+Em3426,8/30/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.18,5,12.75,0.15,Cash,Young,Male,Phoenix,Michelle Johnson
+zh0557,10/9/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.58,10,27.9,0.1,Credit Card,Young,Female,New York,Joshua Harper
+xW0842,3/20/25,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.28,3,9.9,0.2,Debit Card,Adult,Female,Phoenix,Elijah Allen
+nA3396,4/5/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1911.24,1,1150.61,0.05,Debit Card,Senior,Female,Phoenix,Theodore Little
+Ay6115,6/18/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.87,8,14.96,0.2,Credit Card,Adult,Male,Phoenix,Richard Johnson
+vw7691,1/23/25,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,52.27,1,34.03,0.2,Mobile Wallet,Senior,Female,Houston,Joe Wallace
+AJ9933,7/1/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,823.25,1,572.15,0.15,Debit Card,Young,Female,Phoenix,Mr. Craig Anderson Jr.
+cR9754,10/9/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,62.44,1,40.84,0.15,Mobile Wallet,Young,Female,Phoenix,Bradley Page
+Ph3400,1/27/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,126.52,2,167.44,0.15,Mobile Wallet,Young,Male,Houston,Jennifer Davis
+cG7575,10/17/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,130.58,2,220.22,0,Credit Card,Adult,Female,Phoenix,Robert Nguyen
+dX5652,4/18/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,37.26,1,27.33,0,Online Payment,Senior,Male,Houston,Rebecca Koch
+iU4432,10/18/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,190.2,2,281.26,0.2,Debit Card,Young,Male,Los Angeles,Amy Garrett
+Lk9984,1/9/25,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,38.65,1,29.86,0.1,Credit Card,Adult,Female,Houston,Nicholas Smith
+da4766,8/27/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1068.1,2,1289.4,0.1,Debit Card,Young,Male,Phoenix,Dylan Scott
+rA5157,5/30/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,169.32,3,370.23,0,Cash,Senior,Male,Los Angeles,Jorge Davis
+zr7026,2/21/25,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,33.84,2,45.02,0.05,Cash,Young,Male,Chicago,Alexis Novak
+YL3380,3/20/25,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.31,,,0.05,Credit Card,Young,Female,New York,Paul Williams
+Wh2226,3/29/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,141.1,1,89.67,0.15,Mobile Wallet,Young,Male,Phoenix,Laura Miller
+fr8072,3/3/25,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.04,15,9.45,0,Cash,Senior,Female,Chicago,Jonathan Rivera
+ef8063,1/26/25,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,39.6,1,27.35,0.1,Cash,Senior,Female,Chicago,Jason Howard
+DX1181,9/8/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,149.14,2,239.18,0.15,Debit Card,Senior,Male,Chicago,Cynthia Castro
+aJ8305,7/21/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,72.17,2,97.56,0,Online Payment,Young,Male,Phoenix,Dylan Rojas
+BP7388,2/5/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,213.32,2,345.54,0.2,Cash,Adult,Male,New York,Joseph Clark
+Bw3427,7/15/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,45.66,3,92.1,0.15,Online Payment,Adult,Female,Houston,James Price
+cg3734,2/26/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1085.03,1,886.29,0.1,Cash,Adult,Male,Houston,Joyce Guerra
+iU4921,11/18/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,433.84,2,534.88,0.2,Cash,Senior,Female,Phoenix,Samantha Cervantes
+Ez5996,4/14/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.14,8,18.4,0.2,Cash,Young,Male,Los Angeles,Nicholas Nelson MD
+da4549,3/29/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.73,10,38.4,0,Credit Card,Young,Male,Houston,Michael Rogers
+ga2909,2/28/25,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,175.88,1,123.15,0,Debit Card,Young,Male,New York,Mary Jones
+oZ1209,7/19/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,27.4,1,18.75,0.15,Credit Card,Adult,Female,Houston,Stephanie Roberts
+hH3531,1/14/25,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,939.87,2,1164.3,0.1,Credit Card,Adult,Female,Chicago,Tiffany Medina
+nb5533,11/23/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,447.23,1,356.29,0.2,Debit Card,Senior,Female,Los Angeles,Shannon Clements
+gV6924,10/12/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.2,16,12.48,0,Online Payment,Adult,Male,Los Angeles,Christopher Bailey
+DC1708,3/31/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,179.87,3,392.28,0.2,Online Payment,Adult,Male,New York,Alexis Myers
+af0207,9/20/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,350.54,2,439.1,0.1,Cash,Adult,Female,New York,Ryan Lewis
+By4909,1/23/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1339.35,1,811.89,0.2,Online Payment,Adult,Female,Houston,Cathy Terry
+az3801,8/7/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.12,2,4.58,0.2,Credit Card,Senior,Male,New York,Kristen Watts
+xD5197,8/8/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,47.23,4,115.2,0.2,Online Payment,Senior,Male,Houston,Scott Smith
+Kz5060,11/26/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,236.3,2,353.24,0.15,Mobile Wallet,Senior,Female,Chicago,Jack Rodriguez
+yl0918,1/23/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,218.35,2,271.26,0.15,Cash,Senior,Male,Phoenix,Andrew Yang
+VW1481,8/12/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2253.05,1,1856.58,0.1,Online Payment,Adult,Female,Chicago,Megan Murray
+JQ2788,3/26/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1039.3,1,859.52,,Cash,Young,Male,Houston,Kenneth Smith
+EN5577,9/2/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,27.19,2,42.98,0.05,Debit Card,Young,Male,Chicago,Tanner Mitchell
+sP0339,2/10/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2479.16,1,1942.87,0.2,Online Payment,Adult,Female,Los Angeles,Kathleen Kent
+yw9913,12/20/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.22,18,13.32,0.2,Debit Card,Senior,Male,Phoenix,Paul Dunn
+MO8412,5/13/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,214.06,2,358.74,0.1,Debit Card,Young,Female,New York,Jason Browning
+UQ8450,2/13/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2351.15,1,1873.48,0.2,Online Payment,Senior,Male,Chicago,Lisa Arias
+VF1346,5/22/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,51.11,3,121.86,0.1,Cash,Adult,Female,Chicago,Brian Porter
+EU9196,5/6/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,257.4,1,217.64,0.1,Mobile Wallet,Adult,Male,Chicago,Angel Sanders
+WW1393,4/11/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,,1,,0.05,Debit Card,Young,Female,New York,Mary Robertson
+VP7064,1/6/25,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1017.9,1,649.16,,Debit Card,Adult,Female,Chicago,William Higgins
+AS9457,11/2/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2096.23,1,1717.45,0.05,Debit Card,Adult,Female,Houston,Jennifer Jacobs
+xb9672,8/31/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.41,24,21.6,,Credit Card,Young,Male,New York,Kevin Wagner
+bL7471,8/15/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,399.75,2,484.48,0,Credit Card,Senior,Female,Phoenix,Kevin Peterson
+UH9717,11/15/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,178.01,1,129.98,0,Mobile Wallet,Young,Male,Chicago,Karen Pena
+vF7036,1/28/25,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,149.99,3,359.46,0.05,Cash,Senior,Male,Houston,Victor Cooper
+hz3857,4/30/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.65,6,21.78,,Credit Card,Young,Female,Los Angeles,Rachel Bailey
+yR0391,7/18/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,175.69,3,340.86,0,Cash,Young,Male,Los Angeles,Jessica Flores
+nT4535,1/5/25,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1080.86,1,661.89,0.1,Credit Card,Senior,Male,New York,David Rollins
+bb6651,5/22/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.05,4,9.36,0.1,Debit Card,Senior,Female,Phoenix,Anna Huynh
+qW9821,2/26/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1382.27,1,1127.43,0.05,Cash,Young,Female,Los Angeles,Alan Carpenter
+yA2547,1/14/25,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,73.31,2,92.14,0.2,Online Payment,Senior,Female,Houston,Kimberly Chavez
+Tj4513,6/27/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.2,9,23.85,0,Credit Card,Senior,Female,Los Angeles,Jennifer Gray
+Ox5304,9/16/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,993.58,1,686.63,,Debit Card,Senior,Female,Phoenix,Anthony Harvey
+ZE5189,7/4/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,37.07,2,47.22,0,Cash,Adult,Female,New York,Thomas Harris
+Ad2266,2/8/25,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1025.14,2,1524,0,Online Payment,Senior,Male,Chicago,Christopher Foster
+TU9620,6/21/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,65.39,4,186.04,0.05,Debit Card,Senior,Female,Houston,Sean Martin
+gy7024,4/1/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1527.78,1,994.82,0.05,Online Payment,Adult,Female,Houston,Gary Neal
+Uy1953,9/2/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,426.97,1,294.47,0.1,Mobile Wallet,Adult,Male,Chicago,Kari Walker
+mJ0038,7/21/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,373.72,2,588.84,0.2,Debit Card,Adult,Female,Phoenix,Peter Garcia
+is4515,10/31/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,54.45,3,120.93,0.15,Cash,Young,Male,Chicago,Jose Smith
+VX4257,5/31/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,819.01,1,599.25,0.05,Debit Card,Senior,Male,New York,Natalie Lewis
+PA0621,1/3/25,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,,7,,0.2,Debit Card,Senior,Male,Phoenix,Kim Flynn
+eS3849,4/1/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,433.4,2,569.54,0.15,Credit Card,Adult,Male,New York,Randy Johnson
+ZC6300,10/24/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.68,1,1.86,0.2,Cash,Adult,Male,Chicago,Stephanie Park
+iK8622,7/20/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,26.3,1,17.61,0.15,Debit Card,Senior,Male,Los Angeles,Sarah Obrien
+Ba0683,8/26/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1041.7,2,1590.52,0,Credit Card,Senior,Female,New York,Christopher Rush
+KR1389,8/30/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,915.99,1,772.85,0,Cash,Adult,Female,Houston,Erin Lewis
+au8967,5/12/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.36,,,0.2,Cash,Adult,Female,Chicago,Casey Stephenson
+ng1313,2/19/25,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.1,4,3.32,0.15,Mobile Wallet,Senior,Female,Houston,Shelly Shannon
+Vg1675,5/7/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,,1,,0.2,Online Payment,Senior,Female,Phoenix,Kayla Wong
+ip8632,12/7/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,343.51,2,503.66,0,Online Payment,Adult,Male,Houston,Elizabeth Jimenez
+Av3902,7/22/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1089.02,2,1696.66,0.15,Mobile Wallet,Adult,Female,Chicago,Kathleen Reyes
+Hp4538,2/20/25,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,446.41,1,371.58,0.1,Online Payment,Senior,Female,Los Angeles,Charles Rodgers
+uH4092,4/30/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,339.3,1,281.91,0.2,Debit Card,Senior,Female,Houston,Shaun Hines
+SI4301,3/26/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,34.63,3,85.41,0.1,Mobile Wallet,Senior,Male,Phoenix,Sarah Price
+hX8496,12/15/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,354.97,2,575.4,0.2,Online Payment,Adult,Female,Phoenix,Margaret George
+Kk2953,1/8/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1083.09,1,778.45,0.1,Online Payment,Adult,Male,New York,Cheyenne Roberts
+Xi2255,12/11/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1088.69,1,893.36,0.05,Online Payment,Young,Male,Chicago,Michael Fields
+Ce4859,9/21/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,49.56,2,82.76,,Cash,Young,Female,Chicago,Michele Clark
+sm7757,9/29/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,167.42,3,366.12,0.15,Online Payment,Senior,Female,Los Angeles,Jared Wheeler
+MT3088,1/23/25,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1096.63,2,1445.16,0.1,Credit Card,Young,Female,Chicago,Stephanie Velazquez
+uE8537,1/27/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1371.07,1,957.89,0,Online Payment,Young,Female,Houston,Victoria Petersen
+Dy7544,2/5/25,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,25.37,1,15.49,0.1,Cash,Senior,Female,Chicago,Sarah Jones
+sG8737,3/10/25,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1041.4,2,1633.6,0.1,Mobile Wallet,Senior,Female,Phoenix,Christopher Berry
+ir9817,2/27/25,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,902.69,1,595.1,0.2,Online Payment,Senior,Male,Chicago,Mr. Cameron Osborne
+EH0623,4/5/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1577.67,1,1035.3,0.1,Debit Card,Senior,Male,Los Angeles,Michelle Hoffman
+HG8092,7/3/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,77.87,2,121.16,,Credit Card,Senior,Female,Phoenix,Justin Yates
+fH3776,6/30/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1340.04,1,958.3,0.1,Debit Card,Adult,Female,Houston,Tony Pace
+FY4700,9/1/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,66.03,1,42.98,0,Cash,Adult,Male,New York,Patricia Buckley
+Aj7435,7/1/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.02,21,15.12,0,Cash,Adult,Female,Los Angeles,Chad Wood
+Xa2343,1/20/25,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.36,5,11.4,0.05,Online Payment,Adult,Female,Chicago,Amy Williams
+gl7537,9/12/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,,2,,0,Cash,Senior,Female,Houston,Kyle Jones
+jA0924,9/15/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,37.51,4,126.04,0.05,Cash,Young,Male,Houston,David Lowery
+eu8317,8/23/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,127.59,2,178.46,0.1,Debit Card,Young,Male,Phoenix,Antonio Bender
+Wf4531,10/1/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,39.64,1,30.35,0.1,Online Payment,Young,Male,Los Angeles,Carol Marshall
+sa9270,1/8/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,937.07,1,782.93,0.15,Online Payment,Young,Male,Phoenix,Jeffery Cole
+lq4165,9/16/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,431.87,1,333.03,0.2,Credit Card,Adult,Male,Chicago,Mrs. Jasmine Carlson
+Cl9681,1/13/25,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.39,8,23.68,0.15,Online Payment,Senior,Male,Houston,William Clark
+TX1481,2/11/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,211.23,1,159.43,0.2,Cash,Adult,Male,Houston,Maria Larson
+gd1368,9/14/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,375.93,2,537.56,0,Debit Card,Young,Female,Phoenix,Vanessa Wilson
+cS7207,10/24/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,,15,,0,Credit Card,Young,Female,Houston,Joseph Hall
+AR0165,10/12/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,449.39,2,656.56,0.2,Credit Card,Adult,Male,Houston,James Turner
+GM3666,8/4/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,247.76,1,180.94,0.2,Cash,Adult,Female,Los Angeles,Cory Rodgers
+ZD7947,6/11/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1306.65,1,869.88,0.2,Online Payment,Senior,Male,New York,Kendra Simmons
+la6195,8/21/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.18,15,13.8,0.05,Mobile Wallet,Adult,Female,Phoenix,Nicole West
+Uv2460,1/22/25,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,384.02,1,254.89,0.15,Cash,Adult,Male,New York,Joseph Andrade
+Lj9763,5/7/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,77.21,4,255.44,0,Debit Card,Senior,Male,Houston,Pamela Crosby
+DJ6253,11/30/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.47,10,37.4,0.15,Debit Card,Adult,Male,New York,Patricia Tran
+DH5360,1/22/25,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.37,5,10.2,0.05,Cash,Adult,Male,Chicago,Mary Moody
+fk0378,9/15/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.07,6,11.34,0.1,Mobile Wallet,Senior,Female,Los Angeles,Nichole Houston
+TI0969,4/23/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,137.04,1,100.55,0,Mobile Wallet,Young,Male,New York,Lucas Thomas
+Dt5556,10/12/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,135.35,2,215.96,0.2,Credit Card,Young,Female,Los Angeles,William Rodriguez
+nI5397,7/28/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,929.12,2,1374.14,0.1,Debit Card,Young,Male,Chicago,Victoria Nichols
+Wl1560,10/3/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,136.66,3,341.22,0.05,Credit Card,Adult,Female,Houston,Julie Hicks
+Pl4282,10/1/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,939.01,1,734.17,0.1,Credit Card,Adult,Female,New York,Jean Garcia
+er2883,6/25/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,946.02,1,639.58,0.2,Cash,Young,Male,Houston,Tyrone Garcia
+qa6439,1/16/25,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,350.75,2,466.32,0.05,Cash,Young,Male,Phoenix,Amanda Boyle
+OL1496,12/4/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,41.88,2,65.08,0.05,Cash,Adult,Female,Chicago,Nathan Cohen
+uq4712,4/8/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.1,23,17.94,0.2,Mobile Wallet,Senior,Male,New York,Angela Drake
+zT7513,1/2/25,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,74.12,3,155.82,,Cash,Young,Female,Los Angeles,Ryan Stokes
+Bi5059,6/14/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,61.79,2,92.72,0.1,Mobile Wallet,Young,Male,New York,Robert Cisneros
+JZ9609,2/26/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,2,,0.2,Online Payment,Senior,Female,Phoenix,Kimberly Jones
+yv7875,6/19/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,794.22,1,550.73,0,Debit Card,Adult,Male,Chicago,James Howe
+mF1355,3/27/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,53,4,167.36,0.15,Mobile Wallet,Adult,Male,New York,Mr. Shane Pope
+hy4468,5/10/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,171.17,1,122.13,0.2,Cash,Senior,Female,Chicago,Kathleen Howard
+lR8762,5/2/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1013.6,,,0.15,Online Payment,Adult,Female,Phoenix,Melissa Larson
+wt8604,9/25/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,147.26,1,107.83,0.15,Mobile Wallet,Senior,Female,Houston,Jamie Baker
+kb3577,6/10/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1345.91,1,1081.66,0.1,Debit Card,Adult,Male,New York,Miguel Clark
+Qt6464,8/10/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2174,1,1424.26,0.05,Credit Card,Senior,Female,Phoenix,Jonathan Gomez
+gX2196,12/18/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,936.23,2,1248.88,0.05,Mobile Wallet,Adult,Male,Houston,Patricia Wilson
+VA6615,6/1/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,,1,,0.05,Mobile Wallet,Senior,Male,Los Angeles,Joanna Landry
+IB2100,7/11/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1026.75,1,831.13,0.05,Online Payment,Senior,Female,Chicago,Marcus Owens
+cd0907,6/24/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,170.69,2,261.44,0.2,Debit Card,Young,Male,Chicago,Brian Riddle
+GF4032,11/30/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.63,10,31.5,0,Mobile Wallet,Senior,Female,Houston,Savannah Rodriguez
+DH1935,11/17/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1044.45,2,1633.98,0.05,Online Payment,Young,Male,Phoenix,Jeffery Sutton
+Xk6456,1/23/25,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,725.49,1,476.79,0,Credit Card,Senior,Male,Phoenix,Dustin Luna
+lG0734,3/13/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,169.54,2,232.92,0.05,Online Payment,Senior,Female,Chicago,David Hughes
+ZP2829,12/3/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1003.14,2,1657.6,0.1,Mobile Wallet,Young,Male,Los Angeles,Carlos Williams
+OC3715,4/11/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1046.03,1,877.51,0,Credit Card,Senior,Male,Los Angeles,Brian Castro
+TG8829,12/25/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,60.67,2,74.52,0.1,Online Payment,Adult,Male,Houston,Brenda Wilson
+bO0826,10/2/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1139.9,1,687.42,0.2,Cash,Adult,Male,New York,Erin Baker
+bx8076,11/30/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1022.73,2,1500.98,0.05,Mobile Wallet,Senior,Male,New York,Melissa Owens
+Mg6756,5/21/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,364.08,1,240.12,0.05,Debit Card,Senior,Male,Houston,Shawn Browning PhD
+ZG2062,8/29/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,122.94,3,275.04,0.1,Credit Card,Adult,Male,Chicago,Rebecca Stewart
+gO1952,11/3/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.76,9,26.82,0.05,Cash,Adult,Female,Chicago,John Smith
+kO4140,12/9/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,135.84,1,99.16,0.15,Cash,Adult,Female,Houston,Robert Martin
+EP6388,10/1/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,25.43,3,61.35,0.05,Mobile Wallet,Adult,Female,Chicago,Richard Woods
+DM3996,5/23/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.59,4,12.04,0.15,Cash,Senior,Male,New York,Karen Powell
+lj4977,3/14/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1867.84,1,1318.25,,Mobile Wallet,Young,Male,Phoenix,Marcus Guzman
+qu0484,7/9/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,207.59,1,141.9,0,Cash,Young,Male,New York,Anthony Lane
+pX7172,7/28/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1503.07,1,958.3,0.2,Credit Card,Senior,Female,New York,Michelle Wallace
+zF9769,3/3/25,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,138.2,1,92.47,0.05,Debit Card,Senior,Male,Los Angeles,Anthony Jones
+th4638,10/29/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1061.69,2,1529.26,0.2,Credit Card,Adult,Male,Chicago,Shawn Wilson
+mS8390,10/14/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,875.13,1,668.23,0.1,Debit Card,Young,Male,Chicago,Jason Thomas
+KM5817,10/6/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,318,1,260.07,0.15,Mobile Wallet,Senior,Male,Los Angeles,Christine Bowen
+zG3113,12/17/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,128.41,2,199.34,0.2,Credit Card,Senior,Male,Chicago,Dr. Pamela Jones PhD
+NF2768,5/30/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.39,7,7.77,0.2,Debit Card,Adult,Male,Phoenix,Barbara Wilson
+NO6089,9/28/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1384.82,1,936.23,0.15,Online Payment,Young,Female,Los Angeles,Darrell Calhoun
+xb9034,9/11/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1096,1,883.04,0.1,Online Payment,Senior,Male,Houston,Allison Jones
+PS7830,6/25/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,39.48,3,94.11,0.15,Online Payment,Senior,Male,Phoenix,Frank Bennett
+aN8298,2/5/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1319.4,1,1100.01,0,Mobile Wallet,Young,Male,Chicago,Samantha Russell
+jW5378,7/30/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1635.87,1,1161.08,0.15,Credit Card,Senior,Female,New York,Kelly Ferguson
+sO8068,9/1/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.43,4,14.72,0.05,Online Payment,Young,Male,New York,Hannah Graham
+CN7610,1/24/25,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,143.74,1,116.54,0.05,Online Payment,Young,Female,Los Angeles,Rhonda Walton
+UC0026,2/3/25,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.06,7,5.11,0.1,Credit Card,Senior,Male,New York,Nicole Cook
+WF9240,9/20/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,193.8,1,142.13,0.15,Cash,Adult,Female,Houston,Sonia Oliver
+dn7708,10/6/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1848.7,1,1334.17,0.1,Debit Card,Adult,Male,Los Angeles,Cynthia Gray
+Gg9498,5/23/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1396.48,1,902.15,0.2,Debit Card,Senior,Female,Houston,Michael Taylor
+Mw3341,10/6/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,26.89,1,21.31,0.1,Cash,Adult,Male,Phoenix,Nicole Burns
+eb5054,6/5/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,69.96,3,155.31,0.05,Credit Card,Young,Male,Chicago,Richard Williamson
+Fm3830,4/19/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,913.6,1,582.96,0.05,Debit Card,Adult,Female,Los Angeles,Hannah Newton
+VG9411,1/26/25,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,399.23,2,626.66,0.15,Cash,Senior,Male,Chicago,Edward Cummings
+xV1615,8/13/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.61,4,7.28,0.15,Mobile Wallet,Senior,Male,Phoenix,Elizabeth Cobb
+yL6857,7/16/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,851.67,1,651.2,0.2,Credit Card,Adult,Female,New York,Stacey Phillips
+sX8759,6/15/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,33.12,2,45.2,,Mobile Wallet,Adult,Male,New York,Jeremy Becker
+lk1627,10/8/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,449.3,1,379,0.05,Cash,Young,Female,Phoenix,William Jefferson
+NX2104,12/9/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1019.14,1,619.16,0.2,Cash,Senior,Male,Houston,Joseph Miller
+UC1189,12/11/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,34.62,1,25.35,0,Online Payment,Senior,Female,Houston,Carol Wood
+bF5951,11/19/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1429.3,1,1129.96,0,Online Payment,Adult,Female,Chicago,Daniel Morgan
+iX3000,5/23/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,40.38,1,24.3,0.2,Debit Card,Young,Male,Los Angeles,Donna Wallace
+dj1436,2/23/25,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,73.64,3,155.43,0.2,Online Payment,Adult,Female,Los Angeles,Keith Barton
+QE3984,8/5/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,997.08,2,1611.7,0,Debit Card,Young,Male,Chicago,Kimberly Ramsey
+Fn3084,8/25/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1057.91,1,692.29,0,Debit Card,Senior,Female,Chicago,Valerie Black
+vV0734,3/14/25,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,132.32,2,200.62,0.1,Credit Card,Adult,Female,Houston,Belinda Williams
+QF7710,7/3/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,74.2,4,214.48,0.2,Mobile Wallet,Young,Male,New York,Edward Jimenez
+rT6139,2/24/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1890.15,1,1409,0.1,Credit Card,Young,Male,New York,Kevin Gardner
+gs1876,12/29/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.53,8,28.88,0,Online Payment,Adult,Female,Phoenix,Timothy Miles
+Om5337,6/24/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2417.96,1,1893.38,0.15,Credit Card,Young,Female,Phoenix,Brandon Ho Jr.
+gB4244,7/13/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,150.83,1,118.71,0.15,Debit Card,Senior,Male,New York,Cathy Patel DDS
+oF7673,5/26/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.53,6,20.04,0.1,Mobile Wallet,Adult,Male,New York,David Wolf
+Kp9918,8/29/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.21,3,10.59,0,Mobile Wallet,Young,Male,Houston,Renee Carroll
+iG0823,11/14/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2387,1,1627.27,0.15,Cash,Senior,Male,Los Angeles,Jason Andrews
+TA6337,4/11/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,161.66,2,214.68,0.15,Cash,Adult,Female,Los Angeles,Kelly Hunter
+iY7052,5/31/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,30.08,3,59.64,0,Mobile Wallet,Young,Male,Chicago,Pamela Thompson
+kB4716,1/21/25,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,,8,,0.2,Mobile Wallet,Senior,Female,Chicago,Amanda Lee
+bG9533,3/1/25,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,66.82,2,82.76,0,Debit Card,Senior,Female,Los Angeles,Jeffrey Le
+Oi6810,9/18/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,173.85,1,124.81,0.2,Cash,Adult,Male,Chicago,Ashley Campbell
+PV4132,6/11/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2259.54,1,1456.5,0.15,Online Payment,Young,Female,New York,Erika Lee
+yX3132,4/24/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,,17,,0.05,Debit Card,Adult,Male,Phoenix,Richard Johnson
+JO7085,2/4/25,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1041.45,2,1575.56,0.1,Credit Card,Senior,Male,Los Angeles,Sarah Newman
+KT6040,11/21/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.8,6,16.98,0.05,Mobile Wallet,Senior,Male,Houston,Kelly Powell
+wT7624,2/4/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,211.92,1,154.02,0.2,Credit Card,Senior,Male,Phoenix,Alan Adams
+PV6558,10/9/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,953.74,2,1168.86,0,Credit Card,Young,Male,Houston,Roberto Mercado
+ut0000,12/29/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,70.94,3,131.01,0.05,Debit Card,Adult,Female,Chicago,Dr. Jennifer Chandler
+Ko1506,3/23/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,51.23,1,35.39,0.2,Debit Card,Young,Female,Los Angeles,Amanda Jenkins
+sZ4856,6/7/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,302.46,1,185.69,0.2,Credit Card,Senior,Female,Los Angeles,Joseph Wells
+Tz5260,6/23/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,933.44,1,776.11,0,Debit Card,Adult,Male,Chicago,Luis Davis
+qG7301,4/7/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,77.3,1,50.1,0.05,Debit Card,Senior,Male,Chicago,Nicole Wells
+mv4883,3/26/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,218.42,1,144.7,,Online Payment,Senior,Female,Houston,Jessica Richmond MD
+ZN4193,5/9/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,919.13,2,1368.3,0.05,Online Payment,Senior,Female,Houston,James Bryant
+DP8177,2/8/25,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,158.79,1,117,0.05,Cash,Young,Male,Los Angeles,Susan Ballard
+ra9597,8/17/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1,24,16.32,0.2,Credit Card,Young,Male,Houston,John Chapman
+OF8076,11/12/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.56,4,14.24,0.1,Credit Card,Senior,Female,New York,Juan Robinson
+dq5313,6/6/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,178.16,2,255.42,,Online Payment,Young,Female,Houston,Christopher Figueroa
+gv8899,2/2/25,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,339.7,1,262.18,0.15,Credit Card,Senior,Female,Los Angeles,Mitchell Fletcher
+pt9361,5/17/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,422.68,2,598.24,0.05,Online Payment,Adult,Male,Chicago,Madison Adkins
+Ah3095,3/23/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,50.39,1,31.7,0,Debit Card,Adult,Male,Phoenix,Mrs. Jennifer Gamble MD
+bJ9286,12/22/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1241.82,1,772.07,0.05,Credit Card,Adult,Male,Phoenix,Gerald Hall
+az2110,11/1/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,147.87,2,187.24,0.05,Debit Card,Adult,Female,Chicago,Edward Dyer
+kV4788,12/26/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.17,18,15.12,0.15,Cash,Adult,Male,Los Angeles,Zachary Williamson
+pp3740,11/25/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,58.77,2,72.24,0.05,Cash,Adult,Female,Los Angeles,Karen Ramirez
+At4447,6/11/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,779.96,1,639.88,0,Online Payment,Adult,Female,Los Angeles,Christine Rios
+YP7668,2/5/25,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,35.18,1,21.25,0,Credit Card,Young,Female,New York,Kyle Johnson
+oI1592,6/17/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1098.63,2,1361.94,0,Cash,Young,Female,Phoenix,Jennifer Ramirez
+Lc4761,10/10/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2167.13,1,1652.3,0.2,Mobile Wallet,Adult,Male,Houston,Jessica Jones
+ZM8136,10/4/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1454.29,1,1190.07,0.05,Cash,Adult,Female,Chicago,Amanda Bernard
+ny8863,5/12/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,44.38,4,150.72,0.1,Credit Card,Adult,Female,Houston,Laurie Clark
+Ch9600,6/10/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.4,5,16.35,,Mobile Wallet,Senior,Male,Los Angeles,Jeffrey Kennedy
+zt2996,6/26/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,927.49,1,671.06,,Debit Card,Young,Male,Phoenix,Terri Wood
+mX8383,6/29/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,,9,,0.2,Debit Card,Adult,Male,New York,Brian Davis
+Ju5775,9/27/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,191.26,1,125.45,0.15,Online Payment,Adult,Female,Phoenix,Roger Ward
+Pa9618,9/17/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2090.43,1,1728.2,0.2,Credit Card,Senior,Male,Los Angeles,Michael Lewis
+RP4565,5/14/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,977.21,2,1619.9,0.2,Mobile Wallet,Young,Male,New York,Calvin Young
+Zg9364,5/24/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,902.04,1,746.54,0.15,Debit Card,Adult,Male,Chicago,Joel Schultz
+yj8911,6/21/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,34.98,3,77.49,0,Cash,Young,Female,Houston,Brian Garcia
+an5238,3/16/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,278.65,2,473.04,0.1,Online Payment,Young,Female,Houston,Matthew Johnson
+nH6990,5/4/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,76.38,2,126.12,0.2,Online Payment,Young,Male,Los Angeles,Kathleen Roberts
+KS9335,10/1/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,77.81,2,113.74,,Mobile Wallet,Young,Male,Chicago,Wendy Richardson
+py8624,1/19/25,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.24,11,10.78,0.15,Debit Card,Senior,Female,Los Angeles,Jay Fisher
+Rq5676,10/31/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,125.16,3,239.76,,Online Payment,Young,Male,Houston,Brenda Summers
+Dr6599,5/7/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,964.1,1,651.76,0.1,Credit Card,Senior,Male,Phoenix,Lindsay Gill
+NN9071,1/10/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,273.44,2,424.12,0.05,Mobile Wallet,Senior,Female,Chicago,Melissa Parker
+sc5581,12/3/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1534.67,1,1098.35,0.1,Cash,Adult,Male,Chicago,Vanessa Moore
+FP8607,3/14/25,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,938.73,,,,Mobile Wallet,Young,Male,Chicago,Angel Riley
+HV4180,6/14/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,396.88,1,260.79,0.05,Online Payment,Adult,Male,New York,Michael Stout
+dj6035,4/11/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,382.3,1,269.4,0.1,Debit Card,Senior,Male,Phoenix,Denise Allen
+Mh0344,5/16/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,243.77,1,173.9,0.2,Online Payment,Young,Female,Los Angeles,Brooke Cruz
+aS5663,1/5/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,208.36,1,171.91,0.2,Credit Card,Adult,Female,Houston,Katie Ryan
+vl7498,7/21/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,64.68,4,175.56,0.05,Debit Card,Senior,Male,Houston,Russell Hamilton
+rs6945,9/26/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,48.56,4,152.6,0.15,Credit Card,Senior,Female,Houston,Nancy Mcintosh
+wT8061,10/24/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.36,22,21.34,0.15,Debit Card,Senior,Female,Chicago,Jacqueline Rasmussen
+NC6854,11/17/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1,7,5.18,0.05,Mobile Wallet,Senior,Female,Chicago,Kelly Chavez
+Ky1061,2/28/25,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.44,19,22.8,0.15,Mobile Wallet,Senior,Male,Chicago,Daniel Fleming
+Gr0364,1/26/25,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.85,5,12.55,0.15,Credit Card,Senior,Male,Chicago,Heather Horn
+hB8551,5/11/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.68,1,3.36,0.05,Credit Card,Young,Male,Los Angeles,Jon Sandoval
+vi3483,1/20/25,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.07,,,0.2,Debit Card,Adult,Male,Phoenix,Keith Beard
+Dz8773,12/24/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,43.89,3,81.54,0.2,Mobile Wallet,Adult,Male,Phoenix,Hailey Clark
+Nn5983,8/26/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.77,2,5.72,0.1,Credit Card,Adult,Male,Los Angeles,Walter Walters
+BO2464,6/25/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,445.38,2,749.8,0.2,Credit Card,Senior,Male,New York,Michael Wagner
+wo4996,12/15/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,173.13,3,325.53,0.1,Mobile Wallet,Young,Female,Chicago,Bruce Charles
+kO2040,11/5/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,160.78,2,194.04,0.05,Credit Card,Adult,Female,New York,Brandy Davis
+lA3841,3/15/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2484.81,1,1857.95,0.1,Debit Card,Adult,Female,Phoenix,Andrew Thomas
+wv8037,1/1/25,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,,2,,0.2,Mobile Wallet,Senior,Female,Phoenix,Michael Koch
+EU6024,11/8/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2487.12,1,1852.5,0.05,Mobile Wallet,Adult,Male,Phoenix,Janet Porter
+PH5641,6/8/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2129.78,1,1723.95,0.1,Debit Card,Senior,Male,Houston,Karen Ayala
+PC4344,4/17/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.4,4,4.44,0,Debit Card,Senior,Male,Houston,Mitchell Oconnor
+iF1086,3/13/25,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,172,3,434.82,0,Online Payment,Adult,Female,Chicago,Diana Petersen
+kN0468,2/5/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,134.92,,,0.1,Mobile Wallet,Adult,Male,Chicago,Jason Parks
+Fw4000,12/16/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,65.75,2,101.6,0.15,Online Payment,Adult,Female,Phoenix,Jose Vega
+GQ1490,8/31/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1752.25,1,1203.76,0.2,Mobile Wallet,Adult,Female,Chicago,Stephanie Alexander
+Ia9518,1/3/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1978.81,1,1332.68,0,Cash,Young,Male,Chicago,Francisco Myers
+Nl7765,9/8/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1750.82,1,1372.69,0.05,Online Payment,Adult,Female,Phoenix,Kimberly Nunez
+Cm7293,9/19/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.21,22,22.44,0.2,Debit Card,Adult,Female,New York,Mike Henderson
+by0412,10/21/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1598.66,1,1321.42,0.05,Mobile Wallet,Adult,Male,Houston,Phillip Hurst
+SI2484,12/18/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.49,4,8.88,0.1,Mobile Wallet,Young,Female,Los Angeles,Joshua Hopkins
+ZK8720,3/9/25,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1999.89,1,1220.31,0.1,Online Payment,Adult,Male,Los Angeles,Tina Salinas
+dN9517,2/24/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,250.58,1,172.85,0.05,Mobile Wallet,Young,Female,Phoenix,Courtney Johnson
+xI5996,1/9/25,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,43.68,3,99.09,0,Cash,Senior,Female,Phoenix,Scott Williams
+jw7586,8/24/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,149.95,1,95.36,0.05,Cash,Young,Female,Phoenix,Dominique Ramirez
+qh2514,11/2/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,28.8,,,0.2,Online Payment,Young,Female,Chicago,James Smith
+lk3386,11/20/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.82,5,11.95,0,Mobile Wallet,Senior,Female,Phoenix,Alicia Medina
+Fz3558,3/5/25,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,148.67,2,223.94,0.1,Cash,Young,Female,Houston,Robert Bush
+wD1104,8/15/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,175.66,1,125.45,0.15,Cash,Adult,Male,Houston,Lindsay Gibson
+gN9050,3/10/25,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,976.13,1,630.92,0.15,Debit Card,Adult,Male,Los Angeles,Jennifer Hendrix
+Pi2100,6/24/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.24,19,14.63,0.1,Mobile Wallet,Senior,Female,Chicago,Kevin Norman
+al5549,7/6/24,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,126.79,2,193.94,0.2,Debit Card,Young,Male,New York,Joe Henry
+lU8324,1/14/25,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,56.57,2,70.5,0.2,Cash,Young,Male,New York,Trevor Martinez
+cI0756,11/4/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,951.91,1,767.55,0.2,Debit Card,Young,Male,Phoenix,James Ortiz
+By6371,12/3/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,255.05,2,342.22,,Mobile Wallet,Senior,Male,Phoenix,Justin Stewart
+Ne2403,2/20/25,USA,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,139.49,,,0.1,Debit Card,Adult,Female,Phoenix,Dale Gutierrez
+ke9584,7/25/24,USA,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1079.33,1,882.27,0.05,Credit Card,Adult,Female,Chicago,Carolyn Young
+KZ9804,4/8/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.34,8,8.64,0,Online Payment,Young,Female,Houston,Mr. Jeremy Hernandez
+tZ6400,12/7/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1271.48,1,998.64,0.2,Credit Card,Young,Male,Houston,Denise Gray
+sU9515,4/2/24,USA,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,198.28,1,146.62,0.05,Online Payment,Senior,Male,Los Angeles,Patricia Lyons
+XS3585,11/19/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1408.08,1,944.61,0.2,Credit Card,Senior,Female,Houston,John Hendrix
+Yz2708,10/31/24,USA,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,44.61,1,34.92,0.1,Mobile Wallet,Senior,Female,Houston,Laura Ramirez
+ic7322,8/28/24,USA,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.38,7,19.88,0.05,Credit Card,Adult,Female,Phoenix,Charles Bennett
+FI2517,12/18/24,USA,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,315.38,1,201.6,0.05,Mobile Wallet,Adult,Male,Phoenix,Jasmine Sweeney
+Nk4388,4/1/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,754.44,1,583.15,0.1,Mobile Wallet,Young,Male,Phoenix,Ian Edwards
+jM5201,5/17/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,774.09,1,491.67,0.2,Cash,Adult,Female,Phoenix,Michael Cummings
+oh7824,10/6/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1354.09,1,1047.69,0.2,Debit Card,Adult,Male,Houston,Amy Fuller
+WS9827,4/20/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1399.53,1,907.08,0.1,Online Payment,Adult,Female,Houston,Dawn James
+ij5682,4/9/24,USA,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,50.28,4,143.6,0,Credit Card,Senior,Male,New York,Jerry Hansen
+fH0292,11/20/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.27,16,16.32,0.15,Debit Card,Adult,Male,Phoenix,Matthew Sanchez
+zs2419,6/5/24,USA,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2318.77,1,1400.34,0,Online Payment,Adult,Female,Phoenix,Tracy Montgomery
+Hd8409,9/24/24,USA,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1,,,0,Credit Card,Adult,Male,Phoenix,Debra Rose
+fd7858,10/3/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,970.07,1,820.11,0.1,Cash,Senior,Male,New York,Meredith Lopez
+Ht8410,6/17/24,USA,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,983.17,,,0.2,Cash,Young,Female,Houston,Benjamin Vargas

@@ -1,501 +1,501 @@
 transaction_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,sales_representative
-hl0210,4/12/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,2.91,6,17.46,0,Online Payment,Senior,Female,Liverpool,George Taylor
-Al8896,,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,187.23,10,1872.3,0.05,Cash,Senior,Male,Liverpool,
-Kw2640,1/20/25,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1171.57,3,3514.71,0,Credit Card,Young,Male,Birmingham,Sophie Evans
-rz8776,3/2/25,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,53.33,5,266.65,0.1,Cash,Senior,Male,Liverpool,Isla Roberts
-XA9154,1/27/25,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1132.62,5,5663.1,0.2,Cash,Adult,Male,Glasgow,Emily Taylor
-UL3266,10/12/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.36,5,6.8,0.2,Credit Card,,Male,Glasgow,Charlie Jones
-dX6104,8/4/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,350.86,7,2456.02,0,Cash,Adult,Female,Manchester,Emily Williams
-OW6380,6/13/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,149.23,4,596.92,0.15,,Senior,Female,Birmingham,Amelia Evans
-Fb1525,1/15/25,,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,88.96,7,622.72,0,Online Payment,Adult,Male,Liverpool,Emily Thomas
-bx8328,3/22/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,118.56,1,118.56,0.2,Debit Card,Adult,Male,Glasgow,Oliver Brown
-bT8707,8/8/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,97.77,4,391.08,0.2,Credit Card,Young,Male,Glasgow,Harry Taylor
-iu9705,1/14/25,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.82,1,1.82,0.15,Mobile Wallet,Senior,Female,London,Oliver Wilson
-xq8356,,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,295.18,6,,0.15,Debit Card,Senior,Male,Glasgow,Oliver Taylor
-XA8428,1/19/25,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,,Apparel,160.71,1,160.71,0,Debit Card,Adult,Female,,George Roberts
-aQ0927,1/4/25,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,143.19,2,286.38,0.15,Debit Card,Senior,Female,Liverpool,Charlie Wilson
-nD8528,12/18/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,404.8,10,4048,0,Online Payment,Adult,Female,Liverpool,Olivia Roberts
-ST4414,,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,,74.08,2,148.16,,Online Payment,Young,Male,Birmingham,Jack Thomas
-pB0228,5/2/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,875.4,1,875.4,0.05,Credit Card,Senior,Male,Birmingham,Oliver Thomas
-Dn0651,1/29/25,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,3.17,1,3.17,0.2,Mobile Wallet,Senior,Female,Manchester,
-pR2180,2/11/25,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,2151.24,3,6453.72,0,Online Payment,Senior,Female,Manchester,Harry Smith
-uq9384,9/18/24,,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,299.3,,897.9,0,Credit Card,Senior,Male,Glasgow,Charlie Thomas
-MR5885,9/20/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,161.55,10,1615.5,,Debit Card,Young,Male,,Emily Williams
-ye1849,9/5/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,51.45,4,205.8,0.15,Mobile Wallet,Adult,Female,Birmingham,Isla Thomas
-Pr7741,6/6/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.95,8,15.6,0.15,Credit Card,Adult,Male,Birmingham,Amelia Williams
-gJ7714,8/8/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.38,8,11.04,0.15,Credit Card,Young,Male,Manchester,George Evans
-Ec7146,7/10/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,146.05,3,438.15,0.2,Credit Card,Young,Female,Birmingham,Amelia Evans
-Du3647,1/5/25,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,32.88,2,65.76,0.15,Debit Card,Young,,Liverpool,George Davies
-DH5024,2/24/25,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,35.24,8,281.92,0.15,Credit Card,Young,Female,London,George Davies
-wt5971,5/8/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,281.09,3,843.27,0,Credit Card,Adult,Female,Liverpool,Isla Williams
-Ry4268,9/4/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,331.58,8,2652.64,0.05,Mobile Wallet,Adult,Male,London,Amelia Smith
-us7509,2/5/25,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1591.45,9,,0.15,Mobile Wallet,Adult,Male,Birmingham,Isla Williams
-YS3913,10/7/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,1.87,2,3.74,,Mobile Wallet,Senior,Female,Birmingham,Olivia Smith
-Hj1323,2/4/25,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1826.02,2,,0.05,Credit Card,Young,Male,Manchester,Amelia Taylor
-Yb1924,10/6/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,188.41,8,1507.28,0.1,Credit Card,Young,Male,Liverpool,Isla Smith
-UA1092,9/9/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,4.29,,42.9,0.2,Debit Card,Senior,Male,,Amelia Thomas
-Xm7811,5/18/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,57.23,1,57.23,0.2,Mobile Wallet,Young,Male,Liverpool,Oliver Smith
-Nd2228,7/15/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,495.17,10,4951.7,0.15,,Young,Female,Glasgow,Charlie Taylor
-yo3201,2/17/25,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,150.1,2,300.2,0,Online Payment,Adult,Female,Birmingham,Harry Roberts
-iS2359,3/7/25,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,88.59,8,708.72,0,Mobile Wallet,Senior,Male,Birmingham,Isla Taylor
-yc9955,12/24/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,20.48,2,40.96,0.1,Mobile Wallet,Senior,Female,Manchester,Emily Wilson
-iw5755,8/31/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1314.62,7,9202.34,0.05,,Young,Female,Manchester,Emily Thomas
-OW5736,1/16/25,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,2264.75,10,22647.5,0,Mobile Wallet,Young,Male,London,
-FI5775,8/17/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,0.69,10,6.9,0.1,Debit Card,Senior,Male,Manchester,Isla Thomas
-Am9845,1/14/25,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,114.96,4,459.84,0.2,Credit Card,Young,Male,Birmingham,Emily Davies
-gY8531,7/28/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,29.96,2,59.92,0.1,Debit Card,Adult,Female,Liverpool,Sophie Smith
-rb3414,7/20/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1779.22,7,12454.54,0.1,Credit Card,Senior,Male,Birmingham,Oliver Roberts
-Dl4587,12/31/24,,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,268.4,7,1878.8,,Online Payment,Young,Female,Manchester,Jack Brown
-TL2855,6/21/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1588.81,1,1588.81,0.1,Credit Card,Adult,Female,London,Emily Roberts
-IL4467,7/27/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,1.68,7,11.76,0.05,Debit Card,Young,,Glasgow,Harry Brown
-oe2747,7/21/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,993.9,,1987.8,0.2,Cash,Senior,Male,Manchester,Sophie Roberts
-jU2916,3/20/25,,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1947.42,2,3894.84,0.05,Cash,Young,Male,London,
-in5570,10/30/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,29.72,10,297.2,0.1,Credit Card,Young,Male,Liverpool,Isla Wilson
-QL5752,8/20/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,35.51,3,106.53,,Online Payment,,Female,Birmingham,Sophie Thomas
-GT2287,11/18/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,198.4,10,1984,0.1,Mobile Wallet,Senior,Female,Birmingham,Jack Williams
-Nv2143,5/21/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,44.75,4,179,0.05,Credit Card,Adult,Female,Liverpool,Olivia Wilson
-BT3452,11/11/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.29,5,6.45,0.15,Mobile Wallet,Adult,Male,London,Jack Jones
-VN8121,10/14/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.05,9,,0.1,Cash,Young,Male,Birmingham,Harry Thomas
-ho1957,5/6/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,,197,5,985,0.1,Credit Card,Senior,Female,Liverpool,Isla Jones
-nt2318,12/27/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1989.44,8,15915.52,0,Debit Card,Senior,Male,,Amelia Jones
-Gv9770,11/28/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,46.21,9,415.89,0,Credit Card,Adult,Female,Glasgow,Oliver Smith
-OZ2164,7/22/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,86.35,6,518.1,0,Online Payment,Senior,Male,Liverpool,Harry Evans
-eG0915,10/25/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1019.03,10,10190.3,0.2,Mobile Wallet,Senior,Female,Birmingham,Olivia Jones
-Hd7639,10/30/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.21,3,3.63,0.05,Debit Card,Adult,Female,London,Charlie Taylor
-rB1248,6/7/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,0.57,5,2.85,0.15,Mobile Wallet,Young,Female,Manchester,Amelia Taylor
-Kk6875,4/2/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,833.28,4,3333.12,0.1,Mobile Wallet,Young,Male,Manchester,Harry Evans
-rA5088,12/16/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.13,4,4.52,0.15,Cash,Senior,Male,London,Charlie Smith
-HZ9580,6/26/24,,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1375.91,3,4127.73,,Cash,Senior,Male,London,Oliver Brown
-yV9407,6/23/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,155.52,10,1555.2,0.15,Cash,Young,Male,Liverpool,Harry Evans
-lG5853,,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,485.46,9,4369.14,0,Mobile Wallet,Young,Male,Liverpool,Sophie Smith
-eB7555,9/17/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,,292.2,1,292.2,0.05,Online Payment,Adult,Female,,Isla Taylor
-Ib1087,10/25/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,194.81,3,584.43,0.15,Mobile Wallet,Adult,Female,London,George Davies
-su0079,11/26/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.08,5,5.4,0.15,Debit Card,Senior,Female,Glasgow,Charlie Thomas
-OV2716,12/12/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,23.12,9,208.08,,Mobile Wallet,Young,Female,Liverpool,Charlie Brown
-KN6290,10/5/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,,10,18.2,0.1,Mobile Wallet,Adult,Male,London,Isla Evans
-HU4242,8/23/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,78.47,9,706.23,0.2,Mobile Wallet,Young,Male,London,Charlie Davies
-sw1937,3/19/25,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1637.55,1,1637.55,0,Online Payment,Young,Male,London,Amelia Davies
-aS7993,3/9/25,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,950.75,8,7606,0,Online Payment,Adult,Male,Manchester,Charlie Wilson
-ZH4862,5/1/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1781.61,,16034.49,0.2,Debit Card,Adult,Male,Birmingham,George Evans
-cx0751,2/21/25,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1794.11,1,1794.11,0.05,Credit Card,Adult,Male,Liverpool,
-wY2204,11/13/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,187.76,4,751.04,,Cash,Young,Female,,Charlie Jones
-Le6064,11/16/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,97.94,8,,0,Online Payment,Adult,Male,Birmingham,
-tz0776,7/1/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,278.1,3,834.3,0.1,Debit Card,Adult,Male,Manchester,Harry Williams
-jg0726,7/7/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1378.48,7,9649.36,0.15,Mobile Wallet,Young,Male,Manchester,Oliver Smith
-oe4071,2/27/25,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,824.94,1,824.94,0.1,Cash,Senior,Male,Birmingham,George Smith
-pG3135,10/22/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,,4,3365.32,,Mobile Wallet,Senior,Female,Birmingham,Jack Brown
-HK9760,4/19/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,423.77,9,3813.93,0,Cash,Young,Female,Glasgow,Oliver Thomas
-TP9675,2/5/25,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,,1144.93,,5724.65,0,Debit Card,Senior,Female,Manchester,Jack Jones
-cT6729,1/9/25,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,,8,3437.92,,Cash,Young,Female,Manchester,Sophie Thomas
-Lh5981,8/1/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,75.73,10,,0,Online Payment,,Male,Manchester,Emily Roberts
-KC9637,3/2/25,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,920.73,9,8286.57,0.2,Mobile Wallet,Senior,Male,London,George Brown
-cL5880,11/4/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,,Footwear,,8,1292.96,0.1,Online Payment,Adult,Male,London,Charlie Roberts
-CZ6069,8/15/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,35.93,4,143.72,0.1,Mobile Wallet,Adult,Male,London,Olivia Taylor
-Pj6227,2/5/25,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.2,5,6,0,Mobile Wallet,Adult,Female,Manchester,Emily Taylor
-kg9895,5/28/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1017.76,4,4071.04,0,Online Payment,,Male,Glasgow,Amelia Roberts
-Mv0547,3/16/25,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,429.26,2,858.52,0.2,Cash,Senior,Female,Birmingham,Sophie Jones
-UA2209,12/26/24,,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,2497.28,4,9989.12,0,Cash,Young,Male,London,Sophie Roberts
-Oe4874,6/24/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,852.5,1,852.5,0,Mobile Wallet,Young,Male,Manchester,Harry Wilson
-sv5278,3/7/25,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,79.46,1,79.46,0.15,Online Payment,Senior,Male,Liverpool,Olivia Williams
-Hk2073,5/9/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,68.68,9,618.12,0,Mobile Wallet,Adult,Female,Manchester,Charlie Taylor
-oJ0037,4/18/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,,3,2942.01,0.15,Mobile Wallet,Adult,Female,Manchester,George Smith
-Yb8486,,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.25,5,6.25,0,Online Payment,Adult,Male,Birmingham,
-qK2054,9/20/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,88.79,2,177.58,0.2,Mobile Wallet,Adult,Male,London,Charlie Wilson
-AP3696,7/7/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1080.62,3,3241.86,0.15,,Young,Male,Glasgow,Jack Jones
-uF5883,4/27/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.03,10,10.3,,Mobile Wallet,Senior,Female,Birmingham,Charlie Williams
-Hz3372,12/21/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,131.02,6,786.12,0,Cash,Adult,Male,London,Emily Jones
-Cc4134,9/3/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.67,3,5.01,,Mobile Wallet,Young,Male,London,Oliver Brown
-Ll9078,5/6/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1129.37,3,3388.11,0.15,Mobile Wallet,Young,Female,Birmingham,Charlie Williams
-nG7063,7/26/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,170.05,8,1360.4,0,Credit Card,Young,Male,London,George Brown
-cZ9617,8/29/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.05,3,3.15,0.15,Mobile Wallet,Young,Male,London,Emily Davies
-hI0354,5/23/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,,4,8082.64,0.1,Credit Card,Adult,Female,London,Amelia Taylor
-IZ1374,5/20/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,313.04,10,3130.4,0,Debit Card,Young,Male,Liverpool,Sophie Evans
-EZ4113,6/27/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,32.2,10,322,0.05,Debit Card,Young,Female,Birmingham,Harry Smith
-iz3096,8/1/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1587.26,3,4761.78,0,Credit Card,Young,Male,Glasgow,Isla Wilson
-rr2300,8/21/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,138.54,1,138.54,0.15,Cash,Senior,Male,Birmingham,Olivia Smith
-EA2548,3/19/25,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,109.47,3,328.41,0.2,Credit Card,Young,Male,Manchester,Jack Roberts
-rC3099,11/26/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,2361.96,9,21257.64,0.2,,,Male,Birmingham,Jack Evans
-mI8177,2/15/25,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,,Apparel,177.97,1,177.97,0.1,Credit Card,Adult,Male,Birmingham,Harry Evans
-qN7693,,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,3.28,1,3.28,,Cash,Young,Female,Liverpool,Oliver Brown
-NA9052,3/7/25,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,54.68,2,109.36,0.15,Mobile Wallet,Adult,Female,Manchester,Jack Taylor
-MO6227,3/20/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,0.5,3,1.5,0.05,Credit Card,Senior,Male,Birmingham,Sophie Taylor
-fn3800,11/27/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,98.19,4,392.76,0.05,Debit Card,Adult,Female,Manchester,Oliver Taylor
-Vj2595,8/14/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.91,2,3.82,0.05,Credit Card,Senior,Female,Manchester,Amelia Thomas
-ws3905,4/14/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,,Outdoor,47.42,1,47.42,0,Credit Card,Adult,Male,Glasgow,George Taylor
-Ei9743,10/22/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,44.4,4,177.6,0.15,Credit Card,Young,Female,London,Olivia Smith
-Ll0944,2/11/25,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,369.09,8,2952.72,0.05,,Senior,Female,Manchester,Harry Brown
-KG2724,,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,45.28,9,407.52,0.2,Cash,Adult,Male,London,Oliver Taylor
-gt3015,4/16/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,,5,1069.9,0.15,Online Payment,Adult,Male,Birmingham,Jack Williams
-GM6092,9/6/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,3.87,7,27.09,0.1,Online Payment,Adult,Female,Glasgow,Oliver Roberts
-rl5636,6/3/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,416.61,4,,0,Cash,Adult,Female,Manchester,Isla Wilson
-is3647,4/30/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,23.2,6,139.2,0,Credit Card,Young,Male,Liverpool,Amelia Smith
-ry7052,10/7/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,273.87,7,1917.09,0.15,Cash,Adult,Female,London,Olivia Smith
-mm2117,3/16/25,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,,875.99,10,8759.9,0.05,,Adult,Male,London,Oliver Davies
-jp6716,8/15/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,0.6,10,6,0,Mobile Wallet,Young,Female,Liverpool,
-Rs5920,5/15/24,,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,337.75,10,3377.5,0.15,Cash,Young,Male,Manchester,Amelia Brown
-Fg2974,12/10/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,341.14,8,2729.12,0.1,Credit Card,Adult,Female,Birmingham,Jack Davies
-hC8656,10/18/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,,1.98,1,1.98,0,Cash,Adult,Female,Glasgow,Harry Roberts
-oN6810,11/5/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1565.78,1,1565.78,0.1,Mobile Wallet,Adult,Female,Birmingham,Sophie Davies
-TI0972,1/21/25,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,83.94,2,167.88,0.15,Credit Card,Senior,Male,Birmingham,Charlie Thomas
-iz9670,1/25/25,,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,4.95,8,39.6,0,Mobile Wallet,Adult,Male,London,Harry Thomas
-cK5175,3/27/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,62.62,2,125.24,0.15,Credit Card,Senior,Male,Liverpool,Amelia Brown
-cf0766,10/13/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,4.8,1,4.8,0.1,Online Payment,Young,Male,Liverpool,Amelia Davies
-Pm4672,,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,,Footwear,112.99,2,225.98,0.05,Credit Card,Senior,Male,Glasgow,
-DN0185,12/13/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,889.69,6,5338.14,0.2,Mobile Wallet,Adult,Female,,Jack Roberts
-dF5929,9/12/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,1.97,1,1.97,0.15,Cash,Senior,Male,London,Emily Jones
-KM1117,4/2/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,25.25,6,151.5,0.1,Mobile Wallet,Adult,Female,Birmingham,Oliver Thomas
-TD9847,12/10/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,193.92,1,193.92,0.2,Cash,Senior,Male,Manchester,
-HG0324,8/12/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,42.64,9,383.76,0.2,Cash,Young,Female,Birmingham,Olivia Brown
-Il8922,12/17/24,,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,4.16,1,4.16,0.05,Mobile Wallet,Adult,,Manchester,George Williams
-eN4472,6/22/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,2,4,8,0,Online Payment,Adult,Male,London,Jack Jones
-QY2639,1/21/25,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.04,1,1.04,0.2,Debit Card,Senior,Female,Glasgow,Jack Thomas
-dT5907,7/12/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1782.61,4,7130.44,0.05,Online Payment,Young,Female,Liverpool,George Evans
-xm7562,9/13/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,189.46,3,568.38,0.2,Online Payment,Young,Female,Glasgow,Emily Thomas
-CK5256,10/28/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,349.17,9,3142.53,0,,Adult,Female,Birmingham,Jack Williams
-uV1983,10/16/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,,285.72,6,1714.32,,Debit Card,Young,Male,Liverpool,Emily Thomas
-Ss2336,10/7/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,,5,193.75,0.15,Online Payment,Young,Male,Liverpool,Sophie Roberts
-Gq0536,5/24/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,4.21,7,29.47,0.2,Credit Card,Young,,London,Olivia Wilson
-vT7134,2/13/25,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,146.59,7,1026.13,0.05,Credit Card,Senior,Female,London,Harry Brown
-OF6491,7/26/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1845.32,7,12917.24,0.05,Cash,Young,Male,London,Jack Brown
-CP1291,7/27/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,21.8,3,,0.2,Debit Card,Adult,Male,London,Jack Brown
-lv4969,1/11/25,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,474.42,7,3320.94,0,Credit Card,Senior,Male,London,Jack Davies
-PD3230,1/20/25,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,,Footwear,100.31,7,702.17,0.2,Mobile Wallet,Young,Female,Manchester,Emily Wilson
-iu0890,10/24/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,78.71,1,78.71,0.15,Online Payment,Adult,Male,Birmingham,Olivia Evans
-Pd5669,11/14/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,941.33,6,5647.98,0.15,Cash,Young,Male,Birmingham,Charlie Brown
-Fr2109,5/21/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,868.85,2,1737.7,0.05,,Senior,Male,Glasgow,Harry Brown
-kC5513,9/21/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,3.01,6,18.06,0.15,Credit Card,Senior,Male,Glasgow,Sophie Williams
-rp7851,10/25/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,29,6,174,0,Cash,Young,,Glasgow,Sophie Wilson
-fH2238,12/19/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,83.57,4,334.28,0,Mobile Wallet,Senior,,Birmingham,
-xG3138,11/22/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,670.4,,2681.6,0,Credit Card,Young,Female,Liverpool,George Davies
-Ha9427,10/13/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,22.48,6,134.88,0.1,Mobile Wallet,Adult,Male,Birmingham,Olivia Roberts
-Kh8589,7/2/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,132.01,7,924.07,0.2,Online Payment,,Female,London,Sophie Evans
-dR8066,8/16/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,155.27,7,1086.89,0,Credit Card,Senior,Female,London,Oliver Thomas
-Yx2527,12/12/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,674.12,7,4718.84,0.1,Online Payment,Young,Female,Birmingham,Olivia Thomas
-RE1997,6/15/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,59.09,4,236.36,0.1,Cash,Senior,Female,Birmingham,Amelia Roberts
-Kf1164,8/2/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.09,5,5.45,0.1,Credit Card,,Female,Manchester,Emily Taylor
-ja2987,2/4/25,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,121.87,9,1096.83,0.15,Online Payment,,Male,Liverpool,Amelia Brown
-hW4119,8/1/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,875.7,9,7881.3,0,Debit Card,Senior,Female,Liverpool,George Williams
-dS5006,1/3/25,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1017.09,1,1017.09,0.05,Online Payment,Young,Male,London,Olivia Evans
-re9861,9/14/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,354.14,7,2478.98,0,Debit Card,Young,Female,London,Emily Smith
-kA0034,8/15/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,555.94,1,555.94,,Debit Card,Young,Female,Liverpool,Sophie Taylor
-mc0679,11/2/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,924.19,7,6469.33,,Credit Card,Senior,Male,Glasgow,Emily Smith
-IX5038,7/1/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,44.5,10,445,0.2,Credit Card,Senior,Female,London,Oliver Williams
-JM1995,12/23/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,46.37,2,92.74,0.1,Cash,Senior,Female,Liverpool,Emily Wilson
-ng0605,11/25/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.85,9,16.65,0.15,Cash,Senior,Male,Birmingham,Amelia Roberts
-ac8692,1/31/25,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,62.82,1,62.82,0,Online Payment,Adult,Female,Manchester,George Taylor
-zo6046,8/9/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,307.47,9,2767.23,0,Online Payment,Senior,Male,Liverpool,Amelia Brown
-ux0986,8/31/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,51.14,2,102.28,0.15,Debit Card,Adult,Female,Manchester,Jack Smith
-gp6278,9/28/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1131.33,7,7919.31,0.15,Cash,Adult,Female,Manchester,George Williams
-uf0070,4/17/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,152.78,2,305.56,0.15,Online Payment,,,Glasgow,Amelia Wilson
-Uh3011,12/8/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,241.23,5,1206.15,0.15,Cash,Young,Male,London,Sophie Wilson
-qq4869,12/5/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,79.26,2,158.52,0.2,Cash,Young,Male,Glasgow,Harry Jones
-bc3802,12/18/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.82,9,16.38,0.2,,Young,Male,Manchester,Emily Williams
-SC0109,9/8/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,27.86,4,,0.15,Debit Card,Senior,Female,Manchester,Amelia Davies
-xK1222,12/29/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,4.28,,,0.05,Mobile Wallet,Senior,Female,,Charlie Brown
-zs3228,10/30/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.19,6,7.14,0.2,,Senior,Male,Liverpool,Harry Evans
-IA7124,3/20/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1136.73,5,5683.65,0.15,Credit Card,Young,Male,Liverpool,George Wilson
-sc6418,8/9/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1561.49,7,10930.43,0.1,Mobile Wallet,Senior,Female,Manchester,Emily Taylor
-XB4755,12/6/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,128.3,6,769.8,0.15,Cash,Senior,Male,Manchester,Oliver Taylor
-Dk7820,5/21/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,,8,9379.6,0,Credit Card,Young,Male,London,Isla Wilson
-kP9343,4/20/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,,9,668.25,0.15,Debit Card,Senior,Male,Glasgow,Amelia Williams
-XK8813,2/27/25,,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,283.72,5,1418.6,0,Mobile Wallet,Adult,,Birmingham,Sophie Williams
-PT6988,3/31/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,0.96,2,1.92,,Credit Card,Adult,Female,Glasgow,Isla Davies
-zn0783,2/1/25,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,,Snacks,2.27,4,9.08,0.1,Mobile Wallet,Young,Female,Birmingham,Olivia Jones
-oK5788,10/16/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1566.98,9,14102.82,0,Debit Card,Adult,Female,Manchester,Harry Williams
-cM0290,5/10/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1888.87,5,9444.35,0.2,Cash,Adult,Female,Manchester,Olivia Wilson
-Bo5464,1/7/25,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1600.87,9,14407.83,0,Online Payment,Adult,Male,Glasgow,Sophie Brown
-UQ8809,6/12/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,114.02,10,1140.2,0.15,Credit Card,Adult,Female,Manchester,Sophie Roberts
-sh5990,7/18/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.55,5,7.75,0,Credit Card,Young,Male,Manchester,Jack Roberts
-Kw7388,8/15/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1570.69,3,4712.07,0.2,Mobile Wallet,Adult,Male,Birmingham,Charlie Davies
-mj5020,11/19/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,38.86,5,194.3,0.15,Debit Card,Adult,,Liverpool,Oliver Thomas
-LJ5047,7/28/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,,7,1142.96,0.05,Debit Card,Young,Male,Glasgow,Charlie Jones
-jA0487,7/7/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,308.2,3,924.6,0.2,Credit Card,Senior,Female,Manchester,Oliver Williams
-qe4718,4/27/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,80.16,9,721.44,0.1,Cash,Adult,Male,London,Sophie Smith
-tD7304,12/15/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.92,8,15.36,0.2,Cash,Young,Male,Glasgow,Amelia Thomas
-Nz2316,,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1893.79,4,7575.16,0,Mobile Wallet,Senior,Male,Birmingham,Charlie Brown
-KB1120,,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,80.57,2,,0.2,Online Payment,Young,Male,Glasgow,George Davies
-Qd5158,9/19/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.91,7,13.37,0.15,Credit Card,Young,Female,London,Isla Davies
-oQ3283,6/11/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,2.73,7,,0.2,Credit Card,Young,Female,,Oliver Taylor
-XF0374,12/18/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,,76.51,3,229.53,0.05,Mobile Wallet,Young,Female,Birmingham,Amelia Williams
-Ct6415,8/13/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1389.71,10,13897.1,0.2,Cash,Senior,Female,Birmingham,Oliver Roberts
-bp7688,3/20/25,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,,2,79.88,0,,Young,Female,Manchester,Harry Brown
-Dw0764,12/5/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1326.96,8,10615.68,0.15,Credit Card,Young,Female,Liverpool,George Jones
-ll2773,9/23/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.28,8,10.24,0.05,Debit Card,Senior,Male,Birmingham,Jack Roberts
-qM1387,12/12/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,3.11,9,27.99,0.2,Cash,Young,Female,Birmingham,Isla Davies
-SL3216,8/28/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,2214.42,6,13286.52,0.1,Credit Card,Young,Male,Glasgow,Charlie Taylor
-TL6264,11/17/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,,284.08,7,1988.56,0.05,Mobile Wallet,Senior,Female,London,Oliver Roberts
-qb2133,3/26/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,225.4,10,2254,0.15,Online Payment,,Male,Birmingham,Olivia Thomas
-gn7557,5/10/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,402.29,7,2816.03,0.15,,Senior,Female,London,Charlie Davies
-hA2717,,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1581.61,8,12652.88,0.1,Debit Card,,Male,Manchester,
-xx5248,5/24/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,,498.55,3,1495.65,0.15,Credit Card,Young,Female,Liverpool,Oliver Smith
-he0392,4/21/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,865.09,1,865.09,0.15,Cash,Adult,Male,Glasgow,Charlie Jones
-Fs9782,2/24/25,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1110.24,7,7771.68,0.05,Online Payment,Young,Female,Manchester,Emily Roberts
-Ch2236,12/12/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,,5,5922.8,0.05,Online Payment,Adult,Female,Birmingham,Sophie Smith
-HR3660,12/26/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,26.34,3,79.02,0.15,Online Payment,Senior,Male,Glasgow,Emily Wilson
-TS4631,5/23/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,,Apparel,157.23,,314.46,0.15,,Senior,Female,Liverpool,Jack Smith
-rO3012,9/23/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,263.07,3,789.21,0.1,Debit Card,Senior,Female,Glasgow,Olivia Williams
-Gi9509,,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,72.08,6,432.48,0.1,Debit Card,Adult,Female,Manchester,Emily Brown
-yh1830,4/2/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,455.96,8,3647.68,0.1,Mobile Wallet,Young,Female,,George Roberts
-XN5718,2/19/25,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,2388.63,9,21497.67,0.15,Cash,Young,Female,Birmingham,Charlie Brown
-zB0971,10/8/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1322.27,6,7933.62,0.2,Credit Card,,Female,Manchester,Olivia Davies
-Qd7380,6/2/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,313.44,5,1567.2,0.15,Debit Card,Adult,Male,Liverpool,Isla Williams
-hQ5625,2/15/25,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,85.15,9,766.35,0.15,Debit Card,Senior,Female,Birmingham,Emily Jones
-yK5977,9/29/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,,45.52,5,227.6,0.1,Online Payment,Senior,Male,Liverpool,Emily Wilson
-Xr9739,4/28/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,195.97,10,1959.7,0.05,Debit Card,,Female,Birmingham,Charlie Davies
-fa1178,7/5/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1947.7,6,11686.2,0.2,Cash,Adult,Female,Liverpool,Sophie Jones
-FV5561,12/15/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1954.46,7,13681.22,0.05,Credit Card,Young,Male,Liverpool,Jack Smith
-uj3423,2/19/25,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,881.77,6,5290.62,0.15,Mobile Wallet,Senior,Female,Manchester,Harry Evans
-Al4410,6/3/24,,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1029.87,10,10298.7,0.05,Mobile Wallet,Senior,Male,Glasgow,Emily Jones
-vF3989,6/30/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,,9,16920.54,0.1,Online Payment,Senior,Female,Liverpool,
-FL6878,10/15/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,194.02,10,1940.2,0.05,,Senior,Female,Manchester,Charlie Smith
-ZJ7186,3/7/25,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,,58.58,2,117.16,0.1,Debit Card,Senior,Female,Birmingham,Oliver Roberts
-vM2516,12/28/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,2.5,8,20,0.1,Credit Card,Young,Male,Manchester,George Smith
-Cm8842,11/17/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,95.32,3,285.96,0.1,Mobile Wallet,Young,Female,Birmingham,Charlie Evans
-xR1408,6/10/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,284.73,8,2277.84,,Cash,Young,Male,Liverpool,Olivia Brown
-MF1286,6/10/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,594.51,7,4161.57,0,Debit Card,Senior,Male,Liverpool,Oliver Wilson
-rr0503,2/27/25,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,3.39,4,13.56,0,Credit Card,Young,Male,Liverpool,Isla Jones
-Bn4700,1/21/25,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,4.15,5,20.75,0.1,Debit Card,Young,Male,London,Sophie Smith
-lQ3045,2/19/25,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,176.22,6,1057.32,0.05,Mobile Wallet,Young,Male,London,Harry Brown
-uD0160,4/8/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,194.72,1,,0.05,Cash,Adult,Female,Liverpool,Isla Davies
-ph1657,8/28/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,24.41,4,97.64,0.15,Mobile Wallet,Senior,Female,Liverpool,Olivia Evans
-TJ6283,11/8/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1874.17,3,5622.51,,Cash,Young,Male,Birmingham,Amelia Jones
-Uw3398,3/28/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,958.01,2,1916.02,0.05,Online Payment,Senior,Male,London,George Taylor
-Hd2486,2/19/25,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,963.3,7,6743.1,0.1,Online Payment,Young,Female,Liverpool,Emily Thomas
-DV8754,10/26/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,3.27,4,13.08,0.1,Debit Card,Senior,Male,Glasgow,Sophie Evans
-Xi8907,1/1/25,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1435.56,4,5742.24,0,,Adult,Female,Liverpool,Charlie Roberts
-rA8597,10/22/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,107.18,9,964.62,0.15,Online Payment,,Male,Birmingham,Isla Smith
-Qd7314,4/28/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,2.82,1,2.82,0.1,Credit Card,Young,Male,Manchester,Amelia Thomas
-wu6205,8/15/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,,3,2059.05,0.1,Cash,Young,Male,Glasgow,Charlie Davies
-Dq1714,11/1/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,,1,284.77,0.15,Online Payment,Senior,Male,London,Sophie Brown
-Ig1355,10/6/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,107.36,7,751.52,0.05,,Senior,Male,London,George Thomas
-rq2702,12/19/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,872.51,7,6107.57,0.15,Mobile Wallet,Young,Female,Liverpool,Oliver Wilson
-xk6663,7/17/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,76.39,5,381.95,0.2,Mobile Wallet,Young,Female,Birmingham,Jack Roberts
-eD3327,6/16/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1176.7,3,3530.1,0.15,Debit Card,Senior,,Birmingham,Oliver Brown
-xw3933,,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,,1,2.61,0.15,Online Payment,Adult,Female,Birmingham,Harry Davies
-Hj6246,11/27/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,105.99,7,741.93,0.05,Cash,Adult,Female,Manchester,Isla Roberts
-px1530,8/30/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,100.52,9,904.68,0.1,Online Payment,Senior,Male,Manchester,George Taylor
-UM4063,5/15/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,131.57,1,131.57,0.1,Online Payment,Young,Female,Liverpool,Oliver Smith
-bm7591,11/12/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.73,5,8.65,0.1,Cash,Adult,Male,Manchester,Charlie Thomas
-Hm3657,3/27/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,,1.45,8,11.6,0.15,Cash,Young,Female,London,
-Yx3954,8/17/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,,Apparel,79.28,6,475.68,0,Cash,Adult,Female,Manchester,Jack Smith
-uO7381,11/3/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,25.84,8,206.72,0.05,Online Payment,Young,Female,Liverpool,
-Ns7888,2/3/25,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,138.49,1,138.49,0.1,Mobile Wallet,Senior,,Liverpool,
-Um8225,12/19/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1804.99,1,1804.99,0.2,Mobile Wallet,Young,Male,Glasgow,Jack Thomas
-cK5517,11/9/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,976.67,3,2930.01,0.1,Online Payment,Young,Female,,Jack Brown
-aW4909,3/4/25,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,927.68,1,927.68,0.2,Credit Card,Senior,Male,Birmingham,Isla Smith
-FP4887,,,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,927.68,5,4638.4,0.1,Mobile Wallet,Senior,,Liverpool,Isla Davies
-IE0104,10/20/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1041.66,,2083.32,0.1,Debit Card,Adult,Female,Liverpool,Isla Jones
-Ko6235,2/15/25,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,106.91,8,855.28,0.1,,Young,,Manchester,Olivia Evans
-gs6845,9/9/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1605.9,6,9635.4,0.05,Debit Card,,Female,Manchester,Amelia Brown
-Sx7728,7/24/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,,Electronics,1121.64,9,10094.76,0.15,Online Payment,Adult,Female,Glasgow,Harry Brown
-Fe7546,11/28/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,4.91,5,24.55,0,Mobile Wallet,Young,Male,Liverpool,Olivia Davies
-Rm7381,11/23/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,,1164.8,7,8153.6,0,Mobile Wallet,,Male,London,
-II1649,12/28/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,,2,890.04,0.15,Mobile Wallet,Adult,,Birmingham,Oliver Brown
-II2189,6/19/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,3.68,3,11.04,0.1,Online Payment,Adult,Female,London,Isla Brown
-zw7391,,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,,Apparel,296.59,10,2965.9,0.1,Debit Card,Young,Male,Liverpool,Olivia Taylor
-wT3189,1/30/25,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.22,5,6.1,0.1,Mobile Wallet,Adult,,Birmingham,Isla Thomas
-Kz5171,5/13/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1077.43,2,2154.86,0.05,Mobile Wallet,Adult,Male,London,Emily Smith
-yD9013,5/10/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,2179.11,2,4358.22,0.15,Cash,,Male,Glasgow,Oliver Smith
-JZ6717,,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,51.85,7,362.95,0.05,Mobile Wallet,Senior,Male,,George Brown
-ih0224,10/25/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1160.47,6,6962.82,0.2,Mobile Wallet,Young,Female,Glasgow,George Brown
-WC9815,12/17/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,131.13,1,131.13,0.1,Debit Card,Senior,Female,Glasgow,Oliver Thomas
-Ne5355,4/26/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1510.86,1,1510.86,0.05,Online Payment,Senior,Male,Liverpool,
-pu7703,9/15/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,127.25,1,127.25,0.15,Debit Card,Young,Male,Manchester,Olivia Taylor
-iP9122,4/20/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,147.05,6,882.3,0.2,Cash,Senior,Male,Glasgow,George Smith
-lK5460,,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,99.17,8,793.36,0.15,Mobile Wallet,Senior,Male,London,Emily Davies
-uZ0935,11/18/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1734.83,9,15613.47,0.15,Credit Card,Senior,Male,Manchester,Jack Thomas
-Hw2437,12/3/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,485.9,10,4859,0,Cash,Adult,Female,London,Olivia Taylor
-fW9694,4/28/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,40.27,4,161.08,0.05,Debit Card,Senior,,Glasgow,Amelia Wilson
-ak2315,12/17/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,,8,1574.08,0.2,Cash,Adult,Male,London,Harry Roberts
-Ut6049,6/17/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,524.68,8,,0.05,Online Payment,Adult,Female,Glasgow,Amelia Thomas
-ut0634,12/27/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,454.85,1,454.85,0,Credit Card,Young,Male,Glasgow,Isla Roberts
-sl7168,6/6/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,,,215.9,0,Credit Card,Senior,Female,Glasgow,Oliver Williams
-PI6455,2/27/25,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,800.44,7,5603.08,0.05,Credit Card,Adult,Female,London,Charlie Davies
-ac4459,5/27/24,,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,,101.72,5,508.6,0.05,Online Payment,Senior,Female,Birmingham,George Jones
-pa4141,9/1/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,0.81,10,8.1,0.1,Online Payment,Senior,Male,Manchester,Sophie Williams
-kh4614,1/30/25,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,182.64,2,365.28,0.05,Mobile Wallet,Young,Female,Manchester,Oliver Jones
-gw1669,6/22/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,196.88,2,393.76,0.2,Cash,Adult,,Birmingham,Charlie Davies
-NP4240,9/18/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1294.73,,12947.3,0.15,Cash,Senior,Male,Birmingham,Oliver Jones
-kx0167,5/16/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,,4,15.56,0,Online Payment,Adult,Male,Glasgow,Oliver Evans
-Pq2174,5/23/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.79,,5.37,0.1,Online Payment,Adult,Female,London,George Taylor
-uH2024,5/30/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,800.9,8,6407.2,0,Mobile Wallet,,Female,Glasgow,Oliver Wilson
-ba9816,6/12/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1599.62,7,,0,Credit Card,Senior,Female,London,Sophie Thomas
-kb1544,4/12/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.3,2,2.6,0.15,Debit Card,Adult,Female,Birmingham,Olivia Thomas
-zI2040,6/25/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.98,1,1.98,0.05,Online Payment,Young,Male,Birmingham,Jack Taylor
-lv9505,9/20/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,151.05,8,1208.4,0.2,Cash,Adult,Male,Liverpool,Jack Smith
-Au2748,10/13/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,56.92,2,113.84,0.05,Debit Card,,Female,London,Amelia Evans
-Oi5352,6/21/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,3.51,3,10.53,0,Credit Card,Young,Male,Glasgow,
-xe7631,3/24/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,491.88,7,3443.16,0,Online Payment,Young,Female,Liverpool,Charlie Evans
-VZ1075,7/1/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,152.41,3,457.23,0.1,Cash,Adult,Female,Birmingham,Oliver Smith
-AL6971,5/21/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1957.93,3,5873.79,0.05,Cash,Adult,Male,Liverpool,Amelia Wilson
-Bz4584,11/26/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,62.78,8,502.24,0,Debit Card,,Female,Birmingham,George Roberts
-nB3729,9/27/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,187.62,7,1313.34,0.1,Online Payment,Young,Male,Liverpool,Jack Wilson
-sL4361,9/9/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,2494.2,7,17459.4,0.15,Credit Card,Senior,Female,Glasgow,Jack Smith
-zT3326,8/7/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,86.5,5,432.5,0,Mobile Wallet,Senior,Female,Manchester,Oliver Taylor
-ar8813,,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.69,5,8.45,0.2,Debit Card,Senior,Female,Manchester,George Williams
-ho6787,6/6/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,,Electronics,1984.99,3,5954.97,,,Young,Female,London,Harry Brown
-do4997,11/24/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,,4,339.56,0,Debit Card,Young,Male,Manchester,Charlie Wilson
-CT7179,6/13/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,115.1,8,920.8,0.15,Mobile Wallet,Senior,Male,Liverpool,Emily Williams
-vZ1650,,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1020.75,5,5103.75,,Cash,Senior,Male,Manchester,Charlie Brown
-SO9022,6/30/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,,Outdoor,34.76,6,208.56,0.2,Online Payment,Young,Male,Liverpool,Olivia Jones
-ge0630,8/13/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,454.2,7,3179.4,0,Credit Card,Young,Female,Manchester,Charlie Taylor
-bJ9859,10/20/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,,Electronics,1654.05,,16540.5,0,Credit Card,Senior,,Liverpool,Olivia Smith
-Kj2513,11/23/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,148.71,3,446.13,0,Cash,Young,,Liverpool,Charlie Brown
-ul7919,9/7/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,74.22,10,742.2,0,Online Payment,Adult,Female,Glasgow,Charlie Roberts
-nF9484,6/16/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1934.92,3,5804.76,0.05,Credit Card,Adult,Male,Glasgow,Olivia Taylor
-DR4483,6/9/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,,5,4.55,0.2,Online Payment,Young,Female,Glasgow,Olivia Roberts
-zK9636,6/19/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,4.39,9,39.51,0.05,Credit Card,Senior,Male,,George Taylor
-BN3525,10/15/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,453.23,8,3625.84,0.15,Cash,,Male,Manchester,Isla Taylor
-JK7635,1/18/25,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,277.88,3,833.64,0.1,Online Payment,Senior,Male,Birmingham,Charlie Wilson
-Ca7970,5/30/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,894.68,3,2684.04,0.05,Credit Card,Senior,Female,Glasgow,Charlie Smith
-Wl2640,7/7/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,104.71,10,1047.1,0.15,Credit Card,Senior,,,Isla Jones
-Eo7474,,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,,Electronics,,,9756.63,0.2,Debit Card,Senior,Male,Glasgow,Amelia Brown
-nI7872,6/21/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,437.42,4,1749.68,0.05,Online Payment,Adult,Female,Manchester,Harry Smith
-XN4883,12/3/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,37.5,2,75,0.2,Debit Card,Senior,Male,London,Charlie Wilson
-Jo0661,8/17/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,66.77,5,333.85,0.15,Online Payment,Senior,Female,Glasgow,Sophie Davies
-pv9963,6/6/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,80.64,1,80.64,0.1,Debit Card,Senior,Female,Glasgow,Jack Williams
-Bj9317,4/8/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,97.6,2,195.2,0.1,Online Payment,Young,Female,Glasgow,Sophie Smith
-Ge4478,2/12/25,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1,8,8,,Online Payment,Senior,Female,Birmingham,Jack Jones
-BS9606,11/17/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,39.08,10,390.8,0.05,Credit Card,Young,Male,Birmingham,Amelia Smith
-Rs4746,6/19/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,105.1,1,105.1,0.15,Debit Card,Adult,Male,Glasgow,Amelia Taylor
-Ld1560,1/22/25,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,60.08,10,600.8,0.05,Debit Card,Young,Female,Liverpool,Harry Evans
-tu4532,5/12/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,925.06,10,9250.6,0,Credit Card,Senior,Male,Liverpool,George Davies
-Hv1777,9/27/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,272.26,4,1089.04,0.05,Debit Card,Young,Female,Liverpool,Amelia Williams
-Uc2342,11/21/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,0.67,8,5.36,0.15,Cash,Young,Female,Birmingham,Harry Brown
-zy9201,2/15/25,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,2.46,9,22.14,0.05,Online Payment,Adult,Female,Manchester,Harry Roberts
-qK2843,9/19/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,836.95,5,,0.1,Cash,Young,Female,Liverpool,Emily Davies
-Hm4532,6/19/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,415.46,9,3739.14,0.05,Credit Card,Senior,Female,London,Olivia Evans
-oX7839,12/5/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,51.18,3,153.54,0.05,Debit Card,Senior,Female,London,Isla Wilson
-ad6547,10/9/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,436.53,5,2182.65,0.1,Debit Card,Senior,Male,Liverpool,Amelia Davies
-jI3473,2/23/25,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1129.31,,4517.24,0.2,Online Payment,Senior,Male,,Olivia Jones
-An3246,9/15/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,181.52,3,544.56,0.1,Online Payment,Adult,Male,Liverpool,
-wc3330,5/21/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,2094.51,1,2094.51,0.05,Cash,Young,Female,Manchester,Jack Brown
-hs9358,10/5/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,291.05,7,2037.35,0.1,Cash,Young,Female,Manchester,George Brown
-rf1301,,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,0.69,,,0.05,Online Payment,Young,Male,,Olivia Jones
-gA6872,2/3/25,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,136.65,7,956.55,0.05,Credit Card,Adult,Female,Glasgow,
-Fv1553,1/25/25,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,146.02,6,876.12,0.15,Cash,Senior,Male,Glasgow,Isla Williams
-fj7615,3/21/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1905.1,5,9525.5,0.15,Online Payment,Senior,Female,Glasgow,Jack Brown
-mz6786,11/18/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,92.54,2,185.08,0.05,Online Payment,Young,Female,Manchester,Sophie Williams
-sR1907,4/4/24,,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,39.8,2,79.6,0.05,,Adult,Male,London,Amelia Taylor
-ia8288,4/18/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,166.92,3,500.76,0.15,Cash,Adult,Female,London,Jack Davies
-um3640,,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,3.85,1,3.85,0,Mobile Wallet,Senior,Female,London,Isla Jones
-AA6715,4/21/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,252.7,8,2021.6,,Debit Card,Adult,Female,Birmingham,Amelia Taylor
-oB1528,7/14/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,,2,48.28,0.05,Mobile Wallet,Senior,,Liverpool,
-sg3271,3/1/25,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1425.51,,12829.59,0.2,Debit Card,Senior,Male,Liverpool,Charlie Evans
-wJ9005,4/25/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1786.57,9,16079.13,0.2,Online Payment,Senior,Female,London,Harry Williams
-RS4871,1/19/25,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,55.97,5,279.85,0,Online Payment,Young,Female,Glasgow,Emily Roberts
-No4557,,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,189.35,8,1514.8,0.05,Credit Card,Adult,Male,Manchester,Isla Taylor
-PF3820,6/8/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,,1846.35,9,16617.15,0.2,Debit Card,Young,Female,Birmingham,Amelia Brown
-SE0131,10/21/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,28.43,7,199.01,0,Cash,,Female,Manchester,Isla Evans
-Zh4739,4/19/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,,0.83,4,3.32,0,Mobile Wallet,Young,Male,Glasgow,Isla Williams
-vJ2550,4/24/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,78.54,1,78.54,0.2,Online Payment,Young,Female,,Harry Wilson
-oH3870,9/13/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,850.34,8,6802.72,0.05,Cash,Young,Female,Manchester,Jack Evans
-ra1399,2/1/25,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,156.33,5,781.65,0.1,Online Payment,Young,Female,London,Isla Williams
-dm0325,5/6/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,,0.63,,1.26,0.1,Mobile Wallet,Adult,Female,,Sophie Wilson
-aX1962,11/1/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,96.53,1,96.53,0.15,Mobile Wallet,Senior,Male,Glasgow,Isla Davies
-yf1711,9/3/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,90.13,5,450.65,0.2,Online Payment,Senior,Male,London,Harry Thomas
-kz4532,5/4/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,22.87,6,137.22,0,Debit Card,Senior,Male,Glasgow,Olivia Brown
-sD1750,6/10/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,,2280.23,10,22802.3,0.15,Online Payment,Young,Female,London,Olivia Taylor
-lz0434,12/9/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,634.92,2,1269.84,,Online Payment,Adult,Female,London,George Thomas
-FL6277,2/27/25,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,357.85,3,1073.55,0,Mobile Wallet,Young,Male,Liverpool,Oliver Thomas
-oh9050,,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1979.48,10,19794.8,0,Mobile Wallet,Senior,Male,London,Olivia Davies
-LJ6409,12/31/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,65.9,4,263.6,0.1,,Adult,Female,Glasgow,Isla Evans
-Ir0750,12/19/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,0.69,1,0.69,0,Credit Card,Young,,Liverpool,
-zv2337,4/1/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,336.81,6,2020.86,,Mobile Wallet,Senior,Female,Manchester,Emily Williams
-qE8469,1/31/25,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1400.07,10,14000.7,0.05,Mobile Wallet,Senior,Female,London,Harry Taylor
-Lh7448,8/31/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,282.88,7,1980.16,0,Credit Card,Senior,Male,Manchester,Harry Roberts
-RR3874,3/18/25,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,2485.3,5,12426.5,0.15,Debit Card,Adult,Male,Manchester,
-EO1429,12/20/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,171.03,8,1368.24,0.2,Credit Card,Adult,Female,,Isla Davies
-Dj3713,1/13/25,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,485.31,3,1455.93,0.2,Cash,Young,Male,Glasgow,Harry Evans
-Qr1528,5/15/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,29.82,2,59.64,0,Debit Card,Adult,Female,London,Isla Jones
-cS1336,8/16/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,187.79,2,375.58,0.1,Online Payment,Young,Female,Glasgow,Isla Williams
-Jy1237,6/13/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1513.46,10,15134.6,0.2,Debit Card,Senior,Female,London,Isla Evans
-LP6258,3/9/25,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,799.87,1,799.87,0.2,Credit Card,Adult,Male,Liverpool,Charlie Roberts
-EF9828,10/27/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,242.96,10,2429.6,0.2,Mobile Wallet,Young,Male,Manchester,Charlie Williams
-EO5919,1/31/25,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,23.58,2,47.16,0.15,Credit Card,Young,Female,London,Olivia Roberts
-TU1961,7/2/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,,8,32.64,0.2,Mobile Wallet,Senior,Female,Liverpool,Sophie Smith
-uR1854,11/24/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,368.56,4,1474.24,0.2,Mobile Wallet,Young,Female,Birmingham,Oliver Williams
-pi9770,11/30/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,938.85,6,5633.1,0.1,Cash,Adult,Female,Glasgow,Olivia Wilson
-tY5337,5/5/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1746.17,3,5238.51,0,,Young,,London,Charlie Smith
-WC9726,6/5/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,174.19,9,1567.71,0.1,Credit Card,Senior,Male,Manchester,Jack Evans
-po1063,,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,141.96,1,141.96,0.15,Online Payment,Adult,Male,Liverpool,Isla Roberts
-WW8367,1/31/25,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,181.39,7,1269.73,0.05,Mobile Wallet,Young,Male,London,George Brown
-rp1748,3/24/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,251.11,6,1506.66,0,Mobile Wallet,Young,Female,Manchester,Sophie Taylor
-im5758,2/22/25,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,217.17,2,434.34,0,Debit Card,Senior,Female,Liverpool,Charlie Thomas
-mB3117,3/10/25,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,251.39,8,2011.12,,Mobile Wallet,Adult,Female,Liverpool,Jack Smith
-pP4653,4/11/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,186.73,1,186.73,0.2,Mobile Wallet,Young,Female,London,Charlie Jones
-Kk4627,10/4/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,201.27,5,1006.35,,Online Payment,Senior,Female,Liverpool,Sophie Smith
-Vb6697,10/2/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,223.81,4,895.24,0,Mobile Wallet,Senior,Female,Liverpool,Sophie Williams
-Xd3628,2/26/25,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,2.59,,15.54,0,Cash,Young,Female,Manchester,Olivia Taylor
-PQ7406,,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,37.7,2,75.4,0.1,Mobile Wallet,Young,Male,London,Isla Smith
-bp0248,5/12/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,,Electronics,1972.78,5,9863.9,0.1,Credit Card,Adult,Female,Glasgow,Jack Smith
-Aj1481,10/26/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,213.38,3,640.14,0,Credit Card,Senior,Female,Manchester,Jack Roberts
-If0307,6/19/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,844.25,1,844.25,0.15,Mobile Wallet,Young,Female,Birmingham,Sophie Taylor
-Ym2231,3/29/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.79,8,14.32,0,Online Payment,Young,Male,Liverpool,
-Vu2258,9/12/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,456.96,2,913.92,0.15,Credit Card,Senior,Female,Glasgow,Amelia Smith
-KA7033,6/16/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1073.28,9,9659.52,0.2,Mobile Wallet,Senior,Female,London,Jack Davies
-FU8725,11/22/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,,1323.97,4,5295.88,0.15,Mobile Wallet,Senior,Female,Glasgow,Amelia Roberts
-OA1582,3/23/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.98,10,19.8,0.1,Credit Card,Adult,Male,Liverpool,Emily Wilson
-AT7694,11/22/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,68.43,2,136.86,0.15,Cash,Adult,Male,Birmingham,Emily Roberts
-PO4588,8/27/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,4.57,7,31.99,0.2,Credit Card,,Male,Glasgow,Isla Davies
-SH7448,4/3/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,962.05,4,,0,Cash,Young,Male,Glasgow,Charlie Williams
-Yd9732,8/7/24,,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1052.13,,6312.78,0.15,Credit Card,Young,Female,Glasgow,George Thomas
-Ci0874,8/31/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,2.32,6,13.92,0,Mobile Wallet,Senior,Female,Birmingham,Emily Williams
-Tp5577,7/8/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,,42.97,5,214.85,0.15,Debit Card,Senior,Female,,Olivia Smith
-Ak0896,11/20/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1184.55,8,9476.4,0.2,Credit Card,Young,Male,Glasgow,Emily Roberts
-HC9429,2/27/25,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.85,1,1.85,0.15,Credit Card,Senior,Female,Glasgow,George Wilson
-oT1217,3/12/25,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,,Electronics,718.06,9,6462.54,0.2,Cash,Senior,Male,London,Isla Davies
-gY6547,9/4/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,40.95,9,368.55,0.2,,Young,Female,Glasgow,Charlie Jones
-XG4156,2/13/25,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,4.08,3,12.24,0.05,Cash,Adult,Male,Birmingham,Harry Thomas
-aA4485,12/20/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,2391.73,2,4783.46,0.2,Online Payment,Young,Female,Glasgow,Oliver Roberts
-Wp1866,,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1962.11,10,19621.1,0,Online Payment,Senior,Male,Glasgow,George Smith
-Ge5391,6/8/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,,9,39.51,0,Debit Card,Senior,Female,Glasgow,Isla Davies
-uG2976,11/14/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,,8,343.44,0.05,Debit Card,Adult,Male,London,Oliver Davies
-QX0759,5/2/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,36.66,9,329.94,0.15,,Adult,Female,London,George Wilson
-Ax4421,12/7/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,22.74,2,45.48,0.15,Mobile Wallet,Senior,Female,,
-dI6606,,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1493.37,2,2986.74,0.05,Cash,Young,Female,Glasgow,Isla Wilson
-gk1492,11/4/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,2030.66,8,16245.28,0.05,Online Payment,Senior,Female,Manchester,
-HK4815,4/1/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,288.44,3,865.32,0.05,Online Payment,Adult,,Birmingham,Emily Williams
-PB7669,11/14/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,,Electronics,659.58,9,5936.22,0.05,Debit Card,Young,Male,Glasgow,Isla Smith
-pz7863,6/15/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,,Electronics,946.89,6,5681.34,0.15,Online Payment,Adult,Male,Birmingham,Emily Brown
-ps0967,,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,197.74,5,988.7,,Debit Card,Senior,Male,London,Olivia Wilson
-nB2152,1/22/25,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,,Electronics,1835.98,4,7343.92,0.05,Online Payment,Adult,Male,London,Jack Wilson
-Cs5574,11/28/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,,,27.93,2,55.86,0.05,Mobile Wallet,Young,Male,,Sophie Smith
-vG3313,7/17/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,98.24,5,491.2,0.1,Debit Card,Adult,Female,,Charlie Roberts
-lm2980,6/6/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,4.32,1,4.32,0.2,Debit Card,Young,Female,London,Harry Roberts
-HZ3191,9/23/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,907.76,2,1815.52,0.15,Online Payment,Young,Female,London,Amelia Roberts
-vU6251,,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1055.24,5,5276.2,0.05,Credit Card,Young,Female,Glasgow,Olivia Wilson
-GX8341,12/13/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1384.23,4,5536.92,0,Credit Card,Adult,Female,Birmingham,Sophie Thomas
-Hd9475,2/8/25,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,671.54,4,2686.16,0.1,Credit Card,Young,Male,London,Charlie Wilson
-VU6178,8/19/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,2,8,16,,Credit Card,Adult,Male,Birmingham,Amelia Williams
-xk2115,7/7/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,,Footwear,157.9,6,947.4,0.2,Cash,Young,,Manchester,Harry Roberts
-Xa5710,10/26/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,29.95,1,,0,Online Payment,Senior,Female,Liverpool,Emily Wilson
-mg9183,1/5/25,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.43,2,2.86,0.05,Cash,Adult,Male,London,Oliver Davies
-Vk4227,8/26/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,39.23,5,196.15,0.2,Cash,Young,Female,,Oliver Smith
-BY3602,4/15/24,,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,196.64,1,196.64,0.05,Cash,Senior,Male,Glasgow,Olivia Williams
-LE9591,4/6/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,66.13,6,396.78,0.2,Online Payment,Senior,Male,Manchester,Isla Smith
-df7055,8/25/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.91,9,17.19,0.05,Debit Card,Senior,Male,Birmingham,Isla Taylor
-PH3602,4/21/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,4.47,,8.94,0.15,Online Payment,Adult,Female,Liverpool,Isla Williams
-El5535,4/5/24,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,1611.39,3,4834.17,0.05,Debit Card,Adult,Female,London,Amelia Williams
-Zz6015,11/4/24,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,175.52,8,1404.16,0.15,Mobile Wallet,Young,Female,Liverpool,Sophie Roberts
-Bp6543,12/12/24,United Kingdom,a1a9ca24-9266-425b-b859-cb069fb0695d,Doritos Chips,Snacks,2.12,2,4.24,0.05,Cash,Adult,Male,London,Olivia Jones
-qr1946,12/1/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,916.15,8,,0,Cash,Senior,Male,London,George Taylor
-Xi0427,2/5/25,United Kingdom,fbe4e5b4-79f7-44bc-b910-4a9dd040d90b,Samsung QLED TV,Electronics,880.13,5,4400.65,0.15,Cash,Adult,Male,Liverpool,Harry Jones
-xs9333,11/19/24,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,142.85,4,571.4,0.2,Online Payment,Young,Female,Liverpool,Harry Wilson
-fO7521,4/27/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,,Electronics,1023.31,6,6139.86,0.05,Debit Card,Senior,Female,Liverpool,Sophie Roberts
-pS9580,4/24/24,United Kingdom,a8ab9dc1-7637-4073-857b-91cbe795eb7e,Apple MacBook Pro,Electronics,1473.09,5,7365.45,0.15,Debit Card,Senior,Male,Liverpool,Jack Williams
-Bb6736,11/2/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,,1,878.17,0.05,Cash,,Female,,Isla Smith
-yj1540,5/14/24,United Kingdom,c5b27cfa-97cb-496c-a6ac-1351c12243d3,iPhone 14,Electronics,1170.88,10,11708.8,0,Online Payment,Young,Female,Manchester,Sophie Williams
-zR0442,4/4/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,453.06,2,906.12,0.15,Online Payment,Senior,Female,Glasgow,Oliver Thomas
-tw4660,5/10/24,United Kingdom,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,58.34,1,58.34,0.2,Mobile Wallet,Senior,Female,Manchester,George Jones
-yX3832,,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,173.6,8,,0,,Adult,Male,Birmingham,Olivia Jones
-yO8510,3/4/25,United Kingdom,5b478db5-30c8-48f2-8923-545b4af3d8d1,The North Face Jacket,Apparel,118.82,2,237.64,0,Cash,Young,Female,Birmingham,George Williams
-yu4416,6/5/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,33,6,198,0.05,Online Payment,Young,Male,Birmingham,Charlie Davies
-hp0469,3/26/24,,c41daf95-e22d-4b29-9b0a-b37e7281fb7f,Levi's 501 Jeans,Apparel,89.96,2,179.92,0,Mobile Wallet,Adult,Female,Glasgow,Emily Thomas
-aa5877,1/16/25,United Kingdom,75dfd2db-1bd6-436a-b722-cdb22873d48b,Nike Air Max,Footwear,179.48,1,179.48,0.15,Cash,Senior,Male,Glasgow,Charlie Jones
-sv7645,11/22/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.22,6,7.32,0,,Senior,Female,Manchester,George Wilson
-AV8872,12/8/24,United Kingdom,d720e42d-06e5-4c29-befd-260826cc6ea8,Coca-Cola Can,Beverages,1.16,10,11.6,0,Debit Card,Adult,Female,London,Emily Davies
-pG4649,6/26/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,309.32,7,2165.24,0.1,Mobile Wallet,Young,Female,Manchester,Sophie Brown
-St4148,2/17/25,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,25.48,3,76.44,0.05,Debit Card,Young,Male,Birmingham,George Jones
-ap3122,6/8/24,United Kingdom,400ee9c9-0d28-42e6-9c0f-090c6b26995e,KitchenAid Mixer,Home Appliances,452.23,9,4070.07,0.05,Cash,Young,Female,Birmingham,Harry Brown
-Cz9293,10/10/24,United Kingdom,3158b0f0-e058-44ca-bef5-ffe960a469a8,Yeti Tumbler,Outdoor,21.22,8,169.76,0.2,Debit Card,Senior,Male,Birmingham,George Davies
+wj9253,12/29/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.05,1,0.67,0,Cash,Adult,Female,Manchester,George Jones
+Kw8819,6/18/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,964.5,2,1278.74,0.1,Debit Card,Senior,Female,Liverpool,Oliver Brown
+pg2970,9/21/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,937.88,1,761.26,0.15,Debit Card,Young,Male,Glasgow,Oliver Smith
+iX0917,7/3/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,73.82,3,138.75,0.05,Debit Card,Young,Female,London,Emily Brown
+KT2756,12/1/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1000.77,2,1237.72,0.15,Credit Card,Adult,Male,Manchester,George Brown
+qG7504,3/4/25,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,318.31,1,212.68,0.15,Credit Card,Adult,Male,London,George Taylor
+Vf7865,5/26/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,54.61,2,75.58,0.2,Debit Card,Adult,Female,Manchester,George Jones
+NL1721,8/4/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.23,22,18.92,0.1,Debit Card,Adult,Female,London,Harry Smith
+OA1249,1/21/25,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,58.18,4,177.56,0.05,Online Payment,Senior,Female,Liverpool,George Wilson
+oS1160,3/17/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.03,7,16.38,0.05,Debit Card,Senior,Female,London,Harry Jones
+eL1545,12/8/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.56,,,0.15,Mobile Wallet,Young,Male,Birmingham,Jack Jones
+JU9064,12/10/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1650.44,1,1227.34,0.1,Debit Card,Adult,Female,Birmingham,Emily Taylor
+qf0195,7/4/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2300.9,1,1440.17,0.1,Online Payment,Adult,Female,Liverpool,Emily Smith
+Sz7429,2/16/25,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,137.91,2,180.96,0.1,Debit Card,Senior,Male,Glasgow,George Wilson
+GP4617,12/27/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.25,5,15.2,0.05,Credit Card,Senior,Male,London,Emily Taylor
+yS1631,4/6/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,964.89,2,1432.42,0,Online Payment,Adult,Female,Manchester,George Jones
+ji9404,11/11/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,165.06,1,121.74,0.2,Mobile Wallet,Adult,Female,Manchester,George Brown
+nA7481,6/22/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,30.33,1,20.41,0,Debit Card,Young,Male,Manchester,Emily Jones
+BS1092,3/1/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,31.34,4,98.32,0.2,Debit Card,Senior,Male,Liverpool,Oliver Smith
+MZ5674,5/16/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1096.05,1,720.4,0.2,Online Payment,Senior,Male,Birmingham,Jack Jones
+gT6020,4/29/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.62,8,17.76,0,Mobile Wallet,Senior,Female,Manchester,Emily Wilson
+xR9037,9/7/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,31.76,1,21.12,0.15,Online Payment,Adult,Male,Manchester,Harry Wilson
+xr6184,3/21/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.32,,,0.15,Debit Card,Senior,Female,Manchester,George Jones
+Xx5755,12/22/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,351.76,2,536.98,0.1,Online Payment,Adult,Female,Manchester,George Smith
+UP5044,12/30/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,121.51,1,76.41,0.15,Cash,Senior,Female,Manchester,Emily Wilson
+Hp5493,6/1/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,2,,0.1,Credit Card,Senior,Male,Glasgow,Oliver Brown
+fE9813,1/9/25,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,151.74,3,309.81,0.2,Credit Card,Young,Female,London,Oliver Brown
+eO6871,12/24/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,149.76,1,106.42,0.05,Online Payment,Senior,Female,Manchester,Jack Taylor
+He9688,7/26/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,396.43,2,585.1,0.1,Mobile Wallet,Senior,Female,Birmingham,Harry Wilson
+uA0717,9/3/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,720.93,1,546.75,0.05,Cash,Senior,Female,Birmingham,George Taylor
+Pf6291,11/29/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,153.47,1,105.65,0.15,Online Payment,Senior,Male,Manchester,Emily Jones
+yk5572,7/9/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.34,4,4.32,0,Debit Card,Young,Male,Birmingham,Harry Taylor
+Uo4102,8/24/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1578.79,1,1152.84,0.15,Debit Card,Senior,Female,London,Jack Taylor
+hK0348,3/8/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.29,17,15.98,0.2,Debit Card,Young,Male,London,Emily Smith
+BS9659,9/2/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1022.43,1,687.44,0.05,Mobile Wallet,Adult,Female,Birmingham,Harry Brown
+mb2131,11/6/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,397.68,1,323.88,0.1,Cash,Senior,Female,Glasgow,Harry Jones
+Ah8506,4/20/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,386.9,1,294.57,0.1,Credit Card,Young,Female,Glasgow,Jack Wilson
+qs4939,12/31/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.29,,,0,Online Payment,Young,Male,Glasgow,Oliver Brown
+Hp8605,8/25/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1175.24,1,934.85,0.15,Cash,Young,Male,London,Oliver Wilson
+ur3991,8/17/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.26,23,23.92,0.2,Debit Card,Adult,Male,Glasgow,Jack Smith
+XT9845,6/16/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,380.1,1,294.38,0.15,Mobile Wallet,Adult,Female,Liverpool,Harry Jones
+uq0721,12/3/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1538.57,1,1083.49,0.1,Online Payment,Young,Male,Manchester,Oliver Wilson
+Fh4309,7/21/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.02,12,9.96,0,Debit Card,Senior,Male,London,George Jones
+Hc4226,3/22/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,301.2,2,502.28,0.15,Debit Card,Senior,Female,Manchester,Emily Brown
+po2841,3/9/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,36.14,1,26.43,0.1,Cash,Young,Female,Liverpool,Jack Taylor
+SL1888,3/31/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,269.64,1,205.15,,Cash,Young,Male,Manchester,Emily Brown
+TP5223,5/3/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,145.27,2,237.62,0.1,Credit Card,Adult,Male,Birmingham,Harry Taylor
+QM9551,6/1/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,199.61,1,148.15,0,Debit Card,Young,Female,Birmingham,Harry Brown
+ep3348,3/18/25,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,714.63,,,,Mobile Wallet,Senior,Female,Manchester,Oliver Taylor
+LL5497,4/26/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.06,3,8.76,0.15,Cash,Young,Female,London,Oliver Brown
+le5142,11/24/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,56.62,1,42.24,0.2,Credit Card,Adult,Female,Birmingham,George Jones
+Ut9741,1/24/25,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,69.03,3,156.75,0.2,Debit Card,Adult,Female,London,Jack Wilson
+BM5520,5/3/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.25,9,23.22,0.1,Credit Card,Young,Male,Birmingham,Jack Brown
+fG9986,8/23/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,220.2,2,368.5,0.05,Cash,Senior,Male,Liverpool,George Wilson
+ri6610,3/20/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.47,8,8.48,0.15,Debit Card,Young,Female,Liverpool,Emily Smith
+Rf0309,8/10/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2192.7,1,1824.51,0.2,Debit Card,Senior,Female,Birmingham,Jack Smith
+rE6994,2/6/25,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,,1,,0.05,Debit Card,Senior,Female,Glasgow,Oliver Wilson
+Vt8261,3/13/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.29,22,19.36,0.1,Credit Card,Adult,Male,Birmingham,George Brown
+Ig7796,10/2/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,350.99,2,567.64,0.15,Cash,Adult,Male,Manchester,Jack Taylor
+jh1918,9/2/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,373.38,1,256.85,0.05,Online Payment,Senior,Male,Liverpool,Emily Jones
+vJ7628,5/4/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1559.04,,,0.15,Debit Card,Adult,Male,Birmingham,Jack Smith
+wN5891,7/19/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,904.11,1,738.74,0.2,Credit Card,Young,Male,London,Oliver Smith
+SI0798,2/13/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,25.02,3,57.36,0,Mobile Wallet,Senior,Male,Liverpool,George Taylor
+kL0969,4/26/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1079.89,1,693.84,0.1,Online Payment,Adult,Female,Liverpool,Jack Brown
+kv4298,10/18/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,912.56,1,669.08,0,Debit Card,Young,Female,Birmingham,Jack Wilson
+kP1474,6/18/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,64.53,1,43.18,,Debit Card,Young,Male,London,Jack Smith
+Mc3116,3/20/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,147.24,2,228.7,0.1,Mobile Wallet,Senior,Male,Glasgow,Emily Jones
+ug0570,3/8/25,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,,2,,0.15,Debit Card,Adult,Female,Birmingham,George Wilson
+oN2447,11/11/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,121.98,2,150.72,0.2,Credit Card,Adult,Male,London,George Wilson
+pr2174,8/20/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,226.45,2,288.86,0.1,Cash,Young,Female,London,Harry Smith
+Jx0109,10/5/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,410.12,2,496.1,0.1,Cash,Young,Female,Birmingham,Harry Jones
+VM6151,6/22/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.42,7,6.65,0,Online Payment,Adult,Female,Manchester,Jack Jones
+xg2111,1/31/25,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1012.86,1,670.61,0.15,Online Payment,Young,Male,Liverpool,George Taylor
+Xl2867,8/30/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,30.04,4,77.56,0.05,Online Payment,Adult,Male,Birmingham,Emily Jones
+pI5616,7/10/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,0.99,17,11.22,0.05,Online Payment,Young,Male,Birmingham,Oliver Taylor
+QP6158,9/25/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,62.26,2,77.06,0.2,Online Payment,Young,Male,Manchester,George Brown
+JY2256,8/4/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,232.57,1,161.4,0.15,Online Payment,Senior,Male,London,Emily Jones
+CF6199,9/25/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,150.14,1,121.89,0.05,Debit Card,Senior,Female,London,Harry Jones
+PL3685,12/16/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,72.07,4,179.96,0,Debit Card,Young,Female,Manchester,Jack Smith
+Nc8502,2/10/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.77,4,9.68,,Debit Card,Young,Female,London,Emily Smith
+VJ6875,6/14/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,25.36,3,50.76,0,Debit Card,Adult,Female,Glasgow,Harry Smith
+ck6785,3/5/25,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,835.59,1,583.67,0,Cash,Adult,Female,Manchester,Harry Smith
+NN5566,10/19/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,149.74,2,192.84,0.05,Online Payment,Adult,Female,Liverpool,Jack Brown
+HU8017,11/17/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,,3,,0.2,Mobile Wallet,Adult,Female,Manchester,Oliver Wilson
+Kn3876,2/6/25,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,79.94,3,197.67,0.1,Cash,Adult,Male,Birmingham,Jack Wilson
+YV3521,11/23/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,325.7,1,238.8,0,Online Payment,Young,Male,London,Emily Wilson
+BV4916,9/13/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1568.6,1,951.77,0.2,Debit Card,Adult,Male,London,Jack Brown
+ob5781,6/17/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,,4,,0.1,Mobile Wallet,Young,Male,Manchester,Emily Taylor
+Mt5048,3/22/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,,1,,0.15,Debit Card,Senior,Male,Glasgow,Oliver Smith
+mT4237,6/8/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,27.12,4,76.52,0.2,Mobile Wallet,Adult,Female,Manchester,Harry Smith
+xe5688,1/12/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.23,5,4.1,0,Online Payment,Senior,Male,Glasgow,Harry Wilson
+Sm2392,4/22/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,845.54,1,650.84,0.1,Debit Card,Young,Male,Manchester,George Brown
+Rb6032,1/3/25,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1046.87,2,1692.28,0,Debit Card,Adult,Male,London,Oliver Taylor
+cT3992,12/23/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,926.33,1,616.82,0.2,Debit Card,Senior,Male,London,Harry Wilson
+rb4345,5/26/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.99,8,25.2,0.2,Mobile Wallet,Adult,Male,Manchester,George Taylor
+WR2249,4/21/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,,,,0.1,Online Payment,Senior,Male,Manchester,Harry Taylor
+uq4322,1/29/25,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,170.33,1,143.62,0,Cash,Adult,Female,Birmingham,Harry Taylor
+Kx1351,3/8/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.05,6,5.04,0.15,Mobile Wallet,Young,Female,Liverpool,Emily Brown
+Co8916,2/15/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.61,3,6.24,0.2,Cash,Senior,Male,Liverpool,Oliver Jones
+Tb4840,3/3/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.36,4,3.56,0.1,Credit Card,Young,Female,Birmingham,Emily Smith
+Hx2321,1/19/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,48.97,2,66.4,0,Mobile Wallet,Adult,Female,Liverpool,Emily Taylor
+gf6023,4/14/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,137.97,1,106.92,0.15,Mobile Wallet,Senior,Female,Birmingham,George Smith
+or1341,8/18/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.38,7,22.05,0.2,Credit Card,Senior,Male,Birmingham,Jack Brown
+bh2166,10/7/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,76.03,2,125.64,0.1,Mobile Wallet,Adult,Female,Glasgow,Oliver Smith
+Mj8322,12/20/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,387.91,2,655.08,,Credit Card,Adult,Male,Liverpool,Oliver Wilson
+NZ1376,5/14/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,900.66,1,653.36,0,Online Payment,Adult,Male,Birmingham,Oliver Jones
+rL4014,1/9/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.16,5,4.45,0.2,Credit Card,Adult,Female,London,Harry Taylor
+UH0069,7/30/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,71.57,1,54.32,0.05,Debit Card,Senior,Female,Manchester,George Brown
+vw1201,5/21/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,33.62,3,74.22,0.2,Debit Card,Adult,Male,Liverpool,Jack Wilson
+hi6995,3/29/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,46.39,4,134.88,0.2,Debit Card,Senior,Male,Liverpool,Jack Smith
+Zp6444,11/22/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,261.62,,,0.05,Cash,Young,Male,Liverpool,Harry Smith
+Gx7316,7/19/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,377.59,2,557.14,0.15,Credit Card,Adult,Female,Birmingham,George Brown
+FK1951,12/13/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2001.83,1,1500.43,0,Cash,Young,Female,Glasgow,Jack Jones
+WY4523,1/10/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.23,15,15.45,0,Credit Card,Adult,Female,Birmingham,Oliver Wilson
+iq6960,9/12/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,31.2,2,47.1,0.15,Online Payment,Adult,Male,Manchester,Oliver Taylor
+Rt2069,6/26/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,405.59,1,331.73,0.2,Credit Card,Senior,Female,London,Oliver Taylor
+JL4308,2/27/25,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2066.66,1,1410.55,0.1,Credit Card,Adult,Male,Birmingham,Jack Taylor
+Pf2254,4/2/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.18,21,18.69,0.05,Online Payment,Young,Male,Glasgow,Jack Smith
+Lk5768,8/31/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.72,9,25.56,0.05,Cash,Senior,Female,Glasgow,Oliver Jones
+Sa8915,2/19/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.06,8,15.36,0.2,Credit Card,Young,Female,Liverpool,Emily Brown
+hV0594,12/3/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.75,7,20.3,0.15,Online Payment,Adult,Female,London,Emily Wilson
+uv3102,5/16/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,339.3,1,281.52,0,Mobile Wallet,Senior,Male,London,George Brown
+xB4656,3/23/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,924.82,2,1500.62,0.05,Mobile Wallet,Senior,Male,Birmingham,Jack Taylor
+pZ2396,3/20/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1306.18,1,816.16,0.1,Mobile Wallet,Senior,Female,London,Emily Taylor
+MR6247,8/19/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,43.96,3,91.5,,Online Payment,Young,Female,Birmingham,George Smith
+oP0642,6/30/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1097.72,2,1531.42,0.2,Debit Card,Young,Female,Glasgow,Jack Taylor
+nD0831,11/24/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.28,1,0.97,0.2,Online Payment,Senior,Female,Birmingham,George Smith
+KP9437,8/26/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,137.06,2,207.62,0.2,Credit Card,Adult,Female,London,George Wilson
+dc3159,11/4/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,163.66,2,240.22,0.1,Cash,Adult,Male,Birmingham,Emily Smith
+JH2152,2/26/25,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,125.35,1,93.3,0.2,Debit Card,Adult,Male,London,Oliver Brown
+vK5807,9/7/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,65.89,3,122.82,,Debit Card,Senior,Male,London,George Jones
+Qk9497,9/8/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.8,8,23.28,,Credit Card,Senior,Female,Birmingham,Oliver Smith
+Ds5898,5/28/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.26,4,13.72,0,Mobile Wallet,Adult,Female,Manchester,Harry Brown
+xL7735,1/5/25,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1164.55,1,877.19,0.2,Cash,Adult,Male,Birmingham,George Smith
+iu3373,6/30/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.22,10,19.4,0.05,Cash,Senior,Male,Birmingham,Emily Taylor
+bq3339,1/7/25,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,328.74,1,260.67,0.15,Online Payment,Young,Female,Glasgow,Oliver Brown
+lh8266,6/28/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,965.16,1,724.34,0.2,Online Payment,Senior,Female,London,Emily Wilson
+PJ4155,3/30/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.79,9,17.1,0.2,Online Payment,Senior,Female,Birmingham,Jack Wilson
+RT5832,7/14/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,169.67,2,226.32,0.1,Credit Card,Senior,Male,Manchester,George Taylor
+Sy3350,4/2/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2159.82,1,1521.18,0.05,Online Payment,Young,Male,Liverpool,Oliver Taylor
+fE8392,1/22/25,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,246.64,2,318.24,0.05,Credit Card,Adult,Male,London,Emily Brown
+UC0996,7/16/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1304.26,1,1068.37,0.1,Cash,Young,Male,Birmingham,George Brown
+Sf6505,3/29/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,326.57,2,507.28,0.15,Cash,Young,Male,Manchester,Harry Jones
+bM0259,1/28/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,49.81,2,66.36,0.15,Credit Card,Adult,Female,Liverpool,Emily Taylor
+qk0244,11/26/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.74,2,4.08,0.2,Online Payment,Adult,Male,Manchester,George Smith
+pA5287,7/10/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.27,4,9.04,0.15,Debit Card,Young,Female,Birmingham,George Smith
+sp2713,11/16/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,43.81,2,71.8,0.05,Credit Card,Senior,Male,Birmingham,Harry Jones
+aK9785,9/10/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1625.39,1,1369.87,0.15,Debit Card,Young,Male,Liverpool,Emily Brown
+XQ4849,6/6/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,42.41,,,0,Mobile Wallet,Senior,Male,Manchester,George Jones
+ei9519,2/5/25,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,74.22,4,183.68,0,Debit Card,Senior,Female,London,Emily Smith
+sP5276,8/14/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,152.06,1,118.34,0.2,Credit Card,Adult,Male,Glasgow,Jack Wilson
+TU1120,4/25/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1396.25,1,957.2,0.05,Credit Card,Adult,Female,Glasgow,Jack Wilson
+Tl2098,6/25/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,27.12,3,55.56,0.2,Mobile Wallet,Adult,Male,London,Jack Brown
+Iv5942,3/10/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,34.69,4,113,0.1,Debit Card,Young,Male,Manchester,Emily Wilson
+SK4172,12/15/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.8,8,24.32,0.2,Debit Card,Senior,Female,London,George Brown
+eM8032,10/16/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,27.04,1,19.23,0.1,Credit Card,Senior,Male,London,Jack Brown
+VI0273,4/7/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,141.46,1,109.49,0.05,Online Payment,Young,Male,Birmingham,Oliver Wilson
+Jk7705,6/15/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1227.46,1,941.25,0.1,Cash,Young,Male,Birmingham,Emily Jones
+tF8678,8/26/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,178.72,3,380.28,0.2,Credit Card,Adult,Female,Manchester,Jack Brown
+da5436,12/17/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,,1,,,Cash,Adult,Female,Birmingham,Oliver Taylor
+sz9165,7/12/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,315.38,2,402.6,0.2,Debit Card,Senior,Male,Liverpool,George Jones
+sp7760,8/29/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,31.04,2,40.26,0.05,Credit Card,Adult,Female,Manchester,Emily Jones
+Yw0927,7/5/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,221.01,,,0.05,Cash,Young,Male,Glasgow,Harry Jones
+zA4084,11/30/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,374.36,2,519.7,0,Credit Card,Adult,Female,Liverpool,Oliver Brown
+bg1840,9/8/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.92,5,12.95,0,Credit Card,Senior,Female,Manchester,Emily Jones
+mA3141,12/7/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.49,5,18.55,0.2,Cash,Adult,Female,Glasgow,Oliver Brown
+qF7384,3/4/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.4,3,8.04,0.2,Cash,Senior,Female,Birmingham,Oliver Taylor
+GN3341,11/14/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.4,11,12.1,0.1,Credit Card,Young,Female,Glasgow,Harry Taylor
+cJ3349,8/14/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,727.57,1,533.26,0.15,Debit Card,Senior,Female,Liverpool,Harry Taylor
+nr0475,2/8/25,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1538.46,1,1082.4,0,Credit Card,Adult,Male,Glasgow,Harry Wilson
+Xr6356,10/9/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,42.15,4,115.56,0.15,Credit Card,Senior,Female,Liverpool,Emily Smith
+ct8257,8/5/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2441.03,,,0.05,Mobile Wallet,Senior,Male,Glasgow,Harry Wilson
+BP2894,12/22/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,302.19,2,454.28,0,Credit Card,Adult,Male,Liverpool,Emily Brown
+iQ6817,6/27/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,399.58,,,0.15,Credit Card,Senior,Female,London,Jack Wilson
+Lg3006,2/7/25,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,405.2,2,618.52,0.15,Cash,Young,Male,Manchester,Jack Smith
+iz5756,1/1/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1,12,8.52,0.15,Online Payment,Senior,Male,Glasgow,George Wilson
+ol9749,4/14/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,939.12,1,583.75,0.15,Online Payment,Senior,Male,Glasgow,George Jones
+tV4126,5/19/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.52,5,13.25,0.1,Debit Card,Young,Male,Glasgow,Oliver Smith
+LI4977,11/21/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1066.84,2,1298.42,0,Cash,Senior,Male,Glasgow,George Jones
+jf2669,4/15/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,360.01,,,0.05,Debit Card,Senior,Male,Liverpool,George Smith
+bg5455,3/10/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.25,9,8.73,0.15,Online Payment,Adult,Female,Manchester,George Smith
+DP4224,2/4/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.2,16,14.24,0.15,Credit Card,Senior,Female,Manchester,Harry Wilson
+tW4579,11/26/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1109.57,1,673.87,0.1,Debit Card,Adult,Male,London,Jack Brown
+sU1856,6/9/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,373.85,1,293.03,0.15,Debit Card,Adult,Female,Birmingham,Oliver Taylor
+Us3017,12/21/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1481.29,1,1148.62,0,Mobile Wallet,Senior,Male,Glasgow,Jack Brown
+nM1409,2/18/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,47.44,3,110.19,0.2,Cash,Young,Male,London,Jack Smith
+TO9973,9/13/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,78.8,3,181.29,0,Debit Card,Senior,Male,Birmingham,George Smith
+PY5998,6/15/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1052.21,2,1283.04,0,Cash,Adult,Male,London,Emily Brown
+IU7330,3/7/25,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,344.85,1,246.14,0.15,Cash,Adult,Male,Glasgow,George Taylor
+MQ4383,1/21/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.89,10,39.4,0.15,Debit Card,Young,Male,Manchester,Jack Brown
+PR4599,5/5/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,449.51,1,274.8,0.15,Online Payment,Young,Male,Manchester,Oliver Wilson
+uK0333,7/15/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1708.38,1,1050.1,0.05,Debit Card,Young,Male,Manchester,Jack Brown
+BO2864,8/16/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.25,10,7.8,0.15,Debit Card,Young,Male,Liverpool,Jack Jones
+Gj8229,1/7/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.46,6,7.26,0.15,Cash,Senior,Male,London,Jack Smith
+Es9224,7/7/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,176.92,1,147.96,0.05,Debit Card,Senior,Male,London,Harry Taylor
+eS1243,7/21/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,227.94,1,187.03,0,Credit Card,Young,Female,Manchester,Harry Taylor
+kP6524,4/4/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1444.96,1,1045.82,0.15,Cash,Senior,Male,Glasgow,Oliver Taylor
+Xd9989,8/20/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,26.46,2,38.76,0,Debit Card,Adult,Female,Glasgow,Oliver Wilson
+Ap4367,7/13/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,30.33,2,40.3,0.1,Online Payment,Adult,Male,Glasgow,George Smith
+xv2961,6/9/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1049.64,2,1357.94,0.1,Debit Card,Adult,Male,Manchester,Harry Wilson
+OY1572,12/29/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.89,,,0,Cash,Senior,Female,Glasgow,Emily Brown
+kG4566,8/23/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,202.5,2,329.12,0.15,Credit Card,Young,Male,Liverpool,George Jones
+IQ5629,10/3/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.13,,,0.2,Credit Card,Adult,Male,Glasgow,Oliver Wilson
+Nc2808,6/6/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,170.63,1,141.34,0,Credit Card,Young,Male,London,Emily Brown
+hD8416,8/9/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,394.99,1,250.65,0.2,Online Payment,Adult,Male,Glasgow,Jack Smith
+AN5380,3/31/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.09,15,11.55,0.05,Mobile Wallet,Young,Female,Manchester,Oliver Wilson
+cH9377,10/25/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,60.5,2,82.64,0.2,Online Payment,Adult,Male,London,Oliver Smith
+iw9437,12/9/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,226.73,2,351.02,0.1,Credit Card,Senior,Male,Manchester,Emily Smith
+fu8641,4/2/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,66.92,4,176.92,0.05,Debit Card,Senior,Male,Manchester,George Smith
+cl2681,8/22/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.05,7,4.83,0.2,Credit Card,Young,Male,Glasgow,Oliver Taylor
+zo4019,10/14/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.4,14,13.02,0,Credit Card,Young,Female,Birmingham,Harry Jones
+xr3040,5/5/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,273.72,1,171.19,0.2,Online Payment,Young,Male,Glasgow,George Jones
+bd1385,4/16/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,76.21,4,255.64,0.1,Debit Card,Young,Female,Glasgow,Oliver Smith
+gx5428,11/17/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,995.2,1,802.78,0.05,Credit Card,Adult,Male,Manchester,Oliver Smith
+Eu4453,2/18/25,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1755.61,1,1242.5,0.1,Debit Card,Senior,Female,Manchester,Emily Wilson
+ol4895,9/29/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,36.94,4,94.04,0.2,Cash,Adult,Male,Birmingham,Oliver Taylor
+Pe4150,6/13/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1671.96,1,1227.05,0.2,Debit Card,Adult,Female,Glasgow,Harry Wilson
+bW9008,12/31/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.39,17,14.62,0.2,Cash,Senior,Male,Liverpool,Harry Smith
+gW0547,7/18/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,67.77,3,149.76,0.2,Credit Card,Adult,Male,Birmingham,George Smith
+oz0940,5/13/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,33.75,1,21.04,,Mobile Wallet,Adult,Male,Manchester,Oliver Smith
+Yk5836,12/8/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1238.52,1,759.85,0,Online Payment,Adult,Male,Liverpool,Emily Brown
+xN6638,11/2/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,42.65,3,107.22,0.05,Online Payment,Adult,Male,Birmingham,Emily Wilson
+VN1430,11/9/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,72.38,1,47.05,0.2,Online Payment,Adult,Female,London,Harry Brown
+Kr2468,7/3/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,143.29,,,0.15,Mobile Wallet,Adult,Female,Liverpool,George Taylor
+iR5719,11/26/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.64,,,0.2,Mobile Wallet,Senior,Female,Birmingham,Jack Jones
+PY2481,1/11/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.48,7,16.8,0.05,Mobile Wallet,Senior,Female,Glasgow,Oliver Jones
+SQ3408,3/16/25,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,77.22,2,112.16,0.15,Debit Card,Young,Female,Glasgow,Oliver Wilson
+IJ6719,8/3/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,74.27,,,0,Debit Card,Adult,Male,Birmingham,George Smith
+FP8800,2/21/25,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,332.88,,,0.1,Online Payment,Senior,Female,London,Oliver Jones
+ra3488,8/15/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,369.58,2,477.1,0.05,Mobile Wallet,Adult,Female,Manchester,George Taylor
+Bp1243,4/24/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1025.44,1,616.65,0.1,Credit Card,Senior,Female,Glasgow,Oliver Taylor
+in4571,2/19/25,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,61.52,4,188.36,0.1,Debit Card,Senior,Male,Liverpool,Emily Taylor
+jA4545,11/30/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1248.51,1,909.63,0.15,Mobile Wallet,Senior,Male,Liverpool,George Jones
+MK6872,12/8/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,965.87,1,779.21,0.2,Debit Card,Senior,Male,Manchester,Harry Wilson
+DO6539,3/16/25,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,340.58,2,489.24,0,Debit Card,Senior,Female,Glasgow,Harry Taylor
+YS8579,11/16/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.92,6,18,0,Online Payment,Adult,Male,Liverpool,Harry Wilson
+Hi2988,1/1/25,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1671.32,1,1279.37,,Online Payment,Senior,Female,Birmingham,George Taylor
+PN3237,6/11/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,1,,0.15,Online Payment,Senior,Female,Liverpool,Harry Taylor
+iK4601,3/3/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.16,11,10.78,0.2,Online Payment,Adult,Female,Glasgow,George Taylor
+Wp2457,8/3/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,151.14,2,231.38,0.05,Online Payment,Adult,Female,Birmingham,George Taylor
+sD7748,2/24/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,46.12,2,61.52,0.05,Cash,Senior,Male,Manchester,George Brown
+uW1312,8/6/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,159.22,2,205.36,0.15,Online Payment,Adult,Male,Liverpool,Jack Wilson
+gv3946,1/25/25,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1033.16,,,0.2,Online Payment,Young,Female,Liverpool,Harry Jones
+rO8639,11/5/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1710.96,1,1139.95,0,Debit Card,Adult,Female,Liverpool,Emily Jones
+Lg1035,2/7/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,43.28,4,139.96,0.05,Debit Card,Senior,Female,Glasgow,George Jones
+NF3807,7/7/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,146.61,1,112.84,0.1,Online Payment,Adult,Male,London,Oliver Smith
+Lc3917,11/29/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1896.39,,,,Debit Card,Young,Male,Birmingham,Emily Wilson
+NY1762,4/16/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,64.65,4,217.08,0.1,Mobile Wallet,Young,Female,London,Oliver Wilson
+vq1741,9/17/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1184.67,1,907.34,0.1,Credit Card,Adult,Female,London,Harry Brown
+NI7538,9/15/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,231.44,2,286.46,0.05,Credit Card,Senior,Female,Liverpool,Jack Jones
+nZ8389,8/3/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,172.23,2,283.16,0,Online Payment,Senior,Female,Glasgow,George Brown
+mF3486,2/11/25,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,61.72,3,116.58,0.1,Online Payment,Adult,Male,Glasgow,George Smith
+QX7170,11/1/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,168.57,1,123.75,0,Credit Card,Adult,Male,London,George Taylor
+dH0098,6/19/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,,2,,0.15,Debit Card,Senior,Female,London,Harry Taylor
+sE4124,7/13/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,146.65,1,89.43,0.2,Online Payment,Adult,Male,Liverpool,Emily Wilson
+Ty6998,11/2/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2064.95,1,1482.7,0.05,Credit Card,Senior,Male,Manchester,Emily Wilson
+ZY1705,6/11/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,131.54,,,0.2,Online Payment,Senior,Female,Liverpool,Oliver Brown
+yv8959,1/30/25,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1045.29,,,0.2,Mobile Wallet,Adult,Female,London,Jack Smith
+pd4027,7/14/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,362.53,1,249.32,0,Debit Card,Young,Female,Liverpool,Harry Jones
+vM0772,8/30/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,921.88,1,734.46,0.05,Debit Card,Young,Female,Manchester,George Smith
+au6665,12/10/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.44,3,2.88,0.1,Online Payment,Adult,Female,Liverpool,Jack Jones
+uv9514,1/30/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.94,3,9.03,0,Debit Card,Young,Female,Liverpool,Oliver Brown
+fV8672,5/3/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,57.89,4,193.4,0.2,Mobile Wallet,Young,Male,Birmingham,Jack Smith
+wx4887,10/29/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.43,2,4.2,0.2,Cash,Young,Female,Birmingham,George Taylor
+uQ1315,4/30/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,132.88,3,304.11,0.2,Mobile Wallet,Young,Male,Liverpool,Oliver Jones
+gF7742,7/12/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,169.73,2,241.24,0.05,Online Payment,Adult,Male,London,Harry Taylor
+oT2340,8/18/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,,19,,0.1,Online Payment,Young,Male,Manchester,Oliver Taylor
+cW4907,8/19/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,160.46,1,118.89,0.2,Debit Card,Senior,Female,Liverpool,Jack Wilson
+hd9190,4/14/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,271.04,2,408.28,0.05,Credit Card,Young,Female,Glasgow,Jack Taylor
+uL2739,9/25/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,917.7,1,576.22,0.1,Credit Card,Adult,Female,Manchester,Oliver Smith
+wy6748,11/15/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,918.35,2,1551.88,0,Cash,Adult,Male,Liverpool,Emily Smith
+RZ7650,10/30/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.24,9,9.45,0.15,Credit Card,Young,Female,London,Emily Taylor
+hP9587,10/15/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,136.02,3,340.8,0.15,Credit Card,Senior,Male,Liverpool,Jack Smith
+Ia9635,10/11/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1628.7,1,1034.6,0.2,Cash,Adult,Female,Glasgow,Harry Wilson
+Pc6253,11/22/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1574.1,1,1093.61,0.1,Mobile Wallet,Senior,Male,Glasgow,George Brown
+mN0566,12/2/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,393.09,1,268.55,0.1,Cash,Young,Male,Birmingham,Emily Jones
+RC8428,6/14/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1608.36,1,1273.3,0.1,Cash,Senior,Male,Liverpool,George Smith
+IW8248,7/25/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,37.07,1,23.38,0,Mobile Wallet,Adult,Female,Birmingham,Emily Smith
+aT9390,8/11/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,880.71,1,625.68,0,Online Payment,Young,Female,Glasgow,Oliver Wilson
+Vv3756,5/4/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,897.9,1,559.43,0.2,Cash,Young,Male,Birmingham,Harry Taylor
+Df6204,11/20/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,397.09,2,481.2,0.15,Credit Card,Young,Male,Glasgow,George Wilson
+gs6745,7/27/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,42.73,,,,Credit Card,Young,Male,Manchester,Emily Wilson
+wG7807,1/11/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,25.81,3,64.38,0.2,Cash,Adult,Female,Birmingham,Harry Brown
+MG5703,10/30/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.46,7,21.77,0.15,Mobile Wallet,Adult,Male,London,Harry Taylor
+VY1134,11/6/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,376.4,2,601.62,0.15,Cash,Senior,Male,Glasgow,Harry Jones
+uQ6981,10/10/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,256.57,1,162.39,0,Mobile Wallet,Adult,Male,London,Jack Smith
+dT4810,5/1/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,165.05,2,268.96,0.05,Cash,Senior,Male,Liverpool,Oliver Jones
+zC6987,9/24/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,74.98,2,91.96,0.05,Debit Card,Adult,Male,Glasgow,Emily Jones
+Vu6884,4/24/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.38,22,19.14,0.1,Mobile Wallet,Young,Male,Birmingham,Oliver Jones
+Yp0279,3/8/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,25.03,1,21.18,0.15,Debit Card,Senior,Male,Manchester,Harry Taylor
+Bw5965,2/23/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,37.53,4,114.56,0.05,Mobile Wallet,Young,Female,Manchester,Jack Taylor
+PG0338,5/10/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.95,10,18.1,0.05,Online Payment,Young,Male,London,Emily Jones
+QK1582,3/22/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1081.86,2,1436.92,0.05,Cash,Senior,Male,Manchester,George Jones
+Th8609,8/17/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,989.96,2,1289.7,0.1,Online Payment,Adult,Male,Glasgow,George Taylor
+qn6869,7/17/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1856.74,1,1236.26,0,Cash,Young,Female,Birmingham,Emily Brown
+jH8570,3/2/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.15,9,21.24,0.15,Mobile Wallet,Young,Female,Birmingham,Harry Jones
+qI1149,4/25/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.7,5,11.05,0,Debit Card,Senior,Female,Manchester,Harry Brown
+oT6101,6/8/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,416.97,2,683.44,0.05,Mobile Wallet,Adult,Female,Liverpool,George Smith
+OR5290,1/27/25,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,137.93,1,112.27,0.05,Mobile Wallet,Adult,Male,Liverpool,Jack Taylor
+Wc0156,8/1/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,981.71,1,688.61,0.05,Cash,Adult,Female,Glasgow,Harry Smith
+ME4013,12/30/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.43,12,11.16,0.15,Mobile Wallet,Senior,Female,London,Harry Smith
+Nm2069,12/25/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1468.75,1,1069.08,0,Online Payment,Senior,Female,Liverpool,Emily Smith
+Du8881,4/6/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,28.58,2,42.46,0.1,Online Payment,Adult,Male,Manchester,Harry Jones
+AH8524,9/8/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,77.17,4,189.48,0,Cash,Adult,Female,London,George Jones
+YM6617,12/30/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,74.74,4,199.4,0.1,Mobile Wallet,Adult,Male,Birmingham,Emily Wilson
+Sx6943,1/29/25,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1341.9,1,1040.1,0.05,Mobile Wallet,Adult,Male,Liverpool,Emily Jones
+dL7320,2/1/25,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1400.89,1,1022.25,0.15,Cash,Senior,Female,Liverpool,Oliver Smith
+BW1935,2/3/25,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,,3,,0.1,Cash,Senior,Male,Birmingham,Harry Jones
+lx5475,12/8/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,275.66,2,351.14,0.05,Online Payment,Adult,Male,London,George Jones
+oG7966,12/3/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,143.77,3,316.77,0.1,Cash,Senior,Male,Manchester,Oliver Wilson
+Ex4560,11/4/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,329.34,2,470.38,0.05,Mobile Wallet,Young,Female,London,Emily Smith
+Jl4996,8/24/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,,2,,0.1,Credit Card,Young,Male,Manchester,Jack Wilson
+XI0491,5/30/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.4,16,17.76,0.15,Credit Card,Adult,Female,Liverpool,Jack Taylor
+UN7265,8/2/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1052.96,1,742.95,0.05,Debit Card,Adult,Male,Manchester,George Smith
+tr6506,8/27/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,218.41,2,269.32,0.2,Mobile Wallet,Young,Male,Glasgow,Emily Taylor
+kj9127,5/25/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,41.79,2,68.66,0.2,Credit Card,Adult,Female,Birmingham,Jack Taylor
+hX1345,11/2/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,132.03,1,82.72,0.1,Cash,Young,Male,Liverpool,George Smith
+zI8233,1/24/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.2,20,15.2,,Online Payment,Adult,Female,Manchester,Emily Jones
+aI7418,1/8/25,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,142.1,3,269.16,0.1,Debit Card,Adult,Male,Birmingham,Jack Brown
+DE5883,12/11/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,60.71,3,116.31,0.2,Online Payment,Adult,Male,Birmingham,Harry Jones
+wT2761,5/2/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,77.05,1,54.36,,Online Payment,Senior,Female,Birmingham,Oliver Wilson
+ib6879,2/8/25,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,230.88,2,324.5,0.05,Cash,Young,Male,Liverpool,Jack Taylor
+YO5129,4/11/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,42.56,2,66.26,0.05,Online Payment,Senior,Female,London,Emily Jones
+Wa4804,10/19/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,49.4,3,118.23,0.15,Mobile Wallet,Young,Male,Manchester,Jack Taylor
+hn0357,8/17/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.46,24,22.56,0.05,Debit Card,Senior,Female,Birmingham,Jack Smith
+Mp2590,3/16/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,30.57,3,73.86,0,Credit Card,Adult,Male,Birmingham,Oliver Wilson
+OC5075,6/13/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1693.9,1,1165.37,0.05,Credit Card,Young,Female,Birmingham,Oliver Brown
+jF3048,8/15/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,,13,,0.15,Mobile Wallet,Adult,Male,Birmingham,Oliver Taylor
+ba6762,4/1/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,56.61,4,177.8,0.15,Online Payment,Young,Female,Manchester,Oliver Taylor
+fa0079,12/18/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,26.27,1,21.53,0.15,Debit Card,Adult,Male,Manchester,Emily Jones
+nm6708,1/1/25,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,64.61,3,163.47,0.05,Credit Card,Adult,Male,London,Emily Smith
+QD3067,3/7/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,,1,,0.15,Online Payment,Senior,Female,Birmingham,Emily Brown
+cU0520,8/14/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1067.62,1,765.95,0.05,Cash,Young,Male,Birmingham,Harry Wilson
+Er7433,10/28/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1518.74,1,1079.21,0.05,Credit Card,Adult,Male,London,Emily Brown
+QJ7756,8/9/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,162.57,1,127.16,0.2,Debit Card,Adult,Male,London,Emily Jones
+aF4012,10/3/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.38,19,19.76,0,Debit Card,Senior,Female,London,Oliver Wilson
+pc6352,9/1/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,27.11,3,57.66,0.05,Cash,Young,Female,Manchester,Jack Brown
+Mx9976,4/24/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.28,6,4.62,,Debit Card,Young,Male,Glasgow,Emily Jones
+At3811,11/26/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,393.12,2,500.58,0.15,Cash,Young,Female,Birmingham,Emily Taylor
+nB2186,3/26/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1028.04,,,0.15,Online Payment,Young,Female,Manchester,Emily Taylor
+Mn8349,11/2/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,72.79,3,166.14,0.2,Cash,Senior,Female,London,Jack Wilson
+cg3521,6/12/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1437.43,1,901.74,0.1,Credit Card,Senior,Female,London,Oliver Wilson
+lJ1098,3/14/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,29.13,2,35.16,0.2,Mobile Wallet,Senior,Male,Birmingham,Emily Brown
+LH0150,1/29/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.21,5,3.7,0,Online Payment,Adult,Female,Birmingham,Oliver Brown
+ND6348,12/10/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,53.62,3,116.67,0.1,Cash,Young,Female,Glasgow,George Wilson
+XF8399,11/18/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,185.22,2,302.06,0.05,Credit Card,Adult,Male,London,Harry Taylor
+oR8898,8/29/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,933.62,1,594.7,0.1,Cash,Senior,Male,Glasgow,Emily Jones
+pB8339,9/3/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,389.95,1,276.97,0.1,Online Payment,Young,Male,London,Emily Smith
+Yx4697,5/20/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,135.9,3,301.98,0.05,Mobile Wallet,Adult,Female,Liverpool,Jack Wilson
+Ed6085,10/19/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,126.2,2,209.4,0,Cash,Senior,Female,Glasgow,Jack Taylor
+ul6323,11/24/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.06,5,16.1,0.2,Mobile Wallet,Adult,Male,Birmingham,Harry Jones
+ix7818,12/30/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,2,,0,Debit Card,Senior,Male,Manchester,Jack Taylor
+zF0732,9/13/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,41.5,4,135.56,0.05,Credit Card,Young,Male,Liverpool,Oliver Smith
+Rr9223,3/9/25,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,220.37,,,0.05,Cash,Young,Female,Liverpool,George Brown
+Cc7554,7/2/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.33,4,3.4,0.05,Cash,Adult,Female,Birmingham,Jack Jones
+Yi7470,7/21/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,151.18,1,117.34,0.1,Credit Card,Senior,Male,Birmingham,Emily Taylor
+BW9612,12/5/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,983.29,2,1296.02,0.05,Cash,Young,Male,Birmingham,Emily Wilson
+Cu7241,12/10/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,204.61,1,153.93,0,Credit Card,Senior,Female,Glasgow,Emily Brown
+KY9209,7/22/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,48.57,,,0.15,Credit Card,Adult,Male,Birmingham,Oliver Jones
+vI2779,4/13/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1026.05,1,710.16,0.2,Debit Card,Adult,Male,Birmingham,Harry Taylor
+GO2193,7/30/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,30.85,1,18.98,,Debit Card,Adult,Male,Glasgow,Harry Jones
+NW7416,4/30/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1114.98,1,805.05,0.05,Credit Card,Young,Female,Manchester,Jack Jones
+sl0747,4/27/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,58.92,3,138.84,0.1,Online Payment,Senior,Female,Liverpool,Oliver Brown
+OZ9128,11/3/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,435.44,,,0.15,Mobile Wallet,Adult,Female,Liverpool,Oliver Wilson
+sp7327,9/8/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.64,6,15.6,0,Credit Card,Adult,Female,Birmingham,Oliver Smith
+yz7255,10/12/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1055.14,2,1683.38,0,Debit Card,Adult,Male,Liverpool,Jack Taylor
+Io4812,9/30/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,840.69,1,510.04,0.2,Cash,Adult,Male,Birmingham,Jack Wilson
+Mw9462,5/6/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1409.63,1,1061.44,0.2,Online Payment,Young,Female,London,George Taylor
+op8178,3/21/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,46.53,1,39.09,,Mobile Wallet,Adult,Female,Glasgow,Oliver Wilson
+no6619,11/29/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1018.98,2,1516.16,,Credit Card,Young,Female,Glasgow,Jack Wilson
+Lw7570,5/13/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1095.83,1,903.93,0.05,Cash,Young,Male,Manchester,Emily Wilson
+pf4869,1/9/25,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,126.31,1,94.76,0.05,Debit Card,Young,Female,London,Emily Smith
+En0452,5/7/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.21,1,0.9,0.2,Cash,Senior,Female,Manchester,Emily Smith
+Eq6099,2/10/25,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,66.29,,,0,Online Payment,Senior,Female,Liverpool,Emily Smith
+lU0343,1/18/25,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1329.9,1,837.15,0.2,Cash,Young,Male,Liverpool,Emily Wilson
+LA3837,7/1/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2317.9,1,1857.21,0.1,Credit Card,Young,Male,Glasgow,Harry Jones
+ZH1963,11/29/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,57.71,1,45.48,0.1,Cash,Young,Male,London,Jack Jones
+wO6685,10/18/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,184.83,2,233.16,,Mobile Wallet,Young,Male,Glasgow,George Smith
+VF3144,9/22/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,57.97,1,40.91,0.05,Debit Card,Senior,Male,Liverpool,Emily Jones
+wX7817,6/6/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.15,8,20,0.2,Online Payment,Senior,Female,Liverpool,Oliver Taylor
+ip9905,12/10/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,62.42,,,0,Cash,Adult,Male,London,Emily Jones
+XB3948,3/31/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,152.09,3,307.26,0,Credit Card,Adult,Female,London,Harry Taylor
+gE8910,1/1/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.86,3,5.85,0.15,Cash,Adult,Male,Liverpool,Oliver Wilson
+ne8274,4/1/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,32.19,4,109.08,0.15,Cash,Young,Male,London,Emily Taylor
+UY8860,2/4/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.7,9,18.99,0.2,Credit Card,Adult,Female,Glasgow,Oliver Brown
+HH2431,6/10/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.34,12,13.2,0,Credit Card,Senior,Female,Glasgow,Jack Smith
+XE7930,8/29/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,202.25,1,128.42,0.2,Credit Card,Young,Female,Manchester,Harry Taylor
+pq4788,9/3/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,744.84,1,454.66,0,Debit Card,Senior,Female,Manchester,Emily Taylor
+RL7122,3/5/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,44.81,,,0.1,Online Payment,Adult,Male,Birmingham,George Brown
+ug8754,8/11/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2247.63,1,1627.16,,Credit Card,Senior,Male,London,Emily Smith
+jd9299,4/14/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,,6,,0.2,Debit Card,Adult,Female,Birmingham,Emily Wilson
+fR5293,12/5/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1017.27,2,1363.12,0.05,Debit Card,Adult,Male,Manchester,Harry Smith
+QR5450,7/29/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1475.34,,,0,Credit Card,Adult,Male,Birmingham,Oliver Jones
+UV2081,12/26/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,308.18,1,260.53,0,Cash,Senior,Female,Manchester,Oliver Taylor
+DT4694,9/24/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.68,5,14.15,0,Online Payment,Young,Female,Glasgow,Harry Jones
+fg9136,3/1/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.21,9,17.55,0.2,Mobile Wallet,Young,Male,Glasgow,Harry Taylor
+CF0336,5/5/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,56.12,3,105.42,0,Online Payment,Adult,Female,Manchester,Harry Jones
+kI4695,1/14/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,35.11,2,42.86,0.1,Debit Card,Young,Female,Glasgow,Emily Smith
+rW5372,10/6/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,235.66,1,197.76,0.1,Credit Card,Senior,Male,Liverpool,Harry Jones
+sw6450,2/16/25,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,65.66,2,91.88,0.2,Online Payment,Adult,Male,Liverpool,Emily Wilson
+rD0511,1/28/25,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,57.72,2,90.32,0,Mobile Wallet,Young,Female,London,Harry Jones
+Ga7640,9/9/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.45,21,18.48,0.2,Cash,Senior,Female,Birmingham,Oliver Jones
+cu5385,11/18/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,30.51,2,42.98,,Credit Card,Young,Female,Glasgow,Emily Brown
+oQ5729,2/27/25,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,157.14,1,108.72,0.1,Credit Card,Young,Female,London,Harry Jones
+vA9372,11/26/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,70.35,3,159.57,0,Online Payment,Adult,Female,Birmingham,Emily Brown
+rO6918,2/12/25,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1066.35,1,827.87,0.1,Credit Card,Young,Female,Birmingham,George Wilson
+cG6535,4/18/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,195.56,1,158.5,0.2,Credit Card,Senior,Female,Liverpool,Harry Smith
+Ng5229,8/4/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,,2,,0.1,Online Payment,Adult,Female,Manchester,Harry Taylor
+uT5988,9/21/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,151.12,3,328.77,0,Online Payment,Adult,Female,Birmingham,Harry Jones
+ys3098,12/21/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.83,10,22.4,0.05,Cash,Senior,Female,Birmingham,Oliver Wilson
+Eu1600,4/17/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,233.74,2,397.04,0.15,Cash,Adult,Male,London,George Taylor
+dy7785,5/20/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,74.46,1,46.32,0.2,Debit Card,Young,Female,London,Emily Smith
+SH2705,11/29/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.05,5,10.75,0,Online Payment,Young,Male,Liverpool,Oliver Jones
+fj8006,12/13/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.14,3,6.48,0.2,Mobile Wallet,Senior,Male,London,Jack Wilson
+IW4743,2/5/25,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1092.7,1,874.7,0.1,Credit Card,Senior,Male,London,Jack Jones
+ht7959,5/7/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,926.52,1,563.35,0.1,Credit Card,Young,Female,Birmingham,Jack Wilson
+LI8422,9/30/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1500.01,1,1106.04,0.15,Debit Card,Young,Female,Liverpool,Oliver Wilson
+vm9026,8/15/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.79,,,0.1,Online Payment,Senior,Male,Birmingham,Emily Smith
+PD5521,7/25/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1434.08,1,1197.21,0.05,Mobile Wallet,Young,Female,Manchester,Jack Taylor
+jE1686,12/4/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,903.73,2,1361.72,0.2,Cash,Young,Male,London,George Wilson
+Gm3761,4/1/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.15,17,14.45,0.2,Credit Card,Adult,Male,London,Emily Jones
+fU8926,5/13/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,965.82,2,1550.02,0.2,Online Payment,Senior,Male,Glasgow,Harry Brown
+qn3043,10/10/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2003.99,1,1404.52,0.1,Debit Card,Senior,Male,Liverpool,Harry Taylor
+Mx8064,1/16/25,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,990.3,2,1320.92,0.15,Debit Card,Senior,Male,Manchester,Jack Smith
+Gw5619,8/17/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,351.71,2,524.44,0.1,Online Payment,Adult,Female,Manchester,Oliver Wilson
+Vd4630,9/22/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,57.78,4,187.84,0.2,Debit Card,Senior,Male,Liverpool,Emily Taylor
+Ku0887,7/11/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2280.16,,,0.1,Debit Card,Senior,Male,Liverpool,Emily Taylor
+gY4018,7/21/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.1,20,15.8,0.1,Cash,Adult,Male,Liverpool,Oliver Taylor
+GO5496,7/23/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,26.55,4,74.48,0.2,Mobile Wallet,Young,Male,Liverpool,Oliver Taylor
+cn1998,4/14/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2476.11,,,0.2,Cash,Young,Male,Glasgow,Jack Smith
+Cv5710,1/7/25,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.21,19,13.87,0.1,Cash,Adult,Male,Birmingham,Harry Smith
+fn0020,2/5/25,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,425.16,1,294.64,0.05,Online Payment,Senior,Female,Glasgow,Harry Jones
+xt8380,1/20/25,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1962.23,,,0.15,Credit Card,Young,Male,London,Emily Taylor
+Ci2086,3/9/25,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,194.9,2,322.52,0.15,Debit Card,Adult,Male,Birmingham,Jack Jones
+ng4703,5/10/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,41.37,2,60.06,0.2,Online Payment,Adult,Female,Birmingham,Harry Brown
+wb4013,12/1/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1020.99,1,738.2,0.1,Debit Card,Young,Male,Glasgow,Harry Wilson
+jt8094,10/21/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1581.03,1,1101.8,0.05,Mobile Wallet,Young,Female,Glasgow,Oliver Smith
+oA5152,4/1/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,305.7,2,402.08,0.1,Credit Card,Senior,Male,Glasgow,George Jones
+nC0727,3/5/25,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2299.34,1,1761.43,0.05,Mobile Wallet,Senior,Male,Liverpool,Harry Jones
+nc4357,10/22/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.13,12,9.6,0.15,Credit Card,Adult,Male,Liverpool,Jack Brown
+WO4648,10/27/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,437.91,1,268.26,0.2,Online Payment,Senior,Female,Manchester,Harry Taylor
+Js2642,3/29/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,157.87,1,124.15,0.1,Mobile Wallet,Adult,Female,Birmingham,Harry Brown
+Wf1445,7/5/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,26.3,,,0,Mobile Wallet,Senior,Male,Liverpool,Jack Smith
+hj4804,5/15/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1080.54,2,1585.36,0.1,Debit Card,Senior,Male,Manchester,Harry Taylor
+zQ7016,3/4/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,39.39,,,0.2,Mobile Wallet,Adult,Male,London,Harry Smith
+WJ2465,9/14/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1515.5,1,1244.59,0.1,Credit Card,Senior,Female,London,Oliver Wilson
+lG5212,5/11/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,68.47,1,55.43,0.15,Cash,Adult,Male,Manchester,George Taylor
+oo0706,3/23/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,335.17,1,242.59,0.15,Mobile Wallet,Young,Male,Glasgow,Oliver Wilson
+DN9737,3/5/25,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1622.95,1,1083.2,0.05,Debit Card,Adult,Male,Manchester,Jack Brown
+ja7215,4/26/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.06,6,14.7,0.15,Online Payment,Senior,Male,London,Oliver Wilson
+zn2545,9/26/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,947.32,2,1266,0,Mobile Wallet,Senior,Female,Birmingham,Jack Taylor
+ya3507,11/13/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.1,4,2.96,0.2,Credit Card,Adult,Male,Glasgow,Oliver Jones
+YR3260,11/2/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,202.54,2,313.3,0.2,Online Payment,Adult,Female,Manchester,Harry Jones
+vf9902,3/10/25,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,70.58,2,87.2,0,Cash,Young,Male,London,Oliver Jones
+IA3299,4/14/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,304.05,1,251.04,0.2,Debit Card,Adult,Male,London,George Taylor
+iu5820,5/9/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.12,4,10.76,0.2,Credit Card,Senior,Female,Glasgow,Oliver Taylor
+WR8420,12/16/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1317.44,1,884.3,0.05,Online Payment,Young,Male,London,Jack Smith
+yb7417,8/28/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,38.3,4,96.4,0.1,Cash,Young,Female,Birmingham,Emily Taylor
+ga5901,6/7/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2282.61,1,1935.66,0.1,Cash,Young,Male,Manchester,George Brown
+TP9932,6/9/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.32,8,16,0.05,Debit Card,Adult,Female,Birmingham,Harry Brown
+Al0639,4/24/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,,1,,0.1,Mobile Wallet,Senior,Female,Glasgow,Harry Brown
+Yy7540,9/14/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,,20,,0.15,Credit Card,Senior,Female,Birmingham,Oliver Wilson
+iV4718,8/8/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,74.45,2,119.18,0.15,Mobile Wallet,Adult,Male,Manchester,Emily Jones
+Bn4298,6/30/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,78.29,4,213.52,,Mobile Wallet,Senior,Female,Liverpool,Emily Brown
+rA1354,4/19/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,130.92,,,0.05,Mobile Wallet,Adult,Male,Manchester,Oliver Brown
+VA2529,11/10/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.08,10,32.6,0.2,Credit Card,Young,Female,Birmingham,George Smith
+Fc3050,9/11/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,41.79,2,67.56,0.15,Debit Card,Senior,Female,Manchester,Oliver Wilson
+dc5938,12/18/24,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,182.55,,,0,Credit Card,Senior,Female,Birmingham,Emily Wilson
+Wc7410,3/1/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,49.64,1,31.35,0.05,Cash,Young,Female,Manchester,Harry Smith
+Kf0563,6/24/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,977.79,1,589.19,0.15,Debit Card,Senior,Male,Glasgow,Emily Brown
+hc7338,9/30/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,50.23,3,94.02,0.05,Cash,Senior,Male,Birmingham,Jack Smith
+Wu2875,9/15/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.47,2,6.08,0.05,Mobile Wallet,Adult,Female,London,George Smith
+Gk7080,7/13/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1005.11,1,755.51,0.15,Credit Card,Adult,Male,London,Emily Brown
+zy8085,11/23/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,419.16,,,0.2,Online Payment,Adult,Male,Glasgow,Oliver Smith
+vV4527,3/12/25,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,144.38,1,120.33,0.15,Cash,Adult,Female,Birmingham,George Jones
+fu0194,1/29/25,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,46.6,3,103.71,0.15,Credit Card,Senior,Male,Birmingham,Harry Jones
+Ow9696,1/4/25,United Kingdom,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,261.52,1,185.51,0.2,Credit Card,Adult,Female,Glasgow,George Taylor
+pV8506,10/7/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.27,17,13.94,0,Online Payment,Young,Female,Manchester,Emily Taylor
+Lb6603,4/20/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1510.06,1,1129.7,0.1,Online Payment,Young,Female,Liverpool,Harry Smith
+kn9969,10/3/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,983.82,2,1547.88,0.1,Online Payment,Young,Female,Liverpool,Jack Smith
+RY4787,5/12/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,,1,,0.1,Mobile Wallet,Young,Male,London,Jack Wilson
+Ya3956,8/14/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.27,17,14.96,0.2,Cash,Senior,Male,London,Oliver Smith
+ow7416,1/1/25,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.39,8,27.12,0.1,Online Payment,Young,Male,Birmingham,Emily Wilson
+sw7857,6/27/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,442.65,,,0.2,Cash,Senior,Female,Manchester,George Smith
+bv5284,7/11/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,76.95,4,257.36,0.2,Debit Card,Senior,Female,London,George Taylor
+aL8303,8/19/24,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,147.45,2,228.02,0.15,Debit Card,Adult,Male,Liverpool,Emily Jones
+mO6280,8/27/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,79.79,,,0.05,Online Payment,Young,Female,Manchester,George Brown
+VE8831,3/31/24,United Kingdom,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,918.84,1,610.64,,Cash,Senior,Female,Glasgow,Harry Smith
+cf1973,12/10/24,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1343.36,1,1137.2,0.15,Cash,Senior,Female,Manchester,George Smith
+Br1748,8/17/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,41.93,4,101.12,0.1,Credit Card,Adult,Male,London,Oliver Brown
+nR4494,2/7/25,United Kingdom,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1770.16,1,1367.18,0.1,Credit Card,Adult,Female,Manchester,Oliver Taylor
+SR1814,1/28/25,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,170.76,3,309.33,0,Cash,Senior,Male,London,Harry Jones
+yO6873,7/2/24,United Kingdom,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1080.46,1,674.22,0.05,Credit Card,Adult,Male,Birmingham,Emily Brown
+XK2180,1/31/25,United Kingdom,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,128.23,2,198.12,,Cash,Senior,Female,Manchester,Emily Taylor
+WT5315,8/23/24,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,60.05,4,165.36,0.05,Credit Card,Adult,Male,London,Emily Smith
+MN6172,12/29/24,United Kingdom,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.21,16,14.24,0.2,Debit Card,Senior,Male,Liverpool,Jack Smith
+Tp8352,5/30/24,United Kingdom,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,390.02,1,251.02,0.1,Cash,Senior,Female,Birmingham,Emily Smith
+JD5276,1/30/25,United Kingdom,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,66.82,2,98.66,0.1,Debit Card,Adult,Female,Birmingham,Oliver Taylor
+Ll9476,11/16/24,United Kingdom,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.08,5,12.85,0.05,Debit Card,Young,Male,London,George Jones
+Jh1622,7/12/24,United Kingdom,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,47.15,1,37.45,0,Online Payment,Adult,Female,Glasgow,George Jones

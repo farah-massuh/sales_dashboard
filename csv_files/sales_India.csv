@@ -1,501 +1,501 @@
 transaction_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,sales_representative
-YG2673,1/7/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,2.26,6,13.56,0.1,Cash,Senior,Female,Delhi,Sneha Sharma
-aq4781,9/8/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1169.68,6,7018.08,0.1,Debit Card,Adult,Female,Bangalore,Priya Iyer
-jl1376,1/4/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,,272.41,6,1634.46,0.15,Debit Card,Young,Female,Chennai,Sneha Mehta
-Ww6301,10/30/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.78,6,10.68,0.15,Mobile Wallet,Senior,Male,,Priya Kumar
-pt1443,7/2/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,326.16,8,2609.28,0.15,Cash,Young,Male,Chennai,Rahul Kumar
-Rq4980,8/8/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.52,10,5.2,0,Cash,Senior,Female,Hyderabad,Pooja Kumar
-nW5280,9/30/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1376.5,10,13765,0.1,Debit Card,Adult,,Hyderabad,Anjali Iyer
-Hj8344,10/17/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1372.52,3,4117.56,0.05,Cash,Young,Male,Delhi,Pooja Reddy
-Oy9162,8/22/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,342.23,7,,0,,Adult,Female,Mumbai,Pooja Patel
-LI9112,10/15/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,289.21,2,578.42,0,Cash,Adult,Female,Hyderabad,Rahul Kumar
-Zw7275,5/14/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,121.33,3,363.99,0.05,Debit Card,Adult,Male,Bangalore,Ravi Patel
-vK4446,11/20/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,857.24,3,2571.72,0.2,,Young,Male,Hyderabad,Neha Sharma
-EV0065,2/16/25,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.74,4,2.96,0.15,Online Payment,Adult,Female,Hyderabad,Neha Mehta
-tH3911,4/11/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,,445.27,10,4452.7,0.15,Mobile Wallet,Senior,Female,,Anjali Patel
-yZ1589,12/12/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,31.27,7,218.89,0.2,Mobile Wallet,Senior,Female,Bangalore,Anjali Reddy
-lw7163,5/13/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,144.85,4,579.4,0.2,Mobile Wallet,Senior,Male,Chennai,Pooja Patel
-vh3913,11/29/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,3,9,27,0.1,Cash,Senior,Female,Delhi,Deepak Gupta
-ke9007,2/7/25,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.83,10,8.3,0,Online Payment,Young,Female,Mumbai,Sneha Sharma
-vj3057,,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,260.26,2,520.52,0.1,Credit Card,Adult,Female,Bangalore,
-bS8666,6/20/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,159.9,,,0,Online Payment,Adult,Female,Delhi,Karan Patel
-vW4097,7/22/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,41.17,2,82.34,0.2,Mobile Wallet,Young,Male,Bangalore,Amit Gupta
-Av2275,9/25/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,426.98,4,1707.92,0.05,Cash,Young,Female,Mumbai,Deepak Patel
-lG6755,5/1/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,2.56,1,2.56,,Debit Card,Senior,Male,Bangalore,
-ai3918,3/6/25,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.25,8,10,0.2,Mobile Wallet,Senior,Male,Delhi,Sneha Patel
-rR2264,8/27/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,3.29,5,16.45,0.2,Mobile Wallet,Adult,Female,Chennai,Karan Chopra
-wH0486,5/6/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2447.95,9,22031.55,0.15,Online Payment,Senior,Female,Mumbai,Priya Patel
-Mv3400,4/18/24,,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,25.64,8,205.12,0.1,Credit Card,Adult,Male,Hyderabad,Priya Iyer
-kI3948,9/13/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,132.66,4,530.64,0,Credit Card,Adult,Male,Hyderabad,Karan Chopra
-iz8794,10/21/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,96.03,1,96.03,0.2,Mobile Wallet,,Female,Bangalore,Sneha Kumar
-Ln1734,11/15/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,196.53,9,1768.77,0.05,,Senior,Male,Mumbai,Ravi Singh
-fi3420,1/17/25,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2034.62,1,2034.62,0.1,Online Payment,Adult,Female,Mumbai,Neha Sharma
-lO1518,3/5/25,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2295.33,10,22953.3,0,Debit Card,Senior,Female,Delhi,Neha Kumar
-RL4627,4/14/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.77,6,4.62,0,,Adult,Male,Hyderabad,Neha Patel
-ui3098,3/27/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,,191.89,6,1151.34,0.1,Debit Card,Young,Female,Mumbai,Amit Nair
-LI2475,7/20/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1911.38,9,17202.42,0.1,Credit Card,Senior,Female,Chennai,Rahul Chopra
-hb1717,11/14/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,199.87,5,999.35,0,Online Payment,Senior,Female,Chennai,
-WG7794,3/7/25,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,24.19,4,96.76,0.15,Mobile Wallet,Adult,Male,Delhi,Pooja Kumar
-ke5920,11/13/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,176.27,10,1762.7,0.1,Debit Card,Young,Female,Delhi,Rahul Kumar
-vg1369,8/5/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,29.63,6,177.78,0.2,Mobile Wallet,Adult,Female,Chennai,Rahul Singh
-qB5527,11/19/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1174.81,2,2349.62,0,Online Payment,Senior,Male,Bangalore,Anjali Kumar
-tI2498,,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,295.36,8,2362.88,0.15,Cash,Young,Female,Bangalore,Amit Sharma
-fh5963,11/13/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,79.18,10,791.8,0.1,Credit Card,Adult,Male,Hyderabad,Anjali Sharma
-SH5538,8/28/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.91,9,17.19,0,,Adult,Male,Hyderabad,Priya Gupta
-tM6073,,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,429.7,4,1718.8,0.1,Cash,,Male,Chennai,Pooja Chopra
-Ow9472,,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,133.28,2,266.56,0.2,Credit Card,Young,Female,Mumbai,Rahul Gupta
-zT5412,2/14/25,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,,1162.27,6,6973.62,0.05,Cash,Senior,Female,Chennai,Anjali Mehta
-iO6543,5/8/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1047.43,8,8379.44,0.2,Debit Card,Senior,Male,Delhi,Karan Iyer
-wu2718,10/21/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,49.53,6,297.18,0.15,Online Payment,Adult,Female,Hyderabad,Ravi Gupta
-bz7103,8/12/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.87,3,,0,Mobile Wallet,Young,Female,Bangalore,Priya Nair
-bv4801,1/30/25,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1129.98,7,7909.86,0.2,Mobile Wallet,Adult,Female,Chennai,Priya Mehta
-pQ6515,12/6/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.11,8,8.88,0.2,Mobile Wallet,Senior,Female,Delhi,Priya Sharma
-Ix2073,1/28/25,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1632.55,4,,0,Credit Card,Young,Female,Hyderabad,Priya Reddy
-Ln7896,1/17/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,260.46,7,1823.22,0.05,Cash,Senior,Female,Bangalore,Anjali Mehta
-Uw3429,1/14/25,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,20.81,9,187.29,0.1,Mobile Wallet,Young,Female,,Ravi Sharma
-Xo6315,7/14/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1728.29,4,6913.16,0.15,Debit Card,Senior,Female,Delhi,Sneha Kumar
-Ns2656,5/11/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,,Outdoor,29.22,9,262.98,0,Mobile Wallet,,,Delhi,Sneha Sharma
-KI2278,2/13/25,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,33.12,3,99.36,0.05,Mobile Wallet,Adult,Female,,Deepak Mehta
-SB8730,3/12/25,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,,,8,1125.44,0.15,Credit Card,Senior,Male,Bangalore,Ravi Chopra
-dX3298,10/31/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,34.56,6,207.36,,Mobile Wallet,Senior,Male,Bangalore,Neha Kumar
-Vj8961,9/10/24,,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,27.13,5,135.65,0.05,,Senior,Female,Hyderabad,Amit Sharma
-Pd5602,4/10/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,3.35,10,33.5,0.1,Credit Card,Young,Male,Hyderabad,Amit Iyer
-YA0658,11/19/24,,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,43.42,3,130.26,0.1,Mobile Wallet,Young,Female,Hyderabad,
-LR5108,12/6/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,3.93,7,27.51,0,Debit Card,Young,Male,Mumbai,Amit Gupta
-yy6896,7/13/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1861.49,9,16753.41,0.05,Debit Card,,,Chennai,Neha Chopra
-kd7783,1/14/25,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,34.75,9,312.75,0.05,,Senior,Female,Bangalore,
-Jj0332,11/7/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,439.95,2,879.9,0.05,Cash,Senior,Female,Chennai,Deepak Mehta
-yq8878,12/10/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,266.01,8,2128.08,0.05,Debit Card,Adult,Male,Chennai,Deepak Kumar
-PS6488,12/22/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,279.75,3,839.25,0.05,Cash,Senior,Female,Hyderabad,Anjali Sharma
-Ie3490,5/18/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.54,4,2.16,0.2,Online Payment,,Male,Mumbai,Priya Patel
-qu6837,7/3/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,,Home Appliances,302.82,7,2119.74,0,Cash,Young,Female,Bangalore,
-Gy7076,8/22/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,,1196.14,1,,0,,Adult,Female,Bangalore,Priya Iyer
-CZ7444,3/5/25,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,31.48,8,251.84,0,Debit Card,Young,Male,Hyderabad,Deepak Chopra
-cm1858,6/28/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1072.08,10,10720.8,0,Credit Card,Young,Female,Chennai,Ravi Kumar
-Sf2400,12/3/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.74,3,5.22,0.2,Online Payment,Young,Female,Hyderabad,Priya Mehta
-Zi4098,5/11/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,181.82,7,1272.74,0.15,Cash,Adult,Female,Delhi,Priya Kumar
-AH8114,5/21/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,57.52,,345.12,0.15,Debit Card,Adult,Female,Delhi,Anjali Reddy
-my2540,4/2/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,22.38,4,89.52,0.05,Debit Card,Adult,Male,Hyderabad,Ravi Gupta
-VR5212,3/10/25,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,90.46,2,180.92,0.15,,Adult,Female,Mumbai,Priya Singh
-uj0194,4/30/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,,38.13,9,343.17,0.2,Cash,Adult,Female,Delhi,Sneha Reddy
-uY2118,11/13/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,196.36,5,981.8,0.15,Online Payment,Senior,Male,Hyderabad,Sneha Sharma
-Hd9372,7/18/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,,10,36.9,0.15,Cash,Adult,Female,Delhi,Rahul Iyer
-cJ0575,12/21/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,378.64,7,2650.48,0.2,Cash,Adult,Male,Delhi,Rahul Patel
-ss9429,1/15/25,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,,302.39,,907.17,,Cash,Young,Female,Chennai,Neha Chopra
-yz0788,1/15/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,155.48,4,621.92,0,Online Payment,Senior,Female,Bangalore,Ravi Patel
-oa2942,7/12/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,,Outdoor,34.23,7,239.61,0.05,Cash,Young,Male,Hyderabad,Amit Reddy
-ml0813,4/21/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.58,1,1.58,0.15,Debit Card,Senior,Female,Chennai,Deepak Sharma
-iP7613,7/9/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,71.81,10,718.1,0.1,Credit Card,Senior,Female,Delhi,Ravi Kumar
-Zp4144,2/12/25,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,800.77,7,5605.39,0.2,Cash,Adult,Male,Mumbai,Pooja Singh
-bN0562,11/18/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,3.93,2,7.86,0.2,Credit Card,Adult,Female,Mumbai,Amit Reddy
-gd8669,10/26/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.89,4,19.56,0.1,Cash,,Female,Mumbai,Anjali Mehta
-Ji9704,3/2/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,204.57,5,1022.85,0,Cash,Young,Female,Bangalore,Rahul Mehta
-Hq0346,9/13/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.12,4,4.48,0.15,Credit Card,Senior,Female,Mumbai,
-QO0562,7/26/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,,Apparel,154.18,7,1079.26,0.15,Cash,Young,Female,Chennai,Neha Nair
-Ug3976,7/18/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,176.31,4,705.24,0.15,Cash,Senior,Male,Mumbai,Karan Sharma
-UD7627,1/11/25,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1784.08,9,16056.72,,Cash,Young,Female,Hyderabad,Pooja Reddy
-FN3088,8/19/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,,22.19,5,110.95,0.05,Credit Card,Adult,Female,Delhi,Ravi Patel
-bU0383,11/18/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,50.72,8,,0.2,Credit Card,,Male,Bangalore,Rahul Chopra
-IR6684,12/6/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,2,8,16,0,Debit Card,Senior,,Delhi,Ravi Reddy
-oX3850,9/25/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,50.03,3,150.09,0,Credit Card,Senior,Female,Mumbai,Rahul Sharma
-VF4839,8/9/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,772.36,7,5406.52,0,Mobile Wallet,Young,Female,Bangalore,Ravi Gupta
-ma0199,2/22/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,149.61,2,299.22,0.1,Credit Card,Senior,Male,Hyderabad,Neha Gupta
-Aw9587,3/2/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.49,6,26.94,0.2,Mobile Wallet,Young,Male,Hyderabad,Karan Nair
-pC1219,2/20/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,3.88,4,15.52,0.15,Mobile Wallet,Adult,Male,Delhi,Neha Iyer
-Eq8129,4/26/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,149.81,8,1198.48,,Mobile Wallet,Adult,Female,Mumbai,Neha Reddy
-XK0476,12/18/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,,Beverages,0.7,3,2.1,0.1,Cash,Adult,Male,Delhi,Karan Nair
-bd5723,10/19/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,,128.18,9,1153.62,0.1,Debit Card,Young,Female,Chennai,Rahul Kumar
-rg0301,7/9/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,,33.77,5,168.85,0.15,,Young,Male,Hyderabad,Rahul Kumar
-Nt1024,2/18/25,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,282.28,,2258.24,0,Cash,Adult,Female,Bangalore,Anjali Sharma
-os4498,3/18/25,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,,1.03,10,10.3,0.1,Online Payment,Young,Female,Bangalore,Amit Iyer
-lf8836,,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,355.2,4,1420.8,0.2,Online Payment,Young,Male,Delhi,Rahul Gupta
-ly3417,4/20/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,2.32,1,2.32,0.1,Cash,Young,Male,Delhi,Amit Chopra
-QT7909,1/20/25,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,330.78,1,330.78,0.2,Online Payment,Senior,Female,Hyderabad,Anjali Mehta
-pY5548,1/20/25,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1456.82,10,14568.2,0.2,,Young,Female,,Pooja Kumar
-gx3854,8/12/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1098.55,10,10985.5,0,Credit Card,Adult,Male,Bangalore,Ravi Iyer
-tn7203,10/4/24,,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.35,6,8.1,0.15,Online Payment,Senior,Female,Bangalore,Pooja Reddy
-sq2422,11/28/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,144.93,3,434.79,0.15,Credit Card,Senior,Female,,Ravi Kumar
-RP2745,4/16/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,171.64,3,514.92,0.1,Online Payment,Senior,Female,Chennai,Deepak Mehta
-jB1359,9/23/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,62.63,1,62.63,0.2,Cash,Young,Male,Bangalore,Neha Chopra
-wD0984,9/4/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,239.94,2,479.88,0.15,Online Payment,Senior,Male,Delhi,Karan Sharma
-QT4222,2/23/25,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1921.08,,9605.4,0.1,Credit Card,Young,Female,Chennai,Neha Mehta
-MI5760,7/7/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,23.26,1,23.26,0.2,Debit Card,Adult,Female,Hyderabad,Pooja Iyer
-fp6348,4/5/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,,Beverages,1.11,8,8.88,0.1,Debit Card,Adult,Female,Hyderabad,Ravi Chopra
-Xl0925,4/9/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1166.45,9,10498.05,0.1,Credit Card,Senior,Male,Mumbai,Neha Reddy
-AT8546,9/14/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,,Beverages,1.99,7,13.93,0.1,Debit Card,Senior,Male,Delhi,Priya Iyer
-ac2785,9/29/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.06,9,36.54,0.1,Online Payment,Senior,Male,Chennai,Rahul Iyer
-zr7760,7/11/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,107.29,9,965.61,,Online Payment,Young,Female,Hyderabad,Amit Chopra
-LE8673,2/3/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,222.99,10,2229.9,0.05,,Senior,Male,Mumbai,Rahul Chopra
-QO7537,9/10/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,174.14,10,1741.4,0.2,Online Payment,Adult,Female,Chennai,Pooja Reddy
-kP8530,3/22/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1955.6,9,17600.4,0.2,Credit Card,Adult,Female,Bangalore,Ravi Singh
-tA0735,6/17/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1113.85,10,11138.5,0.2,Online Payment,Young,Female,Delhi,Amit Reddy
-ND1788,3/18/25,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1926.56,1,1926.56,0,Cash,Adult,Male,Hyderabad,Amit Singh
-wv7357,3/20/24,,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.55,10,5.5,0.2,Mobile Wallet,Senior,Female,Chennai,Pooja Reddy
-ua1790,6/11/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.76,5,3.8,0,Debit Card,Adult,Female,Bangalore,
-cJ0879,6/9/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,,5,962.8,0.2,Credit Card,Adult,Male,Mumbai,Amit Nair
-Bc8729,9/1/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,34.28,4,,0,Debit Card,Young,Male,Hyderabad,Anjali Patel
-uT4544,7/16/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1389.88,3,4169.64,0.2,Mobile Wallet,Adult,Female,Hyderabad,Sneha Reddy
-Nl9236,3/22/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.06,6,24.36,0,Mobile Wallet,Senior,Female,Chennai,Rahul Kumar
-NN8738,9/14/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,276.5,1,276.5,0.1,Debit Card,Young,Female,Delhi,Anjali Chopra
-qw1639,9/18/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1740.88,2,3481.76,0.1,Debit Card,Young,Female,Chennai,Pooja Nair
-vc2036,6/27/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,413.18,1,413.18,0,Credit Card,Young,Male,Delhi,Deepak Gupta
-HK0015,10/9/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,64.95,5,324.75,0.2,Mobile Wallet,Adult,Male,Chennai,Rahul Gupta
-sx7213,7/24/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,3.04,10,30.4,0.15,Credit Card,Adult,Male,Hyderabad,Karan Patel
-LQ3848,9/24/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,333.53,9,3001.77,0.05,Mobile Wallet,,Female,Chennai,Neha Sharma
-FA4543,12/12/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,915.11,9,8235.99,0.05,Credit Card,Adult,Female,Hyderabad,Anjali Mehta
-Ru2625,5/9/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,,10,8111.8,0.15,Mobile Wallet,Adult,Female,Hyderabad,Anjali Patel
-Yv2789,6/13/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,412.83,7,2889.81,0.1,Credit Card,Adult,Female,,Amit Nair
-lX2994,1/1/25,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,820.96,2,1641.92,0.1,Cash,Young,Male,Hyderabad,Anjali Nair
-ND4817,3/4/25,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,26.61,4,106.44,0.05,Debit Card,Young,Male,Hyderabad,Deepak Sharma
-jK5882,6/26/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1900.39,8,15203.12,0.2,Credit Card,Senior,Female,Mumbai,Anjali Nair
-bF8025,3/5/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,268.37,2,536.74,0.1,Online Payment,Adult,Male,Chennai,Pooja Reddy
-oW0249,2/28/25,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.19,5,5.95,0,,Senior,Male,Bangalore,Rahul Reddy
-ih5526,7/28/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1390.51,9,12514.59,0.2,Mobile Wallet,Young,Male,Hyderabad,Pooja Reddy
-BO4049,7/21/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,442.85,6,2657.1,0.1,Mobile Wallet,Adult,Male,Delhi,Priya Kumar
-La7246,4/6/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,710.36,3,2131.08,0.1,Cash,Senior,,Bangalore,Rahul Reddy
-hq3593,6/13/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,82.3,6,,0.2,Debit Card,Adult,Male,Hyderabad,Neha Kumar
-ji0734,1/1/25,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,,2,3.9,0.2,Credit Card,Adult,Female,Delhi,Pooja Chopra
-KM4720,12/30/24,,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.05,2,2.1,0.15,Online Payment,Senior,Female,Delhi,Deepak Sharma
-IE2823,11/12/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.01,,9.09,0,Mobile Wallet,Adult,Male,Chennai,Amit Gupta
-jM2509,6/20/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,843.31,7,5903.17,0.1,Cash,Young,Female,Bangalore,Amit Gupta
-tk9974,2/5/25,,b86d9be9-b601-4d95-9130-d65eec76277b,,Electronics,804.58,7,5632.06,0.15,,Young,,Mumbai,Karan Iyer
-TG4764,12/14/24,,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1190.07,1,1190.07,0.1,Debit Card,Young,Female,Bangalore,Pooja Gupta
-xY0249,9/9/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1370.79,9,12337.11,0.15,Mobile Wallet,Young,Male,Bangalore,Sneha Iyer
-DP2643,1/18/25,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,41.58,,83.16,0.15,Cash,Adult,Male,Hyderabad,Rahul Singh
-KS1848,8/25/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,46.47,8,371.76,,Cash,Senior,Male,Delhi,Karan Reddy
-iD2401,2/8/25,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,,1171.85,5,5859.25,0.05,Debit Card,Senior,Female,Chennai,Ravi Mehta
-mg3638,1/18/25,,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,151.24,9,1361.16,0.2,Mobile Wallet,Adult,Male,Chennai,Rahul Sharma
-nA8925,5/23/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,,465.49,6,2792.94,0,Cash,Senior,Female,Chennai,Karan Singh
-Mi9516,2/22/25,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,330.88,9,2977.92,0.2,Online Payment,Senior,Female,,Priya Kumar
-HH4281,8/11/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.88,9,43.92,0.15,Mobile Wallet,Senior,Female,Mumbai,
-ZG8177,5/2/24,,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1070.63,7,7494.41,0.2,Debit Card,Adult,Female,Chennai,Neha Reddy
-Ap8751,9/12/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,491.38,2,982.76,0.2,Online Payment,,Female,Chennai,Amit Singh
-wL0644,5/24/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,419.03,10,4190.3,0.2,Credit Card,Senior,Male,Mumbai,Ravi Iyer
-XO4582,8/20/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2379.18,5,11895.9,0.05,Credit Card,Adult,Female,Delhi,Rahul Reddy
-TZ3569,12/17/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,157.25,7,,0.05,Online Payment,Senior,Male,Hyderabad,Amit Patel
-Nb3771,9/3/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,188.06,4,752.24,0.05,Cash,Senior,Female,Delhi,Deepak Singh
-wc4213,12/18/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,90.83,8,726.64,0,Mobile Wallet,Young,Female,Hyderabad,Neha Gupta
-Ra9842,8/8/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,71.68,6,430.08,0,Cash,Senior,Female,Hyderabad,Amit Kumar
-VF3073,8/27/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,653.43,,5227.44,0.15,Online Payment,Adult,Male,Delhi,Sneha Gupta
-PA5692,,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,2.64,8,21.12,0.15,Mobile Wallet,Senior,Female,Hyderabad,Rahul Gupta
-sR1722,5/18/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,174.26,8,,0,Online Payment,Senior,Female,Bangalore,Priya Gupta
-dM9254,12/2/24,,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,,3.46,6,20.76,0.05,Debit Card,Young,Female,Bangalore,Ravi Mehta
-XF8092,2/7/25,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,65.26,5,326.3,0.2,Cash,Adult,Female,Chennai,Neha Gupta
-IU9349,4/16/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,,Snacks,1.63,5,8.15,0.1,Mobile Wallet,Senior,Male,,Rahul Iyer
-zC1193,8/6/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,817.04,3,2451.12,0,,Young,Female,Delhi,Amit Mehta
-an4638,,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1037,10,10370,0.1,Online Payment,Young,Female,Chennai,Rahul Iyer
-rI6299,3/5/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,3.01,5,15.05,0.2,Credit Card,Young,Male,Mumbai,Amit Sharma
-fP1739,12/15/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1038.27,1,1038.27,0.1,Mobile Wallet,Senior,Female,Hyderabad,Sneha Nair
-oy2227,6/6/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,59.28,10,592.8,0.05,Credit Card,Adult,Female,Chennai,Pooja Gupta
-vy6436,1/8/25,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,93.49,5,467.45,0.05,Mobile Wallet,Senior,Male,Hyderabad,Rahul Mehta
-Sx6242,2/18/25,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,82.51,4,330.04,0,Online Payment,Young,Male,Mumbai,Neha Kumar
-uI4322,8/24/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,127.54,,892.78,0.15,Mobile Wallet,,Female,,Sneha Singh
-Nl6201,10/15/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2177.53,8,17420.24,0.05,Online Payment,Adult,Male,Chennai,Pooja Patel
-kw9868,4/13/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1254.53,8,10036.24,0.1,Cash,Adult,Female,Delhi,Pooja Singh
-Eq4665,10/6/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1767.76,3,5303.28,,Credit Card,Young,Male,Bangalore,Rahul Chopra
-zQ0790,10/17/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1511.79,6,9070.74,0.1,Mobile Wallet,Young,Female,Chennai,Anjali Mehta
-WS8941,11/29/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.81,,12.67,0.05,Credit Card,Adult,Female,Chennai,Deepak Sharma
-VG3992,12/29/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,,Home Appliances,464.05,1,,0.1,Cash,Young,Female,Delhi,Pooja Reddy
-wP9127,9/9/24,,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,114.3,9,1028.7,0.05,Cash,Adult,Male,Chennai,Neha Gupta
-SS6601,9/28/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,179.28,3,537.84,0.15,Online Payment,Young,Male,Bangalore,Neha Mehta
-eu0045,5/26/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,88,6,528,0.15,Cash,Senior,Female,Mumbai,Pooja Gupta
-XE8866,1/15/25,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1956.94,3,5870.82,0.1,Mobile Wallet,Adult,Male,Chennai,Neha Gupta
-Nx9723,7/13/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.75,6,4.5,0,Credit Card,Senior,Female,Bangalore,Sneha Iyer
-BM4644,3/5/25,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,36.59,10,365.9,0.1,Credit Card,Adult,Male,Mumbai,Priya Mehta
-zI4294,7/28/24,,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,81.57,10,815.7,0,Credit Card,Adult,Female,Bangalore,Rahul Gupta
-sG3506,9/16/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.74,3,5.22,0,Debit Card,Adult,Male,Hyderabad,Neha Iyer
-Zm7129,6/1/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,853.91,2,1707.82,0.2,Cash,Adult,Female,Chennai,Ravi Iyer
-qz4533,1/8/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,,Snacks,1.98,3,5.94,,Online Payment,Young,Female,Chennai,Ravi Reddy
-TV9841,2/18/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,,,1,204.32,0.1,Cash,Young,Female,Delhi,Sneha Iyer
-XD3366,4/18/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,,Electronics,971.12,,971.12,,Credit Card,Adult,Male,Bangalore,Deepak Chopra
-fO7320,1/17/25,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,870.84,4,3483.36,0.1,Mobile Wallet,Senior,Male,Hyderabad,Pooja Kumar
-cR9673,4/25/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2174.08,5,10870.4,0.1,Debit Card,Young,Male,Hyderabad,Neha Chopra
-mz6064,4/10/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,836.04,5,4180.2,0.1,Debit Card,Young,Male,Chennai,Anjali Singh
-Ev2948,3/6/25,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,,,5.88,0.2,Debit Card,Senior,Male,Chennai,Anjali Sharma
-ve6449,4/7/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,60.39,1,60.39,0.2,Mobile Wallet,Senior,Male,Bangalore,Ravi Chopra
-LK2361,8/12/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,,Electronics,1089.16,2,2178.32,0.1,Mobile Wallet,Adult,Male,Mumbai,Neha Sharma
-aN7955,1/12/25,India,c756cd16-820a-410f-a145-12f5d14dcb8e,,Beverages,1.74,6,10.44,0,Online Payment,Adult,Male,Chennai,Pooja Mehta
-Mm4102,10/21/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1034.95,4,4139.8,0,Credit Card,Young,Male,Mumbai,Ravi Iyer
-VA8517,10/7/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,29.29,7,205.03,0.1,Cash,Young,Female,Bangalore,Priya Singh
-Ur8151,3/22/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,61.26,9,551.34,0,Debit Card,Adult,Male,Delhi,Neha Mehta
-tL5288,8/3/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1438.77,7,10071.39,0.05,Debit Card,Young,Female,Delhi,Neha Iyer
-do8810,2/18/25,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2381.21,2,4762.42,0.15,Debit Card,Young,Male,Delhi,Deepak Gupta
-CY3876,6/11/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.32,3,12.96,0.05,Credit Card,Young,Male,,Rahul Nair
-vw7278,3/27/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,37.81,3,113.43,0.15,Mobile Wallet,Young,Female,Hyderabad,Sneha Iyer
-iA4292,7/26/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,170.69,9,1536.21,0.05,Cash,,Male,Bangalore,Neha Iyer
-Us6031,9/25/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2466.3,3,7398.9,0,,Senior,,Delhi,Ravi Sharma
-mE3192,12/31/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1787.31,9,,0,Mobile Wallet,Young,Male,Bangalore,Amit Sharma
-Ci3215,4/1/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,47.83,9,430.47,0,Credit Card,Adult,Male,Delhi,Deepak Singh
-MQ6171,5/23/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1309.18,4,5236.72,0.05,Cash,Young,Female,Mumbai,Pooja Singh
-zs6947,4/7/24,,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.62,10,46.2,0,Cash,,Male,Delhi,Ravi Mehta
-sx5994,8/1/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,398.37,1,398.37,0.1,Credit Card,Adult,Male,Chennai,Deepak Mehta
-je1171,5/22/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,123.91,4,495.64,0.2,Debit Card,Adult,Male,Mumbai,Priya Singh
-ZF9429,12/29/24,,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1497.59,3,4492.77,0.15,Credit Card,Senior,Female,Delhi,Anjali Kumar
-rQ4211,4/16/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,74.31,2,148.62,0.15,Debit Card,Young,Female,Delhi,Priya Reddy
-Rp4190,4/2/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,272.13,9,2449.17,0.15,Cash,Senior,Male,Chennai,
-Pd8236,8/9/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,63.75,1,,0.05,Cash,Senior,Female,Hyderabad,Sneha Mehta
-ln8347,8/14/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.91,1,0.91,0.05,Mobile Wallet,Senior,Female,Hyderabad,Ravi Iyer
-Tg2808,5/25/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.08,4,,0.1,Credit Card,Adult,Male,Bangalore,Deepak Kumar
-Jt6987,6/14/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1773.09,9,15957.81,0.15,,,Female,,Neha Patel
-Jo9594,5/23/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2484.76,1,2484.76,0.05,Cash,Adult,Male,Delhi,Amit Singh
-Nm3965,7/23/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,,50.88,9,457.92,0.05,Cash,Young,Female,Mumbai,Pooja Patel
-Ge8910,8/1/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,,7,144.55,0.1,Cash,Young,Female,Delhi,Neha Sharma
-aF8887,2/11/25,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,188.31,1,188.31,0,Cash,Senior,Male,Hyderabad,Sneha Chopra
-kx1046,6/2/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2470.58,6,14823.48,,Debit Card,Adult,Male,Hyderabad,Anjali Sharma
-cr0235,4/6/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,400.04,5,2000.2,0.1,Mobile Wallet,Young,,Delhi,Karan Reddy
-rC1141,1/20/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,,Snacks,3.77,3,11.31,0.1,Cash,Senior,Female,Delhi,
-PM2494,1/10/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,265.51,2,531.02,0.2,Credit Card,Senior,Male,Mumbai,Priya Reddy
-Um0173,6/17/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,139.89,6,839.34,0.05,Debit Card,Senior,Female,Delhi,Sneha Sharma
-Nu0857,6/3/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2247,1,2247,0.15,Cash,Young,Female,Chennai,Priya Singh
-PO7781,3/18/25,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,,1156.33,7,,0,,Senior,Male,Bangalore,Sneha Chopra
-EL6551,8/7/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1171.35,3,3514.05,0.1,Cash,Senior,Female,Mumbai,Priya Singh
-Up8866,,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1762.67,4,7050.68,0.05,Mobile Wallet,Young,Male,Hyderabad,Priya Singh
-XB2620,3/16/25,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,848.7,2,1697.4,0.15,,Senior,Male,Mumbai,Ravi Sharma
-Zu2358,8/16/24,,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,1.69,6,,0.2,Debit Card,Young,Female,Hyderabad,Deepak Mehta
-xP0413,9/24/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,327.81,2,655.62,0.1,Mobile Wallet,Adult,Female,Bangalore,Sneha Iyer
-ud9870,2/18/25,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,83.18,5,415.9,0,Cash,Senior,Male,Mumbai,
-Qm2014,,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1187.58,,10688.22,0.05,Cash,,Male,Bangalore,Rahul Nair
-GV3650,6/16/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,52.79,7,369.53,0.1,Debit Card,Senior,Female,Delhi,Deepak Kumar
-jd4365,2/8/25,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,,Footwear,,5,824.15,0.2,Mobile Wallet,Young,Female,Chennai,Sneha Nair
-dK8409,12/22/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,72.88,2,145.76,0.2,Cash,Young,Female,Delhi,Karan Reddy
-Mx3553,5/4/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,136.32,5,681.6,,Online Payment,Senior,Female,Delhi,Neha Gupta
-sA1375,2/16/25,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,,,2209.92,2,4419.84,0.05,Mobile Wallet,Adult,Female,Mumbai,Anjali Iyer
-am7879,1/13/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,5,4,20,0.1,Credit Card,Senior,Female,Bangalore,Neha Chopra
-qM1362,9/9/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1828.13,8,14625.04,0.1,Credit Card,Adult,Male,Hyderabad,Anjali Iyer
-fB6179,1/28/25,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,,1076.28,2,2152.56,,Mobile Wallet,Young,Male,Mumbai,Neha Sharma
-HG3586,1/14/25,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1429.65,10,14296.5,0,Debit Card,Young,,,Anjali Chopra
-ot1647,8/20/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,889.92,,,0.15,Mobile Wallet,Adult,Female,Hyderabad,Pooja Reddy
-YT5712,11/12/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1493.83,5,7469.15,,Online Payment,Adult,,,Ravi Nair
-sA2991,,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1398.15,9,12583.35,0.2,Credit Card,Senior,Female,Hyderabad,Anjali Mehta
-cF8657,8/20/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,,3,2432.91,0.2,Cash,Adult,Male,Bangalore,Ravi Mehta
-jY0033,6/23/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,2.88,6,17.28,0.1,Credit Card,,Female,Delhi,Anjali Sharma
-mh7855,1/26/25,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,,102.63,8,821.04,0.05,Online Payment,Senior,Female,Mumbai,Pooja Iyer
-Oz5965,,,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1068.79,1,1068.79,0,Cash,Adult,,Delhi,Pooja Gupta
-Js9571,,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,208.64,7,1460.48,0,Cash,Adult,Female,Chennai,Ravi Iyer
-sM4964,12/16/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.89,6,5.34,0.1,Online Payment,Senior,Female,Bangalore,Neha Gupta
-ku7054,3/13/25,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,350.62,8,2804.96,0.15,Mobile Wallet,Senior,Female,,Priya Gupta
-eX4766,5/14/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,191.7,10,,0.15,Mobile Wallet,Adult,Female,Bangalore,Anjali Kumar
-RU0002,8/17/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,266.73,4,1066.92,0.2,Mobile Wallet,Senior,Female,Delhi,Rahul Kumar
-op4126,9/17/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.59,10,45.9,0.2,Debit Card,Senior,Male,Chennai,Karan Iyer
-GP9794,3/16/25,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1084.6,6,6507.6,0.2,Mobile Wallet,Adult,Female,Chennai,Sneha Gupta
-qK9603,3/15/25,,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.87,9,43.83,0.05,Credit Card,Senior,Female,Chennai,Ravi Iyer
-Ep9405,3/8/25,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.54,7,3.78,0,Online Payment,Adult,Male,Mumbai,Amit Singh
-WN6894,11/6/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,263.51,10,2635.1,0.2,Credit Card,Adult,Male,Hyderabad,Deepak Kumar
-Oz3884,10/26/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1784.71,8,14277.68,0.15,Online Payment,Young,Female,Chennai,Pooja Mehta
-QY4373,9/28/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1187.07,5,5935.35,0.05,Cash,Senior,Male,Delhi,Ravi Reddy
-Df0285,1/19/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,,,,952,0.15,Mobile Wallet,Adult,Male,Mumbai,Deepak Reddy
-LX0595,10/3/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,301.94,5,1509.7,0.1,Mobile Wallet,Senior,Male,Hyderabad,Priya Kumar
-xq5380,8/1/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.87,8,6.96,0.15,Mobile Wallet,Senior,,Bangalore,Ravi Mehta
-Pd1278,9/20/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,,7,785.61,0.2,Mobile Wallet,Young,Male,Bangalore,Deepak Patel
-Lu3345,7/26/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,129.43,5,647.15,0.05,Cash,Senior,Male,Delhi,Karan Patel
-tz4817,5/1/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,268.89,2,537.78,0,Mobile Wallet,Senior,Female,Chennai,Rahul Mehta
-Rk9818,1/23/25,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,,362.58,8,2900.64,0.1,Debit Card,,Female,Mumbai,Anjali Reddy
-Fq3080,11/10/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,,1568.19,4,6272.76,0.05,Cash,Senior,Female,Bangalore,Deepak Mehta
-GF8115,7/4/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,92.15,2,184.3,,Credit Card,Young,,Delhi,Karan Mehta
-Uc6190,9/2/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,348.11,10,3481.1,0,Debit Card,Senior,Female,Bangalore,Pooja Singh
-TM1179,6/25/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,2.45,10,24.5,0.15,Online Payment,Adult,Female,Chennai,Sneha Kumar
-oY5304,3/6/25,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,,Outdoor,31.88,5,159.4,,Online Payment,Adult,Male,Delhi,Ravi Patel
-Fh2405,11/30/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1796.45,3,5389.35,0.05,Mobile Wallet,Young,Male,Delhi,Amit Patel
-Ow6487,1/10/25,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,894.04,9,8046.36,0.1,,Young,Female,Delhi,Rahul Kumar
-vS7376,11/20/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,265.26,1,265.26,0.05,Credit Card,Adult,Female,Chennai,Neha Patel
-wI4299,10/15/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,848.62,8,6788.96,0,Cash,Young,Male,Hyderabad,Ravi Kumar
-ee1636,10/14/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,27.64,5,138.2,0,Debit Card,Young,Male,Delhi,Amit Gupta
-cv8672,8/25/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,908.22,9,,0.1,Mobile Wallet,Senior,,Bangalore,Neha Sharma
-RD7676,1/6/25,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,311.79,3,935.37,,Debit Card,Young,Female,Hyderabad,Karan Gupta
-Mj9758,10/19/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,134.8,4,539.2,0.1,Mobile Wallet,Senior,Male,Delhi,Deepak Mehta
-sa2244,8/11/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,307.83,4,1231.32,0.05,Online Payment,Adult,Female,Delhi,Amit Reddy
-Tm6826,5/28/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,137.3,6,823.8,0.1,Credit Card,Senior,,Mumbai,Pooja Sharma
-YH2094,9/12/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,84.05,6,504.3,0.05,Credit Card,Young,Male,Chennai,
-NX9258,6/28/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,,Snacks,2.16,,15.12,0.05,Cash,Young,Male,Mumbai,Priya Sharma
-zR9964,9/18/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,193.83,8,1550.64,0.1,Online Payment,Young,Male,Chennai,Karan Chopra
-iA5717,10/7/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2039.02,3,6117.06,0.15,Credit Card,Adult,Female,Hyderabad,Rahul Sharma
-kj4630,4/2/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,158.5,2,317,0.1,Online Payment,Adult,Female,,Amit Kumar
-AD7492,4/26/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,137.63,9,1238.67,0.15,Credit Card,Adult,Female,Bangalore,Amit Mehta
-yF2685,4/12/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1329.27,6,7975.62,0.05,Credit Card,Senior,Male,Bangalore,Anjali Nair
-Lw3585,6/9/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,222.37,7,1556.59,0.1,Credit Card,Senior,Female,Delhi,Priya Patel
-Gw7177,5/8/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,64.6,9,581.4,0.05,Debit Card,Adult,Female,Delhi,Ravi Singh
-xK7388,4/8/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,,4,11.4,0,Debit Card,Senior,Female,Chennai,Anjali Sharma
-XE9818,3/3/25,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.15,5,5.75,0.05,Online Payment,Senior,Male,,Amit Kumar
-Bd8385,4/4/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,225.2,9,2026.8,0.1,Debit Card,Young,Female,Delhi,Anjali Kumar
-Sn4198,9/18/24,,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,422.49,1,422.49,0.1,Online Payment,Senior,Male,Chennai,Pooja Singh
-RP7040,7/31/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1135.38,4,4541.52,0.15,Debit Card,Adult,Male,,
-rk1701,5/9/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,20.79,5,,0,Online Payment,Senior,Male,Hyderabad,Karan Chopra
-rf7828,3/20/25,,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,577.22,4,2308.88,0.1,Mobile Wallet,Adult,Male,Bangalore,Deepak Mehta
-cS6230,4/13/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,,310.55,2,621.1,0.2,,Senior,Male,Bangalore,
-wa5245,12/6/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,771.27,2,1542.54,0.2,Debit Card,Senior,Male,Bangalore,Anjali Sharma
-PI8362,3/16/25,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1693.52,7,11854.64,0,Credit Card,Senior,Female,,Sneha Gupta
-Js2542,1/24/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,,Snacks,1.86,4,7.44,0.15,Cash,Young,Female,Chennai,Neha Patel
-ZL9512,5/25/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,68.37,3,205.11,0.05,Online Payment,,Male,Hyderabad,Ravi Reddy
-Rq2573,8/17/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,93.21,7,652.47,0.2,Debit Card,Adult,Female,Delhi,Pooja Mehta
-Gv3993,11/14/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,,6,1087.5,0.2,Mobile Wallet,Young,Male,Delhi,Pooja Kumar
-Mn9658,7/2/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,,823.91,7,5767.37,0.2,Debit Card,,Male,Delhi,Rahul Singh
-AL8886,2/26/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,153.54,2,307.08,0.15,Cash,Adult,Female,Delhi,Neha Mehta
-IN0909,8/23/24,,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1022.61,2,2045.22,0,Cash,Young,Male,Delhi,Sneha Singh
-hE9798,7/20/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2499.34,7,17495.38,0.1,Online Payment,Adult,Male,Chennai,Neha Mehta
-tG2390,5/5/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,415.17,10,4151.7,0.15,Online Payment,Adult,Female,Chennai,Karan Gupta
-fR0490,7/22/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,,Electronics,1426.27,5,7131.35,0.15,Debit Card,Senior,Female,Hyderabad,Deepak Patel
-BK9985,9/20/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,365.6,5,1828,0,Credit Card,Senior,Female,Bangalore,Pooja Iyer
-lp7598,12/9/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.59,8,4.72,0,Mobile Wallet,Adult,Female,Bangalore,Anjali Patel
-nM6030,5/29/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,28.56,10,285.6,0.15,Cash,Young,Female,Hyderabad,Neha Nair
-mC3240,7/26/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,254.86,8,2038.88,,,Senior,Female,Mumbai,Anjali Iyer
-wV3067,10/2/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,,2061.95,1,2061.95,0,Cash,Adult,Male,Hyderabad,Anjali Chopra
-Iv1250,2/16/25,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,87.67,5,438.35,,Cash,Young,Male,Mumbai,Priya Reddy
-gv2583,5/1/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,164.64,10,1646.4,0.05,Cash,Adult,Male,Chennai,Priya Singh
-Mc0360,6/11/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,129.31,4,517.24,0.1,Mobile Wallet,Adult,Female,Bangalore,
-RF4307,4/8/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1309.51,8,10476.08,0.05,Mobile Wallet,Young,Female,Chennai,Neha Iyer
-pd3047,10/19/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,,,296.13,7,2072.91,0,Credit Card,Young,Female,Bangalore,Priya Reddy
-Ua0513,3/28/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,3.04,7,21.28,0.1,Mobile Wallet,Adult,Male,Delhi,Neha Singh
-wl7516,10/28/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,39.32,6,235.92,0.1,Online Payment,Adult,Male,Bangalore,Sneha Singh
-uE7907,1/17/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,225.33,8,1802.64,0.2,Cash,Young,Female,Mumbai,Neha Iyer
-pJ6649,10/10/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1287.29,4,5149.16,0,Cash,Senior,Female,Delhi,Ravi Reddy
-ps8295,6/10/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,496.94,6,2981.64,0.05,Debit Card,Senior,Male,Hyderabad,Priya Nair
-Sh9277,10/29/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,67.95,7,475.65,0.2,Credit Card,Young,Female,Chennai,Deepak Mehta
-TI1314,7/1/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,118.7,3,,0.05,Mobile Wallet,Adult,,Mumbai,Neha Sharma
-Xr2527,9/29/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,288.47,5,1442.35,0.1,Online Payment,Adult,Female,Mumbai,Priya Nair
-Cm4584,9/4/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,30.74,2,61.48,0.05,Online Payment,Young,,Bangalore,Ravi Reddy
-jW0117,10/13/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.55,4,2.2,0.05,Credit Card,,Male,Bangalore,Amit Patel
-vo2618,4/9/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,,Outdoor,,2,97.48,0.15,Mobile Wallet,Adult,Female,Hyderabad,Karan Kumar
-Kq8613,12/6/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,117.62,7,823.34,0.2,Debit Card,Senior,Female,Hyderabad,Neha Singh
-ET1753,5/6/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,44.32,7,310.24,0.05,Mobile Wallet,Young,Male,Hyderabad,Sneha Singh
-Ba4497,,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.98,8,15.84,0,Cash,Senior,Male,Delhi,Deepak Mehta
-QS6042,6/5/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,439.06,7,3073.42,0.2,Credit Card,Adult,Male,Bangalore,Ravi Nair
-RK4142,2/20/25,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,,1798.19,,8990.95,0,Online Payment,Young,Female,Chennai,Amit Iyer
-MG4263,3/2/25,India,b86d9be9-b601-4d95-9130-d65eec76277b,,Electronics,528.89,6,3173.34,0,Cash,Young,Female,Mumbai,Deepak Kumar
-fS0330,9/26/24,,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,194.41,8,1555.28,0.05,Cash,Adult,Female,Chennai,Anjali Singh
-HT5616,4/21/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,154.36,5,771.8,0.1,Online Payment,Young,Male,Chennai,Neha Chopra
-Xt7254,6/3/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,24.85,7,173.95,0.05,Debit Card,Senior,Male,Chennai,Pooja Patel
-vN1515,4/1/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,84.02,,840.2,0.2,Online Payment,Senior,Male,Chennai,
-OT4832,12/18/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,138.45,7,969.15,0.1,Debit Card,Adult,Male,Bangalore,Priya Reddy
-Mg6207,6/18/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,272.22,6,1633.32,0.15,Debit Card,Adult,Male,Bangalore,Sneha Gupta
-oS8861,11/20/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1250.04,8,10000.32,0.2,,Adult,Female,Bangalore,Priya Kumar
-MP3897,8/28/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,958.76,3,2876.28,0.1,Credit Card,Senior,Male,,Anjali Chopra
-xS1536,1/13/25,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,31.01,6,186.06,0,Online Payment,Young,Male,Bangalore,Ravi Kumar
-aQ6793,7/11/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,158.46,7,1109.22,0.1,Online Payment,Young,Male,Bangalore,Karan Reddy
-MU9728,5/26/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.57,7,,0.1,Cash,Senior,Male,Mumbai,Karan Kumar
-UP1043,12/8/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,,8,14185.04,0.15,Cash,Young,Female,Hyderabad,
-qq5469,,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,,199.73,2,399.46,0.05,Mobile Wallet,Young,Male,Delhi,
-bi1966,8/12/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1296.98,5,6484.9,0.05,Mobile Wallet,Senior,Male,Delhi,Amit Chopra
-dy7503,10/15/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,40.3,4,161.2,0.2,Mobile Wallet,Young,Female,Bangalore,Ravi Sharma
-nY1286,7/3/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1032.03,5,5160.15,0,Debit Card,Senior,Female,Mumbai,Priya Chopra
-me1631,1/15/25,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,113.36,,1133.6,0,Debit Card,Young,Female,Hyderabad,Karan Mehta
-jr5558,11/5/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,126.46,3,379.38,0.1,Online Payment,Young,Female,Chennai,Karan Patel
-cj8355,6/21/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,490.07,4,1960.28,0.05,Cash,Adult,Female,Mumbai,Deepak Kumar
-WB9378,9/12/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,72.31,1,,0.15,Mobile Wallet,Young,Female,,Anjali Chopra
-Td6736,4/21/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,154.29,1,154.29,0.2,Mobile Wallet,Young,Male,Mumbai,Amit Chopra
-sL9951,1/23/25,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1166.07,7,8162.49,0.15,Online Payment,Adult,Male,Chennai,
-zz2098,7/9/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,,455.4,7,3187.8,0.1,Cash,Adult,,Chennai,Ravi Singh
-kU7954,8/19/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,37.5,10,375,0,Online Payment,Senior,Male,Delhi,Karan Chopra
-az7029,8/13/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,108.5,5,542.5,0.15,Cash,Senior,Female,Delhi,Ravi Mehta
-Yr6394,2/26/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.98,2,9.96,0.1,Debit Card,Adult,Male,Chennai,Amit Gupta
-ps1596,2/24/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,298.39,7,2088.73,0.15,Debit Card,Adult,Female,Delhi,Ravi Singh
-QV2418,7/7/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,81.97,1,81.97,0.1,Online Payment,Senior,Male,,Pooja Singh
-HD3792,3/30/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1046.32,6,6277.92,0.05,Mobile Wallet,Senior,Male,Bangalore,Karan Mehta
-IM5615,1/28/25,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,,4,305.88,0.1,Cash,Young,Female,Chennai,Ravi Sharma
-pl6256,3/19/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,229.39,5,1146.95,0,Credit Card,,Female,Mumbai,Karan Nair
-cm2886,1/4/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,2.53,,25.3,0,Mobile Wallet,Senior,Female,,Karan Gupta
-cR6475,3/20/25,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,259.7,1,259.7,0.05,Debit Card,Adult,Male,Delhi,Neha Singh
-Fn6764,9/4/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.15,4,16.6,0.2,Online Payment,Adult,Female,Delhi,Priya Iyer
-RH1484,6/26/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1921.12,1,1921.12,0.2,Cash,Adult,Male,Delhi,Karan Gupta
-HJ9402,11/7/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,112.47,7,787.29,0.2,Online Payment,Senior,,Hyderabad,Rahul Nair
-Pt4560,4/11/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,,Footwear,161.48,1,161.48,0.05,Cash,Young,Female,Chennai,Deepak Singh
-Yz5908,8/18/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.55,4,6.2,0.1,Debit Card,Adult,Female,Hyderabad,Priya Singh
-yL7302,2/28/25,India,b86d9be9-b601-4d95-9130-d65eec76277b,,Electronics,764.6,2,,0,Debit Card,Adult,Male,Bangalore,Deepak Gupta
-go3825,10/15/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,49.27,9,443.43,0.2,Debit Card,Young,Female,Mumbai,Rahul Nair
-ky0063,11/22/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,277.9,,1945.3,0.05,,Young,Female,Delhi,Neha Kumar
-qW6041,5/25/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.93,9,44.37,0.15,Mobile Wallet,Young,Male,,Karan Iyer
-Yo2635,4/26/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,379.84,10,3798.4,0.1,Cash,Senior,Male,Chennai,Rahul Nair
-hB0041,1/31/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,2.19,7,,0,Debit Card,Adult,Female,Hyderabad,Sneha Iyer
-co2787,10/4/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.96,7,13.72,0.05,Online Payment,Young,Female,Bangalore,Priya Sharma
-Eh8242,2/20/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,217.2,8,1737.6,0.2,Mobile Wallet,Adult,Female,Bangalore,Neha Reddy
-va4450,8/18/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,118.74,10,1187.4,0.2,Cash,,Male,Delhi,Ravi Iyer
-bk4499,9/30/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,336.56,1,336.56,0.15,Debit Card,Senior,Male,,Anjali Reddy
-Ze9668,6/21/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.89,2,3.78,0.15,Mobile Wallet,Young,Female,Chennai,Pooja Nair
-Ng7998,9/18/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.63,10,16.3,0.05,Cash,Young,Female,Chennai,Pooja Reddy
-Ir0040,1/4/25,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1467.33,9,13205.97,0.1,Cash,Senior,Female,Delhi,Ravi Kumar
-rD0098,2/17/25,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1157.9,9,10421.1,0.1,Cash,Young,Male,,Priya Kumar
-kd6954,7/19/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,176.59,2,353.18,0.05,Debit Card,Adult,,Delhi,Neha Mehta
-LO2746,1/6/25,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.71,1,1.71,0,Online Payment,Senior,Male,Delhi,Pooja Gupta
-Pg5522,10/2/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,,2,4.7,0.15,Debit Card,Senior,Male,Mumbai,Neha Nair
-lw9573,8/14/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,214.78,8,1718.24,0.15,Mobile Wallet,Senior,Male,Chennai,Priya Patel
-OB6718,,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,63.33,10,633.3,0.05,Cash,Adult,Male,Delhi,Karan Chopra
-BU7343,,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1083.62,2,,0.15,Online Payment,Senior,Female,Chennai,Anjali Mehta
-zF5692,9/5/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,161.21,5,806.05,0.2,Credit Card,Adult,Male,Bangalore,Pooja Sharma
-mG3658,12/16/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,39.94,,39.94,0,Mobile Wallet,Young,Male,Chennai,Karan Kumar
-Wb2043,,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1863.24,9,16769.16,0,Cash,Young,Female,Mumbai,Anjali Iyer
-BG7207,2/14/25,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,23.84,10,238.4,0.05,Mobile Wallet,Senior,,Delhi,Ravi Nair
-zU2954,1/10/25,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1123.46,6,6740.76,0.15,Online Payment,,Female,Hyderabad,Anjali Iyer
-qu9360,6/9/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,100.22,9,901.98,0.1,Online Payment,Young,Male,Mumbai,Anjali Nair
-wu7864,8/24/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,31.28,7,218.96,0.15,Mobile Wallet,Young,,Chennai,Karan Kumar
-wG6901,2/8/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,133.19,6,799.14,0.15,Cash,Young,Female,Mumbai,Neha Iyer
-BL6254,8/1/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,350.65,10,3506.5,0.15,Debit Card,Senior,Female,Mumbai,Deepak Chopra
-VU1606,,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,943.2,10,9432,0.15,Debit Card,,Female,Hyderabad,Rahul Gupta
-qO1833,1/2/25,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.11,1,1.11,0.05,Debit Card,Young,Female,Chennai,Deepak Nair
-fC9934,8/9/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,,2,4228.48,0.15,Debit Card,Senior,Male,Mumbai,Deepak Chopra
-na6514,4/11/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.78,7,12.46,0.2,Debit Card,Adult,Female,Hyderabad,Neha Gupta
-qp0987,4/12/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,466.83,9,4201.47,0,Online Payment,Adult,Male,Hyderabad,Karan Nair
-Tl3794,6/15/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,190.71,1,190.71,0.1,Credit Card,Senior,Male,Delhi,Rahul Reddy
-Lw8138,,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,810.16,5,4050.8,0.15,Cash,Senior,Female,Hyderabad,Neha Kumar
-Tq3298,9/9/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,,7,216.37,0.1,Cash,Adult,,Mumbai,Deepak Iyer
-Oy7437,8/3/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,,1.5,1,1.5,0.05,Online Payment,Senior,Female,Bangalore,Deepak Patel
-af2406,7/31/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,182.11,1,182.11,0.2,Cash,Adult,Male,,Neha Gupta
-xc9084,3/31/24,,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,41.4,5,207,0.2,Debit Card,Adult,Male,Mumbai,
-Hk1512,4/19/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,31.9,,191.4,0.2,Credit Card,Young,Female,Chennai,Pooja Nair
-gU5636,12/28/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,,1552.02,4,6208.08,0.15,Credit Card,Young,Male,Bangalore,Sneha Sharma
-Jk2526,12/24/24,,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,874.33,3,2622.99,0.05,Mobile Wallet,Adult,Female,Mumbai,Sneha Nair
-EQ2823,7/12/24,,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,320.37,4,1281.48,0.2,Cash,Adult,Female,Bangalore,Rahul Nair
-KC8784,1/18/25,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2432.58,5,12162.9,0,Debit Card,Senior,Male,Hyderabad,Amit Reddy
-nR6964,9/19/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1739.08,7,12173.56,0.05,Mobile Wallet,Adult,Male,Mumbai,Pooja Patel
-LZ9953,2/17/25,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,155.25,3,465.75,0,Cash,Senior,Female,Hyderabad,Amit Patel
-al1199,2/20/25,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,171.92,2,343.84,0.1,Mobile Wallet,Senior,Male,Hyderabad,Amit Reddy
-Rc6051,12/25/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,3.76,4,15.04,0.15,Online Payment,Young,Male,Chennai,Anjali Mehta
-OC1636,10/8/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,698.2,4,2792.8,0.1,Mobile Wallet,,Female,Hyderabad,Amit Singh
-dk2559,12/2/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,0.53,6,,0.05,Mobile Wallet,Senior,Female,Bangalore,Ravi Mehta
-vy6642,11/29/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,498.67,9,4488.03,0,Credit Card,Young,Male,Delhi,Sneha Chopra
-jd3999,10/18/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,384.58,10,3845.8,0.2,Cash,,Female,,Karan Chopra
-LK0092,9/24/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,44.13,5,220.65,0.05,Debit Card,Adult,Female,Delhi,Rahul Sharma
-pB2632,3/23/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,944.81,1,944.81,0.05,Mobile Wallet,Adult,Female,Hyderabad,Ravi Kumar
-zA5862,4/18/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,23.06,6,138.36,0.15,Cash,Senior,Male,Hyderabad,Neha Singh
-Ph4054,6/15/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.26,7,8.82,0.05,Mobile Wallet,Young,,Bangalore,Ravi Patel
-Yj2477,4/4/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,,1052.86,3,3158.58,0.2,Debit Card,Adult,Male,Chennai,Deepak Singh
-hH6687,12/8/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1381.62,1,1381.62,0.15,Credit Card,Adult,Female,Chennai,
-dj4363,2/7/25,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,30.45,7,,,Cash,Senior,Male,Delhi,
-Fx8112,9/5/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,349.86,5,1749.3,0.1,Cash,Young,Male,Mumbai,Neha Chopra
-Hi5421,6/15/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,104.1,4,416.4,0.15,Online Payment,Young,Male,Mumbai,Deepak Reddy
-aC1188,7/12/24,,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,,9,8098.2,0,Online Payment,Senior,Female,Delhi,Amit Mehta
-Gh4823,5/23/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1875.55,5,9377.75,0.1,Credit Card,Adult,Female,Chennai,Ravi Singh
-lj8491,12/30/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,2087.64,8,16701.12,0.1,Credit Card,Adult,Male,Bangalore,Anjali Gupta
-DR2683,1/14/25,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,141.64,4,566.56,0.1,Credit Card,Young,Male,Hyderabad,Ravi Patel
-rR6688,,,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,196.61,5,983.05,0,Debit Card,Senior,Female,Bangalore,Anjali Singh
-dL5571,3/10/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,,4.47,6,26.82,0.05,Mobile Wallet,Young,Female,Mumbai,
-Eu5445,1/13/25,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1136.41,9,10227.69,0.1,Credit Card,Senior,Male,Hyderabad,Neha Kumar
-CR4721,3/14/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,1.56,3,4.68,0.2,Mobile Wallet,Senior,Female,,Deepak Gupta
-hd6132,7/10/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1079.27,10,10792.7,0.1,Debit Card,Young,Male,Delhi,Pooja Gupta
-VR4099,1/13/25,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,86.94,4,347.76,0.1,Cash,Senior,Female,Delhi,Deepak Iyer
-Dc1869,10/14/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,376.82,,1130.46,,Cash,,Female,Mumbai,Karan Reddy
-Ha6197,5/25/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,174.27,7,1219.89,0.1,,Young,Female,,Neha Chopra
-xj3442,7/2/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,31.62,3,94.86,0,Online Payment,Adult,Male,Delhi,Anjali Nair
-fR3471,4/25/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,123.71,6,742.26,0,Credit Card,Young,Male,Delhi,Priya Sharma
-Fj0559,8/24/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,438.04,,1752.16,0.05,Credit Card,Senior,Male,,Rahul Nair
-Ok2543,7/1/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,197.85,7,1384.95,0,Cash,,Female,Hyderabad,Amit Iyer
-Or6623,4/18/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,36.54,3,109.62,0.05,Cash,Senior,Female,Hyderabad,Rahul Nair
-lC0630,5/8/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,138.6,6,831.6,0,Online Payment,Young,Male,Hyderabad,Anjali Kumar
-YL5869,,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1407.63,5,7038.15,0.15,Mobile Wallet,Senior,Male,Delhi,Karan Gupta
-vx0977,10/22/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,59.18,2,118.36,0,Credit Card,Adult,Male,Delhi,
-Fw4721,3/15/25,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1604.2,8,,0.15,Mobile Wallet,Young,Male,Mumbai,Ravi Singh
-IS2322,1/8/25,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1696.98,1,1696.98,0.15,Credit Card,,Male,Chennai,Neha Reddy
-aM9679,7/24/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,54.87,10,548.7,0.2,Mobile Wallet,Adult,Male,Chennai,Amit Sharma
-SA7732,5/18/24,India,1b5649cf-5c5e-4591-b2cc-2b67dacb3991,Yeti Tumbler,Outdoor,21.57,10,215.7,0,Debit Card,Adult,Male,Delhi,Deepak Mehta
-OK5851,8/29/24,India,93b8c06f-028a-4c6b-af5b-ba0b1c516287,KitchenAid Mixer,Home Appliances,488.7,10,4887,0.15,Cash,Senior,Female,Mumbai,Rahul Gupta
-bX9495,3/19/25,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.79,5,23.95,0.05,Cash,Adult,Male,Chennai,Ravi Chopra
-PR6848,8/18/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,3.31,7,23.17,0.1,Debit Card,Adult,Female,Mumbai,Rahul Sharma
-IG8415,7/10/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1432.36,3,4297.08,0.15,Cash,Adult,Male,Bangalore,Deepak Kumar
-hK5310,12/6/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1837.27,9,16535.43,0,,Young,Male,Bangalore,Amit Reddy
-Fe0482,4/7/24,India,2552f95c-e55d-4a0e-acec-00f3a1d00ba1,Levi's 501 Jeans,Apparel,54.42,4,217.68,0.15,Credit Card,Adult,Male,Hyderabad,Rahul Gupta
-Bj7236,12/28/24,India,fe40e7c4-7649-45f4-a52b-d8e31dfc4819,iPhone 14,Electronics,1065.98,7,7461.86,0,Online Payment,Young,Female,Hyderabad,Deepak Sharma
-hC1509,10/2/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,Beverages,1.31,6,7.86,0,Debit Card,Senior,Male,Hyderabad,Rahul Patel
-xj0219,10/24/24,India,b86d9be9-b601-4d95-9130-d65eec76277b,Samsung QLED TV,Electronics,1331.7,9,11985.3,0.1,Cash,Senior,Female,Delhi,Pooja Nair
-yH8543,12/21/24,India,bf4547a4-155c-45fd-93be-94474ee7d7a7,Apple MacBook Pro,Electronics,1738.73,2,3477.46,0.2,Mobile Wallet,Young,Female,Bangalore,Neha Chopra
-zA5691,10/29/24,India,c756cd16-820a-410f-a145-12f5d14dcb8e,Coca-Cola Can,,1.23,6,,0.1,Mobile Wallet,Young,Male,Bangalore,Priya Mehta
-Nx4038,10/11/24,India,2bf892f3-b3dd-4ce2-aa8f-cf7cf7cad56d,Nike Air Max,Footwear,198.8,9,1789.2,0.1,Credit Card,Young,Female,Delhi,Deepak Sharma
-em4625,3/28/24,India,0ef13da6-0c19-4873-b3bb-e2aecf55f831,The North Face Jacket,Apparel,146.92,8,1175.36,0.15,Cash,Senior,Female,Mumbai,Pooja Mehta
-KD7215,9/9/24,India,7013432b-c488-4819-ae4c-0e4969b30f64,Doritos Chips,Snacks,4.4,6,26.4,0.1,Credit Card,Senior,Male,,Deepak Kumar
+SX3942,7/7/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,258.91,2,391.32,0.1,Cash,Young,Male,Hyderabad,Priya Patel
+SU6913,5/25/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,332.37,1,245.78,0.2,Cash,Young,Male,Chennai,Neha Mehta
+ub9640,1/15/25,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,203.12,2,312.52,0.2,Credit Card,Young,Female,Hyderabad,Priya Reddy
+xt7507,12/31/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,347.1,2,442.84,0.05,Debit Card,Young,Male,Chennai,Karan Sharma
+VU8899,1/22/25,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2444,1,1650.66,0.15,Credit Card,Adult,Male,Mumbai,Amit Sharma
+SJ6787,10/14/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1086.05,1,901.03,0.05,Debit Card,Adult,Male,Bangalore,Karan Sharma
+lw4901,12/20/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1005.59,,,,Debit Card,Young,Female,Chennai,Karan Patel
+oP1748,12/15/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,45.06,4,123.2,0.1,Mobile Wallet,Young,Male,Hyderabad,Neha Gupta
+pK9855,4/21/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1404.07,1,1096.77,0.1,Online Payment,Senior,Male,Mumbai,Karan Mehta
+ll7706,5/11/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,777.65,1,594.43,,Mobile Wallet,Adult,Male,Delhi,Amit Gupta
+NY1102,12/9/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,29.36,3,60.45,0,Mobile Wallet,Young,Male,Delhi,Amit Mehta
+Sq0811,11/4/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,320.06,2,419.34,0.05,Mobile Wallet,Young,Female,Hyderabad,Karan Reddy
+WC6482,11/14/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,67.33,1,44.74,0.05,Credit Card,Adult,Male,Bangalore,Neha Reddy
+Cq9726,6/29/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,397.72,1,315.53,0.1,Cash,Adult,Female,Delhi,Neha Gupta
+np5346,1/23/25,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.9,4,11.68,0,Credit Card,Young,Male,Delhi,Neha Gupta
+Gn5832,5/8/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.09,20,18.2,0.1,Online Payment,Young,Female,Bangalore,Karan Gupta
+zE8064,3/25/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,312.98,2,383.34,0.15,Debit Card,Young,Male,Bangalore,Karan Sharma
+lK2274,3/17/25,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,338.34,1,222.75,0,Mobile Wallet,Adult,Male,Chennai,Rahul Reddy
+cp0042,9/24/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,66.07,1,55.89,,Mobile Wallet,Young,Male,Hyderabad,Neha Sharma
+gF9037,3/3/25,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,121.12,1,89.96,0.1,Mobile Wallet,Young,Female,Hyderabad,Priya Mehta
+MD3508,4/18/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,335.15,1,239.92,,Credit Card,Senior,Male,Bangalore,Priya Reddy
+md1461,7/26/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1015.8,2,1542.74,0.2,Debit Card,Senior,Female,Delhi,Priya Gupta
+Np8775,8/1/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,160.87,2,199.04,0.1,Mobile Wallet,Adult,Male,Mumbai,Neha Reddy
+Vy8015,7/7/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,40.37,2,53.48,0.1,Cash,Young,Female,Chennai,Karan Mehta
+wL7952,1/18/25,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,268.31,2,368.72,0.1,Debit Card,Adult,Female,Chennai,Karan Reddy
+Lg7629,9/13/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,413.82,1,277.63,0.2,Mobile Wallet,Adult,Female,Delhi,Amit Reddy
+PF1331,10/16/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.28,7,7.14,0,Mobile Wallet,Adult,Male,Bangalore,Priya Patel
+Iz4131,12/7/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,59.61,2,75.38,0.05,Mobile Wallet,Adult,Male,Delhi,Neha Sharma
+TL5263,6/25/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.21,7,13.65,0,Mobile Wallet,Adult,Male,Bangalore,Rahul Mehta
+tX4119,5/9/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.12,2,1.48,0,Online Payment,Senior,Male,Chennai,Karan Patel
+Wc9691,10/23/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,69.22,2,100.38,0.05,Debit Card,Young,Male,Bangalore,Karan Patel
+Yf7578,7/19/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.91,6,21.12,0.2,Cash,Young,Male,Chennai,Neha Gupta
+Qf8886,2/6/25,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,152.46,1,123,0,Mobile Wallet,Young,Male,Hyderabad,Rahul Patel
+ep2201,1/4/25,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1478.43,,,0.05,Cash,Senior,Female,Delhi,Neha Gupta
+vh0534,5/23/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.04,19,15.58,0.05,Debit Card,Senior,Male,Chennai,Karan Mehta
+aJ0000,6/11/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,148.69,1,108.01,0.05,Cash,Young,Female,Bangalore,Neha Reddy
+QS8259,9/21/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1086.56,1,665.27,0.1,Debit Card,Senior,Female,Bangalore,Priya Gupta
+nr1203,12/20/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1005.02,1,786.98,0.15,Cash,Young,Male,Hyderabad,Amit Mehta
+WS3257,2/6/25,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,156.7,2,260.68,0.05,Online Payment,Adult,Female,Bangalore,Karan Mehta
+HG4458,12/31/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,251.06,2,418.94,0.2,Online Payment,Young,Male,Hyderabad,Karan Gupta
+CF9202,10/30/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,57.45,3,115.98,,Mobile Wallet,Senior,Male,Bangalore,Rahul Gupta
+iN9345,5/6/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,361.28,2,510.26,0.15,Online Payment,Adult,Female,Hyderabad,Neha Mehta
+iv4988,5/2/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,909.81,1,769.82,,Credit Card,Young,Male,Bangalore,Priya Sharma
+Lr1464,5/27/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,903.99,1,635.66,0.05,Mobile Wallet,Adult,Male,Chennai,Rahul Gupta
+ax6818,3/20/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,194.55,2,300.64,0,Mobile Wallet,Adult,Female,Bangalore,Amit Sharma
+qm0934,11/29/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1781.87,1,1464.93,0.05,Debit Card,Senior,Female,Mumbai,Priya Sharma
+bL3002,9/14/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,,2,,0.05,Debit Card,Senior,Male,Delhi,Rahul Gupta
+zz4206,9/22/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2223.46,1,1576.42,0.1,Cash,Adult,Female,Hyderabad,Neha Reddy
+LX7231,7/24/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,,2,,0.05,Cash,Young,Male,Chennai,Neha Mehta
+mB7944,12/8/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,,2,,0.05,Online Payment,Senior,Male,Bangalore,Rahul Mehta
+al5542,2/4/25,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,146.76,1,114.99,0.1,Credit Card,Adult,Male,Chennai,Karan Reddy
+vI0835,12/1/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.51,10,33.1,0.05,Cash,Adult,Female,Bangalore,Karan Sharma
+Lj1034,9/19/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,67.26,2,113.02,0.15,Mobile Wallet,Young,Male,Bangalore,Rahul Sharma
+qi4460,5/4/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,2,,0.1,Online Payment,Young,Male,Hyderabad,Amit Gupta
+af7554,3/11/25,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1172.29,1,768.31,0,Cash,Adult,Female,Delhi,Amit Reddy
+UC2978,1/8/25,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1316.66,1,864.03,0.15,Online Payment,Adult,Female,Mumbai,Karan Mehta
+aU3543,6/6/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,37.93,3,75.57,0.1,Cash,Adult,Female,Hyderabad,Amit Reddy
+GB3262,3/11/25,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,173.56,2,286.84,0.15,Debit Card,Adult,Male,Hyderabad,Neha Sharma
+yk6202,12/31/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2107.44,1,1545.43,0.1,Credit Card,Young,Female,Mumbai,Karan Reddy
+gR8538,8/10/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.02,1,2.36,0,Mobile Wallet,Senior,Female,Bangalore,Neha Mehta
+If5698,8/6/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,270.85,2,334.36,0.2,Cash,Young,Male,Bangalore,Karan Patel
+Sj7393,11/3/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,349.54,1,243.06,0.15,Mobile Wallet,Adult,Male,Bangalore,Neha Mehta
+ny4773,1/14/25,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,426.71,1,265.82,0.05,Mobile Wallet,Young,Male,Bangalore,Rahul Gupta
+hd6802,5/31/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2265.79,1,1408.6,0.05,Debit Card,Young,Female,Mumbai,Neha Gupta
+jU3126,2/4/25,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,127.64,1,107.78,0.1,Mobile Wallet,Adult,Male,Delhi,Rahul Mehta
+JO0941,1/20/25,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,,13,,0.2,Online Payment,Adult,Male,Bangalore,Rahul Gupta
+NB4701,5/3/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,193.59,2,317.26,0.2,Credit Card,Young,Female,Bangalore,Priya Reddy
+jT7704,7/4/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,38.83,2,56.92,0.2,Mobile Wallet,Senior,Male,Hyderabad,Amit Gupta
+VC5634,11/15/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,61.91,3,136.05,0.15,Debit Card,Senior,Female,Hyderabad,Karan Mehta
+WU4859,5/2/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1850.83,1,1386.96,0.1,Mobile Wallet,Senior,Female,Chennai,Rahul Reddy
+ij5152,8/3/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,,2,,0,Credit Card,Adult,Female,Bangalore,Priya Gupta
+bF8652,6/26/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,177.08,1,149.34,0.05,Credit Card,Adult,Male,Delhi,Priya Reddy
+uY6959,2/12/25,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.84,6,18.18,0.1,Mobile Wallet,Young,Male,Hyderabad,Neha Sharma
+ei0354,6/23/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.41,9,8.46,0.1,Credit Card,Adult,Female,Mumbai,Amit Reddy
+DE4084,6/24/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,203.54,2,328.64,0.15,Online Payment,Adult,Male,Chennai,Priya Gupta
+nA2716,1/3/25,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.68,10,22.7,0.15,Credit Card,Senior,Female,Mumbai,Amit Mehta
+Wg4436,5/28/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,,8,,0.1,Cash,Young,Female,Bangalore,Rahul Sharma
+MY7248,4/11/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,340.39,2,469.34,0.15,Mobile Wallet,Adult,Male,Hyderabad,Karan Reddy
+XW9363,3/16/25,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.07,7,4.69,0.15,Debit Card,Young,Male,Chennai,Karan Sharma
+Wc7665,9/15/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,30.23,2,39.54,0,Online Payment,Senior,Female,Chennai,Neha Gupta
+Wo0836,6/19/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,40.88,1,25.61,0.05,Mobile Wallet,Senior,Female,Delhi,Neha Mehta
+lv7847,8/18/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.16,5,3.9,,Credit Card,Adult,Female,Chennai,Priya Gupta
+Lf1218,9/5/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,756.37,1,507.11,0.2,Debit Card,Adult,Female,Bangalore,Rahul Patel
+kC9464,3/20/25,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1048.6,1,856.54,0,Credit Card,Young,Male,Hyderabad,Karan Mehta
+yy0376,4/20/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1031.4,1,835.44,0.1,Cash,Adult,Female,Bangalore,Priya Sharma
+bb9691,6/4/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,170.79,1,106.52,0.05,Online Payment,Senior,Female,Mumbai,Neha Patel
+UU9312,10/19/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2313.41,1,1641.08,0.1,Online Payment,Young,Male,Hyderabad,Neha Patel
+vl9890,10/7/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,36.93,3,66.57,0.15,Mobile Wallet,Senior,Male,Mumbai,Rahul Patel
+FC7953,5/10/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,979.93,1,675.23,0.1,Online Payment,Young,Male,Hyderabad,Karan Reddy
+Hr2503,1/6/25,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,44.24,3,97.41,0,Online Payment,Young,Female,Delhi,Rahul Gupta
+JA3173,4/18/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,175.75,3,346.92,0.1,Mobile Wallet,Senior,Male,Delhi,Karan Mehta
+rL7859,6/1/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2109.03,1,1599.62,0.2,Credit Card,Young,Female,Delhi,Priya Sharma
+rH3032,4/25/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1206.3,1,842.19,0.05,Online Payment,Young,Female,Bangalore,Karan Reddy
+rl2635,12/19/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.06,16,12.48,0,Credit Card,Young,Male,Mumbai,Neha Gupta
+Nq3731,6/25/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1089.94,1,779.52,0.1,Debit Card,Senior,Female,Delhi,Rahul Patel
+WW6452,7/30/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,158.91,3,374.91,0.05,Online Payment,Young,Female,Hyderabad,Karan Reddy
+Zx9132,6/29/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,52.92,3,125.64,0.15,Debit Card,Senior,Male,Bangalore,Karan Patel
+tQ9801,11/29/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.23,4,3.56,0.2,Cash,Adult,Male,Hyderabad,Neha Mehta
+Vo3354,6/11/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1063.29,1,822.95,0,Mobile Wallet,Young,Female,Bangalore,Neha Reddy
+eJ1647,10/9/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,164.88,2,274.8,0.15,Cash,Senior,Female,Bangalore,Amit Gupta
+ol2309,12/3/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.7,1,2.74,,Cash,Young,Male,Bangalore,Neha Reddy
+OX3182,9/12/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,407.55,2,551.34,0.05,Cash,Young,Male,Chennai,Neha Gupta
+Ra1378,6/26/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,326.65,2,429.9,0,Online Payment,Adult,Female,Bangalore,Rahul Sharma
+pw7784,6/27/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.14,4,3.44,0.15,Debit Card,Young,Female,Hyderabad,Rahul Patel
+TB8272,11/25/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,48.74,4,122.8,0.1,Cash,Young,Female,Delhi,Amit Sharma
+zc6709,9/21/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.15,23,20.24,0.05,Online Payment,Adult,Male,Chennai,Rahul Sharma
+uz0730,7/14/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,160.98,2,221.1,0.05,Online Payment,Young,Female,Bangalore,Priya Gupta
+Jt1330,6/13/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,448.87,2,728.02,0.2,Credit Card,Adult,Female,Mumbai,Rahul Patel
+lm9065,2/19/25,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,984.73,2,1474.58,0.15,Mobile Wallet,Adult,Male,Chennai,Rahul Sharma
+bn0150,12/16/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,338.32,2,523.54,0.1,Cash,Adult,Male,Hyderabad,Amit Sharma
+si5289,2/1/25,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.07,6,4.62,0,Online Payment,Young,Female,Mumbai,Rahul Mehta
+LC9009,7/18/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1884.77,1,1249.69,0.1,Debit Card,Adult,Female,Chennai,Amit Patel
+wF1840,6/7/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,66.78,3,142.44,0.2,Credit Card,Senior,Male,Bangalore,Rahul Gupta
+UC7308,5/15/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,161.99,1,117.87,0.15,Online Payment,Senior,Male,Hyderabad,Karan Patel
+JJ3480,6/28/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,48.46,3,95.28,0.2,Debit Card,Senior,Female,Hyderabad,Priya Gupta
+VJ1118,10/25/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1582.76,1,1299.63,0,Debit Card,Young,Female,Delhi,Neha Mehta
+EE0773,9/27/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2096.42,1,1363.74,,Online Payment,Senior,Female,Mumbai,Priya Reddy
+Qo3861,5/6/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.44,11,10.23,0.1,Debit Card,Senior,Male,Chennai,Priya Reddy
+Sf4111,6/17/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,176.84,1,148.8,0.2,Debit Card,Adult,Male,Delhi,Neha Sharma
+hy7578,3/29/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,55.07,1,39.2,0.15,Mobile Wallet,Young,Female,Bangalore,Neha Sharma
+qJ4093,1/24/25,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,374.65,2,494.02,0.2,Mobile Wallet,Senior,Female,Hyderabad,Rahul Reddy
+Hf7440,8/5/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,133.73,3,312.36,,Mobile Wallet,Adult,Female,Delhi,Neha Sharma
+MU3979,6/6/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.61,1,3.83,0.05,Mobile Wallet,Young,Female,Bangalore,Rahul Sharma
+Mu6857,9/27/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1360.04,1,889.81,0.2,Cash,Senior,Female,Delhi,Neha Mehta
+Cx5927,9/13/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.64,7,21.21,0.2,Cash,Young,Male,Hyderabad,Amit Patel
+Zo1250,9/6/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,430.12,1,313.27,0.1,Credit Card,Adult,Female,Hyderabad,Neha Mehta
+sh5835,6/11/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,27.57,1,20.95,0.05,Debit Card,Senior,Male,Hyderabad,Amit Mehta
+dc3441,3/11/25,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,181.31,1,143.57,0,Online Payment,Adult,Male,Hyderabad,Priya Reddy
+Si1996,8/18/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.42,9,25.29,0.15,Online Payment,Young,Female,Bangalore,Neha Mehta
+vV3522,6/6/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,300.01,1,246.9,0.05,Cash,Adult,Female,Delhi,Neha Reddy
+sA7432,12/15/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,255.55,1,175.26,0,Mobile Wallet,Adult,Female,Hyderabad,Priya Sharma
+CN4082,2/4/25,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,728.98,1,590.83,0.2,Mobile Wallet,Adult,Female,Chennai,Karan Mehta
+cd4061,7/17/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,400.9,1,305.93,0,Online Payment,Senior,Female,Mumbai,Neha Sharma
+BM4682,2/14/25,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,983.02,1,722.29,0.2,Debit Card,Senior,Male,Bangalore,Amit Reddy
+Qu0779,10/18/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,36.64,4,98.92,0.15,Cash,Adult,Female,Bangalore,Karan Reddy
+KZ7530,12/30/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,29.87,1,21.61,0.2,Debit Card,Young,Male,Chennai,Karan Reddy
+ty8874,10/19/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,368.21,2,456.5,0,Cash,Senior,Female,Delhi,Karan Mehta
+Ea0770,10/18/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1396.11,1,1069.5,0.05,Credit Card,Senior,Female,Chennai,Karan Sharma
+hg9097,3/9/25,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,40.08,4,117.32,0,Debit Card,Senior,Female,Hyderabad,Karan Sharma
+ez7952,10/26/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,77.38,1,64.29,0.1,Debit Card,Senior,Male,Chennai,Amit Patel
+Kp9881,6/28/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,2,,0.05,Mobile Wallet,Senior,Female,Hyderabad,Priya Sharma
+jI0940,5/16/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,27.74,2,42.42,0.15,Online Payment,Adult,Male,Mumbai,Neha Sharma
+LO1839,1/4/25,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,191.9,1,153.72,0.1,Credit Card,Senior,Female,Mumbai,Rahul Sharma
+ly1600,1/23/25,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,215.13,2,279.02,0.1,Online Payment,Senior,Male,Delhi,Neha Mehta
+Uf1400,3/8/25,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1527.5,1,975.15,0,Credit Card,Senior,Female,Delhi,Karan Sharma
+Ja9414,3/6/25,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.44,1,1.13,0.15,Mobile Wallet,Senior,Female,Bangalore,Karan Sharma
+fn1695,3/14/25,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1045.79,2,1561.46,0.05,Mobile Wallet,Adult,Male,Delhi,Priya Sharma
+lS9880,5/29/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,138.71,2,213.96,0.05,Credit Card,Senior,Female,Hyderabad,Amit Mehta
+nn1074,2/3/25,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,939.39,2,1542.98,0.2,Online Payment,Adult,Female,Hyderabad,Rahul Sharma
+ss8460,11/24/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.51,,,0.15,Online Payment,Senior,Female,Delhi,Karan Patel
+Ln1212,3/18/25,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,61.86,2,87.72,0.1,Mobile Wallet,Senior,Male,Mumbai,Priya Patel
+LJ0711,7/27/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1025.21,2,1374.96,0.2,Credit Card,Young,Male,Mumbai,Rahul Reddy
+HO2230,4/7/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,51.45,3,120.24,,Debit Card,Adult,Female,Mumbai,Neha Sharma
+iS4186,11/29/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2260.79,1,1907.88,0.05,Mobile Wallet,Young,Male,Mumbai,Karan Patel
+WV6293,8/11/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1101.26,1,686.49,0.05,Credit Card,Adult,Female,Mumbai,Amit Patel
+ws9221,9/14/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,52.99,2,74.5,0.05,Credit Card,Young,Male,Delhi,Neha Sharma
+fN0980,7/31/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,991.93,1,727.05,0.05,Debit Card,Senior,Female,Hyderabad,Priya Reddy
+FX9460,1/30/25,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.93,5,16.35,0,Cash,Adult,Male,Hyderabad,Amit Sharma
+nz2009,8/24/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,26.52,1,19.21,0.05,Cash,Adult,Male,Bangalore,Neha Reddy
+lN0498,1/29/25,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.02,5,15.4,0,Debit Card,Young,Female,Mumbai,Priya Patel
+JH7470,1/27/25,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.95,10,32.5,0.15,Debit Card,Senior,Female,Delhi,Rahul Sharma
+OT2042,9/8/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,144.57,1,116.51,0.1,Debit Card,Senior,Male,Mumbai,Amit Sharma
+zI2229,6/10/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.35,20,20.6,0.2,Credit Card,Senior,Female,Chennai,Rahul Mehta
+HL9771,4/27/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,154.86,2,197.7,0.05,Cash,Senior,Male,Bangalore,Rahul Reddy
+VR2016,5/22/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.69,9,25.56,0.15,Online Payment,Young,Female,Bangalore,Neha Gupta
+nc0131,7/24/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1,,,0.2,Online Payment,Young,Female,Bangalore,Amit Patel
+ek0794,12/19/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,25.05,4,60.52,0.1,Online Payment,Young,Male,Delhi,Priya Reddy
+Lc5844,8/9/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.83,5,12.1,0.1,Debit Card,Senior,Female,Hyderabad,Priya Mehta
+gf1903,2/9/25,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.61,6,15.36,0.15,Mobile Wallet,Young,Female,Hyderabad,Rahul Gupta
+OV7390,10/22/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1168.12,1,829.56,0,Mobile Wallet,Senior,Female,Bangalore,Karan Patel
+tF7692,11/25/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,374.64,2,571.26,0.15,Credit Card,Senior,Female,Chennai,Neha Sharma
+ID4125,9/29/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,63.61,3,124.41,0.2,Mobile Wallet,Young,Female,Chennai,Priya Mehta
+Yj7300,2/3/25,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1180.94,1,851.15,0.15,Debit Card,Adult,Male,Bangalore,Rahul Mehta
+yS9103,8/19/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,51.44,2,72.3,0.15,Cash,Adult,Male,Bangalore,Neha Patel
+Lb0649,12/1/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,,1,,0.05,Credit Card,Adult,Female,Chennai,Amit Patel
+eL4674,1/28/25,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,43.62,2,67.76,0.15,Debit Card,Young,Female,Delhi,Priya Reddy
+Gr8301,1/6/25,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1509.06,1,1077.26,0,Cash,Young,Male,Hyderabad,Karan Reddy
+ap1208,11/9/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,163.14,3,315.42,0.1,Credit Card,Senior,Female,Hyderabad,Amit Sharma
+qk7166,3/4/25,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1197.44,1,803.57,0.2,Mobile Wallet,Adult,Male,Hyderabad,Amit Sharma
+Lp6698,10/26/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,40.29,1,30.63,0,Online Payment,Adult,Female,Hyderabad,Amit Gupta
+nA9846,10/31/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1756.29,1,1158.69,0.05,Cash,Young,Female,Bangalore,Neha Sharma
+hR4206,4/3/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.93,,,0,Credit Card,Adult,Female,Chennai,Rahul Mehta
+lD7929,10/11/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2388.8,1,1869.43,0.15,Debit Card,Adult,Female,Hyderabad,Karan Patel
+GE1440,1/7/25,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,,1,,0.15,Debit Card,Young,Female,Hyderabad,Karan Gupta
+Wh7446,12/31/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,,1,,,Cash,Adult,Male,Hyderabad,Amit Gupta
+Zs8516,1/8/25,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1324.43,1,1047.39,0.2,Online Payment,Adult,Female,Delhi,Priya Mehta
+dg1398,8/3/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,839.2,1,604.61,0,Credit Card,Young,Female,Delhi,Neha Mehta
+bd8172,12/19/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,75.94,,,0.05,Mobile Wallet,Senior,Male,Mumbai,Priya Gupta
+SB7685,2/7/25,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,38.5,2,49.9,0.2,Online Payment,Young,Female,Delhi,Neha Sharma
+ss6032,3/16/25,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,49.45,4,158.56,0.15,Mobile Wallet,Senior,Female,Bangalore,Amit Reddy
+Fi9924,9/30/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.18,3,2.25,0.15,Debit Card,Senior,Male,Bangalore,Rahul Patel
+GE3383,9/10/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,385.16,1,246.67,0,Credit Card,Young,Male,Bangalore,Priya Patel
+Nh1182,2/21/25,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,387.91,2,611.08,0.2,Mobile Wallet,Senior,Male,Mumbai,Neha Mehta
+hu1669,7/13/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,954.83,2,1611.96,0.15,Debit Card,Young,Female,Chennai,Rahul Mehta
+Lx3065,1/2/25,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,76.13,2,110.32,0.15,Online Payment,Adult,Male,Mumbai,Karan Patel
+sP1334,9/21/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1681.9,1,1180.02,,Mobile Wallet,Senior,Female,Mumbai,Priya Gupta
+Xu7557,9/14/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.46,5,12.85,0.1,Cash,Adult,Female,Hyderabad,Rahul Patel
+ab3673,10/28/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.63,3,4.89,0.15,Debit Card,Senior,Male,Bangalore,Priya Patel
+iR9101,10/5/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,149.51,3,356.25,0.15,Debit Card,Young,Male,Delhi,Amit Patel
+Wd8216,2/6/25,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,2,,0,Online Payment,Adult,Female,Mumbai,Rahul Gupta
+zS6672,1/27/25,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,160.66,2,256.52,0.1,Credit Card,Adult,Female,Delhi,Karan Sharma
+ei5814,6/2/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,257.34,1,214.21,0.1,Cash,Adult,Male,Bangalore,Neha Patel
+oB1154,7/23/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,195.49,2,318.1,0.2,Mobile Wallet,Young,Female,Bangalore,Karan Patel
+Qt7017,12/28/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.45,9,18.9,0,Cash,Young,Male,Chennai,Amit Patel
+br0813,12/29/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,339.85,1,231.84,0.2,Mobile Wallet,Young,Male,Chennai,Rahul Reddy
+cr7906,1/26/25,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,351.47,1,250.77,0.05,Mobile Wallet,Senior,Female,Hyderabad,Rahul Gupta
+hI9244,5/1/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.11,17,14.28,0.1,Debit Card,Senior,Female,Delhi,Priya Gupta
+Qc5986,3/4/25,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,195.43,1,157.92,0.15,Online Payment,Young,Female,Chennai,Rahul Patel
+rt9183,11/2/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,129.74,1,95.57,0.1,Online Payment,Adult,Male,Bangalore,Amit Reddy
+AJ9435,3/2/25,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,70.66,3,147.84,0.05,Cash,Senior,Male,Hyderabad,Karan Gupta
+VB7555,5/30/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,977.26,1,651.43,0,Debit Card,Senior,Male,Bangalore,Priya Sharma
+uB5841,4/12/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,374.71,2,623.66,0,Debit Card,Adult,Male,Delhi,Neha Reddy
+Th7738,7/24/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,436.06,,,0.2,Credit Card,Senior,Female,Hyderabad,Amit Reddy
+ma4490,8/12/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,819.59,1,591.93,,Debit Card,Young,Female,Delhi,Amit Reddy
+as6937,11/8/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,73.05,1,57.1,0.1,Debit Card,Adult,Male,Mumbai,Karan Gupta
+te1483,7/18/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1203.77,1,905,0,Debit Card,Adult,Male,Bangalore,Amit Gupta
+kQ7440,8/31/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,33.39,,,0,Debit Card,Senior,Female,Hyderabad,Neha Reddy
+Kc9966,8/16/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1499.85,1,1101.6,0.15,Cash,Young,Male,Delhi,Neha Reddy
+le9891,8/26/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,247.48,2,374.82,0.15,Mobile Wallet,Senior,Female,Hyderabad,Amit Mehta
+HZ6592,8/4/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1390.09,1,1056.28,0.1,Cash,Young,Male,Bangalore,Rahul Reddy
+JV6818,2/14/25,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,70.54,2,108.06,0.15,Mobile Wallet,Adult,Female,Hyderabad,Priya Mehta
+Yl5043,5/18/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,371.42,1,271.49,,Debit Card,Young,Female,Chennai,Amit Patel
+Ng8236,7/5/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,432.78,2,566.7,0.15,Debit Card,Adult,Male,Mumbai,Priya Gupta
+uf0512,4/4/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.94,1,1.88,0.05,Debit Card,Senior,Female,Bangalore,Rahul Sharma
+Qa4315,4/7/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,68.44,4,189.36,0.05,Credit Card,Young,Female,Hyderabad,Priya Patel
+Oh4023,7/8/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,132.57,2,202.38,0,Credit Card,Senior,Male,Chennai,Rahul Sharma
+Pl5702,1/30/25,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1307.99,1,913.09,0.05,Online Payment,Senior,Female,Chennai,Rahul Gupta
+iU2117,12/12/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1090.05,1,831.19,0.15,Debit Card,Young,Male,Hyderabad,Neha Mehta
+Cw3898,5/28/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,397.7,1,337.38,0,Online Payment,Young,Male,Delhi,Priya Mehta
+GJ3694,6/15/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,141.12,2,192.26,0.2,Debit Card,Young,Female,Delhi,Karan Patel
+LB8935,4/9/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,71.38,2,91.66,0.1,Cash,Young,Female,Mumbai,Rahul Reddy
+sn2112,4/8/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,200.18,2,328.84,0.15,Mobile Wallet,Senior,Female,Chennai,Amit Reddy
+tb9408,7/21/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2071.71,1,1376.66,0.05,Debit Card,Senior,Male,Delhi,Amit Gupta
+vp8875,1/14/25,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2370.78,1,1745.08,0.1,Credit Card,Adult,Male,Chennai,Priya Reddy
+ae4064,1/4/25,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,,1,,0,Mobile Wallet,Senior,Female,Hyderabad,Priya Sharma
+iN7779,4/30/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.1,19,13.49,0.1,Cash,Senior,Female,Hyderabad,Amit Sharma
+dc3680,5/23/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,143.05,3,288.69,0,Credit Card,Young,Female,Mumbai,Neha Reddy
+qU1111,7/12/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,214.35,2,323.68,0.2,Mobile Wallet,Young,Female,Mumbai,Karan Sharma
+cG9096,2/14/25,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,340.06,2,417.26,0.2,Cash,Adult,Male,Delhi,Priya Reddy
+Hs5056,4/1/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,70.92,4,226.48,0,Cash,Adult,Male,Bangalore,Amit Reddy
+CY4055,2/8/25,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,44.09,2,58.38,0.2,Online Payment,Young,Female,Chennai,Priya Mehta
+yo4158,1/23/25,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1003.74,1,628.37,0.2,Credit Card,Young,Male,Delhi,Amit Mehta
+JZ8828,9/11/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,57.57,4,184.8,0.15,Cash,Senior,Male,Bangalore,Karan Sharma
+SI8507,9/24/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1809.15,1,1256.5,0.2,Online Payment,Adult,Male,Mumbai,Neha Reddy
+po4367,8/1/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,158.51,1,112.78,0.15,Online Payment,Adult,Female,Bangalore,Neha Mehta
+cA9172,3/10/25,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.29,12,11.88,0,Credit Card,Adult,Female,Bangalore,Priya Reddy
+QX5347,12/30/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,906.02,1,613.05,0,Cash,Senior,Female,Mumbai,Amit Patel
+No2157,1/11/25,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,395.78,1,238.4,0.15,Online Payment,Young,Male,Chennai,Rahul Reddy
+sV3330,6/3/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,35.75,3,67.23,0.1,Credit Card,Adult,Female,Chennai,Amit Mehta
+Jm0064,11/24/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,,,,0.15,Credit Card,Young,Male,Delhi,Karan Gupta
+aA2207,7/4/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.03,21,17.85,0.1,Credit Card,Adult,Male,Bangalore,Priya Gupta
+uS4649,10/23/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1055.44,2,1509.06,0.15,Mobile Wallet,Adult,Female,Hyderabad,Rahul Reddy
+ph9785,8/16/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1079.32,1,651.93,0.2,Online Payment,Senior,Female,Bangalore,Neha Patel
+qL1983,4/25/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,67.63,1,51.4,0.1,Debit Card,Young,Male,Delhi,Neha Patel
+Ov1708,5/8/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.78,3,7.05,0.1,Credit Card,Senior,Female,Mumbai,Rahul Gupta
+kx6289,9/16/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.79,,,0.15,Online Payment,Young,Male,Mumbai,Neha Mehta
+md9294,2/11/25,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1098.63,2,1481.56,0.2,Online Payment,Young,Female,Delhi,Rahul Patel
+yX4934,3/20/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,158.85,2,253.28,0.05,Online Payment,Young,Male,Chennai,Neha Patel
+Ss7032,11/28/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1304.6,1,927.53,0.05,Mobile Wallet,Senior,Female,Hyderabad,Priya Gupta
+rw8598,8/11/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1041.86,1,685.5,0.2,Online Payment,Senior,Male,Delhi,Rahul Reddy
+Ia7402,7/22/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.6,10,18.2,0.2,Cash,Young,Male,Hyderabad,Amit Gupta
+cs5676,1/6/25,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1060.44,1,808.77,0.15,Mobile Wallet,Senior,Male,Chennai,Karan Sharma
+Dy2505,12/30/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.01,5,9.55,0.2,Debit Card,Young,Male,Bangalore,Karan Reddy
+wG9350,9/9/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.04,2,5.14,0.15,Credit Card,Young,Female,Bangalore,Karan Patel
+zC8612,11/7/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,139.58,2,208.76,0.1,Online Payment,Adult,Male,Delhi,Rahul Patel
+zI4782,10/20/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.39,10,31.9,0.2,Online Payment,Senior,Female,Hyderabad,Priya Gupta
+GX4379,10/10/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.08,9,19.53,0.15,Online Payment,Young,Female,Chennai,Priya Gupta
+nH1821,5/8/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,60.23,4,194.32,0.1,Online Payment,Senior,Female,Chennai,Priya Reddy
+iJ3832,8/16/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1035.27,2,1751.86,0,Mobile Wallet,Adult,Male,Hyderabad,Priya Sharma
+IK0155,12/1/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,123.74,1,79.06,0.15,Cash,Senior,Female,Chennai,Priya Gupta
+cb1276,6/17/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,62.36,3,156.72,0,Mobile Wallet,Senior,Male,Delhi,Priya Reddy
+nM6137,11/2/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,352.59,1,219.07,0.1,Online Payment,Senior,Female,Mumbai,Neha Mehta
+Il1998,6/6/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.06,15,12.3,0.2,Online Payment,Senior,Female,Bangalore,Karan Patel
+Mv6731,3/31/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1134.84,1,794.72,0.15,Online Payment,Adult,Male,Hyderabad,Neha Mehta
+TR6420,11/9/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,753.97,1,493.34,0,Credit Card,Young,Male,Bangalore,Karan Reddy
+OG2923,10/5/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.64,5,9.1,0.1,Mobile Wallet,Young,Female,Mumbai,Karan Gupta
+hm9683,4/26/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,,,,0.15,Credit Card,Young,Male,Hyderabad,Rahul Gupta
+nE8840,9/2/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,55.22,2,93.58,0,Credit Card,Young,Female,Mumbai,Amit Sharma
+yt0962,5/19/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,42.67,2,60.88,0.1,Online Payment,Senior,Male,Mumbai,Rahul Reddy
+RI8296,9/6/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,163.82,3,413.19,0.2,Debit Card,Senior,Male,Bangalore,Rahul Gupta
+nw5256,7/1/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1094.25,,,0.05,Credit Card,Adult,Female,Bangalore,Amit Gupta
+sT6957,5/4/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,62.37,3,124.98,0.05,Mobile Wallet,Young,Male,Chennai,Priya Reddy
+eX7753,7/17/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1954.32,1,1629.09,0.15,Online Payment,Young,Female,Chennai,Rahul Reddy
+YN6211,12/30/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,40.11,3,75.99,0.05,Credit Card,Adult,Female,Bangalore,Neha Sharma
+DD9915,6/25/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,338.24,1,260.97,0,Credit Card,Young,Male,Hyderabad,Priya Reddy
+lO5406,1/15/25,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.12,,,0,Cash,Young,Male,Hyderabad,Neha Mehta
+Ih5685,5/19/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,42.74,4,142.4,0.2,Credit Card,Senior,Female,Mumbai,Amit Mehta
+iI6241,7/22/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.36,1,3.34,0,Online Payment,Senior,Male,Mumbai,Amit Gupta
+Ay9408,12/21/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,38.22,3,69.54,,Cash,Adult,Female,Hyderabad,Priya Reddy
+cF2262,4/3/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1075.04,1,793.81,0,Debit Card,Senior,Female,Mumbai,Neha Gupta
+gl9067,3/20/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1019.76,2,1448.08,0,Credit Card,Young,Male,Mumbai,Amit Patel
+vz6240,7/26/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1031.95,2,1502.48,0.05,Online Payment,Senior,Female,Bangalore,Rahul Gupta
+Ub5940,11/29/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.38,15,16.05,0.1,Credit Card,Young,Male,Chennai,Neha Mehta
+mY0146,6/5/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,,3,,0.2,Credit Card,Young,Female,Bangalore,Priya Gupta
+aK7457,2/10/25,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,214.02,1,152.79,0.2,Cash,Young,Male,Delhi,Karan Patel
+oK7523,8/14/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,69.06,1,52.67,0.05,Mobile Wallet,Senior,Female,Mumbai,Priya Reddy
+DE3308,10/31/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,158.37,3,323.01,0.2,Cash,Senior,Male,Chennai,Amit Patel
+IO3224,8/20/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,939.06,1,614.52,0.15,Mobile Wallet,Young,Female,Mumbai,Amit Patel
+jR7910,6/19/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1011.36,1,645.34,0.05,Credit Card,Adult,Male,Chennai,Karan Mehta
+Xz5485,1/27/25,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1039.32,2,1485.46,0.05,Online Payment,Senior,Male,Delhi,Amit Patel
+tS6916,7/30/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,47.09,2,77.46,0.05,Credit Card,Young,Male,Hyderabad,Karan Reddy
+ZZ1846,7/3/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1446.2,1,1112.62,,Online Payment,Young,Female,Chennai,Karan Patel
+MR8292,10/16/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1337.15,1,1003.34,0.1,Mobile Wallet,Senior,Male,Mumbai,Neha Mehta
+Hh6163,5/18/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,934.8,1,727.95,0.2,Credit Card,Adult,Male,Hyderabad,Rahul Mehta
+gH1083,6/15/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,32.42,1,19.57,0.05,Mobile Wallet,Adult,Female,Mumbai,Karan Sharma
+Lz4930,2/6/25,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,169.36,2,237.58,0.05,Online Payment,Adult,Male,Mumbai,Karan Patel
+Yr0644,6/16/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1283.19,1,1008.61,0.05,Credit Card,Senior,Female,Mumbai,Neha Patel
+ZX2991,3/22/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,51.79,2,84.44,0.15,Cash,Adult,Male,Delhi,Priya Mehta
+GS2073,12/12/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.38,8,27.68,0,Mobile Wallet,Senior,Female,Bangalore,Neha Sharma
+qE1598,12/28/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,900.83,1,731.35,0.05,Mobile Wallet,Adult,Male,Mumbai,Rahul Reddy
+xT6429,1/14/25,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1928.32,1,1192.88,0.15,Mobile Wallet,Adult,Female,Mumbai,Rahul Mehta
+lk7363,7/11/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.41,23,24.38,0.2,Credit Card,Young,Male,Chennai,Amit Sharma
+EV2240,7/23/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.15,3,10.02,,Mobile Wallet,Senior,Male,Mumbai,Neha Gupta
+Pu7151,3/29/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1352.88,1,916.58,0.2,Debit Card,Adult,Female,Hyderabad,Neha Patel
+Ol4597,7/5/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.12,24,21.6,0,Cash,Adult,Female,Bangalore,Priya Patel
+AR4973,12/7/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.16,3,8.88,0.1,Credit Card,Senior,Female,Bangalore,Rahul Mehta
+Rd7974,11/1/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.05,23,17.94,0.15,Cash,Young,Male,Hyderabad,Amit Reddy
+RO3739,6/4/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,180.86,1,124.32,0.1,Debit Card,Young,Female,Mumbai,Rahul Reddy
+MV3139,11/28/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1017.71,1,850.47,0.2,Debit Card,Adult,Female,Hyderabad,Karan Sharma
+sN1223,11/14/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.14,3,2.91,0.05,Mobile Wallet,Senior,Female,Bangalore,Priya Gupta
+Lz4133,3/31/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.68,1,2.24,0.15,Credit Card,Adult,Male,Bangalore,Karan Mehta
+zb5809,6/12/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,128.82,1,81.87,0,Mobile Wallet,Senior,Female,Delhi,Neha Gupta
+Yn4026,3/18/25,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,918.68,,,0,Debit Card,Senior,Female,Delhi,Amit Mehta
+AE2422,5/27/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1036.76,2,1717.64,0,Cash,Young,Male,Hyderabad,Priya Mehta
+ju0156,10/26/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1062.64,1,755.36,0.05,Credit Card,Senior,Female,Delhi,Priya Mehta
+ny7729,8/1/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,72.64,3,134.13,0,Credit Card,Young,Male,Mumbai,Rahul Reddy
+lG3023,3/26/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,142.11,2,233.72,0.15,Debit Card,Young,Female,Mumbai,Karan Reddy
+PF1096,11/3/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,931.76,1,756.42,0.2,Credit Card,Adult,Female,Mumbai,Neha Patel
+Re7606,1/5/25,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.52,4,9.32,0,Debit Card,Senior,Female,Hyderabad,Neha Reddy
+ac0188,1/5/25,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,73.34,3,164.97,0,Online Payment,Adult,Male,Hyderabad,Priya Sharma
+mM5723,9/13/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1974.76,1,1201.18,0.05,Mobile Wallet,Senior,Female,Hyderabad,Amit Sharma
+UO7700,3/20/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,422.03,1,261.14,0.15,Credit Card,Adult,Female,Chennai,Amit Gupta
+Zb1015,3/25/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.04,21,17.85,0.1,Mobile Wallet,Young,Female,Bangalore,Karan Reddy
+Dm6325,3/28/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.9,4,15.08,0.1,Debit Card,Senior,Male,Delhi,Priya Gupta
+tm6285,5/13/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1207.82,1,957.77,0.2,Online Payment,Young,Female,Mumbai,Priya Mehta
+Tj5359,7/11/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,74.8,3,154.26,0,Online Payment,Young,Female,Delhi,Neha Reddy
+hB0667,12/26/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,129.87,1,106.82,0.15,Cash,Young,Female,Bangalore,Rahul Reddy
+hp0613,3/28/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1784.12,1,1394.99,0.15,Debit Card,Adult,Female,Hyderabad,Priya Sharma
+zd7860,11/21/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,65.06,4,184.48,0.1,Credit Card,Young,Male,Chennai,Neha Patel
+Ky4172,11/11/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,395.21,2,621.24,0.2,Mobile Wallet,Young,Male,Chennai,Neha Reddy
+oT1125,1/13/25,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,31.28,2,44.08,,Online Payment,Senior,Female,Bangalore,Neha Gupta
+Oh2638,9/29/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.06,6,4.32,0.15,Debit Card,Senior,Male,Chennai,Priya Reddy
+NM1773,11/12/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,139.06,2,205.2,,Cash,Young,Female,Bangalore,Karan Mehta
+Kt2862,1/26/25,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,978.25,2,1511.36,0.1,Mobile Wallet,Adult,Female,Bangalore,Priya Gupta
+EW4765,6/21/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1072.3,1,662.45,0.05,Cash,Senior,Male,Bangalore,Neha Gupta
+eG1331,1/27/25,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.59,1,2.41,0.15,Debit Card,Young,Female,Bangalore,Priya Reddy
+xJ1923,7/18/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,974.53,1,769.41,0.1,Mobile Wallet,Senior,Male,Chennai,Priya Patel
+UU3106,1/26/25,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,411.82,2,534.68,0.05,Credit Card,Young,Female,Chennai,Karan Sharma
+ZV6497,8/11/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,138.62,2,192.16,0.2,Online Payment,Senior,Female,Delhi,Priya Patel
+LG0674,8/27/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.29,,,,Online Payment,Young,Female,Hyderabad,Amit Reddy
+EJ9605,3/18/25,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.72,3,11.01,0.15,Online Payment,Young,Female,Mumbai,Amit Sharma
+tU7307,3/20/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.36,10,9.4,0,Cash,Young,Female,Chennai,Karan Sharma
+oS2524,8/15/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1824.9,1,1385.21,0,Debit Card,Senior,Female,Delhi,Priya Patel
+vV9536,1/10/25,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1161.49,1,789.94,0.15,Mobile Wallet,Senior,Female,Bangalore,Amit Patel
+Bs5092,1/14/25,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,,1,,0.15,Credit Card,Young,Male,Delhi,Rahul Sharma
+vp6710,5/15/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,57.62,3,120.03,0,Debit Card,Senior,Male,Chennai,Priya Gupta
+EV4774,7/26/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,191.4,1,154.42,0,Online Payment,Adult,Female,Delhi,Karan Mehta
+my8461,12/7/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,62.33,4,159.36,0.15,Cash,Senior,Male,Chennai,Rahul Patel
+Th4356,7/26/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,,5,,0.15,Credit Card,Young,Male,Delhi,Priya Mehta
+Mi5340,12/16/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1872.27,1,1347.87,0.15,Mobile Wallet,Senior,Male,Delhi,Rahul Sharma
+ur3303,11/1/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,29.09,2,42.56,0.2,Credit Card,Adult,Female,Hyderabad,Rahul Mehta
+jt7843,10/13/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,834.72,1,520.17,0.15,Online Payment,Young,Male,Chennai,Neha Patel
+Pv7535,1/9/25,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,313.72,1,263.74,0.05,Credit Card,Young,Male,Hyderabad,Priya Gupta
+ov0279,9/29/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,170.32,3,339.39,0.1,Cash,Adult,Male,Hyderabad,Amit Mehta
+EO9920,5/8/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1029.18,1,713.62,0.2,Online Payment,Adult,Female,Mumbai,Amit Sharma
+MN4810,6/14/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,976.7,2,1523.44,0.2,Mobile Wallet,Senior,Male,Delhi,Rahul Sharma
+ah4357,9/3/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,407.58,2,635.38,0.15,Online Payment,Senior,Female,Chennai,Priya Sharma
+Rk0071,6/6/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1089.23,2,1505.56,0.05,Mobile Wallet,Adult,Female,Chennai,Rahul Mehta
+yD3163,8/8/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,123.98,1,76.38,0,Debit Card,Adult,Female,Mumbai,Amit Gupta
+he2718,5/16/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1098.63,1,862.63,0.1,Cash,Adult,Female,Mumbai,Rahul Patel
+Dr5487,6/19/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,941.68,1,761.57,0.15,Cash,Senior,Male,Bangalore,Amit Sharma
+mr6486,9/29/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,56.77,1,36.76,0.1,Mobile Wallet,Adult,Male,Mumbai,Priya Sharma
+SG4794,9/29/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1958.01,1,1326.74,0.05,Debit Card,Young,Female,Delhi,Priya Mehta
+ra5687,9/29/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1333.25,1,800.22,0.1,Credit Card,Young,Male,Mumbai,Amit Sharma
+zh3400,9/1/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,,1,,0.1,Cash,Adult,Female,Hyderabad,Rahul Reddy
+in6905,8/4/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,160.45,1,98.21,0.15,Online Payment,Young,Male,Bangalore,Neha Sharma
+Bi7858,8/21/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.42,3,6.36,0.2,Debit Card,Senior,Female,Delhi,Priya Sharma
+zN9359,6/14/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,213.17,1,139.88,,Credit Card,Adult,Female,Bangalore,Priya Reddy
+yC6680,12/30/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,172.06,1,142.89,0.2,Credit Card,Young,Male,Delhi,Amit Mehta
+IC0276,11/2/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2026.18,,,0.05,Credit Card,Young,Female,Bangalore,Priya Patel
+vp2765,4/30/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,65.78,4,205.28,0,Credit Card,Adult,Female,Mumbai,Priya Sharma
+im8739,6/17/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,40.77,4,127,0.1,Online Payment,Young,Male,Hyderabad,Neha Gupta
+st1659,6/22/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,160.32,2,229.36,0.15,Mobile Wallet,Adult,Female,Hyderabad,Neha Mehta
+yZ1801,5/15/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.37,3,2.91,0.15,Cash,Adult,Male,Hyderabad,Rahul Gupta
+cZ2761,7/13/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.37,3,7.38,0.1,Online Payment,Adult,Female,Delhi,Priya Reddy
+zy5386,7/15/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,43.71,,,0.05,Mobile Wallet,Young,Female,Delhi,Neha Mehta
+kB3579,11/30/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,78.86,1,59.61,0.05,Mobile Wallet,Senior,Male,Delhi,Rahul Gupta
+Rw1497,2/21/25,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2211.85,1,1543.48,0.2,Online Payment,Adult,Male,Delhi,Rahul Reddy
+po3116,4/4/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2405.89,1,1684.17,0.05,Cash,Senior,Female,Bangalore,Rahul Patel
+yO4366,8/19/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,26.03,4,62.68,0.1,Debit Card,Adult,Female,Delhi,Karan Sharma
+eb0131,12/16/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.06,14,10.78,,Online Payment,Senior,Female,Mumbai,Neha Reddy
+UR3736,12/29/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,331.65,2,437.24,0,Cash,Adult,Male,Chennai,Rahul Reddy
+dw0813,8/20/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,40.41,4,99.04,0.2,Online Payment,Senior,Female,Bangalore,Karan Gupta
+UW5575,6/6/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,180.83,1,121.83,0,Mobile Wallet,Young,Male,Chennai,Karan Mehta
+Wk8788,11/9/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,266.29,2,434.92,0,Online Payment,Young,Female,Delhi,Neha Gupta
+Oi3509,7/8/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,199.87,1,155.69,0.05,Debit Card,Young,Male,Bangalore,Amit Patel
+tB0075,6/24/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.58,4,13.44,0.1,Mobile Wallet,Young,Female,Chennai,Karan Gupta
+HZ4448,4/22/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.32,23,23.92,0.2,Cash,Young,Male,Delhi,Neha Gupta
+nw4248,5/31/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,416.51,2,506.3,0.2,Online Payment,Senior,Male,Chennai,Neha Sharma
+Wt8354,10/10/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,374.69,2,508.12,0.2,Credit Card,Senior,Male,Delhi,Neha Sharma
+OR5807,5/20/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,323.61,2,535.22,0.05,Mobile Wallet,Senior,Male,Delhi,Priya Gupta
+qH4112,4/9/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.64,2,3.72,0.1,Online Payment,Adult,Female,Mumbai,Rahul Gupta
+GZ3077,10/28/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,221.73,1,148.1,0,Credit Card,Senior,Male,Chennai,Karan Mehta
+CU2365,2/27/25,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,208.19,2,261.22,0.2,Debit Card,Senior,Female,Delhi,Rahul Mehta
+Uq8912,12/14/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,78.49,4,239.84,0.2,Credit Card,Adult,Female,Chennai,Rahul Reddy
+pt7673,7/16/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,,2,,0.2,Online Payment,Adult,Male,Hyderabad,Rahul Mehta
+kH9284,7/7/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1375.53,1,899.05,0.05,Mobile Wallet,Young,Male,Chennai,Rahul Reddy
+nQ7298,4/6/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,406.03,1,316.27,0.15,Debit Card,Adult,Male,Chennai,Karan Reddy
+Fn1070,4/2/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1552.05,,,0.05,Cash,Senior,Female,Chennai,Rahul Reddy
+Fv2701,5/3/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.82,7,24.85,0.2,Cash,Adult,Female,Delhi,Priya Reddy
+Rj6667,3/5/25,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,141.05,1,113.81,0.15,Online Payment,Adult,Female,Bangalore,Rahul Gupta
+hi5346,7/14/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,232.93,1,176.27,0.15,Cash,Young,Male,Bangalore,Amit Reddy
+lI8441,4/25/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2419.91,1,1762.82,0.1,Credit Card,Senior,Female,Hyderabad,Rahul Mehta
+VK8277,11/21/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,915.66,1,733.86,0.05,Mobile Wallet,Adult,Male,Chennai,Karan Gupta
+xQ2572,5/22/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.57,1,3.63,0.15,Debit Card,Senior,Male,Bangalore,Karan Patel
+CY6555,12/22/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1095.96,2,1729.28,0.2,Debit Card,Young,Male,Delhi,Priya Mehta
+zX7175,4/28/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,169.67,3,382.68,0.1,Credit Card,Young,Female,Delhi,Amit Gupta
+vl4895,10/27/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,386.9,2,476.84,0.1,Online Payment,Senior,Female,Mumbai,Rahul Sharma
+sm0973,11/15/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,136.37,2,183.14,0.15,Credit Card,Adult,Male,Chennai,Karan Sharma
+Qp0997,10/18/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,137.45,3,287.01,0.2,Mobile Wallet,Young,Female,Delhi,Priya Gupta
+os7922,9/7/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1017.47,2,1453.5,0.2,Debit Card,Senior,Male,Delhi,Karan Mehta
+bS3169,11/15/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.19,23,16.56,0.05,Cash,Senior,Male,Bangalore,Priya Patel
+Ar0092,9/5/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,193.48,2,319.84,0,Online Payment,Senior,Male,Mumbai,Neha Mehta
+DO3153,10/23/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,438.09,,,0,Debit Card,Adult,Male,Chennai,Karan Gupta
+Uy0536,12/23/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,25.42,1,19.13,0.1,Online Payment,Senior,Female,Delhi,Neha Reddy
+QP1875,4/28/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,69.52,2,109.96,0.05,Mobile Wallet,Adult,Male,Chennai,Karan Reddy
+GY4764,6/14/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.04,23,15.87,0,Cash,Adult,Male,Delhi,Amit Mehta
+OA9718,1/3/25,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,161.12,2,219.58,0.05,Mobile Wallet,Young,Female,Bangalore,Neha Reddy
+Sw4232,5/13/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.98,5,12.55,0.15,Credit Card,Young,Female,Hyderabad,Rahul Sharma
+wD9665,9/16/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1595.23,1,1195.58,0.05,Credit Card,Senior,Male,Mumbai,Rahul Patel
+DY0812,11/9/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,170.77,2,254.58,0.15,Mobile Wallet,Adult,Female,Hyderabad,Neha Gupta
+gD4037,1/4/25,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,869.04,1,537.85,0.05,Mobile Wallet,Young,Female,Bangalore,Rahul Patel
+VJ6954,2/3/25,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1651.03,1,1028.8,0.1,Online Payment,Young,Female,Mumbai,Amit Patel
+eq0502,9/11/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.93,9,21.69,0.15,Cash,Young,Male,Hyderabad,Rahul Mehta
+zr0035,12/24/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,987.52,1,744.89,0.15,Credit Card,Adult,Male,Hyderabad,Priya Mehta
+CL8475,9/26/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.42,16,18.72,0.1,Cash,Senior,Female,Delhi,Neha Reddy
+oT4386,8/30/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1064.51,1,756.35,0,Credit Card,Senior,Male,Hyderabad,Neha Gupta
+NL8939,10/11/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.19,3,7.71,0.2,Mobile Wallet,Adult,Male,Hyderabad,Neha Gupta
+LN2449,12/14/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,164.91,1,107.06,0,Debit Card,Senior,Male,Mumbai,Amit Mehta
+vu8431,2/22/25,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,784.5,1,530.27,0.2,Online Payment,Senior,Male,Delhi,Karan Reddy
+Wy1259,8/12/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1585.25,1,1256.14,0.1,Credit Card,Adult,Male,Delhi,Amit Reddy
+tN4543,4/10/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1097.65,1,722.09,0,Cash,Senior,Male,Bangalore,Neha Reddy
+tq8260,6/16/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,723.5,1,491.67,0.2,Online Payment,Adult,Female,Delhi,Priya Reddy
+Yi6701,10/3/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,377.72,1,262.33,0.05,Mobile Wallet,Adult,Male,Chennai,Neha Reddy
+yV5235,6/4/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.21,3,2.85,0.1,Mobile Wallet,Young,Female,Delhi,Priya Reddy
+mT4325,11/17/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,413.2,2,568.12,0.2,Credit Card,Young,Male,Bangalore,Karan Sharma
+wL9997,10/3/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,38.52,3,75.45,0,Credit Card,Senior,Male,Mumbai,Karan Reddy
+pK0507,4/1/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,380.5,,,0.05,Cash,Young,Female,Bangalore,Amit Patel
+SO3308,10/9/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,425.6,2,537.28,0.2,Online Payment,Young,Male,Bangalore,Amit Patel
+yu3004,6/6/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,70.01,4,184.68,0.05,Debit Card,Young,Male,Hyderabad,Karan Gupta
+fm4647,1/23/25,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1050.5,1,637.31,0.2,Credit Card,Adult,Male,Chennai,Rahul Reddy
+Mc3108,3/23/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,165.06,1,128.52,0.2,Credit Card,Senior,Female,Chennai,Priya Reddy
+NL5328,8/20/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,61.78,1,38.44,0,Debit Card,Young,Female,Bangalore,Priya Gupta
+On8718,10/8/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,40.51,2,60.52,0,Debit Card,Senior,Female,Delhi,Amit Patel
+WD9532,11/10/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.96,1,1.94,0.05,Debit Card,Young,Male,Bangalore,Karan Reddy
+pd9228,7/17/24,India,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1268.04,1,1049.29,0.05,Online Payment,Young,Male,Chennai,Rahul Patel
+CI7193,7/22/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1490.6,1,1195.34,0.1,Online Payment,Senior,Male,Mumbai,Amit Patel
+KE7916,2/1/25,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,414.02,1,317.55,0.15,Debit Card,Senior,Female,Mumbai,Amit Reddy
+fL0868,2/7/25,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.26,2,1.52,0.1,Cash,Adult,Male,Mumbai,Rahul Reddy
+ua8639,6/10/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,357.01,2,514.22,0.15,Mobile Wallet,Senior,Female,Hyderabad,Rahul Mehta
+el4691,7/19/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,124.86,1,92.61,0.1,Credit Card,Adult,Female,Delhi,Rahul Sharma
+nk5447,9/21/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1447.31,1,972.66,0.05,Credit Card,Adult,Female,Hyderabad,Neha Gupta
+so6135,9/1/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1041.29,2,1527.3,0.05,Debit Card,Adult,Female,Hyderabad,Neha Gupta
+HP0405,10/17/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,134.27,3,266.16,0.2,Online Payment,Senior,Female,Hyderabad,Priya Gupta
+Uc7375,12/14/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.38,2,4.4,0.1,Debit Card,Adult,Male,Mumbai,Karan Mehta
+PU2554,10/30/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,76.08,1,49.78,,Cash,Senior,Female,Chennai,Rahul Gupta
+Hj9284,4/13/24,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,1,,0.2,Cash,Senior,Male,Mumbai,Amit Gupta
+Xa6446,5/21/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,178.15,2,265.76,0.1,Debit Card,Adult,Female,Bangalore,Amit Patel
+py8174,6/9/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.85,1,1.93,0.2,Online Payment,Adult,Female,Hyderabad,Priya Sharma
+QY9695,10/1/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,148.17,1,110.76,0,Mobile Wallet,Adult,Female,Mumbai,Priya Sharma
+Xa6047,7/2/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,128.7,1,96.54,0.15,Online Payment,Adult,Female,Mumbai,Karan Patel
+Jb1765,12/23/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,79.06,1,66.08,0.15,Debit Card,Adult,Female,Bangalore,Amit Sharma
+cd8736,3/14/25,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1719.51,1,1163.68,0.1,Online Payment,Adult,Male,Bangalore,Rahul Mehta
+nC0629,5/1/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,45.53,1,29.12,0.2,Online Payment,Senior,Female,Mumbai,Priya Gupta
+ym8897,9/9/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.79,6,10.38,0.2,Mobile Wallet,Adult,Female,Chennai,Neha Gupta
+dg3054,7/20/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.71,5,11.2,0.2,Credit Card,Senior,Male,Bangalore,Neha Sharma
+gM0513,5/18/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,,4,,0.2,Online Payment,Young,Female,Chennai,Priya Reddy
+AW4277,6/6/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.2,15,13.5,0.2,Credit Card,Senior,Male,Delhi,Priya Mehta
+OG0100,4/14/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,48.12,3,103.62,0.1,Mobile Wallet,Senior,Male,Mumbai,Neha Gupta
+rE7083,6/16/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,168.12,2,218.68,0.1,Online Payment,Senior,Male,Mumbai,Rahul Reddy
+va4115,5/18/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,352.17,,,0.1,Debit Card,Senior,Male,Delhi,Neha Mehta
+ew0432,4/5/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1007.87,2,1225.12,0.15,Credit Card,Young,Female,Chennai,Neha Sharma
+Cs5839,4/15/24,India,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.31,,,0.2,Cash,Young,Male,Bangalore,Karan Patel
+Ou7867,2/5/25,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1012.19,,,0.15,Debit Card,Young,Female,Mumbai,Neha Reddy
+xy8096,9/28/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,54.5,4,140.12,0.1,Cash,Young,Male,Mumbai,Karan Reddy
+pM1852,8/25/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,124.41,1,97.56,0.1,Mobile Wallet,Young,Male,Bangalore,Karan Mehta
+RN6642,5/11/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2056.53,1,1282.05,0.1,Debit Card,Adult,Male,Hyderabad,Karan Patel
+cp9842,12/15/24,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,75.03,1,58.41,0.2,Online Payment,Young,Male,Mumbai,Karan Gupta
+yt9869,1/1/25,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,40.5,2,67.76,0.2,Cash,Senior,Female,Chennai,Rahul Reddy
+ih5480,7/6/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,44.8,2,62.54,0,Debit Card,Adult,Female,Hyderabad,Rahul Patel
+uS1992,1/2/25,India,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,160.1,2,244.92,0.15,Mobile Wallet,Young,Male,Bangalore,Karan Mehta
+pk4004,2/18/25,India,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,56.07,3,113.79,0.05,Debit Card,Young,Male,Mumbai,Rahul Reddy
+fh1263,6/29/24,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,,1,,0.1,Online Payment,Adult,Female,Mumbai,Amit Patel
+if7050,1/8/25,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,27.6,3,59.25,0,Credit Card,Young,Female,Delhi,Priya Sharma
+Mt8727,4/20/24,India,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1058.56,2,1283.08,0.2,Online Payment,Senior,Female,Delhi,Priya Reddy
+BG8142,1/10/25,India,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,,8,,0.1,Online Payment,Senior,Female,Delhi,Amit Reddy
+Ia6849,6/21/24,India,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2166.68,1,1304.55,0.2,Online Payment,Senior,Female,Bangalore,Priya Patel
+tq2425,4/12/24,India,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,412.98,1,260.19,0.15,Credit Card,Adult,Male,Mumbai,Priya Gupta
+vn1315,6/29/24,India,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,33.2,4,110.08,0.1,Mobile Wallet,Young,Female,Mumbai,Amit Patel
+Hn0801,7/31/24,India,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,178.58,1,151.23,0.15,Credit Card,Young,Female,Bangalore,Neha Sharma

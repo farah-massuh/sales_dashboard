@@ -1,501 +1,501 @@
 transaction_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,sales_representative
-PS7269,9/11/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,132.57,9,1193.13,0,Debit Card,Senior,Female,Guangzhou,Wu Bo
-be0643,2/17/25,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1019.46,3,3058.38,0.15,Cash,Young,Female,Chengdu,Li Yan
-xP1896,3/8/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,457.27,4,1829.08,0.15,Online Payment,,Male,Chengdu,Chen Hua
-ck8879,3/15/25,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,0.84,9,7.56,0.1,Debit Card,Adult,Female,Beijing,Yang Wei
-oz2615,8/5/24,,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.39,7,23.73,0.1,Debit Card,Senior,Female,Chengdu,Huang Hua
-Xe7874,7/13/24,,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,153.37,6,920.22,0.05,Mobile Wallet,Young,Male,Shenzhen,Zhou Tao
-Ww8195,7/26/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,264.7,5,1323.5,0.05,Debit Card,Adult,Female,Beijing,Zhang Ming
-Qa9623,3/24/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,107.84,4,431.36,0.15,Online Payment,Adult,,Shenzhen,Wang Wei
-GB3032,8/26/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,128.16,,512.64,0,Mobile Wallet,Adult,Male,Guangzhou,Liu Ming
-eH9072,6/18/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,174.53,9,1570.77,0.2,Debit Card,Adult,Male,Guangzhou,Huang Bo
-LS4651,1/30/25,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,32.78,3,98.34,0.05,Online Payment,Adult,Male,Guangzhou,Zhao Tao
-YI1805,9/14/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,,Home Appliances,422.23,7,2955.61,0.2,Cash,Adult,Male,Guangzhou,Zhou Lei
-GX5928,8/18/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,175.5,2,351,0,Mobile Wallet,Senior,Male,Shenzhen,Zhou Wei
-rs2742,5/11/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,904.85,2,1809.7,0.2,Debit Card,Adult,Female,Shanghai,Liu Lei
-yE2934,9/21/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,,Snacks,4.23,9,38.07,0.05,Cash,Senior,,Guangzhou,Li Jie
-Yi8253,9/22/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2450.21,,9800.84,0.15,Credit Card,Adult,,Guangzhou,Zhou Yan
-Vg2882,11/20/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1150.69,5,5753.45,0,,Young,Female,Shenzhen,Zhang Tao
-em1775,1/15/25,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.51,6,9.06,0.15,Cash,Senior,Female,,Yang Wei
-Ol3198,9/14/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,142.76,3,428.28,0.1,Online Payment,Young,Female,Beijing,Wu Hua
-Ge4213,7/1/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,78.32,6,469.92,0,Online Payment,Young,Female,Chengdu,Huang Hua
-Qh5176,2/24/25,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,181.34,8,1450.72,0.1,Mobile Wallet,Senior,Female,Shanghai,Zhou Fang
-Hy8016,3/15/25,,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1047.76,4,4191.04,0.15,Debit Card,Adult,Female,Guangzhou,Wu Lei
-kS6390,3/2/25,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2384.05,6,14304.3,0.15,Credit Card,,,Beijing,Zhao Ming
-TY2506,6/10/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.49,,17.96,0.2,,Young,Female,,Zhou Tao
-Fz6415,1/11/25,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,536.06,4,2144.24,0.2,Online Payment,Young,Female,Shanghai,Liu Wei
-kK6926,,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,323.51,3,970.53,0.2,Credit Card,Young,Male,Shenzhen,Yang Wei
-YC9741,1/10/25,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,987.85,5,4939.25,0.1,Online Payment,Young,Male,,Huang Tao
-SV1451,10/10/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1095.41,8,8763.28,0.2,Cash,Senior,Female,Guangzhou,Wu Jun
-yR4446,1/20/25,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,224.43,8,1795.44,0.2,Credit Card,Young,Female,Guangzhou,Wang Fang
-OA7209,10/10/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,37.11,6,222.66,0,Online Payment,Young,Female,Beijing,Chen Jun
-An0276,,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1419.47,,11355.76,0.15,Credit Card,Senior,Female,Beijing,Zhao Jie
-vW3740,12/20/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.36,10,13.6,0,Online Payment,Adult,Female,Shenzhen,Wu Hua
-vU8346,10/28/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,193.75,1,193.75,0,Debit Card,Adult,Male,Chengdu,
-Se1277,4/12/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1463.78,,14637.8,0.2,Mobile Wallet,Young,Female,Guangzhou,Wu Ming
-hS7423,3/10/25,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,24.94,6,149.64,0.15,Debit Card,Senior,Male,Beijing,
-lR5657,2/1/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,319.39,2,638.78,0,Mobile Wallet,Adult,Male,Beijing,Huang Fang
-ua4909,12/12/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,268.69,5,1343.45,0,Debit Card,Young,Male,Shanghai,Yang Fang
-fG3651,6/7/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1723.03,9,,0.1,Credit Card,Adult,Female,Guangzhou,Yang Ming
-hC6875,2/5/25,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,888.45,7,6219.15,,Credit Card,Young,Male,Guangzhou,Chen Ming
-DQ3205,8/16/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,99.43,2,198.86,0.05,Debit Card,Young,Male,Guangzhou,Huang Jun
-xN9506,10/10/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1734.06,10,17340.6,0.1,Online Payment,Young,Male,Shenzhen,
-VJ4814,2/23/25,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,100.97,2,,0.2,Cash,Senior,Female,Shanghai,Zhao Wei
-sm9094,1/12/25,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,176.06,4,704.24,0.1,Debit Card,Senior,Female,Chengdu,Wang Ming
-Qg5634,12/13/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,,877.05,6,5262.3,0,Cash,Adult,Female,Chengdu,Li Jie
-qI3332,7/8/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.68,8,13.44,0.2,Credit Card,Young,Female,Beijing,Zhao Ming
-dA1537,10/18/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,257.98,2,515.96,0.1,Online Payment,Young,Female,Chengdu,Chen Wei
-kd3212,6/23/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,721,5,3605,0.2,Online Payment,Young,Female,Shanghai,Wang Yan
-Ta6731,5/14/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,26.95,2,53.9,0.2,Cash,Senior,Female,,Liu Tao
-Dq4979,8/26/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,838.83,1,838.83,0.1,Cash,Young,Female,Guangzhou,Liu Yan
-IA5394,8/15/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,241.82,6,1450.92,0.05,Debit Card,,Female,Chengdu,Chen Fang
-Yy7883,1/4/25,China,53468ffa-18e0-4636-ba68-566ae72ee142,,Snacks,3.66,10,36.6,0.05,Debit Card,,Female,Chengdu,Zhao Jun
-LR2976,11/2/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,437.35,8,3498.8,0,Debit Card,Senior,Male,Beijing,Yang Lei
-zp2286,11/8/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.28,7,8.96,0.15,Credit Card,Young,Male,Chengdu,Liu Jun
-Tm8680,7/1/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,148.41,7,1038.87,0,Mobile Wallet,Senior,Male,Shenzhen,Zhou Lei
-Bh2869,7/6/24,,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,70.57,8,564.56,0.2,Credit Card,Adult,Male,Beijing,Wu Jie
-Xz6456,8/21/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.87,9,16.83,0.1,,Young,Male,Chengdu,Chen Fang
-oe5840,11/5/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.53,4,18.12,0.2,Online Payment,Senior,Male,Guangzhou,Wu Bo
-LZ2198,2/15/25,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1732.99,8,13863.92,0.1,Cash,Adult,Female,Guangzhou,Wu Ming
-Sc6648,3/23/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,78.34,7,548.38,0.2,Mobile Wallet,Adult,Male,Beijing,Wang Tao
-PS1269,9/8/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1083.42,3,3250.26,0,Debit Card,Adult,Female,Guangzhou,Li Jie
-lT5795,4/29/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,2.39,5,11.95,0.2,Mobile Wallet,Senior,Female,Shenzhen,Zhou Fang
-fR6869,10/11/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2045.88,1,2045.88,0.2,Cash,Senior,Female,Shenzhen,
-kD5823,2/7/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,,483.07,8,3864.56,0.1,Debit Card,Young,Female,Shenzhen,Yang Jie
-kB6333,8/26/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,56.82,3,170.46,0.05,Credit Card,Senior,Male,Chengdu,Huang Jie
-kc4300,4/22/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1951.54,6,11709.24,0.05,Debit Card,Adult,Male,Beijing,Wang Wei
-MP3512,11/7/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,108.33,4,433.32,0.15,Debit Card,Senior,Female,Shenzhen,
-Ml6723,6/26/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,185.2,10,1852,,Credit Card,Young,Male,Shanghai,Wu Jun
-Tu3430,,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,476.08,1,476.08,0.05,Debit Card,Senior,Female,Shanghai,Zhao Wei
-zM6127,2/20/25,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1085.37,,8682.96,,Credit Card,Young,Female,Guangzhou,Huang Tao
-GJ6091,4/1/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,780.77,8,6246.16,0.05,Online Payment,Young,Female,Shanghai,Wu Fang
-fI6450,3/12/25,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,,,7,600.81,0.2,Cash,Young,Female,,Li Tao
-AY9469,5/27/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,0.85,5,4.25,0.2,Credit Card,Adult,Male,Guangzhou,Zhang Fang
-jh2998,11/1/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,,196.25,4,785,0,Cash,Young,Male,Beijing,Chen Wei
-Yc0716,12/11/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,405.64,3,1216.92,0.15,Online Payment,Young,Female,Shenzhen,Huang Tao
-YC1371,4/28/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1031.45,9,9283.05,0.2,Online Payment,Senior,Male,Shenzhen,Zhang Jie
-le2855,10/14/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1002.82,3,,0.1,Mobile Wallet,Senior,Male,Shenzhen,
-Wn2651,1/15/25,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,972.48,10,9724.8,0.1,Cash,Senior,Male,Shenzhen,Wang Jun
-Qt5600,4/3/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.78,9,,0.2,Debit Card,Senior,Male,,Li Hua
-iA4772,11/25/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1170.18,1,1170.18,0.15,Mobile Wallet,Adult,Female,,Zhang Tao
-VC4540,10/30/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,,2.33,7,16.31,,Mobile Wallet,Adult,Female,Guangzhou,Li Fang
-pv7259,5/30/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,,Footwear,152.02,5,760.1,0,Online Payment,Senior,Male,Beijing,Li Bo
-qz1002,8/10/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,850.04,4,3400.16,0,Mobile Wallet,Young,Female,Beijing,Huang Tao
-qK0042,12/28/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,41.96,8,335.68,0.15,Credit Card,Adult,Female,Beijing,Liu Ming
-rx1613,10/19/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,,5,19.2,0.15,Online Payment,Adult,Female,Guangzhou,Zhang Tao
-rE5095,5/26/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1375.54,5,6877.7,0.2,Cash,Young,Male,Beijing,Zhang Tao
-xX7291,10/23/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.19,3,9.57,0.2,Debit Card,Young,Male,Guangzhou,
-Sn2433,11/11/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1859.32,2,3718.64,0.2,Credit Card,Adult,Male,Beijing,Zhou Hua
-DW0801,6/24/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1105.7,3,3317.1,0.1,Credit Card,Senior,Female,Shanghai,Liu Jun
-Gy0213,4/4/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.37,2,6.74,0.05,Mobile Wallet,Adult,Female,Beijing,Wang Fang
-KH9491,11/2/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,22.85,5,,0.2,Credit Card,Young,Male,,Zhao Hua
-LX5924,9/29/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1067.92,4,4271.68,0.15,Debit Card,Senior,Female,Shenzhen,Huang Hua
-ly3511,5/13/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,590.63,9,5315.67,0.05,,Young,Male,Shanghai,Yang Tao
-Xs6395,7/19/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,677.21,4,2708.84,0.2,Mobile Wallet,Young,Male,Chengdu,Wang Fang
-ry7676,4/21/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1142.94,9,10286.46,0,Debit Card,Young,Female,Shanghai,Huang Jun
-NN4437,4/20/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,360.33,7,2522.31,0.2,Credit Card,Senior,Female,Beijing,Wu Lei
-jA6439,8/7/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1162.93,10,11629.3,0.2,Cash,Young,Male,Guangzhou,Li Yan
-kZ7559,2/25/25,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,183.03,4,732.12,0.2,Debit Card,Senior,Male,Guangzhou,Zhang Jun
-bg2466,3/19/25,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1733.51,8,13868.08,0.2,Mobile Wallet,Senior,Male,Chengdu,Liu Bo
-oa0938,10/24/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,29.7,6,178.2,0.15,Credit Card,Senior,Female,Chengdu,
-wS9039,7/16/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,,4,3261.36,0.1,Mobile Wallet,Senior,Male,Beijing,Wang Wei
-dZ0013,5/11/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,959.08,3,2877.24,0.1,Cash,,Female,Shanghai,Yang Wei
-gu6459,2/15/25,,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,166.83,8,1334.64,0.15,Debit Card,Young,Female,Shanghai,Wang Jie
-Pl1036,7/14/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,,6,9.06,,Debit Card,Adult,Female,Beijing,Huang Tao
-ha7135,1/17/25,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,110.68,9,996.12,0.2,Mobile Wallet,,Female,Shenzhen,Zhao Fang
-iA3159,12/4/24,,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,155.98,1,155.98,0.2,Credit Card,Adult,Female,Shanghai,Wu Hua
-eq1364,9/30/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,114.42,5,572.1,0.1,Cash,Senior,Male,Guangzhou,Wu Jie
-Ss1788,9/19/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.54,7,24.78,0.15,Mobile Wallet,Senior,Female,Guangzhou,Wang Ming
-oq2746,4/30/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.44,6,26.64,0.15,Cash,Young,Female,Beijing,Liu Wei
-ca9003,3/17/25,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,51.27,8,410.16,0.2,Credit Card,Adult,Male,Guangzhou,Zhang Hua
-LT0904,12/27/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1545.19,7,10816.33,0.1,Mobile Wallet,Young,,Shanghai,Zhou Tao
-Rh4049,8/17/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1402.97,1,1402.97,0.2,Mobile Wallet,Adult,Male,Shanghai,Wu Lei
-ck2750,1/5/25,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.48,9,13.32,0.2,Cash,Senior,Male,Guangzhou,Liu Wei
-ZC6063,8/3/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.19,3,12.57,0.15,Cash,Young,Male,Shanghai,Zhou Tao
-Ys8784,1/2/25,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,291.12,7,2037.84,0,Mobile Wallet,Young,Female,Shenzhen,Li Fang
-Qc0444,6/25/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,99.96,4,399.84,0.1,Online Payment,Senior,,Shenzhen,Zhao Lei
-OS9266,1/24/25,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.28,6,,0.2,Cash,,Male,Shenzhen,Yang Bo
-jn6435,2/9/25,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1341.23,3,4023.69,0.2,Cash,Adult,Male,Shenzhen,Chen Hua
-eq0308,3/18/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,,Home Appliances,271.13,7,1897.91,0.2,Debit Card,Adult,Male,Shanghai,Zhao Wei
-fC0127,7/16/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,98.68,4,394.72,0,Mobile Wallet,Senior,Male,Shenzhen,Wang Tao
-Sr8644,12/11/24,,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1478.65,3,4435.95,0.1,Debit Card,Young,Female,,
-VW5534,5/20/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.02,6,6.12,0.2,Credit Card,Senior,Male,Chengdu,Zhang Fang
-xn0454,12/25/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,105.66,7,739.62,0,Credit Card,Adult,Female,Shenzhen,
-Km8253,6/6/24,,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,164.32,,1150.24,0,Cash,Senior,Male,Shenzhen,Liu Lei
-wI5256,4/19/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,252.81,7,1769.67,0.15,Credit Card,Young,Male,Chengdu,Wu Yan
-Ex9072,8/28/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,,Electronics,1386.29,10,13862.9,,Online Payment,Young,Female,Guangzhou,Wang Yan
-GL3099,6/14/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.48,4,17.92,0.05,Online Payment,Young,Male,Shenzhen,Yang Jun
-PE6510,10/30/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,1.64,5,8.2,0.05,Credit Card,Senior,Female,,Wang Hua
-EC0068,9/24/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.81,2,9.62,0.1,Cash,Adult,Male,Chengdu,Chen Hua
-Bj2919,8/10/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,2.15,4,8.6,0.1,Cash,Young,Female,Guangzhou,Zhang Wei
-pd9454,5/17/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,189.54,6,1137.24,0.1,Mobile Wallet,Senior,Female,Guangzhou,Wu Wei
-wD7941,1/28/25,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,153.59,9,1382.31,0.05,Debit Card,Senior,Male,Chengdu,Li Tao
-PW4710,5/21/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,252.9,6,1517.4,0,Debit Card,Adult,Male,Guangzhou,Chen Hua
-gZ3619,1/8/25,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,265.32,5,1326.6,0.2,,Young,Female,Chengdu,Huang Fang
-zt8760,10/5/24,,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1155.35,4,4621.4,0.05,Debit Card,,Male,Chengdu,Zhao Jun
-OT6317,9/9/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,298,2,596,0.2,Credit Card,,Male,Beijing,Li Fang
-Lh9048,3/27/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,752.96,5,3764.8,0.05,Credit Card,Adult,Male,Guangzhou,Zhao Lei
-Yp3379,5/16/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,993.89,7,6957.23,0.15,Online Payment,Senior,Female,Beijing,Yang Jie
-OS2802,7/24/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,,154.08,2,308.16,0.1,Mobile Wallet,Young,Male,Beijing,Li Jun
-rw1652,10/22/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,,22.93,8,183.44,,Credit Card,Senior,Male,Guangzhou,Wang Hua
-KZ6606,11/22/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1943.2,7,13602.4,0.15,Debit Card,,Male,Guangzhou,
-ek0796,1/16/25,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,2.47,5,12.35,0,Debit Card,Young,Female,Beijing,Yang Wei
-nN5443,10/28/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,364.29,2,728.58,0.05,Mobile Wallet,Young,Male,Chengdu,Huang Fang
-af6012,11/11/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,,490.29,6,2941.74,0,Mobile Wallet,,Male,Shenzhen,Zhang Bo
-Tt3901,10/2/24,,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.99,,15.96,0,Cash,Young,Male,Shanghai,Chen Ming
-kv3040,7/15/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1965.28,8,15722.24,0,Debit Card,Young,Female,Beijing,Zhou Yan
-lv1712,9/16/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,0.8,4,3.2,0.15,Cash,Adult,Male,Guangzhou,Li Yan
-xB6573,11/25/24,China,d782244b-be2e-47bf-ae46-568696b46528,,Beverages,1.18,10,11.8,0.1,Debit Card,,Male,Chengdu,Wang Bo
-dV3550,6/13/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.36,10,13.6,0.1,Debit Card,Senior,Female,Beijing,Chen Fang
-hY2097,2/10/25,,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,,1850.17,4,7400.68,0.1,Online Payment,Young,Female,Guangzhou,Yang Hua
-xd5601,5/10/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,149.09,1,149.09,0.1,Debit Card,Young,Female,Guangzhou,Wang Lei
-ZT7560,5/10/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,22.84,1,22.84,0.15,Credit Card,Adult,Male,Shanghai,Huang Jun
-op5462,9/26/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1496.8,8,11974.4,0.05,Mobile Wallet,Adult,Female,Beijing,Huang Bo
-Hn4788,11/22/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1949.72,,19497.2,0.15,Online Payment,Senior,Female,Guangzhou,Zhou Hua
-vd1815,2/3/25,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,,2,134.46,0.1,Credit Card,Young,Female,Shenzhen,Wu Yan
-ZY3521,3/24/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1819.67,10,18196.7,0.2,Debit Card,Adult,Male,Beijing,Huang Fang
-tG0120,2/13/25,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,751.92,9,6767.28,0.05,,Adult,Female,Guangzhou,Zhao Bo
-XT7797,6/3/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,158.6,3,475.8,0.1,Online Payment,Adult,Female,Chengdu,Yang Wei
-TI0003,7/6/24,,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1678.54,7,11749.78,0.15,Credit Card,Young,,Shanghai,Yang Ming
-FG2903,10/14/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,79.2,5,396,0.05,Online Payment,Young,Female,Chengdu,Wu Lei
-vv1706,3/24/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1147.34,7,8031.38,0.05,Online Payment,Senior,Male,Shanghai,Liu Tao
-jt3845,3/30/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,800.96,2,1601.92,0,Cash,Senior,Male,Shanghai,Zhang Yan
-QO1334,12/31/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,111.28,7,778.96,0.2,Debit Card,,Male,Shenzhen,Zhao Jun
-gS8742,11/29/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1109.52,2,2219.04,0.15,Online Payment,Young,Female,Chengdu,Wang Hua
-pP8680,11/27/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,147.06,2,,0.1,Online Payment,Senior,Female,Shanghai,Li Jie
-hf2931,7/29/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,344.9,5,1724.5,0.2,Credit Card,Senior,Female,Shenzhen,Yang Fang
-mN9478,8/25/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,70.67,,565.36,,Mobile Wallet,Adult,Female,Beijing,Liu Wei
-lS9225,2/14/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,433.96,4,1735.84,0.15,Debit Card,Young,Male,Beijing,Wu Fang
-Dv7410,1/30/25,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2301.28,9,20711.52,0.1,Mobile Wallet,Adult,Female,Shanghai,Zhang Jun
-qJ0433,8/3/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,963.93,1,963.93,0.15,Credit Card,Adult,Male,,Wang Jun
-Uv6279,,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,315.92,5,,,Credit Card,Young,Male,Shanghai,Yang Tao
-hR9165,10/15/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1087.38,6,6524.28,0,Online Payment,Senior,Female,Shanghai,
-Fu3126,4/17/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,191.12,2,382.24,0.15,Mobile Wallet,,Male,Beijing,Wang Lei
-rd7563,1/16/25,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.39,2,8.78,0.05,Online Payment,Young,Male,Chengdu,Wu Lei
-sl6583,12/26/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,684.68,6,4108.08,0.2,Cash,Adult,Male,,Li Yan
-Nz6901,3/14/25,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,849.8,2,,0,,Adult,Female,Shenzhen,Yang Wei
-kR2909,6/28/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,116.96,,467.84,0.2,Online Payment,Adult,,Guangzhou,Yang Yan
-LH1931,4/29/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1115.92,4,4463.68,0.15,Cash,Adult,Male,Shanghai,Yang Hua
-Gl9677,4/11/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,86.11,1,86.11,0,Cash,Adult,Female,Guangzhou,Yang Ming
-mv5910,8/9/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,481.45,8,3851.6,0.05,Cash,,Male,Beijing,Wang Jie
-Nr1252,9/25/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1028.91,,6173.46,0.05,Mobile Wallet,Young,Female,Guangzhou,Chen Jie
-hC0199,6/4/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,0.68,,4.76,0.1,Online Payment,Senior,Male,Guangzhou,Wang Jun
-ok1944,5/3/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.68,10,46.8,0.1,Online Payment,Adult,Male,Beijing,Li Fang
-Fg0873,10/8/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,,Apparel,148.16,,,0.2,Cash,Young,Female,Shanghai,Li Bo
-Ny3734,8/31/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,119.37,6,716.22,0.1,Debit Card,Senior,Male,Shanghai,Yang Wei
-AS1288,9/14/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.85,3,11.55,0,Credit Card,Adult,Female,Chengdu,Zhang Wei
-qh3268,11/30/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,446.43,7,3125.01,0.2,Debit Card,Young,Male,Shenzhen,Zhang Fang
-KG1778,6/21/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1117.87,3,3353.61,0,Mobile Wallet,,Female,,Chen Wei
-fB1055,7/5/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,109.85,10,1098.5,,Credit Card,Senior,Female,,Zhou Hua
-lG0890,1/4/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,,9,4057.65,0.15,Credit Card,Senior,Male,Shenzhen,Wu Wei
-qO7753,3/23/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,1.62,10,16.2,0.1,Online Payment,Senior,Male,Beijing,Li Fang
-Qe1627,12/23/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1914.22,6,11485.32,0.15,Mobile Wallet,Adult,Female,Beijing,Zhang Ming
-Zi5971,11/4/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1123.19,4,4492.76,0.05,Online Payment,Adult,Female,Guangzhou,Chen Fang
-YZ4894,,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,36.53,10,365.3,0.05,Mobile Wallet,Senior,Male,Beijing,Huang Yan
-Xl0678,12/25/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.77,8,14.16,0,Debit Card,Young,Female,Guangzhou,Huang Jun
-zX2680,5/1/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,130,2,260,0.15,Debit Card,Adult,Female,Beijing,Zhao Hua
-Cv2904,6/8/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,114.09,9,1026.81,0.15,Debit Card,Adult,Male,Beijing,Li Hua
-bO1794,2/4/25,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,91.71,10,917.1,0.05,Credit Card,Young,Male,Guangzhou,Li Hua
-OL8211,5/19/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,344.35,,2066.1,0.2,Online Payment,Adult,Female,Chengdu,Zhou Fang
-WO7781,2/24/25,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1657.96,4,6631.84,0.05,Debit Card,Young,Male,Beijing,Zhang Fang
-sO7839,7/7/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,552.37,10,5523.7,0,Cash,Adult,Male,,Wang Jun
-qb0510,6/1/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,883.91,7,6187.37,0.1,Debit Card,Adult,Male,Shenzhen,Li Jie
-YM2441,5/16/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.43,6,,0.1,Online Payment,Adult,Female,Shanghai,
-Rv7136,11/17/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1135.72,8,9085.76,0,Debit Card,Young,Female,,Chen Wei
-OV9446,4/15/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1144.13,10,11441.3,0.05,Debit Card,Senior,Female,Guangzhou,Liu Bo
-wv0683,9/9/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,68.15,5,340.75,0.05,Cash,Young,Male,Shenzhen,Zhou Bo
-iV5748,8/7/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,69.31,1,69.31,0.15,,Adult,Female,Guangzhou,Wang Yan
-SW3807,2/3/25,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.36,1,3.36,0.1,Credit Card,Adult,Male,Beijing,
-rF4395,2/27/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,293.55,6,1761.3,0,Online Payment,Adult,Female,Shenzhen,Liu Wei
-dn2081,7/8/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,275.24,3,825.72,0.2,Cash,Adult,Male,Guangzhou,Yang Wei
-ON9244,8/31/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,,1555.01,5,7775.05,0.1,Debit Card,Young,Female,Chengdu,Yang Yan
-zI1861,12/2/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.38,3,4.14,0.05,Mobile Wallet,Adult,Male,Shanghai,Li Yan
-LF0405,12/11/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,117.33,9,1055.97,0.1,Online Payment,Senior,Male,Shenzhen,Zhao Wei
-Dd8981,8/17/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,,Electronics,1999.98,4,7999.92,0.05,Cash,Senior,Male,Shenzhen,Zhang Jun
-Dl4240,10/29/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.71,7,25.97,0.05,Cash,Young,Male,Beijing,Huang Tao
-zV7709,3/5/25,,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,97.53,6,585.18,0.05,Credit Card,,Male,Shanghai,Zhou Fang
-Yb6606,10/30/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.7,7,11.9,0.1,Online Payment,Senior,Female,Chengdu,Zhao Lei
-xF2129,7/11/24,,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.29,3,9.87,0.2,Mobile Wallet,Young,Male,Beijing,Liu Yan
-Rc4860,3/21/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,146.63,3,439.89,0.05,Mobile Wallet,Young,Female,Shanghai,Wang Jie
-hq8269,10/29/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,,2,246.4,0.1,Mobile Wallet,Senior,Female,Guangzhou,Wu Tao
-yt4819,6/14/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,184.63,2,369.26,0,Debit Card,Young,Female,Shenzhen,Zhang Jie
-ez3462,6/2/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,2.02,4,8.08,0.1,Debit Card,Senior,Female,Beijing,Chen Jie
-Hl8056,12/22/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1829.84,9,16468.56,0.05,Credit Card,Young,Female,Chengdu,Zhou Tao
-Sb0679,12/26/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,37.92,6,227.52,0.15,Debit Card,Adult,Female,Shanghai,Huang Ming
-sK7497,1/31/25,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.35,8,10.8,0,Debit Card,Adult,Female,Guangzhou,Zhang Hua
-vJ4107,3/10/25,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,159.27,2,318.54,0.1,Debit Card,Young,Female,Shanghai,Zhang Yan
-Jf1535,7/13/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,259.37,9,2334.33,0.05,Credit Card,Young,Female,Beijing,Li Tao
-Xa6068,4/12/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,,177.7,7,1243.9,0.2,Debit Card,Senior,Male,Shenzhen,Zhang Tao
-io7022,3/12/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,,453.38,,,0.15,Mobile Wallet,Senior,Female,,Wu Bo
-zr7528,4/8/24,,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2474.69,8,19797.52,0.1,Credit Card,Adult,Female,Shanghai,Li Wei
-Rd6411,9/17/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,,3,,0.15,Mobile Wallet,Senior,Female,,Wu Jun
-kQ7272,7/16/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,134.53,8,1076.24,0.2,Credit Card,Young,Female,Shenzhen,Zhou Fang
-fA8312,10/17/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,114.44,2,228.88,0.05,Cash,Young,Male,Chengdu,Liu Lei
-gP9027,11/12/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,141.11,1,141.11,0.05,Cash,Young,Male,Beijing,
-jd7861,8/8/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,407.02,5,2035.1,0.2,,Young,Female,Shanghai,Yang Wei
-fs1448,10/12/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,180.84,10,1808.4,0.1,Mobile Wallet,Senior,Female,Chengdu,Wu Wei
-gb8427,1/18/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,421.7,7,2951.9,0.2,Cash,Senior,Female,Beijing,Liu Lei
-cO9124,3/6/25,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,986.05,6,5916.3,0,Online Payment,Senior,Male,Shenzhen,
-sG5152,11/10/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,106.19,4,424.76,0.2,Online Payment,Adult,Female,Guangzhou,Chen Hua
-ZS1442,5/6/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,134.72,7,943.04,0,Cash,Adult,,Guangzhou,Li Fang
-bS9814,8/7/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.07,8,24.56,0.15,Credit Card,Adult,Male,Shanghai,Liu Hua
-mD4034,2/13/25,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,178.76,8,1430.08,0.1,Cash,Senior,Male,Guangzhou,Yang Wei
-FT6411,3/1/25,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,166.25,1,,0.15,Online Payment,Young,Female,Shenzhen,Liu Jun
-ei4122,6/22/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.34,8,26.72,0.05,,Senior,,Beijing,Wang Jie
-mS6773,11/22/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,,4.84,1,4.84,0.05,Online Payment,Young,Female,Shanghai,Zhou Yan
-pF4851,9/12/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,106.1,3,318.3,0,Online Payment,Senior,Male,,Yang Ming
-hd0024,4/15/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1009.32,,4037.28,0.15,Online Payment,Adult,Male,Shenzhen,
-RN9941,7/29/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2306.74,7,16147.18,0.1,Debit Card,Senior,Female,Shanghai,Liu Lei
-HP5590,8/20/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,949.9,8,,0.05,Cash,Young,Female,Shenzhen,Liu Wei
-BI3527,7/16/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,46.72,10,467.2,0.15,,Adult,Male,Guangzhou,Wu Wei
-Pz3628,6/20/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,401.49,2,802.98,0,Debit Card,Adult,Male,Guangzhou,Wu Tao
-ey3262,9/1/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,,4,3.84,0.2,Cash,Senior,Female,Shanghai,Chen Wei
-kx7027,8/6/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.27,2,2.54,0.15,Cash,Young,Male,Shanghai,Chen Tao
-qe8689,10/14/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1188.83,6,7132.98,0.2,Mobile Wallet,Adult,Female,Shenzhen,Huang Hua
-xB8478,6/26/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2000.64,6,12003.84,0.15,Mobile Wallet,,Male,Beijing,Zhao Jun
-vN5067,12/8/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,102.1,5,510.5,0.1,Credit Card,Young,Female,Beijing,Huang Hua
-CV7248,5/7/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,,1.7,2,3.4,0.1,Mobile Wallet,Senior,,Shenzhen,Chen Yan
-gP7301,4/3/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,69.29,5,346.45,0.2,Credit Card,Adult,Male,Beijing,Zhou Wei
-VK1015,5/19/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,,Footwear,173.06,2,346.12,0.05,Mobile Wallet,Adult,Female,Guangzhou,Huang Fang
-JL4729,9/29/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,37.63,3,112.89,0,Debit Card,Adult,Female,Shanghai,Liu Jun
-eF4920,3/27/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.95,6,11.7,0.1,Credit Card,Senior,Male,Shenzhen,Wang Wei
-hF3683,7/8/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,393.26,1,393.26,0.15,Online Payment,Senior,Female,Beijing,Wang Yan
-hm6345,2/25/25,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,0.6,3,1.8,,Mobile Wallet,Adult,Female,Chengdu,Zhao Tao
-CY9485,9/13/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,944.23,5,4721.15,0.2,Cash,Senior,Male,Shanghai,Wu Jie
-Ez7563,5/5/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,123.01,9,1107.09,0.1,Credit Card,Young,Male,Shanghai,Zhang Tao
-pV9770,11/1/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,809.11,8,,0.15,Mobile Wallet,Young,Female,Shanghai,Chen Jie
-hI9758,8/21/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,,1690.03,4,6760.12,0.2,Debit Card,Adult,Male,Beijing,Wang Yan
-qi7956,7/15/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,,,,1,109.02,0.15,,Senior,,Beijing,Zhao Lei
-FV0829,7/5/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,471.87,9,4246.83,0.05,Debit Card,Young,Male,Guangzhou,Chen Wei
-XN2844,11/26/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,99.88,8,799.04,0.1,Mobile Wallet,Young,Female,Shanghai,Wang Wei
-Ff1822,9/7/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1773.34,1,1773.34,0.1,Mobile Wallet,Adult,Male,Beijing,Liu Wei
-tM5580,8/24/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,2.07,10,20.7,0.2,Online Payment,Young,Female,Chengdu,Wang Yan
-RS2235,,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1334.92,4,5339.68,0.15,Mobile Wallet,Adult,Male,Shanghai,Huang Jie
-hP5200,10/24/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,263.32,9,2369.88,0.05,Debit Card,Young,Male,Shenzhen,Li Bo
-Rn5892,2/18/25,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,78.51,,471.06,0.05,Debit Card,Young,Female,Guangzhou,Wang Tao
-mq4179,4/14/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,178.58,5,892.9,0.1,Cash,Young,Female,Guangzhou,Li Jie
-fm1653,1/11/25,,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,288.67,3,866.01,0.15,Debit Card,Young,Female,Guangzhou,
-Le4455,3/8/25,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,73.63,8,589.04,0.05,Credit Card,Senior,Female,,Zhao Jun
-gt7089,3/24/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1299.87,4,5199.48,0.2,Cash,Adult,Male,,Li Jun
-zP3330,1/22/25,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,2.07,7,14.49,0,Credit Card,Senior,Female,Guangzhou,Liu Wei
-eK2197,4/6/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1089.06,4,4356.24,0.1,Mobile Wallet,,Male,Shenzhen,Chen Yan
-fK9616,11/16/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1615.58,8,12924.64,0.2,Mobile Wallet,Young,Female,Shenzhen,Wang Wei
-FW5835,2/2/25,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1145.94,6,6875.64,0.1,Credit Card,Senior,Female,Guangzhou,Chen Yan
-ny6417,,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,736.57,5,3682.85,0,,Young,Female,Guangzhou,Wang Hua
-dM8582,12/10/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1432.11,9,12888.99,0.1,Online Payment,Senior,Male,Shanghai,Zhao Ming
-mH3308,6/5/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,68.62,,274.48,0.15,Credit Card,Adult,Female,,Zhang Jie
-vc9564,9/1/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,51.09,4,204.36,,Credit Card,Adult,Female,Shenzhen,Li Tao
-HL5384,8/22/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,942.01,3,2826.03,0.05,Online Payment,Adult,Male,Chengdu,Liu Ming
-Vb4440,12/7/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,,4.86,1,4.86,0.1,Online Payment,Young,Female,Shenzhen,Wang Jun
-Nu1930,,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1455.84,4,5823.36,0,Cash,Adult,Male,Beijing,Huang Wei
-Ra2829,5/29/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,,23.16,5,115.8,0,Debit Card,Senior,Female,Guangzhou,Wu Ming
-cc5605,8/25/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,158.26,1,158.26,0,Mobile Wallet,Senior,Male,Beijing,Chen Tao
-bC3470,5/20/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,55.33,8,442.64,0.05,Debit Card,Senior,Female,Chengdu,Zhou Yan
-bG1633,2/14/25,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2487.01,1,2487.01,0.1,Credit Card,Adult,Male,Beijing,
-ER1564,10/14/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,338.26,3,1014.78,0,Mobile Wallet,Young,Male,Guangzhou,Zhou Jie
-TJ4290,8/6/24,,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1996.64,,9983.2,0.15,Mobile Wallet,Young,Female,Shanghai,Zhao Yan
-jX9257,5/17/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,68.04,3,204.12,0.1,Credit Card,Young,Female,Chengdu,Zhang Fang
-xS9093,9/24/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,121.69,8,973.52,0.05,Online Payment,Adult,Female,Shanghai,Zhao Jun
-Td0371,9/24/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,472.2,4,1888.8,,Mobile Wallet,Young,Male,Chengdu,
-eV4707,6/15/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.03,1,3.03,0.1,Credit Card,Adult,Female,Guangzhou,Li Bo
-gs3422,2/11/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,407.81,10,4078.1,0.1,Mobile Wallet,Adult,Male,Shenzhen,Zhang Bo
-dL5215,,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,1.62,9,14.58,0.2,Credit Card,Adult,Male,Guangzhou,Chen Jun
-Ah1463,6/3/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1085.72,4,4342.88,0.05,Debit Card,Young,Female,Beijing,Zhao Jun
-FD4008,3/6/25,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,831.67,10,8316.7,0.05,Cash,Senior,Male,,Zhang Bo
-Qv0224,,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,62.55,9,562.95,0,Debit Card,Young,Male,Guangzhou,Wang Yan
-YW1970,8/13/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,77.55,2,155.1,0.2,Mobile Wallet,Adult,Female,Chengdu,
-jF4302,12/12/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,102.29,2,204.58,0.1,Online Payment,Senior,Male,Shanghai,Chen Bo
-hg8017,8/12/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1724.57,9,15521.13,0.1,Online Payment,Young,Male,Shenzhen,Chen Tao
-EG1680,3/30/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,22.1,1,,0.15,Mobile Wallet,Senior,Female,Shanghai,Wang Jun
-zb2475,11/5/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,59.18,3,177.54,0.2,Credit Card,Young,Male,Guangzhou,Yang Jun
-jq4124,4/19/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.76,10,17.6,0.2,Online Payment,Senior,Female,Shanghai,Huang Jie
-Jh7564,2/19/25,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,46.79,2,93.58,0,Mobile Wallet,Adult,Male,Shanghai,Wang Jun
-sF0309,,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.51,1,1.51,0.2,Mobile Wallet,Young,Male,Shanghai,Wang Jie
-DC3527,5/14/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,73.89,3,221.67,0.1,,Senior,Female,Beijing,Li Lei
-zs2236,8/30/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,40.71,8,325.68,0,Credit Card,Senior,,Shenzhen,Liu Lei
-ok1828,5/13/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.4,6,8.4,0.15,Cash,Adult,,Guangzhou,Wu Bo
-DD8799,5/16/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2293.14,3,6879.42,0.1,Online Payment,Adult,Male,,Wu Ming
-qx9404,,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,21.76,3,65.28,0.05,Credit Card,Adult,Male,Guangzhou,Wu Hua
-cV4114,6/21/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,0.81,10,8.1,,Mobile Wallet,Adult,Female,Shanghai,Zhang Jie
-Et9212,9/21/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,227.69,2,455.38,0.15,Debit Card,Senior,Female,Beijing,Zhou Bo
-uk3398,7/19/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,565.19,10,5651.9,0.05,Cash,Senior,Male,Beijing,Wang Hua
-XN9692,7/21/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,1.91,1,1.91,0.05,Online Payment,Adult,Male,Shenzhen,
-GE2151,9/17/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1104.23,10,11042.3,0,Mobile Wallet,Young,Male,Shenzhen,Wu Ming
-hH5965,6/28/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1238.4,10,12384,0.05,Mobile Wallet,Senior,Male,Beijing,Zhang Hua
-yz9300,12/23/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,917.91,9,8261.19,0.1,Mobile Wallet,Senior,Female,Guangzhou,Chen Ming
-HY2362,7/21/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,,10,,0.2,Online Payment,Young,Female,Shanghai,Zhao Lei
-RF7387,8/29/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,,2,2043,0.15,Online Payment,Adult,Female,Chengdu,Liu Yan
-es1892,3/8/25,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,2.42,5,12.1,0.2,Mobile Wallet,Adult,Male,Guangzhou,Wang Jie
-vf2772,1/17/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,359.28,8,2874.24,0.15,Credit Card,,Male,Beijing,Liu Bo
-Tj6678,4/30/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1076.47,7,7535.29,0.15,Mobile Wallet,Adult,Male,Beijing,Huang Hua
-XX2285,1/5/25,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.64,6,21.84,0.15,Mobile Wallet,Adult,Male,Chengdu,Zhao Lei
-Xj4854,5/22/24,China,d782244b-be2e-47bf-ae46-568696b46528,,Beverages,1.61,6,9.66,0.1,Mobile Wallet,Adult,Male,Chengdu,Zhang Jun
-Rr6503,12/29/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,,5,1182.05,0.1,Online Payment,Senior,Female,Chengdu,Liu Bo
-Om7942,4/7/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,856.12,2,1712.24,0.15,Cash,Senior,,Chengdu,Liu Tao
-nD8196,4/11/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1324.52,10,13245.2,0.15,Cash,Young,Male,Chengdu,Li Bo
-Ld7572,3/23/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,0.5,5,2.5,0.2,Mobile Wallet,Adult,Female,Shenzhen,
-SS5221,11/24/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,45.23,7,316.61,0.1,Online Payment,Senior,Male,Chengdu,Chen Ming
-Mn6083,11/4/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.33,4,17.32,0.1,Debit Card,Young,Female,Shanghai,Zhou Yan
-we5347,9/26/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,2.34,8,18.72,0,Cash,Young,Male,,Wang Ming
-Ar0091,10/27/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2224.67,10,,0.2,Online Payment,Young,Male,Shanghai,Zhou Wei
-VM9935,12/6/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,34.47,8,275.76,0.1,Cash,Young,Female,Guangzhou,Zhang Hua
-Gx5395,10/9/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2387.63,7,16713.41,0.1,Debit Card,Young,Male,Shenzhen,Chen Bo
-ZK9661,,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1015.06,4,4060.24,0,,,Female,Guangzhou,Yang Yan
-nL7148,5/25/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,384.57,9,3461.13,0.15,Online Payment,Young,Male,Shenzhen,Zhou Fang
-Co6655,12/28/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1979.13,4,7916.52,0.15,Debit Card,Adult,Female,Shenzhen,Zhao Tao
-GJ6745,3/28/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,127.84,7,894.88,0,Debit Card,Senior,Male,Shenzhen,Zhang Wei
-jQ5603,10/14/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,81.89,9,737.01,0.1,Credit Card,Adult,Female,Guangzhou,Yang Bo
-qy9194,3/31/24,,c42be27e-7268-43a7-9b58-10816f93008c,,,49.52,2,,0.05,Online Payment,Senior,Female,Shenzhen,Zhou Wei
-rO2194,5/21/24,China,d782244b-be2e-47bf-ae46-568696b46528,,Beverages,1.57,5,7.85,0.15,Credit Card,Adult,Female,Shenzhen,Liu Yan
-Wr9201,6/9/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,792.24,,7130.16,0.2,Credit Card,Senior,Male,Chengdu,Wang Jun
-BU4756,4/3/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,,1.36,10,13.6,0,Mobile Wallet,Senior,,Shenzhen,Wu Fang
-oY9580,1/17/25,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1945.82,2,3891.64,0.15,Online Payment,Senior,Female,Shanghai,
-lX0266,1/11/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,264.61,1,264.61,0.15,Debit Card,Young,Male,Shenzhen,Wang Yan
-pi9115,10/2/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,38.82,5,194.1,0.15,Credit Card,Senior,Female,Beijing,Zhao Jun
-zW2111,1/24/25,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,105.34,5,526.7,0.1,Cash,Adult,,,Zhang Jun
-EK5834,5/25/24,,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,129.48,3,388.44,0.2,Credit Card,Adult,Male,Shanghai,Chen Tao
-sq3281,,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.12,3,9.36,0.1,Credit Card,Young,Female,Guangzhou,Zhao Bo
-zx3974,11/25/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,,350.67,1,350.67,0.1,Online Payment,Adult,Female,Shenzhen,Zhao Lei
-Hn8416,,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,897.78,3,2693.34,0.2,Mobile Wallet,Adult,Female,Shenzhen,Chen Fang
-mX0051,,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,133.17,5,665.85,0.2,Mobile Wallet,Young,Male,Chengdu,Chen Jie
-Qk8339,6/17/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.24,3,3.72,0.15,Cash,Senior,Male,Shenzhen,Zhang Hua
-ks6928,3/27/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,898.16,9,8083.44,0.05,,Young,Female,Beijing,Zhou Bo
-Cr8513,8/23/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,71.94,10,719.4,0.1,Debit Card,Young,Female,Shanghai,Zhao Ming
-uu8570,5/11/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,,5,2290.05,0.1,Mobile Wallet,Adult,Male,Shanghai,Wang Tao
-ka0629,5/31/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,35.32,4,141.28,0.05,Debit Card,Young,Male,Beijing,Liu Hua
-Lv1963,9/25/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,53.44,5,267.2,0.05,,Senior,Female,Shanghai,Liu Fang
-Nz3165,7/25/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,55.1,6,330.6,0.05,Cash,Senior,Male,Shenzhen,Wu Ming
-sW6211,6/29/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,2.3,3,6.9,0.15,Credit Card,Senior,Female,Guangzhou,Wu Ming
-KW0672,5/18/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.26,4,5.04,0.2,Credit Card,Senior,Female,Chengdu,Yang Hua
-jz8702,8/15/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,33.54,1,33.54,0.15,Debit Card,Young,,Guangzhou,Wu Bo
-UF8325,2/2/25,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.29,2,6.58,0.1,Credit Card,Adult,Female,Chengdu,Zhou Bo
-vx1771,12/25/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1007.73,9,9069.57,0.1,,Senior,Male,Shenzhen,Li Yan
-FZ8885,7/24/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,268.94,9,2420.46,0.2,Mobile Wallet,Young,Male,Shenzhen,Wu Tao
-dX2794,6/30/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,146.53,8,1172.24,0.1,Cash,Senior,Female,Chengdu,Zhang Jie
-qq9860,4/17/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,2.64,9,23.76,0.15,Mobile Wallet,Adult,Female,Shenzhen,Yang Wei
-og8880,10/16/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,,1,146.75,,Online Payment,,Male,Shenzhen,Zhang Lei
-gC1386,4/12/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,311.76,1,311.76,0.15,Mobile Wallet,Young,Female,Shanghai,Wang Wei
-Hf6134,4/24/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1770.51,8,14164.08,0.15,Debit Card,Senior,Female,Shanghai,Zhang Jie
-Ia6076,10/8/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,164.35,5,821.75,0.1,Debit Card,Adult,Male,Shenzhen,Li Jun
-VR6909,11/12/24,China,d782244b-be2e-47bf-ae46-568696b46528,,Beverages,1.36,7,9.52,0.05,Mobile Wallet,Adult,Female,Shanghai,Zhang Wei
-Te2993,3/18/25,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.54,10,15.4,0.05,Online Payment,Senior,Male,Shenzhen,Yang Ming
-IH6982,10/6/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2320.39,3,6961.17,0.1,Online Payment,Senior,Female,Chengdu,Huang Fang
-AA3700,12/1/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,114.96,5,574.8,0.2,Cash,Adult,Female,Shanghai,Zhou Jun
-dX8726,7/30/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,844.46,5,4222.3,0.05,Online Payment,Senior,Female,Chengdu,Chen Hua
-oD2336,2/24/25,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,179.25,6,1075.5,0.2,Online Payment,Adult,Male,Shenzhen,Zhou Jie
-tE4130,1/12/25,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,,8,258,0.05,Credit Card,Young,Female,Beijing,Wu Bo
-Ty1670,2/11/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,305.82,7,2140.74,0,Cash,Young,Male,Shanghai,Li Wei
-DM2651,1/24/25,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.28,1,1.28,0.1,Online Payment,Senior,Male,Shanghai,Zhou Tao
-Jd8387,7/15/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,285.59,4,1142.36,0.05,Cash,Adult,Female,Shenzhen,Wang Hua
-rG1874,5/25/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1696.11,8,13568.88,0.15,Credit Card,Young,Female,Shanghai,Huang Lei
-UD1863,5/23/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,131.01,3,393.03,0.05,Mobile Wallet,Young,Female,Shanghai,Huang Jun
-KS7221,12/19/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,,2443.94,7,17107.58,0.2,Credit Card,Adult,Female,Beijing,Wang Jun
-DD4838,9/20/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,1.91,3,5.73,0.2,Cash,Senior,Male,Beijing,Zhang Ming
-Cs4106,3/8/25,,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.36,3,13.08,0.2,Debit Card,Senior,Female,Shenzhen,Zhao Ming
-aa8328,12/1/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,0.89,4,3.56,0.15,Credit Card,Adult,Female,Guangzhou,Wu Ming
-FK1119,12/15/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,24.92,9,224.28,0.2,Credit Card,Senior,Female,Shanghai,Zhou Jun
-Kg3363,1/21/25,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1193.43,7,8354.01,0.05,Debit Card,Senior,Female,Chengdu,Zhang Lei
-ru0208,12/31/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.41,5,7.05,0.15,Cash,Adult,Male,Shenzhen,Zhang Yan
-SW0260,4/20/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.15,,4.15,0.1,,Adult,Male,Shanghai,Wang Tao
-lk7914,6/27/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,845.55,3,2536.65,0.2,Online Payment,Young,Female,Beijing,Li Tao
-EI3517,2/9/25,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,978.46,3,2935.38,0.1,Mobile Wallet,Young,Female,Shenzhen,Li Jie
-Kt4072,1/18/25,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1763.21,6,10579.26,0.1,Debit Card,Senior,Male,Shenzhen,Zhao Hua
-zJ3745,3/21/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1890.32,1,1890.32,0.1,Debit Card,Senior,Female,Beijing,Wu Bo
-ry4046,9/13/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,29.61,1,29.61,0,Debit Card,Adult,Male,Shanghai,Liu Lei
-PY2973,4/30/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2134.17,9,19207.53,,Credit Card,Adult,Female,Beijing,Chen Jun
-YX3497,8/21/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,73.92,7,517.44,,Cash,Senior,Male,Beijing,Chen Hua
-IX9575,7/15/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,580.71,5,2903.55,0.1,Cash,Senior,Male,Beijing,Zhao Tao
-Tg9543,3/11/25,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1324.22,7,9269.54,0.1,Online Payment,,Male,Guangzhou,Zhang Tao
-fF1422,9/2/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,325.77,8,2606.16,0.15,Cash,Senior,Male,Shenzhen,Yang Wei
-pq7954,8/6/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,942.89,4,3771.56,0.05,Cash,Young,Male,Beijing,Li Fang
-yZ6579,1/20/25,China,d782244b-be2e-47bf-ae46-568696b46528,,,0.81,6,4.86,0.05,Debit Card,,Female,Beijing,Zhao Bo
-Wa7433,6/6/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,504.84,1,504.84,0.2,Mobile Wallet,Senior,,Guangzhou,Yang Lei
-cz0522,1/24/25,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,33.94,2,67.88,0.1,Debit Card,Senior,Male,Chengdu,Liu Bo
-KY9189,4/29/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.07,5,20.35,0.1,Debit Card,Young,Male,Beijing,Zhang Bo
-gG4229,6/28/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,0.65,9,5.85,0.15,Cash,Young,Male,Shanghai,Zhou Lei
-Tm2978,7/26/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,115.26,2,230.52,0.15,,Senior,Male,Beijing,Wang Hua
-ry4956,10/27/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,60.17,2,120.34,0.1,Cash,Senior,Male,Beijing,Huang Hua
-RD7396,10/22/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.71,8,37.68,0,,Senior,Female,Shenzhen,Li Lei
-YY6621,2/24/25,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,147.2,4,588.8,0.05,Credit Card,Adult,Female,Beijing,Wu Jie
-ip0471,5/20/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,107.88,4,431.52,0,Online Payment,Adult,Male,Shenzhen,Zhang Lei
-XH5513,2/27/25,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,,1375.17,4,5500.68,0.1,Cash,Young,Female,Shanghai,Chen Yan
-Bv8342,8/13/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.53,8,12.24,0,Mobile Wallet,Young,Male,Guangzhou,Liu Yan
-Gg8579,5/29/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.68,2,3.36,0.1,Cash,Senior,Female,Chengdu,Wu Bo
-To2390,1/16/25,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,2.76,4,11.04,0.2,Mobile Wallet,Senior,Female,Beijing,Chen Bo
-qh6702,5/26/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,,1.44,8,11.52,0.2,Online Payment,Senior,Male,Guangzhou,Zhou Jie
-zi5036,8/29/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,1.8,9,16.2,0,Debit Card,Senior,Male,Shenzhen,Zhao Wei
-mv5689,7/19/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,403.5,2,807,0.2,Cash,Adult,Female,Chengdu,Liu Lei
-xL9098,6/7/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,718.18,5,3590.9,0.2,Cash,Adult,Female,Beijing,Li Tao
-XB3946,9/4/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,931.26,2,1862.52,0.15,Credit Card,Young,Male,Shanghai,Li Lei
-rf3480,2/19/25,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.67,10,16.7,0.2,Debit Card,Senior,Female,Shanghai,Liu Jie
-kX7528,1/14/25,,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,72,1,72,0.05,Credit Card,Senior,Female,Guangzhou,Li Bo
-DB9557,4/11/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,191.19,10,1911.9,0.05,Debit Card,Adult,Male,Chengdu,Yang Jun
-OC7885,1/30/25,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,24.39,5,121.95,0.1,Cash,Senior,Male,Shenzhen,Yang Wei
-IO4262,9/21/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,347.69,9,3129.21,0.05,Cash,Young,Male,Shanghai,Li Yan
-is0363,3/22/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,274.49,9,2470.41,0.15,Credit Card,Young,Male,Shenzhen,Wu Jie
-iA8353,1/19/25,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,298.89,4,1195.56,0,Cash,Adult,Male,Chengdu,Wang Jie
-SV0952,11/3/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.34,1,1.34,0,Cash,,Female,Beijing,Li Lei
-Ux7457,11/26/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1529.45,3,4588.35,0.1,Debit Card,Adult,Male,Shenzhen,Zhang Jie
-eP2445,1/6/25,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2425.7,9,21831.3,0.05,Debit Card,Young,Male,Beijing,Huang Ming
-dL0078,1/7/25,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1046.57,6,,0.15,,Adult,Female,Chengdu,Yang Wei
-Vr0280,4/18/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,692.23,8,5537.84,0.15,Online Payment,Adult,Female,Beijing,Zhao Hua
-nj2572,11/1/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,290.7,10,2907,0.15,Cash,Adult,,Chengdu,Wang Ming
-JK6705,7/13/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,274.74,4,1098.96,0,Online Payment,Adult,Male,Beijing,Huang Fang
-uc5328,12/16/24,,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.38,4,5.52,0,Online Payment,Adult,Female,Beijing,Huang Fang
-TK7788,4/6/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,147.63,10,1476.3,0.1,Mobile Wallet,Adult,Female,Guangzhou,Liu Lei
-QA5151,3/2/25,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1646.5,3,4939.5,0.1,Credit Card,Young,Male,Shenzhen,Wu Jun
-Ix0432,12/20/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1180.85,5,5904.25,0.15,Debit Card,Young,Female,Shanghai,Liu Ming
-Id9937,7/13/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,1.52,1,1.52,0.1,Debit Card,Senior,Female,Beijing,Liu Yan
-SZ8508,11/25/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,160.18,7,1121.26,0.15,Mobile Wallet,Young,Female,Chengdu,Liu Jun
-mf0176,3/1/25,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,174.41,,1569.69,0,Mobile Wallet,Adult,Male,Shanghai,
-LQ7826,10/20/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2496.47,9,22468.23,0.05,Online Payment,Adult,Male,Beijing,Zhao Jie
-Ku3710,8/7/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,,Electronics,1918.67,7,13430.69,0.1,Cash,Adult,Female,Beijing,Zhang Wei
-rq1841,3/17/25,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.88,1,4.88,0.05,Online Payment,Young,Female,Chengdu,Chen Jie
-VZ6788,4/25/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,2.01,1,2.01,0.05,Debit Card,Adult,Female,Guangzhou,Zhao Fang
-QR7562,6/6/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2215.28,7,15506.96,0.2,,Young,Female,Guangzhou,Wu Fang
-ej3223,12/10/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1013.34,8,8106.72,0.15,Debit Card,Young,Male,Beijing,Wang Tao
-jo9656,12/8/24,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.45,1,1.45,0.2,Online Payment,Adult,Male,Shenzhen,Huang Hua
-dD4973,1/18/25,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,314.17,10,3141.7,0.1,Mobile Wallet,Senior,Female,Beijing,Zhou Yan
-qp9854,7/20/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,147.94,9,1331.46,0.1,,Adult,Female,Guangzhou,Yang Wei
-KM2111,6/14/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,,96.21,7,673.47,0.2,Debit Card,Adult,Female,Chengdu,Zhao Fang
-af9571,2/6/25,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,184.97,3,554.91,0.2,Credit Card,Senior,Female,,Zhao Wei
-LH5542,5/3/24,,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1015.8,,6094.8,0.1,Credit Card,Senior,Male,Guangzhou,Liu Lei
-kU7783,2/15/25,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,95.03,8,760.24,0,Mobile Wallet,Adult,Male,Beijing,Zhou Ming
-Ss9145,8/30/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,145.14,9,1306.26,0.15,Credit Card,Adult,Male,Chengdu,Liu Ming
-fk8060,,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,291.62,2,583.24,0.2,Mobile Wallet,Senior,Male,Chengdu,Liu Hua
-Eq3063,9/16/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,,Apparel,86.04,3,258.12,0.15,Debit Card,Adult,Male,Beijing,Huang Hua
-jF3323,11/17/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,258.54,8,2068.32,0,Debit Card,Adult,Female,Guangzhou,Chen Ming
-sY3984,1/8/25,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,93.02,7,651.14,0.2,Cash,Young,Male,,Zhou Wei
-WP4829,7/15/24,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,871.32,8,6970.56,,Credit Card,Senior,Female,Shanghai,Wang Lei
-vV3532,7/29/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.03,5,20.15,0.1,Debit Card,Adult,Female,Guangzhou,Wu Hua
-ud8658,7/5/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,416.92,4,1667.68,0.2,Cash,Adult,Female,Guangzhou,Huang Yan
-rU4410,3/14/25,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,117.43,1,117.43,0.15,Credit Card,Young,Female,Shenzhen,Yang Jie
-rX8135,12/27/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,165.91,10,1659.1,0.2,Mobile Wallet,Young,Male,Beijing,Li Jun
-Bc9937,1/13/25,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,,2.28,4,9.12,0.1,Debit Card,Senior,Male,Guangzhou,Liu Jun
-Aw0318,6/24/24,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,2205.63,2,4411.26,0,Online Payment,Senior,Male,Guangzhou,Chen Fang
-lY2012,7/19/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,4.5,5,22.5,0.2,Credit Card,Young,Male,Beijing,Yang Wei
-cr2978,7/12/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.2,2,6.4,0.2,Cash,Senior,Female,Beijing,Li Lei
-rG2707,8/5/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,36.38,2,72.76,0.1,Debit Card,Senior,Female,Guangzhou,Wang Lei
-wn6625,11/15/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,1099.71,6,6598.26,0.15,Cash,Adult,Male,Chengdu,Li Hua
-gb5337,9/5/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,107.16,10,1071.6,,Debit Card,Young,Female,Shenzhen,Huang Fang
-vZ4723,2/19/25,China,0fbcdd6e-34b8-4ed6-9943-2327175934ed,Apple MacBook Pro,Electronics,1307.12,1,1307.12,0.05,Debit Card,Senior,Female,Guangzhou,Zhao Bo
-ij7420,9/3/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,2.13,8,17.04,0.15,Credit Card,Young,Male,Guangzhou,Zhou Bo
-sf1852,1/30/25,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,1152.12,5,5760.6,0.2,Cash,Young,Female,Guangzhou,Liu Yan
-LA5056,5/20/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,482.37,3,1447.11,0,Mobile Wallet,Senior,Male,Beijing,
-FT4128,4/27/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,289.05,10,2890.5,0.2,Mobile Wallet,Young,Male,Shanghai,Zhou Fang
-zc3161,8/22/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,233.59,3,700.77,0.05,Credit Card,Senior,Male,Shanghai,Zhao Jun
-ro9728,1/29/25,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,26.46,8,211.68,0.05,Online Payment,Young,Female,Chengdu,Zhao Wei
-jB7504,6/14/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,40.53,4,162.12,0.2,Mobile Wallet,Senior,Female,Guangzhou,Li Lei
-Xa1788,12/1/24,China,de4dfd12-8393-49ec-9b07-a93bc8cce560,KitchenAid Mixer,Home Appliances,414.81,4,1659.24,,Cash,Senior,Male,,Zhang Hua
-IC8348,4/10/24,China,53468ffa-18e0-4636-ba68-566ae72ee142,Doritos Chips,Snacks,3.72,7,26.04,0,Online Payment,Senior,Male,Shenzhen,
-im0829,3/30/24,China,40cb7cd4-b4f9-4271-82a0-d0fd5743639e,The North Face Jacket,Apparel,105.86,5,529.3,0.05,Online Payment,Senior,Male,Guangzhou,Zhang Fang
-YA7467,10/30/24,,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,66.66,4,266.64,0.1,Cash,Young,Female,Chengdu,Huang Wei
-nm7450,4/16/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,,10,725.3,0.15,Mobile Wallet,Young,Male,Shanghai,Chen Bo
-GI4610,2/21/25,China,d782244b-be2e-47bf-ae46-568696b46528,Coca-Cola Can,Beverages,1.55,1,1.55,0.1,Credit Card,Adult,Female,Beijing,Wang Wei
-Cx3068,1/24/25,China,a3bd0196-55f0-4145-92be-c3cd8d3d4d5f,iPhone 14,Electronics,929.17,7,6504.19,0.15,Online Payment,Adult,Female,Shenzhen,Liu Yan
-HX0983,3/19/25,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,67.55,4,270.2,0.2,Online Payment,Senior,Female,Shenzhen,Wu Fang
-Qs5048,6/1/24,China,7a0a8173-a5ed-4301-99b4-4eeb500dd30c,Nike Air Max,Footwear,124.01,3,372.03,0.15,Online Payment,Young,,Beijing,Zhao Jun
-tY7888,9/19/24,China,ecd6704a-4bf9-4e47-a506-7abeead7116a,Samsung QLED TV,Electronics,613.4,8,4907.2,0.05,Debit Card,Adult,Male,Chengdu,Chen Jie
-av2534,4/6/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,30.62,4,122.48,0.15,Debit Card,Adult,Female,Guangzhou,Liu Fang
-iE3204,5/28/24,China,4eb127dd-2035-401e-bc0e-cd95f7df4486,Levi's 501 Jeans,Apparel,67.05,1,67.05,0.1,Credit Card,Senior,Female,Guangzhou,Huang Tao
-YB5954,6/23/24,China,c42be27e-7268-43a7-9b58-10816f93008c,Yeti Tumbler,Outdoor,26.55,10,265.5,0.1,Cash,Adult,Male,Shanghai,Li Jun
+pN2544,8/24/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,810.13,1,501.76,0.15,Cash,Young,Female,Shanghai,Chen Bo
+DD8699,4/4/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.82,5,14.5,0.1,Mobile Wallet,Adult,Female,Shenzhen,Zhang Wei
+JF5072,1/17/25,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,74.72,3,151.53,0.15,Mobile Wallet,Senior,Male,Guangzhou,Zhang Jie
+ej7805,1/3/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,227.88,,,0.1,Mobile Wallet,Young,Male,Beijing,Li Bo
+Vz5774,3/13/25,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,,23,,0.15,Cash,Senior,Female,Guangzhou,Chen Tao
+Ui7582,3/7/25,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,152.61,1,101.66,0.2,Cash,Adult,Female,Shanghai,Zhang Bo
+qZ3859,3/18/25,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,422.31,2,543.96,0.05,Debit Card,Adult,Female,Beijing,Li Wei
+oc0909,10/24/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,224.74,2,375.92,0.2,Online Payment,Young,Male,Chengdu,Li Ming
+qj8903,3/3/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,248.79,2,390.8,0.05,Cash,Young,Female,Shenzhen,Chen Jie
+Be0194,9/12/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,78.53,1,53.43,0,Online Payment,Young,Male,Chengdu,Wang Ming
+PJ6955,5/5/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,53.09,3,117.93,0.1,Mobile Wallet,Adult,Female,Guangzhou,Wang Wei
+Le2633,8/7/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,55.36,4,145.08,0.15,Mobile Wallet,Young,Male,Chengdu,Chen Tao
+mZ7405,4/19/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1189.4,1,1009.69,0,Debit Card,Young,Female,Shanghai,Li Ming
+cD6835,5/11/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,47.95,2,73.62,0,Online Payment,Adult,Male,Shanghai,Li Jie
+Uk4403,9/25/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,357.52,1,229.75,0.2,Cash,Adult,Male,Guangzhou,Chen Wei
+ON1935,4/11/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,124.25,3,249.93,0.2,Mobile Wallet,Young,Female,Beijing,Chen Wei
+Xc2939,6/9/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.49,10,34.5,0,Credit Card,Young,Female,Shanghai,Wang Tao
+jF6013,6/20/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,936.44,2,1283.84,0,Credit Card,Senior,Female,Beijing,Liu Jie
+rN7673,8/8/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.14,9,7.65,0.05,Cash,Young,Male,Chengdu,Chen Bo
+FR7310,7/12/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.82,7,12.46,0.1,Credit Card,Senior,Female,Beijing,Liu Wei
+SY7272,2/25/25,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.97,3,7.44,0,Credit Card,Senior,Female,Shenzhen,Wang Ming
+EP1898,8/14/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.65,10,17.3,0.1,Online Payment,Young,Female,Guangzhou,Liu Wei
+SD7411,12/15/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.61,2,5.28,0.05,Credit Card,Senior,Male,Shenzhen,Zhang Tao
+Ky5344,5/11/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,378.56,2,574.36,0.15,Cash,Young,Male,Shenzhen,Chen Tao
+UU4104,3/22/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.83,4,12.64,0.15,Credit Card,Adult,Female,Beijing,Li Ming
+DT3751,8/13/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2206.42,1,1661.47,0.05,Mobile Wallet,Adult,Male,Shenzhen,Li Bo
+iS6395,7/8/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,176.75,3,428.52,0.1,Credit Card,Senior,Female,Chengdu,Chen Wei
+kN4302,11/18/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1032.98,1,773.07,0.2,Debit Card,Young,Male,Beijing,Liu Jie
+id6359,7/22/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,949.17,2,1549.62,0.05,Mobile Wallet,Senior,Male,Shenzhen,Chen Jie
+AW3637,1/19/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,138.01,1,91.46,0.2,Debit Card,Senior,Male,Chengdu,Chen Tao
+HM0376,10/6/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,62.4,4,186.56,0,Cash,Young,Female,Chengdu,Chen Tao
+Ts9365,11/20/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1160.03,1,967.75,0.2,Credit Card,Senior,Female,Shenzhen,Chen Ming
+Du3121,2/19/25,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,154.28,2,259.82,0.15,Debit Card,Senior,Female,Guangzhou,Chen Tao
+yP7243,7/24/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.13,8,17.28,0.05,Credit Card,Adult,Female,Guangzhou,Wang Ming
+Nd8431,1/6/25,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,73.47,2,92.4,0.05,Online Payment,Adult,Male,Beijing,Wang Bo
+RS0994,8/27/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,123.31,1,77.75,0.1,Credit Card,Senior,Male,Chengdu,Liu Bo
+bv6775,10/14/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.37,1,1.15,0.2,Debit Card,Adult,Female,Beijing,Li Ming
+ti3309,9/16/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,375.26,2,541.54,0.1,Cash,Adult,Female,Chengdu,Liu Ming
+mP8345,2/23/25,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,52.46,3,112.65,0,Cash,Young,Male,Shenzhen,Liu Bo
+nt5809,5/9/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,425.81,2,673.28,,Cash,Adult,Female,Chengdu,Chen Jie
+yY0143,6/19/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,26,2,34,0,Online Payment,Young,Female,Guangzhou,Liu Wei
+Dj3338,10/16/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,147.98,1,125.23,0.1,Credit Card,Adult,Female,Chengdu,Wang Ming
+sn8485,10/8/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.62,2,7,0.1,Credit Card,Adult,Female,Shanghai,Li Ming
+Pp8005,7/9/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,251.21,2,352.48,0.1,Cash,Senior,Male,Shenzhen,Liu Ming
+Oq1865,2/16/25,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,176.95,1,117.14,0,Debit Card,Young,Male,Guangzhou,Liu Jie
+zo0511,6/11/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.5,10,15.7,0.2,Mobile Wallet,Senior,Male,Shenzhen,Zhang Wei
+Ft0206,2/5/25,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,924.85,2,1119.06,0.05,Debit Card,Senior,Male,Shenzhen,Zhang Tao
+yM8509,10/1/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1081.15,1,751.77,0.1,Online Payment,Senior,Female,Shanghai,Li Tao
+BZ1810,4/8/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,,1,,0.1,Mobile Wallet,Senior,Male,Guangzhou,Chen Jie
+pT5459,12/25/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,56.13,1,39.92,0.15,Mobile Wallet,Adult,Female,Shanghai,Liu Bo
+vz7062,3/23/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1547.66,1,1258.56,0.15,Credit Card,Senior,Male,Shanghai,Chen Tao
+hI8939,3/8/25,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,27.58,1,17.38,0.2,Debit Card,Adult,Female,Beijing,Chen Bo
+Sy5708,12/29/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,312.57,2,400.24,0,Cash,Adult,Female,Beijing,Liu Jie
+Gq0823,5/17/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,179.14,1,116.07,0.1,Cash,Young,Male,Guangzhou,Chen Jie
+AM0147,11/1/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,151.08,3,307.38,0.2,Cash,Adult,Male,Guangzhou,Zhang Ming
+sK4171,7/6/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2021.04,1,1280.65,0.15,Mobile Wallet,Senior,Male,Beijing,Chen Jie
+sY6172,3/21/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1028.82,2,1594.28,0.2,Mobile Wallet,Senior,Male,Shanghai,Li Ming
+FJ0876,6/25/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,42.01,2,69.04,0.15,Mobile Wallet,Adult,Male,Shanghai,Li Wei
+LD2664,5/6/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,863.03,1,569.07,0.15,Mobile Wallet,Senior,Male,Shenzhen,Li Wei
+gE2709,11/29/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,77.38,3,180.15,0.05,Mobile Wallet,Young,Male,Shenzhen,Li Wei
+Ik5444,11/12/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,35.85,4,86.4,,Cash,Senior,Female,Guangzhou,Liu Ming
+fe9404,4/10/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,144.23,2,240.36,0.15,Mobile Wallet,Young,Male,Guangzhou,Liu Tao
+iS3770,4/14/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,907.24,2,1097.44,,Cash,Senior,Male,Shanghai,Li Jie
+uu8751,6/6/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,70.59,1,57.76,0.15,Debit Card,Adult,Female,Chengdu,Zhang Bo
+me5650,7/26/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.19,16,15.68,0.2,Mobile Wallet,Young,Female,Shanghai,Li Jie
+es6170,8/29/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.62,7,18.2,,Debit Card,Young,Male,Beijing,Chen Ming
+XJ1320,5/24/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,33.99,3,71.34,0.15,Credit Card,Young,Female,Shenzhen,Li Jie
+Qp9960,9/25/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1519.86,1,1048.83,0,Cash,Adult,Female,Guangzhou,Li Bo
+ne2434,6/30/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,74.65,2,103.78,0,Debit Card,Senior,Male,Shanghai,Wang Wei
+Td0584,7/27/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,272.59,1,191.14,0.2,Mobile Wallet,Senior,Female,Shanghai,Wang Jie
+oz7803,6/24/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,,2,,0.05,Debit Card,Senior,Male,Shanghai,Wang Jie
+NB7234,10/28/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,172.72,,,0.15,Cash,Adult,Male,Shanghai,Chen Jie
+ib1431,3/8/25,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,169.48,2,211.86,0.05,Mobile Wallet,Senior,Female,Guangzhou,Liu Tao
+sH8354,6/17/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1348.98,1,941.06,0.1,Cash,Young,Female,Guangzhou,Chen Jie
+pq2241,3/1/25,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,391.58,2,606.84,0.15,Mobile Wallet,Senior,Male,Guangzhou,Chen Ming
+NQ2938,12/9/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,,3,,0.05,Mobile Wallet,Adult,Male,Shenzhen,Chen Tao
+Ah2818,2/7/25,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,63.09,1,50.92,0.05,Credit Card,Senior,Female,Beijing,Chen Bo
+mz6468,4/2/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,25.7,4,85.32,0,Debit Card,Young,Male,Chengdu,Li Tao
+Kb7513,12/12/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,72.57,4,195.52,0,Online Payment,Senior,Female,Beijing,Li Bo
+eE4288,12/3/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,167.83,1,132.98,0.05,Online Payment,Adult,Female,Shanghai,Chen Wei
+AE9568,8/12/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,981.8,2,1290.94,0.15,Online Payment,Young,Male,Guangzhou,Liu Bo
+by6396,2/7/25,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.02,,,0.15,Mobile Wallet,Adult,Male,Shenzhen,Li Tao
+eS3301,10/16/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,68.92,1,45.26,0.1,Online Payment,Senior,Male,Beijing,Chen Jie
+In7459,10/15/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,56.6,3,102.93,0.15,Online Payment,Young,Female,Shenzhen,Chen Wei
+tq1466,10/21/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,170.39,1,142.93,0.2,Debit Card,Adult,Female,Chengdu,Wang Ming
+Pp4748,6/18/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,50.8,2,74.16,0.15,Credit Card,Senior,Male,Beijing,Liu Tao
+wF6178,12/10/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.1,2,6.28,0.2,Mobile Wallet,Young,Female,Shanghai,Li Tao
+xf6494,3/25/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,245.22,2,311.62,0,Debit Card,Senior,Male,Chengdu,Wang Jie
+cc7857,8/9/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,44.08,1,34.69,0.15,Online Payment,Senior,Male,Guangzhou,Li Tao
+OP5510,11/2/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,427.89,1,282.92,0.2,Cash,Senior,Male,Beijing,Li Jie
+vf9506,6/11/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,,1,,0.05,Credit Card,Young,Female,Shanghai,Chen Wei
+TU8574,12/19/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,998.42,1,676.99,0.1,Online Payment,Young,Female,Beijing,Liu Bo
+ma3025,5/31/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1644.6,1,1151.8,0.2,Mobile Wallet,Adult,Female,Shanghai,Zhang Jie
+Nr4702,5/4/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2229.43,1,1856.93,0.15,Cash,Adult,Female,Beijing,Zhang Wei
+Ou6596,12/15/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,1,,0.15,Debit Card,Adult,Male,Guangzhou,Li Jie
+EU0643,12/11/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1476.79,1,1104.12,0,Cash,Young,Female,Beijing,Wang Tao
+mp8388,2/18/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,233.18,2,319.82,0.2,Cash,Senior,Male,Beijing,Liu Tao
+JP5041,6/28/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1743.24,1,1233.9,0.05,Debit Card,Young,Female,Chengdu,Chen Wei
+ys4817,12/8/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1505.22,1,1194.43,0.15,Mobile Wallet,Adult,Male,Shanghai,Zhang Tao
+jQ1143,4/26/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,383.08,1,299.73,,Debit Card,Adult,Female,Beijing,Wang Bo
+aG7608,12/27/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,63.91,4,173.68,0.2,Debit Card,Young,Female,Shanghai,Li Wei
+Ws1875,8/12/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,33.32,3,60.24,0.1,Debit Card,Adult,Female,Shenzhen,Wang Jie
+Pf3627,9/2/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1145.32,1,879.34,0.05,Debit Card,Young,Female,Shenzhen,Chen Tao
+nY8715,12/28/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,165.56,2,266.9,0.05,Online Payment,Adult,Female,Chengdu,Chen Tao
+Ty7950,5/25/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.87,9,28.8,0.1,Online Payment,Senior,Male,Guangzhou,Wang Tao
+Yo6809,5/23/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,67.87,1,51.86,0.15,Mobile Wallet,Young,Male,Shenzhen,Li Tao
+CF2777,2/12/25,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,68.07,1,43.39,0,Online Payment,Young,Female,Chengdu,Liu Jie
+pi5038,11/5/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,135.99,3,308.1,0.05,Mobile Wallet,Young,Female,Guangzhou,Zhang Ming
+tv2926,6/3/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,145.04,1,101.47,0.2,Cash,Adult,Female,Shanghai,Wang Tao
+Ab5053,8/14/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,978.7,1,620.82,0,Mobile Wallet,Senior,Female,Shanghai,Wang Tao
+Wf1052,1/27/25,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,28.18,2,34.18,0.1,Mobile Wallet,Adult,Male,Shenzhen,Zhang Ming
+UV7898,7/10/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2211.95,1,1510.1,0.05,Online Payment,Young,Female,Guangzhou,Wang Jie
+Ra7712,9/25/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1493.43,1,1121.95,0.1,Mobile Wallet,Adult,Female,Shanghai,Zhang Wei
+kU3889,11/29/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,315.79,1,232.22,0.15,Cash,Senior,Male,Guangzhou,Liu Wei
+AH7007,8/1/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.25,21,17.43,0.15,Debit Card,Senior,Male,Guangzhou,Li Bo
+wd1806,1/12/25,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,,1,,0.05,Credit Card,Adult,Male,Chengdu,Zhang Wei
+nY9317,1/11/25,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.44,7,21.28,0.1,Cash,Young,Female,Beijing,Zhang Tao
+JT8186,8/16/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.87,9,23.67,0.2,Online Payment,Young,Female,Chengdu,Liu Bo
+id7003,7/1/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2493.59,1,1496.72,0.05,Debit Card,Young,Female,Shenzhen,Liu Ming
+Zg6275,11/27/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,29.71,4,82.24,0.1,Cash,Young,Male,Beijing,Zhang Bo
+nI6173,6/15/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,793,1,666.79,0.05,Credit Card,Adult,Female,Shanghai,Chen Bo
+bl5562,7/17/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,965.92,1,818.37,0.05,Debit Card,Young,Female,Shanghai,Li Jie
+PJ0036,1/17/25,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1020.55,2,1630.8,0.1,Debit Card,Adult,Male,Shanghai,Chen Jie
+eY6379,2/24/25,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1015.56,1,829.24,0.1,Cash,Young,Male,Chengdu,Wang Jie
+wa8789,12/1/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.72,10,18.3,0,Mobile Wallet,Senior,Female,Chengdu,Zhang Tao
+Ei1505,1/18/25,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1050.81,2,1406.74,0.05,Cash,Adult,Female,Guangzhou,Li Tao
+rj4544,4/15/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,440.51,2,632.9,0.15,Credit Card,Senior,Male,Guangzhou,Zhang Wei
+Vz8817,12/16/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,57.22,4,159.28,0,Debit Card,Senior,Male,Beijing,Chen Jie
+cW4736,12/23/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,369.33,2,576.54,0.1,Online Payment,Adult,Female,Guangzhou,Liu Bo
+qU3005,7/14/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,945.31,1,695.92,0.1,Credit Card,Adult,Female,Shenzhen,Zhang Ming
+kg7719,7/3/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1106.59,1,759.78,,Credit Card,Adult,Male,Shenzhen,Wang Tao
+ei9666,6/7/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,419.18,2,661.86,0,Online Payment,Senior,Male,Shenzhen,Li Wei
+tN8361,2/11/25,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,154.08,2,251.8,0,Debit Card,Senior,Male,Beijing,Li Jie
+Za9106,5/27/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,879.85,1,539.11,0,Online Payment,Adult,Female,Guangzhou,Zhang Ming
+zj9931,7/16/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,66.27,4,218.2,0.2,Debit Card,Adult,Male,Shenzhen,Chen Tao
+nb5229,12/16/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,955.99,2,1618.04,0.2,Debit Card,Young,Male,Shenzhen,Zhang Bo
+fO4800,10/23/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1084.44,1,687.22,0.2,Debit Card,Young,Female,Shenzhen,Zhang Ming
+Fq6671,8/4/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,,1,,0.05,Debit Card,Young,Female,Chengdu,Chen Bo
+yu9839,12/28/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,65.89,4,162.36,0.15,Cash,Senior,Male,Shenzhen,Liu Jie
+Zs6042,4/11/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,149.87,1,99.66,0.15,Mobile Wallet,Senior,Female,Beijing,Zhang Wei
+qA0853,8/1/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,226.4,2,282.84,,Mobile Wallet,Senior,Male,Beijing,Wang Bo
+uW6139,10/30/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,72.21,2,103.02,0.05,Mobile Wallet,Adult,Male,Shenzhen,Liu Bo
+TT5607,3/19/25,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,139.87,1,115.21,0.15,Credit Card,Young,Male,Shenzhen,Liu Bo
+qA2708,11/3/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1046.37,1,791.66,0.05,Online Payment,Senior,Female,Chengdu,Wang Wei
+uX3407,5/4/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,446.84,2,680.14,0.15,Debit Card,Young,Female,Shenzhen,Zhang Ming
+tw8684,12/27/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1314.08,1,796.66,0.15,Online Payment,Young,Female,Chengdu,Li Tao
+Wp2551,11/15/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,340.25,2,420.78,0.05,Cash,Adult,Female,Chengdu,Zhang Wei
+KW9928,12/31/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,146.88,1,94.28,0.15,Mobile Wallet,Adult,Female,Guangzhou,Chen Wei
+Mn4751,4/24/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2248.24,1,1619.9,0,Cash,Senior,Male,Guangzhou,Wang Ming
+YB6545,8/16/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,995.78,2,1409.12,0.2,Debit Card,Young,Female,Chengdu,Wang Wei
+sT4912,7/15/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1846.37,1,1207.49,0,Debit Card,Young,Female,Beijing,Liu Tao
+Su3684,6/12/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,71.59,,,0.05,Debit Card,Adult,Male,Chengdu,Zhang Bo
+FS0880,9/29/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,240.79,1,172.34,0.05,Mobile Wallet,Adult,Male,Shenzhen,Zhang Ming
+kN1052,1/5/25,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1436.28,1,1170.69,0,Cash,Young,Male,Shanghai,Liu Wei
+AH0643,8/8/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1411.49,1,886.77,0.15,Debit Card,Young,Female,Shanghai,Li Bo
+LV9495,12/10/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.35,9,8.1,0,Credit Card,Adult,Male,Beijing,Liu Tao
+tB0822,5/27/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1083.98,,,0.1,Cash,Young,Male,Shenzhen,Liu Tao
+UX9413,4/10/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1444.01,1,1067.96,0.15,Online Payment,Adult,Male,Guangzhou,Li Jie
+WA0784,4/13/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.41,3,3.3,0.05,Debit Card,Young,Male,Guangzhou,Zhang Wei
+zZ4218,9/3/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,175.34,3,337.26,0,Online Payment,Adult,Male,Guangzhou,Wang Tao
+rN1000,8/8/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,48.27,4,151.96,0.15,Debit Card,Adult,Female,Chengdu,Zhang Tao
+mi7820,6/14/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.46,10,30.6,0.05,Debit Card,Young,Female,Beijing,Li Tao
+GE5546,12/7/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,63.6,1,44.25,0.1,Credit Card,Adult,Female,Guangzhou,Zhang Bo
+QS3762,10/3/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,324.31,1,226.26,0.2,Credit Card,Senior,Male,Shanghai,Zhang Jie
+qa3906,12/7/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,0.99,21,14.49,0.15,Cash,Adult,Male,Chengdu,Liu Jie
+FW5652,7/5/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,126.73,3,258.72,0.2,Online Payment,Senior,Female,Shenzhen,Li Ming
+Qi4510,5/14/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.36,9,24.21,0.1,Cash,Adult,Male,Shenzhen,Liu Bo
+DO1818,12/25/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.86,5,12,0,Credit Card,Adult,Female,Shenzhen,Liu Tao
+Cc2578,4/1/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,49.26,3,105.6,0,Debit Card,Adult,Male,Beijing,Chen Wei
+lX9075,11/29/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.44,24,28.56,0.15,Cash,Senior,Male,Chengdu,Li Tao
+xH9359,6/7/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,76.53,3,194.46,0.1,Mobile Wallet,Young,Male,Guangzhou,Liu Ming
+Gp4148,8/27/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1763.37,1,1239.88,0.05,Credit Card,Adult,Male,Chengdu,Wang Tao
+ZP5399,12/17/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,34.53,2,42.78,0.15,Mobile Wallet,Adult,Female,Chengdu,Chen Wei
+Xa0752,8/16/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.09,12,9.6,0.1,Credit Card,Young,Female,Chengdu,Liu Tao
+TB1120,7/2/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2186.95,1,1452.19,,Online Payment,Young,Female,Shenzhen,Zhang Bo
+lw3962,7/14/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2064.67,1,1551.99,,Cash,Senior,Male,Shenzhen,Liu Jie
+Mv0255,3/14/25,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1096.85,1,757.33,0,Debit Card,Young,Male,Beijing,Zhang Wei
+vM6035,5/4/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,63.15,,,0.05,Online Payment,Young,Female,Shanghai,Chen Ming
+yP3286,5/9/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,35.11,1,26.4,0.2,Credit Card,Senior,Female,Shenzhen,Zhang Bo
+pK7660,11/20/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,72.67,,,,Online Payment,Young,Male,Shanghai,Chen Ming
+yc5893,3/20/25,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.03,20,12.8,0.15,Debit Card,Young,Female,Guangzhou,Li Ming
+JF0583,5/5/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,1,,0.2,Online Payment,Adult,Female,Guangzhou,Wang Tao
+Fa9375,11/6/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1045.09,1,692.81,0.15,Debit Card,Young,Female,Shanghai,Zhang Wei
+hV9579,2/8/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,197.14,2,269.74,0.05,Cash,Young,Female,Shenzhen,Zhang Wei
+qW6549,10/11/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.64,10,16,0,Credit Card,Young,Male,Shanghai,Liu Bo
+ye1684,3/26/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.24,13,11.44,0.2,Online Payment,Young,Male,Beijing,Wang Tao
+yn7928,12/24/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.63,5,9.4,0.05,Credit Card,Adult,Female,Guangzhou,Chen Ming
+vi5595,9/19/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,69.74,2,94.64,0.2,Credit Card,Young,Female,Guangzhou,Wang Wei
+fm1606,11/20/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,48.41,4,163,0.1,Debit Card,Young,Male,Shenzhen,Zhang Jie
+qn9982,11/6/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1017.02,1,693.22,0,Online Payment,Senior,Female,Beijing,Zhang Wei
+KG5612,4/9/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,61.4,2,82.52,0.15,Online Payment,Young,Male,Chengdu,Liu Jie
+EV6414,8/30/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,32.24,3,76.02,0.15,Cash,Adult,Female,Shanghai,Chen Ming
+Gz4160,12/30/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.37,1,0.88,,Mobile Wallet,Adult,Female,Shenzhen,Li Wei
+xB7331,1/18/25,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,969.51,1,773.45,0.2,Cash,Senior,Female,Guangzhou,Zhang Bo
+Nm1500,11/28/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,166.27,2,239.96,0.05,Debit Card,Senior,Male,Shenzhen,Zhang Wei
+uK3485,1/1/25,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.64,9,25.65,0.2,Online Payment,Adult,Female,Chengdu,Liu Jie
+ye3096,2/3/25,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,33.49,3,60.72,0.1,Cash,Adult,Female,Beijing,Chen Wei
+aE2749,10/5/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,46.1,4,153.52,0.1,Online Payment,Young,Male,Shenzhen,Chen Ming
+bx5966,1/9/25,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.28,14,13.86,0.15,Debit Card,Adult,Female,Shenzhen,Chen Bo
+LG7124,9/26/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,129.86,1,83.82,0.2,Cash,Young,Male,Shanghai,Chen Ming
+eL1926,11/28/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,73.01,1,47.42,,Mobile Wallet,Senior,Male,Shenzhen,Liu Ming
+AI9184,12/19/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,38.15,1,25.32,0.15,Debit Card,Senior,Female,Shanghai,Zhang Jie
+Eh5610,2/28/25,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,134.36,3,277.23,0.05,Credit Card,Adult,Female,Guangzhou,Liu Wei
+kj3325,6/7/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.36,2,6.14,0,Credit Card,Senior,Male,Chengdu,Li Bo
+GQ1140,8/20/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,448.84,1,347.3,0,Mobile Wallet,Senior,Female,Guangzhou,Zhang Wei
+ox5775,3/30/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,1,,0.15,Credit Card,Young,Male,Guangzhou,Li Tao
+vD5958,7/7/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,54.85,3,139.65,,Cash,Senior,Male,Shenzhen,Li Jie
+JP0934,1/27/25,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.06,21,18.48,0.05,Credit Card,Senior,Female,Shanghai,Wang Ming
+VT1522,6/24/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2403.47,1,1476.81,0.1,Cash,Young,Male,Chengdu,Li Wei
+Wh3991,7/5/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1849.04,1,1384.86,0.1,Cash,Adult,Male,Shenzhen,Zhang Wei
+kf9037,9/23/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,63.44,4,178.64,0.15,Debit Card,Senior,Female,Beijing,Zhang Wei
+Dj7065,5/24/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1050.18,2,1654.56,0.1,Mobile Wallet,Adult,Female,Shanghai,Wang Ming
+Uj1698,3/29/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1000.1,1,644.98,0.05,Debit Card,Adult,Male,Beijing,Liu Wei
+ea2531,9/5/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,61.53,3,118.86,0.05,Cash,Adult,Female,Shanghai,Liu Wei
+Jf8086,6/4/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,25.38,4,85.72,0.05,Mobile Wallet,Young,Male,Shanghai,Liu Jie
+sx1233,8/22/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2350.04,1,1496.91,0.1,Mobile Wallet,Adult,Male,Guangzhou,Zhang Jie
+Hp4810,9/15/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,120.61,3,241.56,0.05,Online Payment,Senior,Male,Shenzhen,Li Jie
+tt8684,7/30/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,393.21,1,323.5,0,Credit Card,Young,Female,Guangzhou,Li Tao
+Ww7881,2/11/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,216.95,1,170.19,0,Mobile Wallet,Senior,Male,Shenzhen,Chen Wei
+AP5611,11/4/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.12,2,1.46,0,Online Payment,Young,Male,Shenzhen,Chen Bo
+et0658,10/28/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,367.25,1,252.73,0,Online Payment,Young,Male,Beijing,Chen Tao
+sU1691,4/22/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,947.19,2,1589.02,0,Cash,Senior,Male,Chengdu,Wang Wei
+hG9689,6/28/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,203.91,1,132.27,0.2,Cash,Young,Male,Guangzhou,Wang Bo
+WS6418,3/19/25,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,72.34,4,238.16,0.2,Mobile Wallet,Young,Female,Beijing,Chen Bo
+qW1466,9/21/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,,9,,0.15,Credit Card,Senior,Male,Shenzhen,Li Tao
+YU2434,2/28/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,139.93,2,209.48,0.15,Mobile Wallet,Adult,Male,Guangzhou,Liu Jie
+Xr3260,8/15/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.12,12,9.24,0.2,Debit Card,Young,Male,Chengdu,Zhang Tao
+Ip9151,12/3/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,26.3,3,48.21,0.05,Mobile Wallet,Senior,Male,Guangzhou,Chen Wei
+GC9359,12/3/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,48.89,3,109.83,0,Mobile Wallet,Adult,Female,Shanghai,Li Jie
+oM5430,3/16/25,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2094.38,1,1269.22,0.1,Debit Card,Senior,Male,Shenzhen,Wang Ming
+pL5447,5/2/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,132.23,2,222.88,0.1,Cash,Senior,Male,Guangzhou,Chen Wei
+Qn0014,1/22/25,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,421.78,2,670.36,,Credit Card,Young,Female,Guangzhou,Liu Ming
+PU2348,9/1/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,149.37,3,337.47,0.1,Debit Card,Adult,Female,Beijing,Wang Jie
+gX0970,3/25/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.21,3,7.86,0.2,Cash,Young,Female,Chengdu,Liu Wei
+vM5131,6/8/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2041.4,1,1469.09,0.2,Debit Card,Young,Male,Shenzhen,Liu Jie
+DV9938,8/21/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,25.83,3,64.26,0.15,Cash,Adult,Male,Shenzhen,Chen Jie
+SP5905,2/19/25,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.16,3,7.17,0.1,Debit Card,Young,Female,Shanghai,Wang Tao
+pp0938,11/29/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1261.06,1,877.15,0.2,Debit Card,Adult,Female,Guangzhou,Li Bo
+hM3430,2/28/25,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1730.19,1,1243.53,0.2,Debit Card,Young,Male,Beijing,Chen Ming
+Dz0609,5/5/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,376.68,2,564.54,0.15,Cash,Adult,Male,Guangzhou,Wang Bo
+NM2749,2/27/25,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1067.72,2,1561.24,0,Cash,Adult,Male,Shanghai,Chen Ming
+JH4158,6/10/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,165.93,1,105.34,,Cash,Senior,Female,Shenzhen,Chen Ming
+NH6588,11/18/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,991.99,1,732.16,0.15,Debit Card,Adult,Male,Shanghai,Wang Jie
+kG5165,2/8/25,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2432.43,1,1558.63,0.05,Online Payment,Senior,Male,Guangzhou,Chen Bo
+gT0933,3/30/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,235.11,1,180.12,0.2,Mobile Wallet,Senior,Male,Beijing,Chen Jie
+no7054,9/13/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1228.94,1,988.27,0.15,Mobile Wallet,Young,Female,Shanghai,Liu Wei
+ag7842,1/18/25,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,78.72,4,210,0,Credit Card,Senior,Female,Beijing,Wang Tao
+sV6457,12/27/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,384.57,2,650.68,0.05,Credit Card,Senior,Male,Beijing,Liu Jie
+mS7758,2/8/25,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,960.28,1,648.97,0.2,Cash,Young,Female,Shanghai,Wang Bo
+Fw1754,10/25/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,951,2,1319.82,0.05,Credit Card,Adult,Female,Guangzhou,Chen Wei
+gI2801,9/22/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,78.02,2,119.06,0.2,Debit Card,Adult,Male,Chengdu,Wang Tao
+mo2358,11/12/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.67,1,2,0,Mobile Wallet,Senior,Female,Shanghai,Wang Ming
+sx6673,8/7/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,909.16,2,1503.24,0.2,Mobile Wallet,Adult,Female,Chengdu,Li Tao
+sY8962,1/20/25,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,133.38,2,194.18,0.05,Mobile Wallet,Young,Female,Shenzhen,Zhang Bo
+Mi3223,8/29/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,832.63,,,0.05,Mobile Wallet,Young,Male,Guangzhou,Li Jie
+tU6216,8/4/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2333.02,1,1848.46,0.15,Debit Card,Adult,Female,Shenzhen,Zhang Ming
+OG0245,12/12/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.43,,,0.05,Credit Card,Young,Female,Shanghai,Zhang Tao
+Tc8318,5/4/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,311.26,1,192.37,0.2,Cash,Young,Female,Shenzhen,Zhang Jie
+qx3727,4/26/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1,21,16.38,0.05,Credit Card,Young,Male,Chengdu,Chen Tao
+Zb4788,5/28/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,66.77,3,129.15,0,Online Payment,Senior,Female,Chengdu,Chen Ming
+Qo9003,9/20/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1503.17,1,1179.54,0,Online Payment,Young,Female,Chengdu,Li Jie
+df3461,8/31/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,365.47,2,567.62,0,Credit Card,Young,Female,Guangzhou,Li Jie
+Cv4409,4/18/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,859.23,1,598.58,0.15,Cash,Adult,Male,Beijing,Chen Ming
+UR0204,4/16/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.75,2,3.84,0.05,Cash,Adult,Male,Shenzhen,Wang Tao
+sf5713,3/7/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,147.09,2,212.74,0.2,Debit Card,Adult,Male,Guangzhou,Li Wei
+vg4016,5/8/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,,2,,0.05,Mobile Wallet,Adult,Male,Guangzhou,Chen Wei
+Yb9100,4/27/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,268.47,2,416.14,0,Credit Card,Adult,Male,Shenzhen,Chen Ming
+km4058,2/14/25,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,54.76,2,81.14,0.1,Cash,Young,Male,Beijing,Li Tao
+Id6005,3/18/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,136.33,2,164.7,0.1,Cash,Young,Male,Beijing,Wang Jie
+IJ6425,2/4/25,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1078.42,1,879.76,0,Cash,Young,Female,Chengdu,Liu Ming
+zU7293,9/18/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,912.88,2,1486.14,0.1,Cash,Adult,Male,Chengdu,Wang Wei
+Fw5396,7/28/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.48,8,7.68,0.05,Credit Card,Young,Male,Shenzhen,Chen Jie
+nk5406,7/12/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,350.87,1,279.68,,Credit Card,Senior,Female,Chengdu,Liu Jie
+Hn8455,1/16/25,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,31.15,4,104.56,0.2,Debit Card,Senior,Female,Shanghai,Chen Wei
+YU4206,3/30/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,168.67,3,313.53,0.05,Online Payment,Adult,Female,Chengdu,Li Wei
+gU4668,9/12/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1078.09,2,1321.86,0,Cash,Adult,Male,Guangzhou,Chen Ming
+Wn2881,4/16/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1988.46,1,1481.26,0.1,Online Payment,Adult,Male,Shanghai,Wang Tao
+Lp7353,6/2/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,220.3,1,147.78,0.1,Mobile Wallet,Young,Female,Guangzhou,Chen Wei
+TY8559,3/6/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,204.53,2,306.62,0.05,Credit Card,Adult,Male,Beijing,Chen Wei
+Np0362,9/8/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.64,4,11.52,,Cash,Adult,Male,Beijing,Chen Wei
+yg5045,8/17/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,124.42,2,176.42,0.05,Debit Card,Adult,Male,Shanghai,Chen Wei
+wt0635,4/3/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,27.6,1,20.74,0,Debit Card,Young,Male,Shanghai,Zhang Bo
+CD2156,8/16/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,262.43,2,361.38,0.15,Cash,Senior,Male,Shanghai,Li Ming
+GE8755,6/26/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.69,7,19.46,0.15,Mobile Wallet,Senior,Female,Shenzhen,Zhang Ming
+xK8504,5/10/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,322.46,2,512.06,0.2,Mobile Wallet,Young,Male,Shanghai,Chen Tao
+lb4346,6/16/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,127.45,3,272.1,0.1,Cash,Adult,Female,Guangzhou,Wang Jie
+NY3326,8/27/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,28.91,1,17.82,,Credit Card,Adult,Male,Shenzhen,Chen Tao
+eC0198,10/30/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1026.83,,,0.2,Credit Card,Senior,Male,Shenzhen,Zhang Tao
+Dh8936,4/1/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,386.14,1,256.65,0.15,Cash,Adult,Female,Guangzhou,Zhang Ming
+On2679,2/13/25,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1487.63,1,1069.4,0.15,Online Payment,Young,Female,Shenzhen,Liu Bo
+LP1722,5/4/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,76.66,3,162.84,,Mobile Wallet,Adult,Male,Guangzhou,Li Jie
+Hz2087,8/26/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,954.18,1,592.78,0.2,Debit Card,Young,Male,Beijing,Liu Jie
+Ar8371,12/1/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.01,16,11.68,0.15,Online Payment,Young,Male,Guangzhou,Liu Jie
+hd2321,1/25/25,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1146.43,1,939.42,0.05,Online Payment,Young,Female,Guangzhou,Wang Wei
+be2421,7/30/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,26.9,2,35.08,0,Debit Card,Adult,Female,Shanghai,Li Wei
+BN3598,3/16/25,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,56.35,2,81.42,0.15,Online Payment,Adult,Female,Guangzhou,Li Ming
+qo1278,4/14/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,943.77,1,771.68,0.05,Cash,Adult,Female,Guangzhou,Wang Jie
+LV6339,5/15/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1424.15,1,1053.01,,Credit Card,Adult,Male,Shenzhen,Li Ming
+FS8219,3/12/25,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.23,9,7.11,0.05,Mobile Wallet,Senior,Female,Chengdu,Liu Wei
+cf9963,1/7/25,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,349.91,1,256.43,0.15,Online Payment,Adult,Male,Shenzhen,Zhang Ming
+Ri6014,1/5/25,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,144.84,1,87.29,0.05,Debit Card,Adult,Male,Chengdu,Liu Ming
+rD2785,5/22/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.33,7,7.7,0,Cash,Young,Female,Shanghai,Wang Ming
+Qz2430,2/4/25,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1092.08,,,0,Debit Card,Young,Female,Shenzhen,Li Wei
+sz7978,3/12/25,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,307.71,2,422.3,0.2,Online Payment,Senior,Male,Beijing,Li Bo
+lP1539,5/31/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,164.58,2,277.8,0.1,Mobile Wallet,Adult,Female,Guangzhou,Wang Ming
+rT3835,1/6/25,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,995.03,1,798.43,0.15,Mobile Wallet,Young,Female,Chengdu,Chen Jie
+Xg7171,7/31/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,32.78,4,103.36,0,Mobile Wallet,Adult,Female,Guangzhou,Zhang Jie
+BW0523,2/16/25,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2350.65,1,1519.79,0.15,Credit Card,Adult,Male,Beijing,Liu Bo
+qX7053,1/5/25,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,426.99,2,636.28,,Mobile Wallet,Senior,Female,Beijing,Li Jie
+fW2881,1/14/25,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.05,8,6.96,0.2,Credit Card,Young,Female,Shanghai,Zhang Wei
+tm3335,6/4/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,62.47,2,91.56,0.1,Mobile Wallet,Senior,Male,Shenzhen,Zhang Wei
+aE1052,1/17/25,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,936.15,2,1547.94,0.1,Online Payment,Adult,Female,Shenzhen,Wang Bo
+lw0430,7/17/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.64,2,7.56,0.15,Credit Card,Adult,Female,Chengdu,Wang Jie
+hM9248,4/23/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,360.89,2,525.78,0.05,Online Payment,Young,Female,Beijing,Chen Jie
+Ws8073,10/5/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.17,14,13.16,0.05,Credit Card,Young,Female,Beijing,Zhang Tao
+qQ2544,3/31/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,122.17,2,193.08,,Credit Card,Senior,Female,Beijing,Li Jie
+uw7848,9/16/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,354.26,2,581.7,0.05,Cash,Senior,Male,Shenzhen,Li Ming
+qr3189,3/26/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2379.01,1,1700.8,0.15,Mobile Wallet,Senior,Male,Beijing,Li Bo
+ww3650,2/24/25,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.77,5,15.65,0.05,Mobile Wallet,Young,Female,Chengdu,Wang Tao
+SI3512,4/27/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,152.05,3,379.5,0.15,Online Payment,Young,Male,Shenzhen,Liu Jie
+jB2926,6/26/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.97,6,19.14,0.05,Debit Card,Adult,Female,Shanghai,Liu Ming
+im6567,10/28/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.77,1,1.75,0.2,Cash,Senior,Female,Guangzhou,Li Jie
+BW5865,1/23/25,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.14,9,6.48,0.05,Mobile Wallet,Young,Male,Shenzhen,Wang Bo
+SK5943,10/3/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,902.39,2,1336.46,0,Mobile Wallet,Adult,Male,Shanghai,Wang Bo
+Ib1967,3/2/25,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,72.95,4,224,0.05,Online Payment,Senior,Male,Beijing,Chen Ming
+Hh6982,12/23/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,64.5,3,151.17,0.2,Mobile Wallet,Senior,Male,Shenzhen,Wang Tao
+sW4497,4/7/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2245.9,1,1553.76,0.2,Cash,Senior,Male,Beijing,Liu Ming
+Or9101,10/20/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,159.2,2,235.84,0,Online Payment,Senior,Male,Shanghai,Zhang Bo
+ut8385,11/5/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.62,7,25.48,0.1,Mobile Wallet,Senior,Female,Shanghai,Li Tao
+nb8849,3/10/25,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1593.75,1,1046.19,0.15,Cash,Senior,Female,Shanghai,Zhang Wei
+Ad9429,8/6/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.08,13,10.53,0,Mobile Wallet,Young,Male,Shanghai,Chen Tao
+GO0127,6/8/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,730.22,1,580.01,0.2,Debit Card,Young,Male,Shenzhen,Liu Wei
+Lq5802,12/30/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,43.25,3,106.74,0,Debit Card,Young,Female,Shanghai,Zhang Wei
+hw1050,11/25/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,124.05,2,208.5,0.2,Cash,Senior,Male,Chengdu,Li Jie
+jo3041,12/20/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,312.93,2,455.84,0.2,Mobile Wallet,Senior,Female,Chengdu,Chen Wei
+Hu6320,4/20/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,,1,,0,Debit Card,Senior,Male,Chengdu,Liu Ming
+gZ3266,12/14/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,122.97,,,0.05,Debit Card,Adult,Female,Shenzhen,Liu Wei
+xy1961,9/23/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,30.41,4,91.84,0.1,Debit Card,Adult,Male,Beijing,Wang Ming
+TJ4440,12/3/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.17,19,15.77,0,Mobile Wallet,Young,Female,Guangzhou,Li Ming
+pS0187,9/28/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1139.88,1,883.59,0,Debit Card,Adult,Male,Chengdu,Liu Tao
+QI3468,5/28/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,171.27,1,144.55,0.2,Credit Card,Young,Female,Guangzhou,Liu Tao
+FP1127,11/25/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.44,9,29.16,0.05,Cash,Young,Male,Chengdu,Chen Wei
+bY7076,4/13/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,41.67,2,64.1,0.2,Mobile Wallet,Adult,Female,Shenzhen,Chen Ming
+LX3562,1/22/25,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.67,4,14.56,0,Online Payment,Senior,Female,Shenzhen,Wang Jie
+Hs7373,4/2/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,63.07,1,46.97,0.1,Mobile Wallet,Young,Male,Guangzhou,Li Wei
+bh9935,3/25/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1630.81,1,1119.83,0.2,Cash,Young,Male,Beijing,Li Tao
+BV6706,4/23/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.03,21,16.17,,Mobile Wallet,Young,Male,Chengdu,Wang Ming
+QL7664,3/7/25,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.26,20,21.2,0,Online Payment,Young,Female,Beijing,Li Ming
+YJ0356,3/20/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.73,6,17.4,0.05,Cash,Young,Female,Beijing,Wang Jie
+kp0253,10/31/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,806.6,1,620.4,0.2,Debit Card,Young,Female,Shenzhen,Chen Tao
+lt3895,4/2/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.06,9,23.4,0,Cash,Senior,Female,Guangzhou,Liu Ming
+Ue2722,8/15/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1372.51,1,851.5,0,Cash,Senior,Female,Beijing,Chen Bo
+Hv4614,10/4/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1149.09,,,0.05,Credit Card,Young,Male,Shanghai,Chen Tao
+tw6048,10/9/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,387.89,1,269.41,0,Cash,Adult,Female,Shenzhen,Chen Tao
+Xo6168,6/7/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.96,1,2.55,0.2,Cash,Senior,Male,Beijing,Wang Bo
+In6922,6/19/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1221.15,1,919.43,,Mobile Wallet,Senior,Female,Chengdu,Li Bo
+Bb6656,5/27/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2051.65,1,1460.58,0.15,Mobile Wallet,Senior,Female,Shenzhen,Li Jie
+TX7256,9/20/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,233.88,1,147.04,0.15,Debit Card,Young,Female,Shanghai,Li Ming
+Ly0502,11/7/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,224.31,1,150.74,0.05,Mobile Wallet,Adult,Female,Chengdu,Zhang Jie
+qz9930,5/14/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,131.61,1,87.45,,Online Payment,Senior,Female,Guangzhou,Wang Tao
+tj7690,2/25/25,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,168.02,2,267.78,0.1,Online Payment,Young,Male,Guangzhou,Liu Bo
+eg6176,1/19/25,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,135.51,2,188.9,0.1,Cash,Young,Female,Chengdu,Wang Wei
+CX6376,1/24/25,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.1,,,0.05,Online Payment,Young,Female,Chengdu,Zhang Tao
+ER7214,3/28/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1579.58,1,1063.44,0.05,Online Payment,Senior,Female,Shenzhen,Liu Bo
+kd8913,7/7/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,182.34,2,246.78,,Online Payment,Adult,Male,Guangzhou,Liu Tao
+JF2503,10/11/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.18,1,2.61,,Debit Card,Young,Male,Chengdu,Wang Jie
+zl5175,12/30/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.66,10,27.4,,Mobile Wallet,Young,Male,Shenzhen,Chen Jie
+JK9073,6/29/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2367.64,1,1737.72,0,Mobile Wallet,Adult,Female,Beijing,Zhang Bo
+VF0102,2/11/25,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,338.84,1,215.55,,Mobile Wallet,Adult,Male,Chengdu,Li Wei
+jN4751,11/11/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,49.89,2,84.56,0.05,Credit Card,Senior,Female,Shenzhen,Wang Bo
+wa6476,3/29/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1957.57,1,1582.74,0,Credit Card,Adult,Male,Shenzhen,Chen Ming
+aT7274,9/23/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1081.39,2,1330.9,,Mobile Wallet,Senior,Female,Chengdu,Zhang Tao
+ST4380,6/10/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.82,6,14.58,0.2,Credit Card,Young,Male,Beijing,Liu Jie
+Un9532,9/3/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1522.53,1,1119.09,0.05,Mobile Wallet,Senior,Female,Shenzhen,Li Bo
+Jh8373,11/5/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,161.17,1,96.96,0.05,Debit Card,Senior,Female,Chengdu,Li Jie
+em9973,7/4/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,,2,,0.05,Debit Card,Adult,Male,Shenzhen,Wang Ming
+QE6134,8/3/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,31.92,3,69.93,0,Online Payment,Senior,Female,Shenzhen,Liu Wei
+JC4460,6/20/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.08,8,6.56,0,Cash,Senior,Female,Beijing,Wang Ming
+df8303,12/14/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.31,7,18.97,0.15,Credit Card,Senior,Female,Guangzhou,Liu Wei
+li0378,10/17/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1094.17,1,771.92,0.05,Debit Card,Senior,Male,Guangzhou,Zhang Bo
+Zp1976,10/16/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2067.91,1,1510.4,0.1,Cash,Senior,Male,Guangzhou,Chen Ming
+RY7644,4/9/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1048.08,2,1389.14,0,Credit Card,Senior,Female,Beijing,Li Bo
+FO6067,11/20/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.2,15,14.25,0.2,Credit Card,Young,Male,Shenzhen,Liu Bo
+WP8574,9/7/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,155.94,3,318.27,0.2,Cash,Senior,Male,Beijing,Liu Ming
+Iz4290,5/19/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2412.29,1,1956.27,0.2,Cash,Adult,Female,Guangzhou,Li Bo
+lr4278,3/19/25,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1010.3,1,617.62,0.15,Debit Card,Senior,Male,Chengdu,Liu Tao
+dk5155,12/7/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,170.33,1,139.39,0.2,Credit Card,Senior,Male,Shenzhen,Liu Bo
+qa6501,4/12/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,348.21,1,254.57,0,Mobile Wallet,Young,Male,Shenzhen,Zhang Tao
+jj7700,7/31/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1126.71,1,887.88,0.1,Debit Card,Senior,Male,Shanghai,Zhang Tao
+ZX5353,11/18/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,772.26,1,571.25,0.05,Cash,Senior,Female,Beijing,Chen Tao
+DX9902,9/13/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1091.57,1,787.94,0.2,Cash,Young,Male,Chengdu,Chen Jie
+kR2682,10/3/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,252.79,1,196.26,0.15,Credit Card,Adult,Male,Shenzhen,Li Ming
+CU8839,1/15/25,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,351.44,2,509.4,0.2,Credit Card,Young,Male,Shenzhen,Li Jie
+GA0253,5/25/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.27,10,25.3,0.05,Credit Card,Senior,Female,Shanghai,Li Jie
+YM5034,8/2/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,408.51,1,308.65,0.15,Cash,Adult,Female,Chengdu,Wang Wei
+yA6021,2/22/25,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,322.45,1,241.91,0.05,Mobile Wallet,Senior,Female,Shanghai,Wang Wei
+yJ7144,6/9/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.39,14,15.12,0.2,Online Payment,Senior,Male,Beijing,Liu Jie
+cM7526,11/4/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1042.51,2,1723.68,0.15,Online Payment,Senior,Female,Shanghai,Chen Bo
+zs3316,9/28/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,132.02,2,201.3,0.05,Credit Card,Adult,Female,Guangzhou,Wang Tao
+eE6736,2/7/25,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,420.34,,,0.05,Debit Card,Adult,Male,Chengdu,Li Bo
+VC9726,7/15/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1392.57,1,1172.24,0.2,Mobile Wallet,Adult,Female,Chengdu,Wang Bo
+Mx9110,5/5/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.01,23,18.17,0.15,Cash,Young,Female,Chengdu,Li Jie
+lK2541,4/20/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1436.47,1,1210.86,0,Debit Card,Adult,Male,Chengdu,Li Ming
+Vr6209,10/13/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,,3,,0.2,Cash,Young,Male,Chengdu,Wang Bo
+jC4424,1/24/25,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.61,2,3.66,0.15,Cash,Senior,Female,Guangzhou,Li Tao
+zN9841,9/23/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1,5,3.95,0.2,Debit Card,Young,Female,Chengdu,Wang Tao
+mQ1816,11/2/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,173.72,1,116.07,0.15,Cash,Senior,Female,Beijing,Zhang Wei
+fR4297,10/21/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,141.34,2,214.28,0.2,Mobile Wallet,Senior,Male,Guangzhou,Li Ming
+ae5857,6/26/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.56,2,4.36,0.15,Cash,Adult,Male,Guangzhou,Chen Wei
+Dn3878,1/14/25,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,173.78,3,365.31,0.1,Cash,Young,Female,Guangzhou,Chen Bo
+xj3767,1/28/25,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1599.69,1,1162.75,0.2,Cash,Young,Male,Guangzhou,Zhang Jie
+kc2731,11/5/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,,2,,0.15,Online Payment,Adult,Female,Guangzhou,Liu Ming
+Hj9786,1/17/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,178.53,2,266.86,0,Cash,Adult,Female,Beijing,Li Bo
+Vg7948,6/17/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1512.49,1,918.29,0.2,Debit Card,Adult,Female,Guangzhou,Chen Jie
+GQ3356,8/27/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.9,2,8.18,0,Online Payment,Senior,Female,Chengdu,Liu Jie
+Zn6602,6/3/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,397,1,278.61,0.2,Debit Card,Young,Male,Guangzhou,Wang Bo
+qF4084,10/27/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,324.36,2,400.02,0.05,Debit Card,Senior,Female,Chengdu,Wang Ming
+AW2399,6/26/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,69.97,3,161.16,0.05,Online Payment,Young,Female,Chengdu,Wang Wei
+ac5959,4/10/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,75.74,3,180.72,0,Online Payment,Adult,Male,Chengdu,Chen Wei
+PA5610,2/27/25,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,823.89,1,550.77,0.15,Debit Card,Adult,Male,Beijing,Chen Jie
+Ef0706,6/17/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,151.42,3,372.36,0.05,Debit Card,Young,Female,Beijing,Wang Jie
+Gp5029,5/9/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1245.78,1,886.85,0.1,Debit Card,Young,Female,Shenzhen,Wang Ming
+oN0934,7/4/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,26.1,2,33.74,0.2,Online Payment,Adult,Male,Shenzhen,Zhang Jie
+ur2475,1/30/25,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,304.4,1,220.8,0.1,Cash,Adult,Male,Shenzhen,Li Jie
+Tb9143,1/12/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,134.95,2,170.42,0.05,Mobile Wallet,Young,Male,Guangzhou,Liu Ming
+AI1919,7/5/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,53.18,1,39.79,0.05,Credit Card,Adult,Male,Shenzhen,Wang Ming
+KR3730,6/20/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,51.34,,,0.1,Cash,Senior,Male,Shanghai,Wang Tao
+gH2239,8/2/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1235.89,1,821.01,0.05,Online Payment,Senior,Female,Shanghai,Zhang Bo
+kD8478,7/12/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.3,,,,Cash,Senior,Male,Shenzhen,Liu Ming
+fA7567,8/14/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1717.52,1,1277.91,0.05,Credit Card,Adult,Male,Shanghai,Liu Bo
+Zt5452,8/2/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,406.38,1,332.92,0.05,Online Payment,Adult,Male,Beijing,Wang Ming
+gA8610,5/30/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,72.59,3,140.22,0.05,Credit Card,Senior,Female,Shenzhen,Liu Tao
+QT1652,2/10/25,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,340.67,2,433.08,0.1,Credit Card,Adult,Male,Chengdu,Wang Ming
+WL6277,5/30/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,2.72,8,15.2,0.05,Cash,Adult,Male,Beijing,Chen Jie
+zE8976,5/26/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.64,7,24.99,,Online Payment,Young,Female,Guangzhou,Zhang Ming
+vh4189,3/23/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1353.05,1,846.2,0.05,Credit Card,Senior,Female,Beijing,Li Tao
+mI4797,12/9/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,162.24,1,124.18,0.15,Cash,Senior,Female,Chengdu,Liu Tao
+Yt0229,12/3/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,973.43,1,805.53,0.1,Mobile Wallet,Young,Male,Shanghai,Liu Wei
+xE8106,2/5/25,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.86,10,38,0,Online Payment,Adult,Female,Chengdu,Chen Ming
+Pe8233,7/25/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.16,1,2.58,0,Mobile Wallet,Young,Female,Chengdu,Zhang Bo
+QT3771,2/1/25,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.43,12,13.2,0.2,Mobile Wallet,Senior,Male,Shenzhen,Li Ming
+Ar9360,1/21/25,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2242.34,1,1411.59,0.05,Cash,Senior,Male,Chengdu,Zhang Jie
+rK0633,12/1/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,27.6,4,83.32,0.15,Credit Card,Adult,Female,Shenzhen,Zhang Jie
+yh4202,9/24/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,153.12,2,210.2,0.05,Mobile Wallet,Senior,Male,Guangzhou,Li Tao
+DI8018,3/15/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,141,1,112.97,0.05,Cash,Senior,Female,Chengdu,Zhang Bo
+Ke5946,12/4/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,35.03,,,0.2,Debit Card,Young,Female,Beijing,Wang Jie
+Zy5851,9/15/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.45,11,9.68,0.2,Credit Card,Young,Male,Shanghai,Wang Wei
+uQ7618,5/4/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1707.58,1,1442.75,0.2,Mobile Wallet,Adult,Female,Guangzhou,Chen Wei
+cs6144,4/30/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,150.08,2,235.3,0,Cash,Senior,Female,Beijing,Liu Jie
+Ko5478,5/9/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,424.92,1,256.54,0.15,Online Payment,Adult,Male,Beijing,Chen Wei
+kF4768,9/20/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.04,7,5.32,0.1,Debit Card,Adult,Female,Guangzhou,Wang Bo
+CG5783,3/31/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,903.99,1,601.75,0,Debit Card,Senior,Male,Guangzhou,Liu Ming
+pT9511,6/8/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,129.37,2,203.12,0.15,Debit Card,Senior,Female,Shanghai,Liu Tao
+XN0597,8/4/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,,2,,0.05,Online Payment,Young,Female,Guangzhou,Chen Wei
+bb5536,4/14/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.06,21,17.01,0.15,Cash,Young,Male,Beijing,Wang Bo
+TR6281,9/27/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,313.54,2,437.78,0,Credit Card,Senior,Female,Chengdu,Li Jie
+Vm0534,4/9/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,,1,,0,Mobile Wallet,Senior,Female,Shanghai,Zhang Ming
+gm3653,9/12/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.02,3,8.22,0,Debit Card,Senior,Female,Shanghai,Liu Bo
+VP7659,3/5/25,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.46,21,21.63,0.1,Online Payment,Senior,Male,Shanghai,Chen Bo
+ZJ2603,4/6/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1288.5,1,877.53,,Debit Card,Young,Female,Guangzhou,Zhang Ming
+BA8307,9/24/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1052.58,1,776.5,0.2,Cash,Young,Female,Shenzhen,Chen Wei
+KJ4222,10/19/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,270.12,2,372.68,,Cash,Adult,Female,Beijing,Chen Wei
+zN9359,12/11/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,362.97,1,220.44,0,Cash,Senior,Female,Beijing,Liu Ming
+cV5341,7/14/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,707.18,1,536.23,0.05,Debit Card,Senior,Female,Beijing,Zhang Wei
+Rz4965,3/27/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.08,2,1.3,0.1,Cash,Adult,Male,Shanghai,Zhang Bo
+Yo8247,2/21/25,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,,4,,0.05,Cash,Adult,Male,Beijing,Chen Ming
+QS7102,5/9/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,,1,,0,Mobile Wallet,Senior,Male,Beijing,Zhang Jie
+vj9076,7/15/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,815.52,1,615.51,0.2,Credit Card,Young,Female,Shenzhen,Wang Jie
+mW6975,11/5/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1010.27,1,640.75,0,Online Payment,Young,Female,Beijing,Chen Jie
+Fi8794,3/20/24,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,43.1,2,58.04,0.15,Cash,Senior,Male,Shenzhen,Zhang Wei
+bj4472,1/12/25,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,1031.85,1,806.73,0.15,Online Payment,Adult,Female,Beijing,Li Wei
+Gq2067,10/28/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,155.15,1,105.39,0.1,Cash,Young,Male,Shenzhen,Zhang Tao
+Qw1859,3/17/25,China,5d904f62-de3d-4d52-a904-c272d3f34318,Yeti Tumbler,Outdoor,41.57,3,75.63,0.15,Cash,Young,Female,Beijing,Liu Tao
+Xd9442,9/18/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,61.22,3,130.2,0.2,Cash,Adult,Male,Shenzhen,Zhang Ming
+Lh1042,11/28/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,,2,,0,Mobile Wallet,Senior,Female,Beijing,Chen Ming
+bX9956,1/28/25,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,957.09,1,773.05,0.05,Cash,Senior,Female,Beijing,Chen Tao
+Di8705,3/18/25,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,383.73,2,470.88,0,Online Payment,Adult,Female,Shanghai,Li Bo
+AI5711,9/29/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,857.48,1,640.84,0.1,Online Payment,Senior,Male,Shanghai,Liu Jie
+OR3381,9/30/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,163.41,2,251.78,0.05,Online Payment,Adult,Female,Guangzhou,Liu Tao
+YS9042,10/21/24,China,5e3d82df-d17f-40e9-b3d7-c68946529392,iPhone 14,Electronics,962.67,1,662.92,0.15,Mobile Wallet,Adult,Female,Guangzhou,Chen Tao
+if9141,7/18/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,2299.95,1,1563.12,0.05,Online Payment,Young,Male,Beijing,Li Ming
+qg9965,6/23/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1.21,14,11.34,0.05,Debit Card,Adult,Female,Guangzhou,Chen Jie
+uM0507,7/25/24,China,348773fc-88fb-45d8-8e64-7e11ed3b30dc,Coca-Cola Can,Beverages,1,23,19.09,0.1,Credit Card,Senior,Male,Chengdu,Li Jie
+OF2149,4/15/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1474.61,1,1031.48,0.1,Mobile Wallet,Senior,Female,Shenzhen,Chen Jie
+fU9136,10/31/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1659,1,1300.45,0.1,Cash,Young,Male,Shenzhen,Li Bo
+Ud9923,4/21/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.14,,,0.05,Mobile Wallet,Young,Female,Guangzhou,Li Bo
+Te3963,1/17/25,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,842.56,1,566.12,0.05,Mobile Wallet,Adult,Male,Beijing,Zhang Bo
+yU9384,2/24/25,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,175.04,1,124,0.05,Online Payment,Senior,Female,Shenzhen,Wang Jie
+yj2142,12/10/24,China,492b33a7-ede7-4769-9cfb-ed92773d17e1,KitchenAid Mixer,Home Appliances,370.67,,,0,Online Payment,Senior,Female,Chengdu,Chen Jie
+Tn5636,3/15/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,240.42,2,392.56,0.05,Mobile Wallet,Senior,Male,Shenzhen,Wang Ming
+Rt9669,5/24/24,China,b44dd01a-4794-4d53-a15f-96adc20f9cac,Apple MacBook Pro,Electronics,1702.38,1,1434.45,0.1,Mobile Wallet,Adult,Male,Guangzhou,Wang Tao
+xl9974,10/5/24,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,138.51,2,166.6,0.1,Mobile Wallet,Young,Female,Beijing,Wang Jie
+vo7966,11/9/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,4.45,7,19.88,0.1,Debit Card,Young,Female,Shenzhen,Chen Ming
+fr5609,10/27/24,China,3901a68e-35e9-4226-b9a8-059acff44f5d,Doritos Chips,Snacks,3.08,10,18.6,0,Online Payment,Senior,Female,Shenzhen,Zhang Ming
+By6988,9/12/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,149.41,3,302.34,,Cash,Adult,Male,Shanghai,Li Tao
+oP1336,7/18/24,China,02f54f47-95d5-4c58-bba7-61e66cc857c6,Samsung QLED TV,Electronics,1566.12,1,980.1,0,Cash,Senior,Female,Shanghai,Liu Ming
+AF6954,11/25/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,76.01,1,46.76,,Mobile Wallet,Young,Male,Guangzhou,Liu Wei
+PS9568,1/27/25,China,1f6a4984-9b41-4f75-9ead-85e3e7e5ae27,The North Face Jacket,Apparel,153.61,1,106.59,0.2,Credit Card,Young,Female,Beijing,Li Bo
+Qc7896,9/5/24,China,febceb70-e0c4-4d2e-9c19-bd5301e2c333,Levi's 501 Jeans,Apparel,56.35,4,185.48,0.2,Debit Card,Senior,Male,Shanghai,Chen Wei
+Bb3760,12/20/24,China,6ab425e6-dd99-4d5f-967e-03d84f39f9bf,Nike Air Max,Footwear,134.58,1,100.91,0.1,Online Payment,Adult,Female,Shenzhen,Wang Tao
