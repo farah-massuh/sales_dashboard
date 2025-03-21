@@ -1,3 +1,4 @@
+-- run all this in psql
 -- populate each of the tables with their respective data and make sure data is displayed
 
 -- canada
