@@ -9,7 +9,7 @@ SELECT * FROM sales_canada LIMIT 5;
 SELECT * FROM sales_china LIMIT 5;
 
 -- ecuador
-\copy sales_india FROM '/Users/farahmassuh/Desktop/sales_dashboard/csv_files/sales_ecuador.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
+\copy sales_ecuador FROM '/Users/farahmassuh/Desktop/sales_dashboard/csv_files/sales_ecuador.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 SELECT * FROM sales_ecuador LIMIT 5;
 
 -- india
