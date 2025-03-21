@@ -1,501 +1,501 @@
-transcation_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,store_representation
-X6PMJ23C5Q,1/13/24,India,509,Lifebuoy Soap,Personal Care,1.6,6,1.2,0,Bank Transfer,Young,Male,Pune,Physical Store
-N6M6Q42EVB,1/19/24,India,505,Nescafe Coffee,Beverages,5.5,7,4.2,0.39,Cash,Senior,Male,Kolkata,Physical Store
-HKG5I2C4PP,2/6/24,India,504,Madhur Sugar,Food,1.2,1,0.9,0.01,Credit Card,Adult,Male,Pune,Physical Store
-U9LWZ2C1L0,1/24/24,India,503,Britannia Bread,Bakery,0.7,4,0.4,0.07,Bank Transfer,Young,Female,Kolkata,Physical Store
-FJJTUTC34A,2/9/24,India,505,Nescafe Coffee,Beverages,5.5,9,4.2,0.17,Cash,Adult,Male,Hyderabad,Physical Store
-NDE4BWYB54,1/24/24,India,508,Sunsilk Shampoo,Personal Care,5.5,6,4,0.44,Cash,Young,Male,Delhi,Online
-IY5KYUQWK5,1/31/24,India,507,Origami Tissue,Hygiene,3,3,2.3,0.33,Debit Card,Adult,Female,Pune,Online
-GRKF7R5QG8,2/23/24,India,502,Amul Milk,Dairy,1.4,1,1,0.24,UPI,Adult,Male,Delhi,Online
-P5NV2VFZT5,1/23/24,India,509,Lifebuoy Soap,Personal Care,1.6,10,1.2,0.28,Debit Card,Young,Female,Chennai,Physical Store
-JZ606T2KDF,2/8/24,India,509,Lifebuoy Soap,Personal Care,1.6,5,1.2,0.26,Google Pay,Adult,Male,Kolkata,Physical Store
-ZH4LD5E1JN,1/21/24,India,502,Amul Milk,Dairy,1.4,5,1,0.05,Google Pay,Young,Female,Mumbai,Physical Store
-51G6AN0YSB,1/18/24,India,506,Cadbury Dairy Milk,Sweets,3.6,2,2.8,0.49,Debit Card,Adult,Male,Chennai,Online
-NOVV6QS13M,2/14/24,India,504,Madhur Sugar,Food,1.2,8,0.9,0.05,Cash,Adult,Female,Bangalore,Physical Store
-5W1CN0WBWW,2/16/24,India,502,Amul Milk,Dairy,1.4,2,1,0.06,Credit Card,Young,Female,Mumbai,Online
-71INC63VWA,1/14/24,India,502,Amul Milk,Dairy,1.4,8,1,0.24,Google Pay,Senior,Female,Delhi,Online
-2KJO11W59G,2/8/24,India,508,Sunsilk Shampoo,Personal Care,5.5,8,4,0.64,UPI,Adult,Male,Delhi,Online
-G9282CXO7S,1/9/24,India,507,Origami Tissue,Hygiene,3,10,2.3,0.5,Debit Card,Senior,Female,Chennai,Online
-Y6NXNXOX1H,2/21/24,India,506,Cadbury Dairy Milk,Sweets,3.6,6,2.8,0.7,Google Pay,Adult,Male,Chennai,Online
-2OS8BW7C27,2/17/24,India,509,Lifebuoy Soap,Personal Care,1.6,9,1.2,0.06,Cash,Senior,Female,Kolkata,Online
-ODEL7UGMSW,1/29/24,India,507,Origami Tissue,Hygiene,3,4,2.3,0.11,Cash,Young,Male,Kolkata,Online
-5IF3GXHOGJ,1/6/24,India,508,Sunsilk Shampoo,Personal Care,5.5,9,4,0.97,UPI,Young,Female,Chennai,Online
-WF2CTLR2R3,2/6/24,India,503,Britannia Bread,Bakery,0.7,2,0.4,0.02,Bank Transfer,Adult,Male,Chennai,Online
-NNP4RGJBZA,1/16/24,India,510,Fortune Cooking Oil,Food,4,7,3.1,0.16,Cash,Adult,Female,Hyderabad,Physical Store
-YY4IO45ZCY,1/10/24,India,507,Origami Tissue,Hygiene,3,1,2.3,0.45,Google Pay,Adult,Male,Chennai,Online
-7T9Z8FL0BL,2/12/24,India,504,Madhur Sugar,Food,1.2,10,0.9,0.23,Debit Card,Adult,Female,Delhi,Online
-1650E4P6F2,2/21/24,India,510,Fortune Cooking Oil,Food,4,4,3.1,0.7,Paytm,Young,Female,Mumbai,Online
-EBBHRT5PX7,2/3/24,India,507,Origami Tissue,Hygiene,3,7,2.3,0.22,Google Pay,Adult,Female,Kolkata,Physical Store
-N4LO8D74V0,1/26/24,India,501,India Gate Basmati Rice,Food,2.5,7,1.8,0.19,Bank Transfer,Young,Female,Mumbai,Physical Store
-5A8OPZZBXE,2/1/24,India,502,Amul Milk,Dairy,1.4,6,1,0.16,Paytm,Senior,Female,Hyderabad,Online
-S0Y39691DV,1/23/24,India,510,Fortune Cooking Oil,Food,4,7,3.1,0.29,Cash,Adult,Female,Kolkata,Physical Store
-DE43IF2A2F,2/23/24,India,507,Origami Tissue,Hygiene,3,5,2.3,0.01,Credit Card,Adult,Female,Pune,Physical Store
-YJ1VZG7CCC,3/1/24,India,502,Amul Milk,Dairy,1.4,9,1,0.23,Debit Card,Young,Male,Delhi,Online
-60WU61LDQX,1/10/24,India,510,Fortune Cooking Oil,Food,4,2,3.1,0.65,Paytm,Young,Male,Chennai,Online
-GDGG3Y72M9,1/7/24,India,510,Fortune Cooking Oil,Food,4,8,3.1,0.52,UPI,Adult,Female,Chennai,Online
-NI83DVZS1H,2/6/24,India,503,Britannia Bread,Bakery,0.7,3,0.4,0.12,Debit Card,Adult,Female,Delhi,Physical Store
-8UQ7PNTWQB,2/19/24,India,502,Amul Milk,Dairy,1.4,3,1,0.2,Debit Card,Adult,Female,Kolkata,Physical Store
-W8U1V6QTS2,2/3/24,India,503,Britannia Bread,Bakery,0.7,1,0.4,0.03,Bank Transfer,Young,Female,Bangalore,Online
-I44AM1AS59,1/13/24,India,506,Cadbury Dairy Milk,Sweets,3.6,1,2.8,0.46,UPI,Senior,Female,Chennai,Physical Store
-RLEWGYM35L,2/26/24,India,504,Madhur Sugar,Food,1.2,1,0.9,0.12,Cash,Young,Male,Hyderabad,Physical Store
-QBR36HSTA5,2/4/24,India,504,Madhur Sugar,Food,1.2,10,0.9,0.16,Cash,Young,Female,Delhi,Physical Store
-DJ64CVOOXI,2/28/24,India,510,Fortune Cooking Oil,Food,4,2,3.1,0.54,Bank Transfer,Senior,Male,Hyderabad,Physical Store
-7L3NH4SI0V,2/3/24,India,504,Madhur Sugar,Food,1.2,7,0.9,0.18,Credit Card,Adult,Male,Kolkata,Physical Store
-O2903F782O,2/13/24,India,505,Nescafe Coffee,Beverages,5.5,6,4.2,1.08,Cash,Senior,Male,Pune,Physical Store
-APOEULUH40,1/2/24,India,508,Sunsilk Shampoo,Personal Care,5.5,7,4,0.82,Google Pay,Young,Female,Pune,Online
-SXD9YM1SPQ,2/19/24,India,508,Sunsilk Shampoo,Personal Care,5.5,7,4,0.04,Bank Transfer,Adult,Female,Mumbai,Online
-AR43HCCRAZ,2/19/24,India,506,Cadbury Dairy Milk,Sweets,3.6,9,2.8,0.31,Bank Transfer,Adult,Female,Bangalore,Physical Store
-R9XHR4XGN8,2/15/24,India,507,Origami Tissue,Hygiene,3,8,2.3,0.17,Google Pay,Adult,Female,Kolkata,Online
-CN0LSF9WH4,2/7/24,India,510,Fortune Cooking Oil,Food,4,1,3.1,0.61,Paytm,Senior,Female,Delhi,Physical Store
-U0AZ8AL9WJ,1/16/24,India,507,Origami Tissue,Hygiene,3,9,2.3,0.55,Paytm,Young,Female,Hyderabad,Online
-SWLW5I4N2P,2/12/24,India,501,India Gate Basmati Rice,Food,2.5,9,1.8,0.33,Credit Card,Adult,Male,Hyderabad,Physical Store
-JKB8QWIF6T,2/8/24,India,509,Lifebuoy Soap,Personal Care,1.6,8,1.2,0.28,UPI,Young,Female,Hyderabad,Online
-9FG1NIBMAK,1/3/24,India,508,Sunsilk Shampoo,Personal Care,5.5,9,4,0.62,Cash,Young,Female,Pune,Physical Store
-DGRHOPFY8D,3/1/24,India,509,Lifebuoy Soap,Personal Care,1.6,6,1.2,0,Credit Card,Adult,Female,Chennai,Online
-7TJHD8D51U,2/20/24,India,503,Britannia Bread,Bakery,0.7,5,0.4,0.08,Paytm,Adult,Male,Mumbai,Online
-G6Y429CVEA,1/26/24,India,510,Fortune Cooking Oil,Food,4,1,3.1,0.61,Cash,Adult,Male,Kolkata,Online
-ENNNPFANSA,2/26/24,India,508,Sunsilk Shampoo,Personal Care,5.5,8,4,1.02,Cash,Senior,Female,Pune,Physical Store
-TA5094HXJM,1/11/24,India,501,India Gate Basmati Rice,Food,2.5,7,1.8,0.38,Google Pay,Senior,Male,Bangalore,Online
-5H6F01FR00,1/13/24,India,508,Sunsilk Shampoo,Personal Care,5.5,2,4,0.23,Debit Card,Adult,Male,Hyderabad,Physical Store
-76OY8KZA16,1/16/24,India,508,Sunsilk Shampoo,Personal Care,5.5,6,4,0.24,UPI,Senior,Male,Pune,Physical Store
-3EI68IWKW5,2/16/24,India,507,Origami Tissue,Hygiene,3,2,2.3,0.11,Google Pay,Young,Female,Hyderabad,Physical Store
-JDCM929HMT,1/16/24,India,505,Nescafe Coffee,Beverages,5.5,9,4.2,1.06,Paytm,Senior,Female,Mumbai,Physical Store
-MQE3FMPCNF,2/2/24,India,506,Cadbury Dairy Milk,Sweets,3.6,3,2.8,0.24,Debit Card,Senior,Male,Kolkata,Online
-B7GY9978K9,2/10/24,India,501,India Gate Basmati Rice,Food,2.5,3,1.8,0.1,UPI,Senior,Male,Hyderabad,Online
-PCWSTIVDAU,1/25/24,India,506,Cadbury Dairy Milk,Sweets,3.6,8,2.8,0.64,Google Pay,Adult,Male,Kolkata,Online
-JHL39WNH2H,2/20/24,India,507,Origami Tissue,Hygiene,3,1,2.3,0.09,UPI,Adult,Female,Pune,Online
-KPS755SXFM,1/23/24,India,509,Lifebuoy Soap,Personal Care,1.6,6,1.2,0.01,Google Pay,Adult,Male,Chennai,Physical Store
-ECEIJ4DWKM,1/16/24,India,501,India Gate Basmati Rice,Food,2.5,7,1.8,0.12,Paytm,Adult,Female,Chennai,Online
-R47UFKHU24,1/26/24,India,505,Nescafe Coffee,Beverages,5.5,4,4.2,0.65,Credit Card,Senior,Male,Delhi,Online
-QAHSJ1PEP5,1/29/24,India,508,Sunsilk Shampoo,Personal Care,5.5,6,4,0.76,UPI,Senior,Male,Kolkata,Online
-LDVND8Y798,2/6/24,India,509,Lifebuoy Soap,Personal Care,1.6,9,1.2,0.08,Google Pay,Adult,Male,Hyderabad,Online
-MO7XIHPCWS,1/17/24,India,508,Sunsilk Shampoo,Personal Care,5.5,7,4,1.06,Google Pay,Young,Female,Pune,Physical Store
-X1E8RD4JGA,1/31/24,India,510,Fortune Cooking Oil,Food,4,7,3.1,0.03,Cash,Senior,Female,Chennai,Online
-E5ZXHFD30H,1/21/24,India,501,India Gate Basmati Rice,Food,2.5,2,1.8,0.16,Bank Transfer,Young,Male,Kolkata,Physical Store
-WTIFLFTDWV,1/1/24,India,504,Madhur Sugar,Food,1.2,7,0.9,0.06,UPI,Young,Male,Mumbai,Physical Store
-BAULW94KZ8,1/30/24,India,504,Madhur Sugar,Food,1.2,1,0.9,0.06,Credit Card,Young,Male,Chennai,Physical Store
-T4TETTWJKS,2/18/24,India,504,Madhur Sugar,Food,1.2,3,0.9,0.11,Credit Card,Senior,Female,Chennai,Online
-GD4LE1S9ME,1/6/24,India,501,India Gate Basmati Rice,Food,2.5,3,1.8,0.29,Google Pay,Adult,Female,Mumbai,Physical Store
-YEJ1TVEB4L,1/24/24,India,510,Fortune Cooking Oil,Food,4,5,3.1,0.06,Debit Card,Adult,Male,Hyderabad,Physical Store
-3F0RF688DU,2/10/24,India,505,Nescafe Coffee,Beverages,5.5,7,4.2,0.17,Debit Card,Adult,Male,Bangalore,Physical Store
-2TJU3BF7B6,2/3/24,India,502,Amul Milk,Dairy,1.4,7,1,0.11,Cash,Young,Female,Bangalore,Physical Store
-RUX0L20VIG,2/13/24,India,504,Madhur Sugar,Food,1.2,9,0.9,0.01,Bank Transfer,Senior,Male,Mumbai,Online
-OEQAYGY9DZ,2/19/24,India,501,India Gate Basmati Rice,Food,2.5,9,1.8,0.3,Cash,Adult,Male,Kolkata,Online
-N3G9AS5MI9,2/17/24,India,504,Madhur Sugar,Food,1.2,7,0.9,0.12,Debit Card,Senior,Male,Kolkata,Physical Store
-HGHS9I48HO,1/19/24,India,508,Sunsilk Shampoo,Personal Care,5.5,10,4,0.58,Debit Card,Young,Male,Bangalore,Physical Store
-NDQJVFGNUY,1/4/24,India,503,Britannia Bread,Bakery,0.7,7,0.4,0.07,Bank Transfer,Senior,Male,Chennai,Online
-JZCDXNS2XC,1/9/24,India,501,India Gate Basmati Rice,Food,2.5,8,1.8,0.48,Google Pay,Senior,Female,Delhi,Physical Store
-X9JCHQXH1N,2/9/24,India,510,Fortune Cooking Oil,Food,4,9,3.1,0.43,Google Pay,Young,Female,Mumbai,Physical Store
-ZCBO7VBYUU,2/25/24,India,508,Sunsilk Shampoo,Personal Care,5.5,2,4,0.97,Google Pay,Adult,Female,Kolkata,Online
-YCG0KMBJVK,1/22/24,India,501,India Gate Basmati Rice,Food,2.5,9,1.8,0.21,Cash,Senior,Female,Kolkata,Physical Store
-2D3NA7E42P,2/26/24,India,506,Cadbury Dairy Milk,Sweets,3.6,8,2.8,0.46,Credit Card,Adult,Male,Kolkata,Physical Store
-SO5S0J3PII,1/16/24,India,508,Sunsilk Shampoo,Personal Care,5.5,3,4,0.9,Paytm,Adult,Female,Hyderabad,Physical Store
-DM6YJZJKEM,2/17/24,India,503,Britannia Bread,Bakery,0.7,3,0.4,0.08,Credit Card,Senior,Male,Delhi,Physical Store
-7WGVLAU8B4,2/15/24,India,506,Cadbury Dairy Milk,Sweets,3.6,5,2.8,0.67,Paytm,Adult,Male,Bangalore,Online
-V8OH3W6STH,2/11/24,India,508,Sunsilk Shampoo,Personal Care,5.5,9,4,1.08,Cash,Senior,Male,Bangalore,Physical Store
-JSJW6HPWAS,3/1/24,India,507,Origami Tissue,Hygiene,3,8,2.3,0.32,Bank Transfer,Adult,Male,Hyderabad,Online
-PT8AR4395T,2/24/24,India,505,Nescafe Coffee,Beverages,5.5,2,4.2,0.82,Google Pay,Adult,Male,Delhi,Physical Store
-S69A1LRUZ1,2/2/24,India,506,Cadbury Dairy Milk,Sweets,3.6,10,2.8,0.12,UPI,Young,Female,Pune,Physical Store
-RLZA8RBK6B,2/20/24,India,510,Fortune Cooking Oil,Food,4,10,3.1,0.07,Credit Card,Adult,Female,Pune,Online
-JY108UGNF5,1/19/24,India,510,Fortune Cooking Oil,Food,4,2,3.1,0.52,Cash,Adult,Female,Bangalore,Online
-I06PMK5O39,1/2/24,India,502,Amul Milk,Dairy,1.4,10,1,0.01,Bank Transfer,Senior,Female,Kolkata,Physical Store
-GRL48XZ2S3,1/6/24,India,509,Lifebuoy Soap,Personal Care,1.6,1,1.2,0.17,Debit Card,Young,Male,Kolkata,Online
-K80XB0EX25,2/20/24,India,502,Amul Milk,Dairy,1.4,10,1,0.07,Bank Transfer,Senior,Female,Mumbai,Online
-SCAOCJHQAJ,1/4/24,India,507,Origami Tissue,Hygiene,3,9,2.3,0.2,Debit Card,Adult,Female,Kolkata,Online
-WTABTW2SCU,2/13/24,India,509,Lifebuoy Soap,Personal Care,1.6,5,1.2,0.3,Credit Card,Young,Female,Chennai,Online
-77HUXQ94QE,2/5/24,India,501,India Gate Basmati Rice,Food,2.5,6,1.8,0.09,Paytm,Adult,Male,Kolkata,Online
-VWN7T5HM4Y,1/16/24,India,508,Sunsilk Shampoo,Personal Care,5.5,8,4,0.75,UPI,Young,Female,Hyderabad,Physical Store
-1CHDD0EEPR,1/11/24,India,502,Amul Milk,Dairy,1.4,9,1,0.11,UPI,Adult,Female,Chennai,Physical Store
-PAKBRX9OIV,2/2/24,India,501,India Gate Basmati Rice,Food,2.5,9,1.8,0.4,Google Pay,Adult,Female,Bangalore,Online
-TS9D3GFSMM,1/4/24,India,509,Lifebuoy Soap,Personal Care,1.6,9,1.2,0.15,Bank Transfer,Young,Female,Pune,Physical Store
-SEALGSML6K,2/15/24,India,510,Fortune Cooking Oil,Food,4,1,3.1,0.58,UPI,Adult,Female,Mumbai,Physical Store
-CK18OC5ODC,2/21/24,India,508,Sunsilk Shampoo,Personal Care,5.5,1,4,0.64,Google Pay,Senior,Female,Hyderabad,Physical Store
-6OPQT3GTMM,2/17/24,India,506,Cadbury Dairy Milk,Sweets,3.6,2,2.8,0.67,Debit Card,Young,Female,Hyderabad,Online
-IQF6FIO34N,2/13/24,India,507,Origami Tissue,Hygiene,3,5,2.3,0.51,Credit Card,Adult,Female,Chennai,Online
-T78PYEJGPX,1/21/24,India,503,Britannia Bread,Bakery,0.7,8,0.4,0.05,Paytm,Senior,Male,Kolkata,Online
-ZTE96KZI9D,2/29/24,India,506,Cadbury Dairy Milk,Sweets,3.6,8,2.8,0.72,Bank Transfer,Senior,Female,Hyderabad,Online
-OU59IFJFK1,2/27/24,India,501,India Gate Basmati Rice,Food,2.5,8,1.8,0.35,Google Pay,Senior,Male,Chennai,Physical Store
-EC3CCQBI7G,2/21/24,India,506,Cadbury Dairy Milk,Sweets,3.6,5,2.8,0.05,Bank Transfer,Adult,Male,Delhi,Physical Store
-JTEFYO0AKL,2/4/24,India,510,Fortune Cooking Oil,Food,4,4,3.1,0.47,Google Pay,Adult,Female,Mumbai,Online
-G0SWBFJ90O,2/27/24,India,509,Lifebuoy Soap,Personal Care,1.6,2,1.2,0.12,Paytm,Senior,Female,Kolkata,Physical Store
-VU65DDKYP6,1/9/24,India,509,Lifebuoy Soap,Personal Care,1.6,9,1.2,0,Debit Card,Adult,Female,Delhi,Online
-X256WRGCA7,1/11/24,India,509,Lifebuoy Soap,Personal Care,1.6,10,1.2,0.11,Debit Card,Senior,Male,Hyderabad,Physical Store
-WLYNCQTQMQ,1/8/24,India,510,Fortune Cooking Oil,Food,4,5,3.1,0.3,Google Pay,Senior,Female,Kolkata,Online
-YB07AFLHGO,2/2/24,India,504,Madhur Sugar,Food,1.2,3,0.9,0,Paytm,Adult,Female,Pune,Online
-L2JSL6Z9CR,1/12/24,India,504,Madhur Sugar,Food,1.2,6,0.9,0,Cash,Senior,Female,Chennai,Physical Store
-BPXIACYUQ5,2/14/24,India,509,Lifebuoy Soap,Personal Care,1.6,3,1.2,0.09,Debit Card,Adult,Male,Chennai,Online
-2N8OHKA7IN,2/4/24,India,506,Cadbury Dairy Milk,Sweets,3.6,1,2.8,0.64,Bank Transfer,Adult,Female,Kolkata,Physical Store
-170VQ5TJ5F,1/25/24,India,507,Origami Tissue,Hygiene,3,3,2.3,0.57,UPI,Adult,Male,Bangalore,Online
-SS87QXNHCO,2/8/24,India,502,Amul Milk,Dairy,1.4,1,1,0.17,Paytm,Adult,Female,Delhi,Online
-SWHJFW76AW,2/22/24,India,509,Lifebuoy Soap,Personal Care,1.6,9,1.2,0.14,Bank Transfer,Adult,Male,Pune,Online
-5I2HJKJPG5,2/29/24,India,507,Origami Tissue,Hygiene,3,3,2.3,0.16,Cash,Adult,Male,Kolkata,Online
-S7S0QUPYUP,2/23/24,India,502,Amul Milk,Dairy,1.4,7,1,0.21,Debit Card,Senior,Male,Mumbai,Physical Store
-VM7ESYD2DW,1/7/24,India,502,Amul Milk,Dairy,1.4,2,1,0,Cash,Young,Male,Pune,Physical Store
-3NIXHIDDZU,2/8/24,India,503,Britannia Bread,Bakery,0.7,10,0.4,0.01,UPI,Adult,Female,Kolkata,Online
-I79APXH7RE,1/16/24,India,506,Cadbury Dairy Milk,Sweets,3.6,1,2.8,0.12,Cash,Young,Female,Chennai,Online
-7IYY0M0QQM,1/12/24,India,504,Madhur Sugar,Food,1.2,9,0.9,0.12,Credit Card,Adult,Female,Mumbai,Physical Store
-JFX8DA330P,1/30/24,India,501,India Gate Basmati Rice,Food,2.5,4,1.8,0.01,Credit Card,Senior,Male,Mumbai,Online
-HPCJZOISNG,2/10/24,India,501,India Gate Basmati Rice,Food,2.5,2,1.8,0.22,Debit Card,Adult,Female,Pune,Online
-9UENZRVAT4,1/28/24,India,501,India Gate Basmati Rice,Food,2.5,3,1.8,0.31,Paytm,Young,Female,Hyderabad,Physical Store
-IWNU5ORTNZ,1/12/24,India,504,Madhur Sugar,Food,1.2,2,0.9,0.02,Paytm,Adult,Male,Hyderabad,Physical Store
-Y0E6L6L77A,2/24/24,India,501,India Gate Basmati Rice,Food,2.5,2,1.8,0.07,Cash,Adult,Female,Pune,Physical Store
-S34RC32YWD,1/7/24,India,510,Fortune Cooking Oil,Food,4,5,3.1,0.19,UPI,Adult,Female,Bangalore,Physical Store
-FBMG0F8HAV,1/1/24,India,506,Cadbury Dairy Milk,Sweets,3.6,7,2.8,0.65,Debit Card,Adult,Female,Bangalore,Online
-16IEKNK6X4,2/16/24,India,503,Britannia Bread,Bakery,0.7,9,0.4,0,Debit Card,Senior,Male,Chennai,Physical Store
-1GY066I87L,1/20/24,India,503,Britannia Bread,Bakery,0.7,6,0.4,0.09,UPI,Adult,Male,Delhi,Online
-RZZSU6QG3M,2/1/24,India,501,India Gate Basmati Rice,Food,2.5,3,1.8,0.41,Google Pay,Young,Male,Mumbai,Physical Store
-2RKHWDJL2P,1/12/24,India,510,Fortune Cooking Oil,Food,4,8,3.1,0.66,Cash,Senior,Female,Bangalore,Online
-JQGIJ88U5R,2/12/24,India,508,Sunsilk Shampoo,Personal Care,5.5,7,4,0.05,Paytm,Adult,Male,Hyderabad,Physical Store
-9A7MDYMNM4,1/7/24,India,510,Fortune Cooking Oil,Food,4,1,3.1,0.54,Google Pay,Senior,Male,Bangalore,Physical Store
-7NLQP463LD,1/8/24,India,507,Origami Tissue,Hygiene,3,8,2.3,0.06,Google Pay,Young,Female,Delhi,Physical Store
-E94F0XVS4V,1/19/24,India,502,Amul Milk,Dairy,1.4,10,1,0.2,Cash,Young,Female,Chennai,Online
-01Z1SFLIPF,1/26/24,India,510,Fortune Cooking Oil,Food,4,4,3.1,0.48,UPI,Senior,Female,Delhi,Online
-7BYVIO5VHV,1/10/24,India,503,Britannia Bread,Bakery,0.7,10,0.4,0.12,Google Pay,Adult,Male,Chennai,Physical Store
-E6DY352YDW,1/23/24,India,508,Sunsilk Shampoo,Personal Care,5.5,10,4,0.18,UPI,Senior,Male,Kolkata,Physical Store
-G848JLDK3K,1/3/24,India,506,Cadbury Dairy Milk,Sweets,3.6,7,2.8,0.68,Bank Transfer,Adult,Male,Kolkata,Physical Store
-N6AIO6SAPF,2/27/24,India,508,Sunsilk Shampoo,Personal Care,5.5,4,4,0.77,Cash,Senior,Male,Hyderabad,Physical Store
-YQKFQV0IJM,2/27/24,India,508,Sunsilk Shampoo,Personal Care,5.5,10,4,0.07,Paytm,Adult,Male,Pune,Online
-1MTKW9KQU5,2/14/24,India,509,Lifebuoy Soap,Personal Care,1.6,5,1.2,0.11,Paytm,Adult,Female,Kolkata,Physical Store
-RE4VAHUDHH,2/21/24,India,505,Nescafe Coffee,Beverages,5.5,3,4.2,0.95,UPI,Young,Female,Chennai,Online
-0R7OXNYWEJ,2/29/24,India,503,Britannia Bread,Bakery,0.7,8,0.4,0.05,UPI,Adult,Female,Pune,Physical Store
-LOHV4HRUS9,1/31/24,India,503,Britannia Bread,Bakery,0.7,5,0.4,0,Cash,Adult,Female,Chennai,Physical Store
-H6Z950WUNA,2/9/24,India,509,Lifebuoy Soap,Personal Care,1.6,6,1.2,0.3,Google Pay,Young,Female,Hyderabad,Online
-0XWUM6EJY8,3/1/24,India,501,India Gate Basmati Rice,Food,2.5,10,1.8,0.16,Credit Card,Senior,Female,Chennai,Online
-ZYC635V2N4,1/5/24,India,509,Lifebuoy Soap,Personal Care,1.6,4,1.2,0.13,Credit Card,Senior,Male,Mumbai,Online
-XPFMGASP7Q,2/21/24,India,507,Origami Tissue,Hygiene,3,6,2.3,0.37,Cash,Adult,Female,Delhi,Physical Store
-QFUWG47F19,2/24/24,India,505,Nescafe Coffee,Beverages,5.5,5,4.2,1.06,UPI,Adult,Female,Mumbai,Online
-XE99TQBWHF,2/14/24,India,509,Lifebuoy Soap,Personal Care,1.6,4,1.2,0.25,Paytm,Young,Male,Chennai,Online
-6TVXH9PNI9,2/8/24,India,504,Madhur Sugar,Food,1.2,10,0.9,0.09,UPI,Adult,Female,Mumbai,Online
-7HZQTCYVTC,1/29/24,India,504,Madhur Sugar,Food,1.2,1,0.9,0.03,Bank Transfer,Senior,Male,Kolkata,Physical Store
-7PAXGNICW6,2/7/24,India,502,Amul Milk,Dairy,1.4,8,1,0.23,Debit Card,Young,Male,Kolkata,Online
-QUROI1J023,1/6/24,India,505,Nescafe Coffee,Beverages,5.5,1,4.2,0.9,UPI,Adult,Male,Mumbai,Physical Store
-8KAZGHIJ86,2/26/24,India,507,Origami Tissue,Hygiene,3,8,2.3,0.11,Google Pay,Adult,Male,Pune,Physical Store
-7IJG3OMSKI,1/3/24,India,506,Cadbury Dairy Milk,Sweets,3.6,8,2.8,0.2,Debit Card,Adult,Male,Hyderabad,Online
-RFPEPKY1XK,1/9/24,India,506,Cadbury Dairy Milk,Sweets,3.6,7,2.8,0.36,Google Pay,Young,Male,Bangalore,Physical Store
-MWELN6BFLS,1/9/24,India,510,Fortune Cooking Oil,Food,4,8,3.1,0.62,Bank Transfer,Senior,Male,Delhi,Physical Store
-WPOI45XDYV,2/4/24,India,506,Cadbury Dairy Milk,Sweets,3.6,2,2.8,0.26,Google Pay,Senior,Female,Chennai,Online
-AGRYO1CDZ9,1/7/24,India,506,Cadbury Dairy Milk,Sweets,3.6,5,2.8,0.32,Bank Transfer,Young,Male,Hyderabad,Online
-B1ADHDYSRW,1/28/24,India,507,Origami Tissue,Hygiene,3,3,2.3,0.21,Debit Card,Young,Male,Bangalore,Physical Store
-VE291TOU1N,2/13/24,India,502,Amul Milk,Dairy,1.4,1,1,0.06,Bank Transfer,Young,Male,Kolkata,Online
-XQY0XYJTK2,1/18/24,India,501,India Gate Basmati Rice,Food,2.5,7,1.8,0.23,Google Pay,Senior,Male,Hyderabad,Physical Store
-B53KK9YEH7,2/8/24,India,510,Fortune Cooking Oil,Food,4,4,3.1,0.04,Credit Card,Adult,Male,Chennai,Physical Store
-FWD2NFRO67,1/26/24,India,509,Lifebuoy Soap,Personal Care,1.6,5,1.2,0.19,Paytm,Adult,Female,Pune,Physical Store
-3ITYIU7TPS,1/24/24,India,501,India Gate Basmati Rice,Food,2.5,1,1.8,0.1,Google Pay,Young,Female,Delhi,Online
-20KMGNZY0O,1/19/24,India,505,Nescafe Coffee,Beverages,5.5,8,4.2,0.87,Debit Card,Senior,Male,Pune,Online
-7MFNNBMXQA,2/15/24,India,503,Britannia Bread,Bakery,0.7,7,0.4,0.02,Bank Transfer,Young,Male,Pune,Online
-9X6FUFHPX4,2/6/24,India,508,Sunsilk Shampoo,Personal Care,5.5,10,4,0.26,Paytm,Adult,Female,Kolkata,Online
-ADGWC1W7L7,2/8/24,India,508,Sunsilk Shampoo,Personal Care,5.5,9,4,0.76,Paytm,Senior,Male,Kolkata,Physical Store
-Z2ZTWPMV6F,1/6/24,India,506,Cadbury Dairy Milk,Sweets,3.6,3,2.8,0.69,Debit Card,Adult,Male,Kolkata,Physical Store
-0TOLYPMM0R,1/9/24,India,508,Sunsilk Shampoo,Personal Care,5.5,1,4,0.61,Credit Card,Senior,Female,Pune,Physical Store
-XG6NUO0B98,2/17/24,India,501,India Gate Basmati Rice,Food,2.5,10,1.8,0.48,Cash,Young,Male,Pune,Physical Store
-JDUC4I6JV8,2/13/24,India,506,Cadbury Dairy Milk,Sweets,3.6,4,2.8,0.51,Google Pay,Senior,Male,Delhi,Physical Store
-3JUNQEB2UU,1/29/24,India,503,Britannia Bread,Bakery,0.7,8,0.4,0,Debit Card,Young,Female,Mumbai,Physical Store
-F3TLRUFZSE,1/18/24,India,508,Sunsilk Shampoo,Personal Care,5.5,9,4,0,Credit Card,Adult,Male,Hyderabad,Physical Store
-EUCONDAF7T,1/5/24,India,505,Nescafe Coffee,Beverages,5.5,3,4.2,0.84,Google Pay,Young,Female,Kolkata,Online
-7U0H8I0XPE,1/27/24,India,502,Amul Milk,Dairy,1.4,1,1,0.05,Bank Transfer,Young,Female,Bangalore,Online
-B1MFH815MZ,2/27/24,India,507,Origami Tissue,Hygiene,3,9,2.3,0.36,Bank Transfer,Adult,Female,Hyderabad,Online
-7QTNKFTTW3,1/18/24,India,502,Amul Milk,Dairy,1.4,7,1,0.28,Bank Transfer,Adult,Male,Delhi,Physical Store
-Q9TXEQTOPN,3/1/24,India,504,Madhur Sugar,Food,1.2,6,0.9,0.23,Credit Card,Senior,Male,Bangalore,Online
-FQHC7ZO568,2/15/24,India,506,Cadbury Dairy Milk,Sweets,3.6,5,2.8,0.2,UPI,Senior,Male,Chennai,Physical Store
-45QMI4OAZE,2/5/24,India,505,Nescafe Coffee,Beverages,5.5,1,4.2,0.64,UPI,Senior,Male,Mumbai,Online
-DMGTG0RCCG,2/20/24,India,509,Lifebuoy Soap,Personal Care,1.6,10,1.2,0.18,Paytm,Adult,Male,Delhi,Online
-Z8FYXHGQ85,2/6/24,India,505,Nescafe Coffee,Beverages,5.5,6,4.2,0.69,Credit Card,Young,Female,Chennai,Online
-GW2LZI33OU,1/20/24,India,503,Britannia Bread,Bakery,0.7,4,0.4,0.03,Credit Card,Young,Male,Kolkata,Online
-IJ6EPP5P96,2/18/24,India,507,Origami Tissue,Hygiene,3,8,2.3,0.36,UPI,Senior,Male,Kolkata,Physical Store
-8U5U38J5Y7,2/7/24,India,508,Sunsilk Shampoo,Personal Care,5.5,10,4,0.25,UPI,Young,Male,Pune,Physical Store
-RKCZ4BY2MY,1/14/24,India,504,Madhur Sugar,Food,1.2,3,0.9,0.02,Credit Card,Senior,Female,Pune,Physical Store
-NWNECMP8MO,1/20/24,India,507,Origami Tissue,Hygiene,3,3,2.3,0.19,Paytm,Senior,Male,Bangalore,Physical Store
-8F2X8M446B,1/13/24,India,504,Madhur Sugar,Food,1.2,9,0.9,0.18,UPI,Senior,Female,Delhi,Physical Store
-ROE7RW1YYL,2/23/24,India,509,Lifebuoy Soap,Personal Care,1.6,6,1.2,0.2,Cash,Adult,Male,Kolkata,Online
-QZ5MFC67VL,1/13/24,India,504,Madhur Sugar,Food,1.2,2,0.9,0.13,Cash,Adult,Male,Pune,Online
-VS6AY4MKF9,2/7/24,India,505,Nescafe Coffee,Beverages,5.5,9,4.2,0.93,Google Pay,Young,Female,Bangalore,Online
-311HGEGPWV,2/5/24,India,501,India Gate Basmati Rice,Food,2.5,4,1.8,0.25,UPI,Senior,Female,Hyderabad,Online
-RI0PEZCRBS,2/25/24,India,501,India Gate Basmati Rice,Food,2.5,9,1.8,0.01,UPI,Adult,Female,Pune,Physical Store
-U5Y9A144K4,1/4/24,India,509,Lifebuoy Soap,Personal Care,1.6,2,1.2,0.25,Google Pay,Adult,Male,Kolkata,Online
-4JY2UKTKDY,1/3/24,India,505,Nescafe Coffee,Beverages,5.5,4,4.2,0.93,Credit Card,Adult,Male,Chennai,Online
-HJ9NCQCKS4,2/23/24,India,504,Madhur Sugar,Food,1.2,9,0.9,0.11,Bank Transfer,Young,Female,Pune,Physical Store
-PLZP6L6BCE,2/2/24,India,502,Amul Milk,Dairy,1.4,8,1,0.01,UPI,Adult,Male,Bangalore,Physical Store
-B1XCG2AZUT,2/15/24,India,508,Sunsilk Shampoo,Personal Care,5.5,7,4,1.1,Bank Transfer,Senior,Male,Pune,Online
-RW3M5CUFA5,1/14/24,India,504,Madhur Sugar,Food,1.2,10,0.9,0.08,Cash,Senior,Female,Kolkata,Online
-H8NIL8WAT2,2/7/24,India,505,Nescafe Coffee,Beverages,5.5,1,4.2,0.85,Credit Card,Adult,Female,Delhi,Online
-AWT671QLWK,2/19/24,India,501,India Gate Basmati Rice,Food,2.5,2,1.8,0.04,Paytm,Adult,Male,Mumbai,Physical Store
-DBGFC8Q2O7,2/1/24,India,506,Cadbury Dairy Milk,Sweets,3.6,5,2.8,0.11,Bank Transfer,Adult,Female,Hyderabad,Online
-774C9A2EXG,1/1/24,India,504,Madhur Sugar,Food,1.2,1,0.9,0.19,Debit Card,Young,Female,Chennai,Online
-W3ELLD26TP,2/18/24,India,508,Sunsilk Shampoo,Personal Care,5.5,9,4,0.09,Google Pay,Adult,Male,Hyderabad,Physical Store
-MYJPTV991Q,2/14/24,India,507,Origami Tissue,Hygiene,3,7,2.3,0.09,Paytm,Senior,Male,Hyderabad,Physical Store
-9HLZA543H3,2/24/24,India,504,Madhur Sugar,Food,1.2,1,0.9,0.08,Google Pay,Adult,Female,Kolkata,Physical Store
-3IY5FB6GRE,2/3/24,India,510,Fortune Cooking Oil,Food,4,4,3.1,0.26,Paytm,Young,Female,Hyderabad,Physical Store
-AD00RPLL6S,2/23/24,India,502,Amul Milk,Dairy,1.4,10,1,0.15,Paytm,Adult,Female,Pune,Physical Store
-QHIEU59K34,1/9/24,India,502,Amul Milk,Dairy,1.4,10,1,0,Paytm,Senior,Female,Bangalore,Online
-ZH8NXVV8FM,2/17/24,India,506,Cadbury Dairy Milk,Sweets,3.6,3,2.8,0.25,Debit Card,Young,Male,Bangalore,Online
-MUL8DD7PY9,1/5/24,India,504,Madhur Sugar,Food,1.2,5,0.9,0.24,UPI,Senior,Male,Mumbai,Online
-ZFCYGB9KT1,1/16/24,India,505,Nescafe Coffee,Beverages,5.5,10,4.2,0.23,Cash,Adult,Male,Chennai,Physical Store
-YL40G0VTPM,1/31/24,India,501,India Gate Basmati Rice,Food,2.5,10,1.8,0.16,Bank Transfer,Adult,Female,Hyderabad,Physical Store
-9KT7VQT4NR,2/11/24,India,505,Nescafe Coffee,Beverages,5.5,8,4.2,0.89,Bank Transfer,Senior,Female,Hyderabad,Online
-0F0E1HZUE0,1/17/24,India,504,Madhur Sugar,Food,1.2,8,0.9,0.05,Cash,Adult,Female,Delhi,Online
-I7M90OBM7X,2/6/24,India,501,India Gate Basmati Rice,Food,2.5,1,1.8,0.27,Debit Card,Young,Female,Hyderabad,Online
-RNX5MKBJNZ,2/23/24,India,506,Cadbury Dairy Milk,Sweets,3.6,6,2.8,0.34,Bank Transfer,Senior,Female,Bangalore,Physical Store
-I1AOT1MVTD,2/2/24,India,510,Fortune Cooking Oil,Food,4,1,3.1,0.26,Paytm,Young,Female,Kolkata,Physical Store
-Y73JMZUHGG,2/13/24,India,502,Amul Milk,Dairy,1.4,3,1,0.09,UPI,Adult,Female,Chennai,Online
-JD3ZYEDOO7,2/25/24,India,507,Origami Tissue,Hygiene,3,7,2.3,0.46,Credit Card,Senior,Male,Hyderabad,Physical Store
-APDVS18W73,1/26/24,India,503,Britannia Bread,Bakery,0.7,4,0.4,0.03,Cash,Adult,Male,Kolkata,Online
-T96FY61SY0,2/5/24,India,508,Sunsilk Shampoo,Personal Care,5.5,8,4,0.57,Credit Card,Adult,Male,Chennai,Physical Store
-JVTSTY9B4Y,1/17/24,India,501,India Gate Basmati Rice,Food,2.5,7,1.8,0.02,Cash,Senior,Male,Hyderabad,Online
-CIMNQEVDIZ,2/6/24,India,508,Sunsilk Shampoo,Personal Care,5.5,5,4,1.02,Debit Card,Adult,Female,Kolkata,Physical Store
-FWIKTDPVFW,2/5/24,India,507,Origami Tissue,Hygiene,3,9,2.3,0.28,Google Pay,Young,Female,Kolkata,Physical Store
-NECAMU3M0Y,2/15/24,India,509,Lifebuoy Soap,Personal Care,1.6,9,1.2,0.27,Debit Card,Young,Female,Hyderabad,Online
-MHARI6VYYX,2/20/24,India,502,Amul Milk,Dairy,1.4,8,1,0,Paytm,Young,Female,Mumbai,Physical Store
-KH8GGCWRS9,1/18/24,India,506,Cadbury Dairy Milk,Sweets,3.6,1,2.8,0.48,Paytm,Adult,Male,Chennai,Online
-K7XZWY93A1,2/17/24,India,501,India Gate Basmati Rice,Food,2.5,6,1.8,0,Cash,Adult,Female,Pune,Online
-0Z2V5JMJYD,1/15/24,India,510,Fortune Cooking Oil,Food,4,4,3.1,0.1,Bank Transfer,Adult,Male,Kolkata,Online
-W2BY7RFYH5,1/3/24,India,504,Madhur Sugar,Food,1.2,5,0.9,0.05,UPI,Senior,Male,Mumbai,Physical Store
-0YHIV45LU3,2/18/24,India,506,Cadbury Dairy Milk,Sweets,3.6,7,2.8,0.15,Bank Transfer,Adult,Male,Mumbai,Online
-6FS6476JSS,2/25/24,India,510,Fortune Cooking Oil,Food,4,7,3.1,0.73,Debit Card,Adult,Male,Mumbai,Physical Store
-1NWFNYEVSD,2/23/24,India,501,India Gate Basmati Rice,Food,2.5,8,1.8,0.48,UPI,Young,Male,Pune,Online
-ZP11UVVCUU,1/20/24,India,503,Britannia Bread,Bakery,0.7,6,0.4,0.05,Bank Transfer,Senior,Male,Chennai,Online
-8HWXRGOQ83,1/26/24,India,503,Britannia Bread,Bakery,0.7,10,0.4,0.03,Debit Card,Adult,Male,Hyderabad,Physical Store
-8C44HOQ43M,1/3/24,India,505,Nescafe Coffee,Beverages,5.5,1,4.2,0.81,Cash,Young,Female,Delhi,Physical Store
-8LHAQXB9NW,2/19/24,India,507,Origami Tissue,Hygiene,3,7,2.3,0.59,UPI,Adult,Female,Pune,Online
-8URG2DI18C,2/3/24,India,507,Origami Tissue,Hygiene,3,5,2.3,0.44,UPI,Adult,Male,Pune,Physical Store
-XOBARXR285,1/22/24,India,502,Amul Milk,Dairy,1.4,6,1,0.08,Debit Card,Senior,Male,Delhi,Physical Store
-HWLH2BGCZZ,1/25/24,India,503,Britannia Bread,Bakery,0.7,1,0.4,0.03,Paytm,Senior,Female,Pune,Physical Store
-5PZCQOWJ8N,1/22/24,India,505,Nescafe Coffee,Beverages,5.5,2,4.2,0.71,Cash,Adult,Male,Chennai,Physical Store
-4VE1B2SWYF,1/11/24,India,508,Sunsilk Shampoo,Personal Care,5.5,1,4,0.53,Debit Card,Young,Male,Pune,Online
-WJAO81QTXU,2/24/24,India,501,India Gate Basmati Rice,Food,2.5,2,1.8,0.23,Cash,Senior,Female,Mumbai,Online
-6EU9EYTAMU,2/2/24,India,509,Lifebuoy Soap,Personal Care,1.6,3,1.2,0.03,Cash,Adult,Male,Kolkata,Online
-6N6HKEOJ4Z,2/29/24,India,506,Cadbury Dairy Milk,Sweets,3.6,4,2.8,0.33,UPI,Young,Male,Pune,Physical Store
-4AZ68EURV4,1/20/24,India,502,Amul Milk,Dairy,1.4,4,1,0.25,Bank Transfer,Adult,Female,Kolkata,Physical Store
-6WEUB8GLIY,2/2/24,India,506,Cadbury Dairy Milk,Sweets,3.6,1,2.8,0.72,Debit Card,Young,Female,Mumbai,Online
-X6JCVG1JPM,2/1/24,India,501,India Gate Basmati Rice,Food,2.5,4,1.8,0.45,Paytm,Young,Female,Pune,Physical Store
-E64EEVVYQH,1/27/24,India,510,Fortune Cooking Oil,Food,4,5,3.1,0.09,Debit Card,Young,Male,Mumbai,Online
-887T6MZI88,2/13/24,India,509,Lifebuoy Soap,Personal Care,1.6,7,1.2,0.04,Bank Transfer,Adult,Female,Chennai,Online
-NR4DESP7AC,2/8/24,India,504,Madhur Sugar,Food,1.2,1,0.9,0.14,Bank Transfer,Young,Female,Bangalore,Physical Store
-HX75XRIWIL,1/14/24,India,505,Nescafe Coffee,Beverages,5.5,8,4.2,0.53,Google Pay,Senior,Male,Pune,Online
-QU8MTQL7P0,1/8/24,India,504,Madhur Sugar,Food,1.2,2,0.9,0.15,UPI,Senior,Male,Mumbai,Online
-BE9VI8YVOQ,2/24/24,India,505,Nescafe Coffee,Beverages,5.5,6,4.2,0.83,UPI,Senior,Female,Chennai,Online
-6HR825U94L,3/1/24,India,507,Origami Tissue,Hygiene,3,5,2.3,0.29,Bank Transfer,Senior,Male,Kolkata,Physical Store
-UP22O3ICZ0,1/29/24,India,506,Cadbury Dairy Milk,Sweets,3.6,2,2.8,0.66,Cash,Adult,Male,Kolkata,Online
-XRA9A9U71T,1/6/24,India,501,India Gate Basmati Rice,Food,2.5,5,1.8,0.44,Google Pay,Young,Male,Pune,Online
-JC3EWV4NKH,1/13/24,India,505,Nescafe Coffee,Beverages,5.5,9,4.2,0.31,Credit Card,Senior,Female,Chennai,Physical Store
-P2KD6YS4OS,2/8/24,India,504,Madhur Sugar,Food,1.2,1,0.9,0.04,Credit Card,Senior,Female,Kolkata,Online
-0S6GYAR7GN,2/11/24,India,509,Lifebuoy Soap,Personal Care,1.6,1,1.2,0.26,Google Pay,Senior,Male,Hyderabad,Online
-8RDJLV0EE1,2/22/24,India,508,Sunsilk Shampoo,Personal Care,5.5,6,4,1.05,Credit Card,Senior,Female,Bangalore,Physical Store
-SKTMI64HJW,1/23/24,India,505,Nescafe Coffee,Beverages,5.5,8,4.2,0.83,UPI,Adult,Female,Delhi,Physical Store
-5O06DNQR2O,2/6/24,India,502,Amul Milk,Dairy,1.4,9,1,0.12,Debit Card,Senior,Female,Mumbai,Physical Store
-I2TV2GPFMN,2/9/24,India,501,India Gate Basmati Rice,Food,2.5,1,1.8,0.05,Debit Card,Adult,Male,Delhi,Physical Store
-HXIQAP5A7S,2/8/24,India,509,Lifebuoy Soap,Personal Care,1.6,9,1.2,0.17,Cash,Young,Female,Pune,Online
-X2AYYX2S5F,1/9/24,India,504,Madhur Sugar,Food,1.2,2,0.9,0.12,UPI,Adult,Male,Pune,Physical Store
-DVL7S0Y6LC,1/9/24,India,510,Fortune Cooking Oil,Food,4,9,3.1,0.24,Credit Card,Adult,Male,Hyderabad,Physical Store
-IHT7MYN0W8,2/21/24,India,508,Sunsilk Shampoo,Personal Care,5.5,8,4,0.4,Google Pay,Adult,Male,Chennai,Physical Store
-S02GZ6FTBG,2/19/24,India,509,Lifebuoy Soap,Personal Care,1.6,9,1.2,0.27,Cash,Young,Male,Bangalore,Online
-WLVFKLAX1K,1/22/24,India,504,Madhur Sugar,Food,1.2,2,0.9,0.18,Cash,Adult,Male,Pune,Online
-M2BQA9HC7Q,2/8/24,India,509,Lifebuoy Soap,Personal Care,1.6,1,1.2,0.04,Bank Transfer,Young,Male,Kolkata,Online
-V1RZOYW0RJ,1/7/24,India,506,Cadbury Dairy Milk,Sweets,3.6,2,2.8,0.21,Google Pay,Adult,Male,Hyderabad,Online
-ZZI7WWK46X,2/4/24,India,509,Lifebuoy Soap,Personal Care,1.6,1,1.2,0.22,Bank Transfer,Adult,Female,Delhi,Online
-RJOL6JYZV0,2/8/24,India,502,Amul Milk,Dairy,1.4,2,1,0.02,Bank Transfer,Young,Female,Bangalore,Online
-HYUGE4CSIK,1/22/24,India,508,Sunsilk Shampoo,Personal Care,5.5,1,4,0.8,Cash,Senior,Female,Mumbai,Physical Store
-OLCBSJ51TW,1/22/24,India,507,Origami Tissue,Hygiene,3,9,2.3,0.23,Debit Card,Adult,Female,Pune,Online
-38IZD1L4IF,2/16/24,India,506,Cadbury Dairy Milk,Sweets,3.6,3,2.8,0.28,Credit Card,Young,Female,Mumbai,Online
-UZ0C6VC5MB,1/9/24,India,509,Lifebuoy Soap,Personal Care,1.6,4,1.2,0.32,Bank Transfer,Young,Female,Mumbai,Online
-JFP28ZDVS3,1/24/24,India,501,India Gate Basmati Rice,Food,2.5,7,1.8,0.15,Cash,Adult,Male,Delhi,Physical Store
-SWBCABHDUE,2/29/24,India,502,Amul Milk,Dairy,1.4,6,1,0.1,Bank Transfer,Young,Female,Chennai,Online
-IY67XDKSYD,1/1/24,India,501,India Gate Basmati Rice,Food,2.5,6,1.8,0.2,Google Pay,Adult,Female,Hyderabad,Online
-CT4P4TXCC6,1/9/24,India,505,Nescafe Coffee,Beverages,5.5,8,4.2,0.42,Debit Card,Adult,Male,Bangalore,Physical Store
-HX2TYVX3L3,2/3/24,India,507,Origami Tissue,Hygiene,3,8,2.3,0.38,Paytm,Senior,Male,Bangalore,Online
-AISN396T04,2/12/24,India,503,Britannia Bread,Bakery,0.7,6,0.4,0.1,Bank Transfer,Adult,Male,Mumbai,Online
-5WAI9Y6B1R,2/17/24,India,501,India Gate Basmati Rice,Food,2.5,6,1.8,0.09,Google Pay,Young,Male,Bangalore,Online
-6G4YWGV66B,2/29/24,India,503,Britannia Bread,Bakery,0.7,8,0.4,0.03,Credit Card,Young,Male,Hyderabad,Physical Store
-GZA3EGBV1V,1/23/24,India,507,Origami Tissue,Hygiene,3,5,2.3,0.12,Credit Card,Young,Male,Pune,Online
-N059PP9KHR,2/28/24,India,501,India Gate Basmati Rice,Food,2.5,9,1.8,0.11,Bank Transfer,Adult,Male,Chennai,Physical Store
-GW8A79TU3P,2/22/24,India,506,Cadbury Dairy Milk,Sweets,3.6,10,2.8,0.14,Google Pay,Adult,Male,Mumbai,Physical Store
-S6O8N26PND,1/28/24,India,506,Cadbury Dairy Milk,Sweets,3.6,10,2.8,0.55,Bank Transfer,Adult,Male,Hyderabad,Physical Store
-1G2EGREGP3,2/19/24,India,505,Nescafe Coffee,Beverages,5.5,10,4.2,0.59,Paytm,Senior,Female,Bangalore,Physical Store
-GENGN8BIUW,2/25/24,India,508,Sunsilk Shampoo,Personal Care,5.5,6,4,1.07,Cash,Adult,Male,Hyderabad,Online
-XK5NV5Z7M1,2/28/24,India,502,Amul Milk,Dairy,1.4,8,1,0.25,Credit Card,Adult,Female,Hyderabad,Physical Store
-L8VAEAH9BA,1/15/24,India,502,Amul Milk,Dairy,1.4,3,1,0.23,Debit Card,Adult,Female,Kolkata,Online
-JBO82LJDPX,1/28/24,India,504,Madhur Sugar,Food,1.2,1,0.9,0.12,Google Pay,Young,Male,Chennai,Physical Store
-4K3UAFSL2Y,2/17/24,India,509,Lifebuoy Soap,Personal Care,1.6,2,1.2,0.13,UPI,Young,Male,Chennai,Physical Store
-QZW87QEJ3I,2/3/24,India,503,Britannia Bread,Bakery,0.7,3,0.4,0.07,Credit Card,Adult,Male,Kolkata,Physical Store
-RYKOMT9LXH,2/28/24,India,504,Madhur Sugar,Food,1.2,4,0.9,0.22,Debit Card,Adult,Male,Hyderabad,Online
-ZG61STM7RY,1/14/24,India,502,Amul Milk,Dairy,1.4,5,1,0.13,Credit Card,Senior,Female,Mumbai,Physical Store
-OC1O42J9FC,3/1/24,India,509,Lifebuoy Soap,Personal Care,1.6,3,1.2,0.28,Credit Card,Adult,Female,Mumbai,Physical Store
-D98H6SAS9Q,2/11/24,India,509,Lifebuoy Soap,Personal Care,1.6,3,1.2,0.18,Credit Card,Adult,Male,Delhi,Online
-BIHXLHEI1F,2/15/24,India,505,Nescafe Coffee,Beverages,5.5,9,4.2,0.88,Google Pay,Young,Male,Delhi,Physical Store
-OCBXDGXS52,1/16/24,India,504,Madhur Sugar,Food,1.2,3,0.9,0.05,UPI,Senior,Male,Pune,Online
-LGF8TZOF8R,1/5/24,India,501,India Gate Basmati Rice,Food,2.5,4,1.8,0.16,UPI,Young,Male,Delhi,Physical Store
-VCR3BK0013,2/9/24,India,505,Nescafe Coffee,Beverages,5.5,1,4.2,1.04,UPI,Adult,Male,Hyderabad,Online
-UNJ0Y5RKGO,1/12/24,India,501,India Gate Basmati Rice,Food,2.5,1,1.8,0.3,Paytm,Adult,Male,Pune,Online
-75W2QLSNXB,1/27/24,India,508,Sunsilk Shampoo,Personal Care,5.5,6,4,0.78,Cash,Senior,Male,Mumbai,Online
-JRGQ8N5XGW,1/3/24,India,503,Britannia Bread,Bakery,0.7,7,0.4,0.09,Paytm,Adult,Male,Hyderabad,Physical Store
-1CUI5P8ZOY,1/6/24,India,505,Nescafe Coffee,Beverages,5.5,6,4.2,0.4,Paytm,Adult,Male,Hyderabad,Physical Store
-VWJGM6WL4R,1/16/24,India,507,Origami Tissue,Hygiene,3,9,2.3,0.06,Debit Card,Senior,Female,Hyderabad,Online
-82EYX88HCS,1/31/24,India,504,Madhur Sugar,Food,1.2,10,0.9,0.07,UPI,Adult,Male,Bangalore,Online
-MFWJQDJWUI,2/23/24,India,503,Britannia Bread,Bakery,0.7,7,0.4,0.09,Debit Card,Adult,Female,Kolkata,Physical Store
-EIWD895VE4,2/24/24,India,506,Cadbury Dairy Milk,Sweets,3.6,10,2.8,0.06,Cash,Adult,Male,Chennai,Online
-0JN9Y6YX5N,2/1/24,India,504,Madhur Sugar,Food,1.2,9,0.9,0.07,Credit Card,Young,Female,Delhi,Online
-E3D4BN2TF1,1/17/24,India,506,Cadbury Dairy Milk,Sweets,3.6,3,2.8,0.2,Credit Card,Senior,Female,Delhi,Online
-KRM1G0D4IL,2/4/24,India,504,Madhur Sugar,Food,1.2,10,0.9,0.15,Credit Card,Senior,Female,Kolkata,Online
-LP1GPXF8GY,1/20/24,India,507,Origami Tissue,Hygiene,3,3,2.3,0.19,Paytm,Adult,Female,Delhi,Physical Store
-ZXPE6YSJMF,2/4/24,India,508,Sunsilk Shampoo,Personal Care,5.5,1,4,0.18,Paytm,Young,Male,Bangalore,Online
-8GBIBU63C8,2/4/24,India,510,Fortune Cooking Oil,Food,4,3,3.1,0.39,Paytm,Young,Male,Chennai,Online
-VBDN2LDV0S,2/8/24,India,505,Nescafe Coffee,Beverages,5.5,7,4.2,0.78,UPI,Young,Female,Delhi,Online
-EZB0TS5A8K,2/17/24,India,510,Fortune Cooking Oil,Food,4,9,3.1,0.53,Bank Transfer,Adult,Male,Mumbai,Physical Store
-OR6T56YJXP,1/10/24,India,509,Lifebuoy Soap,Personal Care,1.6,1,1.2,0.29,Cash,Adult,Female,Delhi,Online
-LSOT93OOI9,1/8/24,India,509,Lifebuoy Soap,Personal Care,1.6,8,1.2,0.21,Paytm,Young,Male,Hyderabad,Physical Store
-J2CD2UTAIH,1/26/24,India,505,Nescafe Coffee,Beverages,5.5,9,4.2,0.69,Paytm,Young,Female,Delhi,Online
-1TCLYQ5KKK,2/1/24,India,509,Lifebuoy Soap,Personal Care,1.6,4,1.2,0.03,Bank Transfer,Young,Male,Kolkata,Online
-ZEY6T9428K,1/2/24,India,508,Sunsilk Shampoo,Personal Care,5.5,4,4,0.58,Cash,Adult,Female,Hyderabad,Online
-9OKK7NQKT5,1/7/24,India,502,Amul Milk,Dairy,1.4,7,1,0.11,UPI,Adult,Male,Delhi,Online
-N5NLCT2Z8R,2/24/24,India,501,India Gate Basmati Rice,Food,2.5,8,1.8,0.38,Debit Card,Senior,Female,Chennai,Physical Store
-BSIC4SDL6M,2/5/24,India,503,Britannia Bread,Bakery,0.7,5,0.4,0.06,Paytm,Senior,Female,Bangalore,Physical Store
-R8CNTYP0RX,2/13/24,India,503,Britannia Bread,Bakery,0.7,1,0.4,0.05,Debit Card,Adult,Male,Pune,Online
-FXIF4UD2RJ,1/24/24,India,506,Cadbury Dairy Milk,Sweets,3.6,7,2.8,0.07,UPI,Adult,Female,Pune,Physical Store
-WYNMADDA9E,1/17/24,India,502,Amul Milk,Dairy,1.4,1,1,0.19,Cash,Senior,Female,Bangalore,Physical Store
-SG63MJOFHJ,2/11/24,India,504,Madhur Sugar,Food,1.2,4,0.9,0.02,Paytm,Senior,Female,Bangalore,Online
-6EAMFZAQYI,2/26/24,India,502,Amul Milk,Dairy,1.4,1,1,0.07,Paytm,Senior,Female,Bangalore,Physical Store
-YAEBMSNRBQ,2/24/24,India,504,Madhur Sugar,Food,1.2,2,0.9,0.21,Cash,Adult,Male,Pune,Physical Store
-8F3O3UW1M5,1/28/24,India,504,Madhur Sugar,Food,1.2,10,0.9,0.08,Google Pay,Senior,Male,Chennai,Physical Store
-J37E63BP1F,1/3/24,India,509,Lifebuoy Soap,Personal Care,1.6,5,1.2,0.17,Google Pay,Young,Male,Hyderabad,Online
-6R10689C08,2/19/24,India,506,Cadbury Dairy Milk,Sweets,3.6,5,2.8,0.6,Cash,Young,Male,Chennai,Online
-N4WECYZXTL,1/22/24,India,505,Nescafe Coffee,Beverages,5.5,2,4.2,0.09,Bank Transfer,Senior,Male,Hyderabad,Physical Store
-HK9G8MQYUE,2/13/24,India,508,Sunsilk Shampoo,Personal Care,5.5,5,4,0.19,Debit Card,Young,Male,Hyderabad,Physical Store
-8TF8GOLUV8,2/23/24,India,502,Amul Milk,Dairy,1.4,6,1,0.25,Cash,Adult,Female,Delhi,Online
-Y79PFAEE2N,2/5/24,India,507,Origami Tissue,Hygiene,3,10,2.3,0.6,Paytm,Adult,Female,Delhi,Online
-KLCIW80BC0,2/6/24,India,507,Origami Tissue,Hygiene,3,3,2.3,0.07,Bank Transfer,Young,Female,Pune,Online
-GRRX19AZW7,2/25/24,India,510,Fortune Cooking Oil,Food,4,2,3.1,0.61,Bank Transfer,Adult,Female,Pune,Physical Store
-35CJ7ZPYH8,1/26/24,India,501,India Gate Basmati Rice,Food,2.5,10,1.8,0.1,Debit Card,Young,Female,Pune,Online
-00D8CUOSW1,2/23/24,India,505,Nescafe Coffee,Beverages,5.5,4,4.2,0.43,UPI,Adult,Male,Hyderabad,Online
-PN7J8NA5G4,2/22/24,India,503,Britannia Bread,Bakery,0.7,6,0.4,0.14,Cash,Senior,Male,Mumbai,Online
-9V0XH04JUR,2/17/24,India,501,India Gate Basmati Rice,Food,2.5,8,1.8,0.05,UPI,Senior,Male,Bangalore,Online
-XG6H1J2FJI,2/5/24,India,510,Fortune Cooking Oil,Food,4,4,3.1,0.72,Debit Card,Young,Male,Bangalore,Physical Store
-ST76733JKW,1/28/24,India,510,Fortune Cooking Oil,Food,4,3,3.1,0.39,Debit Card,Senior,Female,Delhi,Online
-KPU53FZO0X,1/5/24,India,502,Amul Milk,Dairy,1.4,2,1,0.19,Paytm,Young,Female,Chennai,Physical Store
-NIIO9K1GMB,2/1/24,India,510,Fortune Cooking Oil,Food,4,5,3.1,0.79,Debit Card,Senior,Male,Hyderabad,Online
-R8QBJG65T5,1/26/24,India,501,India Gate Basmati Rice,Food,2.5,10,1.8,0.39,Debit Card,Adult,Male,Mumbai,Physical Store
-WWSQN9TM1N,1/1/24,India,502,Amul Milk,Dairy,1.4,2,1,0.01,Cash,Adult,Female,Chennai,Online
-TA4A8TW9AQ,2/27/24,India,505,Nescafe Coffee,Beverages,5.5,6,4.2,0.32,Cash,Senior,Female,Pune,Physical Store
-9XDR14XGTQ,1/23/24,India,502,Amul Milk,Dairy,1.4,6,1,0.23,Paytm,Young,Male,Kolkata,Physical Store
-4QAS4EQIX4,1/2/24,India,503,Britannia Bread,Bakery,0.7,3,0.4,0.07,UPI,Adult,Female,Mumbai,Online
-RX0XRQVF6N,1/15/24,India,505,Nescafe Coffee,Beverages,5.5,1,4.2,0.17,Credit Card,Adult,Female,Mumbai,Physical Store
-TVU6YWQIJE,1/2/24,India,508,Sunsilk Shampoo,Personal Care,5.5,9,4,0.5,Debit Card,Senior,Male,Mumbai,Online
-JQSC4A9NY4,2/24/24,India,503,Britannia Bread,Bakery,0.7,6,0.4,0.12,Cash,Senior,Female,Delhi,Online
-2K1USX9AWW,1/14/24,India,509,Lifebuoy Soap,Personal Care,1.6,6,1.2,0.03,Bank Transfer,Young,Female,Chennai,Online
-4L3FYQ7FM0,1/16/24,India,501,India Gate Basmati Rice,Food,2.5,5,1.8,0.05,UPI,Senior,Male,Mumbai,Online
-SUK66G6EI2,1/14/24,India,509,Lifebuoy Soap,Personal Care,1.6,1,1.2,0.26,Cash,Young,Female,Pune,Physical Store
-6DMJAN1HFY,2/11/24,India,505,Nescafe Coffee,Beverages,5.5,6,4.2,0.53,Paytm,Adult,Female,Pune,Physical Store
-WQ8MIPF9N8,2/2/24,India,501,India Gate Basmati Rice,Food,2.5,5,1.8,0.3,Google Pay,Senior,Male,Kolkata,Physical Store
-SSJ8IPAWYD,1/18/24,India,502,Amul Milk,Dairy,1.4,5,1,0.28,Cash,Adult,Male,Kolkata,Online
-LLFNRBXYQR,1/25/24,India,501,India Gate Basmati Rice,Food,2.5,6,1.8,0.17,Bank Transfer,Adult,Female,Bangalore,Online
-I7HFZENPTT,1/12/24,India,503,Britannia Bread,Bakery,0.7,6,0.4,0.09,Credit Card,Adult,Male,Hyderabad,Online
-7V851IBXYE,2/16/24,India,507,Origami Tissue,Hygiene,3,7,2.3,0.6,UPI,Adult,Male,Bangalore,Physical Store
-8W64WNJWYG,1/15/24,India,502,Amul Milk,Dairy,1.4,6,1,0.25,Credit Card,Adult,Female,Pune,Online
-V6UZXN5WPL,1/9/24,India,502,Amul Milk,Dairy,1.4,4,1,0.2,Bank Transfer,Adult,Female,Hyderabad,Physical Store
-KC1X8XPUAY,1/15/24,India,510,Fortune Cooking Oil,Food,4,4,3.1,0.59,Bank Transfer,Adult,Male,Bangalore,Online
-TDXMCD217W,1/1/24,India,502,Amul Milk,Dairy,1.4,6,1,0.12,Debit Card,Young,Female,Hyderabad,Online
-0DXLQS89J1,2/9/24,India,503,Britannia Bread,Bakery,0.7,8,0.4,0.09,Bank Transfer,Senior,Female,Bangalore,Online
-Q5BUI9II9Z,1/5/24,India,505,Nescafe Coffee,Beverages,5.5,2,4.2,0.84,Debit Card,Adult,Male,Chennai,Physical Store
-H9K3W4MLOB,2/13/24,India,505,Nescafe Coffee,Beverages,5.5,2,4.2,0.07,Credit Card,Young,Male,Mumbai,Online
-UIDGG56ZDK,1/14/24,India,510,Fortune Cooking Oil,Food,4,3,3.1,0.41,Google Pay,Adult,Female,Mumbai,Online
-FY25RRXXD1,1/16/24,India,503,Britannia Bread,Bakery,0.7,3,0.4,0.12,Bank Transfer,Adult,Male,Mumbai,Online
-ZD35OT9ASU,1/27/24,India,503,Britannia Bread,Bakery,0.7,4,0.4,0.07,Cash,Adult,Male,Kolkata,Physical Store
-V94DFFADHF,2/20/24,India,505,Nescafe Coffee,Beverages,5.5,3,4.2,0.14,Cash,Senior,Male,Mumbai,Online
-RUB9YDESSJ,1/3/24,India,506,Cadbury Dairy Milk,Sweets,3.6,10,2.8,0.23,Debit Card,Adult,Male,Bangalore,Online
-S9WB8Y31R7,2/27/24,India,510,Fortune Cooking Oil,Food,4,4,3.1,0.38,UPI,Senior,Female,Delhi,Physical Store
-R8PFW9OR90,2/18/24,India,510,Fortune Cooking Oil,Food,4,8,3.1,0.38,Google Pay,Adult,Female,Chennai,Physical Store
-RCAQ3TM1RN,2/17/24,India,508,Sunsilk Shampoo,Personal Care,5.5,3,4,0.17,Google Pay,Adult,Female,Chennai,Online
-PHIWR4UXSL,1/2/24,India,508,Sunsilk Shampoo,Personal Care,5.5,8,4,0.92,Credit Card,Adult,Male,Pune,Physical Store
-3WPSFFTE5Y,2/9/24,India,504,Madhur Sugar,Food,1.2,2,0.9,0.09,Debit Card,Senior,Male,Chennai,Online
-JNTUUJ1D1P,1/18/24,India,504,Madhur Sugar,Food,1.2,3,0.9,0.11,UPI,Adult,Female,Hyderabad,Physical Store
-4V3C6XOOTX,3/1/24,India,509,Lifebuoy Soap,Personal Care,1.6,9,1.2,0.22,Google Pay,Adult,Male,Delhi,Physical Store
-IXMCKX5D1U,2/10/24,India,507,Origami Tissue,Hygiene,3,9,2.3,0.27,Cash,Senior,Female,Chennai,Physical Store
-3Q4PTGSUW0,1/7/24,India,504,Madhur Sugar,Food,1.2,2,0.9,0.14,Bank Transfer,Senior,Male,Kolkata,Online
-0M655YQI68,2/6/24,India,510,Fortune Cooking Oil,Food,4,2,3.1,0.73,Cash,Adult,Male,Kolkata,Online
-FCCTOJLPJH,1/19/24,India,507,Origami Tissue,Hygiene,3,3,2.3,0.55,Bank Transfer,Senior,Female,Mumbai,Physical Store
-H582F2BVN9,2/15/24,India,503,Britannia Bread,Bakery,0.7,5,0.4,0.01,Credit Card,Senior,Male,Chennai,Online
-AYGU45Y3LA,2/5/24,India,505,Nescafe Coffee,Beverages,5.5,5,4.2,0.96,Debit Card,Adult,Male,Pune,Physical Store
-SDZYGQ7421,2/13/24,India,504,Madhur Sugar,Food,1.2,10,0.9,0.19,Bank Transfer,Young,Male,Pune,Online
-P5BT7Y5EXA,2/29/24,India,507,Origami Tissue,Hygiene,3,5,2.3,0.5,Paytm,Senior,Female,Hyderabad,Physical Store
-JLIKQUNYSL,2/17/24,India,510,Fortune Cooking Oil,Food,4,9,3.1,0.76,Credit Card,Adult,Female,Bangalore,Online
-PRT5WECZUN,1/25/24,India,504,Madhur Sugar,Food,1.2,1,0.9,0,Bank Transfer,Senior,Male,Delhi,Online
-GBYCVVGEJM,2/11/24,India,507,Origami Tissue,Hygiene,3,2,2.3,0.52,Cash,Adult,Male,Bangalore,Physical Store
-NXZOJ39YK0,1/10/24,India,508,Sunsilk Shampoo,Personal Care,5.5,2,4,0.33,Google Pay,Young,Male,Hyderabad,Online
-7ZY637G4BP,2/9/24,India,510,Fortune Cooking Oil,Food,4,9,3.1,0.2,Credit Card,Adult,Female,Pune,Physical Store
-W2J14UFQSH,1/19/24,India,509,Lifebuoy Soap,Personal Care,1.6,1,1.2,0.24,Debit Card,Senior,Female,Pune,Physical Store
-N2N6RPNF73,1/4/24,India,508,Sunsilk Shampoo,Personal Care,5.5,2,4,0.61,Credit Card,Adult,Male,Kolkata,Online
-ARW3NHDSN9,2/28/24,India,502,Amul Milk,Dairy,1.4,4,1,0.09,UPI,Senior,Male,Kolkata,Physical Store
-3UR2VKSPBI,1/6/24,India,508,Sunsilk Shampoo,Personal Care,5.5,1,4,0.56,Google Pay,Adult,Female,Mumbai,Online
-EO9EH3L8PH,2/14/24,India,503,Britannia Bread,Bakery,0.7,8,0.4,0.04,Paytm,Adult,Male,Hyderabad,Physical Store
-3KNL9EZNBI,2/25/24,India,503,Britannia Bread,Bakery,0.7,8,0.4,0.05,Debit Card,Adult,Female,Pune,Physical Store
-PT8BPD514L,2/16/24,India,508,Sunsilk Shampoo,Personal Care,5.5,1,4,0.2,Bank Transfer,Adult,Male,Chennai,Physical Store
-0I6IL00R97,2/6/24,India,501,India Gate Basmati Rice,Food,2.5,1,1.8,0.08,Google Pay,Adult,Male,Hyderabad,Online
-71JKGH77F6,2/8/24,India,510,Fortune Cooking Oil,Food,4,2,3.1,0.12,UPI,Adult,Male,Chennai,Physical Store
-B6MG9FSCQW,2/1/24,India,504,Madhur Sugar,Food,1.2,1,0.9,0.19,Bank Transfer,Adult,Male,Pune,Online
-J4EGMD81IF,2/2/24,India,505,Nescafe Coffee,Beverages,5.5,3,4.2,0,Debit Card,Young,Female,Bangalore,Online
-LZUG6PMQY8,1/4/24,India,505,Nescafe Coffee,Beverages,5.5,6,4.2,0.22,Bank Transfer,Young,Female,Chennai,Online
-H9G8DGQH8F,1/15/24,India,507,Origami Tissue,Hygiene,3,7,2.3,0.49,Debit Card,Senior,Male,Delhi,Online
-GDYH50I3JA,1/18/24,India,503,Britannia Bread,Bakery,0.7,4,0.4,0.07,Cash,Senior,Female,Chennai,Online
-EP0LR9K3I6,1/11/24,India,507,Origami Tissue,Hygiene,3,1,2.3,0.41,Paytm,Young,Male,Hyderabad,Online
-Q0A2U6FWJW,2/15/24,India,505,Nescafe Coffee,Beverages,5.5,7,4.2,0.93,Credit Card,Adult,Male,Kolkata,Online
-QC1XZSW4KP,1/3/24,India,510,Fortune Cooking Oil,Food,4,8,3.1,0.66,Bank Transfer,Young,Male,Delhi,Physical Store
-HD49XCLA3A,2/28/24,India,504,Madhur Sugar,Food,1.2,7,0.9,0.05,Debit Card,Adult,Female,Mumbai,Online
-8SPXBXSZ90,2/9/24,India,510,Fortune Cooking Oil,Food,4,3,3.1,0.27,Cash,Adult,Male,Mumbai,Physical Store
-M74RAFGMNV,1/20/24,India,507,Origami Tissue,Hygiene,3,10,2.3,0.15,Debit Card,Senior,Female,Mumbai,Physical Store
-9DPY10WOTM,2/20/24,India,501,India Gate Basmati Rice,Food,2.5,6,1.8,0.36,UPI,Adult,Female,Mumbai,Physical Store
-NP1YC54IH6,2/21/24,India,510,Fortune Cooking Oil,Food,4,10,3.1,0.35,UPI,Senior,Female,Delhi,Physical Store
-07Q5KKFURW,2/28/24,India,508,Sunsilk Shampoo,Personal Care,5.5,8,4,1.02,Cash,Young,Female,Mumbai,Online
-SA1LZ0Y8DR,2/21/24,India,509,Lifebuoy Soap,Personal Care,1.6,2,1.2,0.16,UPI,Young,Female,Hyderabad,Online
-6UOCFLS33O,2/15/24,India,501,India Gate Basmati Rice,Food,2.5,9,1.8,0.18,Cash,Young,Male,Bangalore,Online
-3J1X4DGGH3,2/17/24,India,506,Cadbury Dairy Milk,Sweets,3.6,3,2.8,0.14,Cash,Senior,Female,Chennai,Physical Store
-VH1KBDIIKK,1/10/24,India,510,Fortune Cooking Oil,Food,4,5,3.1,0.16,Debit Card,Adult,Female,Mumbai,Physical Store
-CEJZ69HR6J,2/9/24,India,506,Cadbury Dairy Milk,Sweets,3.6,10,2.8,0.57,Cash,Adult,Female,Pune,Online
-L818GDP8GG,2/20/24,India,501,India Gate Basmati Rice,Food,2.5,10,1.8,0.36,UPI,Young,Female,Pune,Physical Store
-C8VWWHYFER,1/28/24,India,508,Sunsilk Shampoo,Personal Care,5.5,7,4,0.42,Debit Card,Senior,Male,Kolkata,Physical Store
-NO464VGUD3,2/12/24,India,508,Sunsilk Shampoo,Personal Care,5.5,6,4,0.15,UPI,Adult,Female,Kolkata,Physical Store
-O827KS4PLI,2/14/24,India,505,Nescafe Coffee,Beverages,5.5,9,4.2,0.79,Google Pay,Senior,Female,Bangalore,Physical Store
-DABU8IK5BF,2/18/24,India,509,Lifebuoy Soap,Personal Care,1.6,2,1.2,0.13,UPI,Adult,Male,Pune,Physical Store
-AW0FMHR7MR,2/17/24,India,509,Lifebuoy Soap,Personal Care,1.6,7,1.2,0.01,Bank Transfer,Adult,Female,Hyderabad,Online
-O96GRXFUR6,2/11/24,India,505,Nescafe Coffee,Beverages,5.5,9,4.2,0.31,Credit Card,Young,Female,Kolkata,Physical Store
-1VCXK2HXEW,1/29/24,India,509,Lifebuoy Soap,Personal Care,1.6,7,1.2,0.12,Google Pay,Adult,Male,Bangalore,Physical Store
-Q23E6R1X7S,2/19/24,India,506,Cadbury Dairy Milk,Sweets,3.6,3,2.8,0.42,Cash,Adult,Male,Delhi,Online
-DQEYAI89B7,1/11/24,India,505,Nescafe Coffee,Beverages,5.5,1,4.2,0.84,UPI,Senior,Male,Pune,Online
-R15TZ016VC,2/9/24,India,501,India Gate Basmati Rice,Food,2.5,7,1.8,0.42,UPI,Adult,Female,Delhi,Online
-OMBGLMQ58M,1/14/24,India,509,Lifebuoy Soap,Personal Care,1.6,8,1.2,0.14,Credit Card,Adult,Female,Chennai,Physical Store
-IZ3T4QEBDX,2/12/24,India,502,Amul Milk,Dairy,1.4,6,1,0.03,Credit Card,Adult,Female,Kolkata,Physical Store
-9DEAAKIK52,1/22/24,India,504,Madhur Sugar,Food,1.2,5,0.9,0.07,Debit Card,Adult,Male,Bangalore,Physical Store
-OYFZYN588Y,2/10/24,India,503,Britannia Bread,Bakery,0.7,8,0.4,0.09,UPI,Adult,Male,Kolkata,Physical Store
-R27U3ZEE5A,2/26/24,India,506,Cadbury Dairy Milk,Sweets,3.6,7,2.8,0.5,Bank Transfer,Adult,Male,Chennai,Online
-46ML2V66J3,1/16/24,India,505,Nescafe Coffee,Beverages,5.5,3,4.2,0.75,Cash,Adult,Female,Kolkata,Online
-QWDHJ6C6RB,1/15/24,India,509,Lifebuoy Soap,Personal Care,1.6,5,1.2,0.15,Bank Transfer,Young,Female,Mumbai,Online
-DRZU7B2XJ6,2/16/24,India,501,India Gate Basmati Rice,Food,2.5,1,1.8,0.12,Paytm,Senior,Male,Kolkata,Physical Store
-G5OHMQ1GH6,1/28/24,India,504,Madhur Sugar,Food,1.2,6,0.9,0.21,Credit Card,Adult,Female,Pune,Physical Store
-1LO113OYT7,1/25/24,India,505,Nescafe Coffee,Beverages,5.5,9,4.2,0.98,Paytm,Young,Female,Mumbai,Physical Store
-YPYULDDNFT,1/9/24,India,509,Lifebuoy Soap,Personal Care,1.6,9,1.2,0.24,Debit Card,Young,Female,Kolkata,Online
-V8YEX97A3X,1/22/24,India,506,Cadbury Dairy Milk,Sweets,3.6,2,2.8,0.6,Cash,Senior,Male,Kolkata,Online
-W2NQ63BXBL,2/9/24,India,503,Britannia Bread,Bakery,0.7,3,0.4,0.14,Bank Transfer,Adult,Female,Mumbai,Physical Store
-GX1QCPO7OC,1/26/24,India,502,Amul Milk,Dairy,1.4,8,1,0.26,UPI,Adult,Female,Kolkata,Physical Store
-XEGOTWAPKP,2/4/24,India,505,Nescafe Coffee,Beverages,5.5,10,4.2,0.13,Cash,Senior,Female,Hyderabad,Physical Store
-SAIUG44Q88,1/14/24,India,504,Madhur Sugar,Food,1.2,1,0.9,0.2,Cash,Adult,Male,Chennai,Online
-60LV3Y61T2,1/15/24,India,508,Sunsilk Shampoo,Personal Care,5.5,9,4,0.52,Debit Card,Adult,Female,Bangalore,Physical Store
-NVQJSGQ2V0,1/9/24,India,510,Fortune Cooking Oil,Food,4,2,3.1,0.04,Credit Card,Adult,Female,Bangalore,Physical Store
-LLYVN1PCGN,1/31/24,India,510,Fortune Cooking Oil,Food,4,10,3.1,0.37,Google Pay,Senior,Female,Bangalore,Online
-GRNX2L1QOT,1/31/24,India,510,Fortune Cooking Oil,Food,4,8,3.1,0,Cash,Adult,Female,Pune,Physical Store
-TPILSH3GET,1/17/24,India,506,Cadbury Dairy Milk,Sweets,3.6,5,2.8,0.5,Google Pay,Young,Male,Delhi,Physical Store
-J2JBW3G7YI,2/2/24,India,507,Origami Tissue,Hygiene,3,7,2.3,0.28,Google Pay,Adult,Female,Kolkata,Physical Store
-DGNB8KFC1D,1/1/24,India,510,Fortune Cooking Oil,Food,4,4,3.1,0.53,Credit Card,Young,Male,Hyderabad,Online
-73OBMT4K7I,2/25/24,India,505,Nescafe Coffee,Beverages,5.5,9,4.2,0.76,Paytm,Adult,Female,Delhi,Online
-7984ROX9MG,1/4/24,India,502,Amul Milk,Dairy,1.4,9,1,0.18,Bank Transfer,Adult,Female,Hyderabad,Physical Store
-9UZKJFDSYZ,1/12/24,India,506,Cadbury Dairy Milk,Sweets,3.6,5,2.8,0.33,Paytm,Senior,Male,Mumbai,Physical Store
-3PCUEB6AIC,1/12/24,India,502,Amul Milk,Dairy,1.4,1,1,0.14,Paytm,Adult,Female,Bangalore,Online
-LSUVJB18V7,3/1/24,India,506,Cadbury Dairy Milk,Sweets,3.6,10,2.8,0.67,Cash,Young,Female,Mumbai,Online
-WHR9UA2D53,1/1/24,India,504,Madhur Sugar,Food,1.2,7,0.9,0.23,Cash,Senior,Female,Kolkata,Online
-QADB9IHA09,2/21/24,India,509,Lifebuoy Soap,Personal Care,1.6,10,1.2,0.12,Debit Card,Young,Female,Kolkata,Physical Store
-X4V8T0THV1,1/17/24,India,507,Origami Tissue,Hygiene,3,4,2.3,0.51,Bank Transfer,Senior,Male,Kolkata,Physical Store
-BJFLYB418N,2/9/24,India,509,Lifebuoy Soap,Personal Care,1.6,10,1.2,0.23,Credit Card,Adult,Male,Kolkata,Physical Store
-90B6SDC2I9,2/14/24,India,509,Lifebuoy Soap,Personal Care,1.6,5,1.2,0.12,UPI,Adult,Female,Delhi,Physical Store
-94N5IEGE23,1/4/24,India,505,Nescafe Coffee,Beverages,5.5,8,4.2,0.37,Debit Card,Young,Female,Bangalore,Physical Store
-2OF1UDJ6S8,1/22/24,India,508,Sunsilk Shampoo,Personal Care,5.5,9,4,0.97,UPI,Young,Male,Bangalore,Online
-MB8O5XRFWX,3/1/24,India,507,Origami Tissue,Hygiene,3,5,2.3,0.21,Debit Card,Adult,Female,Mumbai,Online
-ZYH2IW1W8S,1/19/24,India,503,Britannia Bread,Bakery,0.7,8,0.4,0.08,Bank Transfer,Senior,Female,Hyderabad,Physical Store
-QGNQNM05SQ,2/25/24,India,508,Sunsilk Shampoo,Personal Care,5.5,2,4,0.68,Paytm,Adult,Female,Chennai,Physical Store
-LGMT896RC9,2/13/24,India,506,Cadbury Dairy Milk,Sweets,3.6,10,2.8,0.51,UPI,Senior,Female,Chennai,Physical Store
-12EM68TE3N,2/28/24,India,507,Origami Tissue,Hygiene,3,9,2.3,0.36,Cash,Adult,Female,Pune,Physical Store
+transaction_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,sales_representative
+hG8633,10/8/24,India,a041dd8c-ec68-4893-aff3-c110df77ff98,Doritos Chips,Snacks,2.1,5,10.5,0.2,Online Payment,,,Delhi,Priya Chopra
+hO3709,5/26/24,India,c9b8d1cf-be60-4416-b85a-3d3a488ee0fc,The North Face Jacket,Apparel,123.77,5,618.85,0.15,Credit Card,Young,Male,Hyderabad,Neha Chopra
+oQ2869,5/28/24,India,adae3b07-8b91-433c-88ad-5e8aab6ed10f,The North Face Jacket,Apparel,137.64,3,412.92,0.15,Cash,Senior,Female,Hyderabad,Rahul Singh
+gQ6715,8/13/24,India,f0fb5ee9-a79e-4b62-8583-07b7e64019bd,Coca-Cola Can,Beverages,1.91,4,7.64,0.2,Cash,Adult,Female,Hyderabad,Sneha Iyer
+rO9046,10/21/24,India,91860fb4-1c7b-4799-a6d0-22231b7fe3b1,Doritos Chips,Snacks,1.86,3,5.58,0.2,Online Payment,Adult,Female,Hyderabad,Anjali Nair
+Pj4799,12/15/24,India,83684858-3c4b-45dd-8f9d-be7d36ff65e4,Doritos Chips,Snacks,3.63,7,25.41,0.15,Online Payment,Senior,Male,Hyderabad,Pooja Chopra
+RB6546,4/20/24,India,fe5f83dd-1a19-4123-b36e-adaee19c2bd2,The North Face Jacket,Apparel,252.24,2,504.48,0.05,Online Payment,Young,Female,Mumbai,Sneha Mehta
+eZ1486,12/29/24,India,1d31d481-0f79-4014-b6d0-e790f2403030,Levi's 501 Jeans,Apparel,70.58,8,564.64,0.15,Debit Card,Adult,Female,Hyderabad,Karan Gupta
+RI3727,4/16/24,India,d60db649-e072-4be2-98e3-c5e38123badb,,Electronics,1572.68,10,15726.8,0.2,Mobile Wallet,Senior,Female,Bangalore,Anjali Kumar
+mn9290,9/22/24,India,08358953-4db2-40c3-8dda-b6581830a2b0,Nike Air Max,Footwear,152.54,9,1372.86,0,Online Payment,Young,Female,Hyderabad,Ravi Patel
+Cf3642,2/16/25,India,11dd7802-cc96-4e9c-866e-4db69f8648b3,iPhone 14,Electronics,,1,1068.09,0,Mobile Wallet,Young,Male,Hyderabad,Karan Reddy
+Zi4344,9/12/24,India,3ff39579-5d0c-4df7-a1ec-3c1b19ecfb51,Yeti Tumbler,Outdoor,40.82,,408.2,0.05,Online Payment,Senior,Male,Bangalore,Karan Kumar
+tc5654,2/9/25,India,,KitchenAid Mixer,Home Appliances,321.45,7,2250.15,0.15,Mobile Wallet,Senior,,Mumbai,Rahul Nair
+Ht8970,10/22/24,India,55607e84-e225-4555-9c8a-a139f74e5a75,The North Face Jacket,Apparel,157.37,6,944.22,0,Cash,Senior,Male,Bangalore,Sneha Sharma
+Ha5293,9/15/24,,d6ba09c3-ac57-46a3-bb1e-c88562cc307a,Yeti Tumbler,,30.28,8,242.24,0.15,Mobile Wallet,Adult,Male,Hyderabad,Karan Sharma
+BC0264,10/23/24,India,f701db90-8288-4be2-b309-5650785a0d05,Nike Air Max,Footwear,165.33,5,826.65,0,Online Payment,Senior,Female,,Ravi Sharma
+tg9586,1/25/25,India,d8aa5f8a-2869-4d8b-a898-92be8da3c9cf,Apple MacBook Pro,Electronics,2435,1,2435,0.05,Debit Card,Young,Male,Hyderabad,Ravi Iyer
+rZ1587,1/15/25,India,118644a2-2d6f-4f67-aba2-f1b31576f363,iPhone 14,Electronics,1013,10,10130,0.2,Debit Card,Adult,Female,Hyderabad,Neha Gupta
+tk5853,7/28/24,India,da343653-9070-4813-9f55-53a53caba8dd,The North Face Jacket,Apparel,118.99,9,1070.91,0.2,Mobile Wallet,Adult,Female,Chennai,Karan Iyer
+Sq8931,12/19/24,India,dc6459c2-a6af-4d9b-8950-a9d03a3266e1,Apple MacBook Pro,Electronics,1391.73,1,1391.73,0.15,Mobile Wallet,Senior,Male,Bangalore,Priya Patel
+QV2788,11/5/24,India,620a737b-682a-4e8c-8a4d-5a6d60c365c7,The North Face Jacket,Apparel,121.22,8,969.76,0,Debit Card,Adult,Female,Delhi,Karan Chopra
+dz5765,3/30/24,India,e7549b41-78d4-4a63-b3cc-d402619ee37b,iPhone 14,Electronics,915.38,1,915.38,0.2,Credit Card,Adult,Female,Hyderabad,Pooja Gupta
+mu3472,6/18/24,India,d4148c90-6161-4d3a-8277-174a53fd30d6,Doritos Chips,Snacks,,8,27.28,0.05,Debit Card,Young,Male,Mumbai,Deepak Singh
+cb6333,10/22/24,India,1b46e401-b87e-4ba5-8b38-fe02824c725b,Samsung QLED TV,Electronics,500.77,6,,0.1,Online Payment,Adult,Male,Chennai,Neha Sharma
+tR6406,4/2/24,India,b044cadf-c0f3-4a5e-afab-5cfd5efa53bb,Levi's 501 Jeans,,87.46,8,699.68,0.2,Credit Card,Senior,Female,Mumbai,Priya Iyer
+pe7674,10/15/24,India,67a3fc4f-49d4-4031-a1f8-a9a78b283675,KitchenAid Mixer,Home Appliances,349.99,4,1399.96,0.2,Cash,Adult,Female,Chennai,Anjali Reddy
+xJ0595,9/20/24,India,,Samsung QLED TV,Electronics,1691.33,5,8456.65,0.15,Debit Card,Adult,Male,Mumbai,Sneha Reddy
+Ok8411,6/10/24,India,93eb4ae1-db2a-4a10-a528-313d1d29168e,Levi's 501 Jeans,Apparel,85.86,1,,0.15,Cash,Senior,Male,Mumbai,Deepak Singh
+hC9752,9/28/24,India,3f2c7700-d37a-446e-8562-1f2b1f3869b5,Samsung QLED TV,Electronics,845.07,4,3380.28,0.1,Debit Card,Young,Male,Bangalore,Sneha Iyer
+qb3901,8/19/24,India,2019e7a5-3a22-446b-b3a7-6f16c34dcd44,Apple MacBook Pro,Electronics,1441.3,10,14413,0.05,Debit Card,Young,Male,Bangalore,Neha Reddy
+VI5328,10/22/24,India,6a881da0-2d77-4929-bc90-a02fe4c6e5f3,The North Face Jacket,Apparel,218.95,5,1094.75,0.05,Debit Card,Senior,,Bangalore,Amit Kumar
+SM9874,3/28/24,India,,Doritos Chips,Snacks,2.12,9,19.08,0,Online Payment,Young,Male,Mumbai,Pooja Reddy
+Wy4737,5/29/24,India,bda3d28a-e97f-4996-8b4a-ca0b88f8f582,Levi's 501 Jeans,,99.19,2,198.38,0.2,Credit Card,Young,Female,Chennai,Anjali Iyer
+Nu4917,5/26/24,India,93c8cc30-4b02-4435-87d4-f2affd68d086,The North Face Jacket,Apparel,166.39,9,1497.51,0.05,,Young,Female,Bangalore,Sneha Iyer
+yq8573,12/15/24,India,4766192a-da61-4c24-99bc-9bc133fc0b34,Yeti Tumbler,Outdoor,32.13,6,192.78,0.15,Credit Card,Adult,Male,Mumbai,Rahul Chopra
+kY6887,6/9/24,,90026518-a8da-4527-be4d-a83c9bd46639,Samsung QLED TV,Electronics,1953.14,6,11718.84,0.05,Debit Card,Adult,Female,Chennai,Rahul Nair
+CE1732,1/24/25,India,d5747fd8-8ae9-4963-8a6b-3766108bcd36,Yeti Tumbler,Outdoor,40.97,4,163.88,0,Credit Card,Senior,Female,Chennai,Ravi Mehta
+TU2972,3/8/25,India,047994a2-c830-4b7a-9f54-b8551964ea88,Levi's 501 Jeans,Apparel,63.9,4,255.6,0.15,Credit Card,Adult,,Mumbai,Deepak Mehta
+wI7765,10/29/24,India,61fcbe6f-d499-48a6-b0e3-9798292f14e4,Levi's 501 Jeans,Apparel,79.45,7,556.15,0.2,Credit Card,,Male,Delhi,Rahul Mehta
+QN3046,8/9/24,,18db5579-2bf2-4e65-b831-58090984c80e,Coca-Cola Can,Beverages,1.7,2,3.4,0.1,Debit Card,,Male,Bangalore,Priya Nair
+ED6068,10/11/24,,a37a065a-063a-4a33-b5da-700a20e5cff8,Apple MacBook Pro,Electronics,1402.99,8,11223.92,0,Cash,Adult,Male,Hyderabad,Ravi Chopra
+bg0291,,India,611f2412-f309-4ab2-8267-07aa2eaea28f,Nike Air Max,Footwear,121.18,5,605.9,0.2,Cash,Senior,Female,Hyderabad,Pooja Nair
+Kp8913,7/2/24,India,0cfce745-c46c-41b5-ade9-f66b3db6342a,Levi's 501 Jeans,Apparel,70.29,,632.61,0,Online Payment,Senior,Female,Bangalore,Neha Sharma
+mU1792,9/19/24,India,3512b28b-1ce8-4380-8479-e2f460529685,Apple MacBook Pro,Electronics,2145.68,9,19311.12,0,,Adult,Female,Delhi,Karan Singh
+vB8048,12/16/24,India,e34fbd0a-6a05-45e1-bb9e-eb8bb7fec31c,Yeti Tumbler,Outdoor,29.47,3,88.41,,,Young,Female,Delhi,Sneha Nair
+by4914,7/18/24,India,e60bf1df-4683-42ac-80a9-4ff8a3946c7e,Samsung QLED TV,Electronics,840.58,2,1681.16,0.2,Online Payment,Senior,Male,Bangalore,Karan Patel
+Qg7739,9/7/24,India,b4e7bceb-f777-48bb-beb2-6f92387b6245,KitchenAid Mixer,Home Appliances,429.36,6,2576.16,0,Cash,Adult,Female,Mumbai,Amit Chopra
+iY6569,6/23/24,India,bb3a7380-96d4-48ec-baa5-345318803d63,iPhone 14,Electronics,1142.44,3,3427.32,0.15,Credit Card,Senior,Female,,Neha Singh
+MC9328,8/1/24,India,7866c77e-ce66-4b91-9c3d-7c6dcf892943,The North Face Jacket,Apparel,126.56,1,126.56,0.05,Mobile Wallet,Adult,,Delhi,Ravi Chopra
+Pn9201,11/11/24,India,b6e79f50-3cbb-4672-a27d-78abaab795fe,Apple MacBook Pro,,1929.71,,15437.68,0,,Adult,Male,Hyderabad,Anjali Sharma
+xp2447,2/8/25,India,ed641e50-5f8a-49c4-b9a6-6947909724e0,KitchenAid Mixer,Home Appliances,465.08,9,4185.72,0.2,Credit Card,Adult,Male,Chennai,Sneha Sharma
+HU2977,4/15/24,India,630dab0f-2ab5-49d9-812d-bd6c0e21c477,Nike Air Max,Footwear,177.24,,531.72,0,Cash,Senior,,Bangalore,Rahul Patel
+sS9714,9/15/24,India,,The North Face Jacket,Apparel,161.16,2,322.32,0.15,Credit Card,Young,Female,Delhi,Ravi Sharma
+PX6023,2/15/25,India,973f745c-9085-4a51-b8f6-759c5db92d33,Yeti Tumbler,Outdoor,31.74,6,190.44,0.1,Debit Card,Young,Female,Mumbai,Amit Reddy
+Aq8519,2/12/25,India,a879d8c3-b769-4bac-b4eb-7029f890d5c8,Coca-Cola Can,Beverages,1.89,10,18.9,0.05,Debit Card,Senior,Female,,Neha Nair
+ES1414,10/12/24,India,e5700dfa-cc26-4e97-9ccf-f8d809b94629,The North Face Jacket,,204.32,9,1838.88,0.1,Online Payment,Young,Female,Mumbai,Anjali Patel
+gv7268,8/3/24,India,b6b68bec-3108-434f-9891-ebcc32c04c35,KitchenAid Mixer,Home Appliances,430.55,8,3444.4,0.05,Online Payment,Young,Female,Hyderabad,Deepak Nair
+DD6733,10/17/24,India,b526dddf-835f-41d5-916d-6bb5e27ffb23,Doritos Chips,Snacks,3.57,1,3.57,0.1,Online Payment,Senior,Male,Bangalore,Sneha Mehta
+dZ9015,10/15/24,,042cf1c1-1dc9-4711-a55d-c6826f9a5720,Levi's 501 Jeans,Apparel,84.77,10,847.7,0.2,Credit Card,Senior,Female,Bangalore,Rahul Chopra
+gp9502,12/20/24,India,30faed24-256b-4be0-9070-ae1e53037b37,The North Face Jacket,Apparel,270.62,10,2706.2,0.1,,Young,Female,Chennai,Anjali Singh
+bL1163,2/10/25,,aa010ced-bb1e-495f-a199-3ffb7ec4314b,Samsung QLED TV,Electronics,1545.53,10,15455.3,0.2,Online Payment,Adult,Female,Mumbai,Karan Iyer
+hg3651,5/30/24,,d8ddc1bb-bebd-4f2d-a1db-f17cab980bb3,Nike Air Max,,154.41,4,617.64,,Credit Card,Young,Female,Mumbai,Anjali Patel
+Cn1107,9/17/24,India,f7fc6eeb-5105-4766-bdc2-a2be4ed4e7fe,Yeti Tumbler,Outdoor,28.2,7,197.4,0.05,Cash,Young,Female,Mumbai,Pooja Singh
+hI2866,11/12/24,India,6a9a75ca-814d-4399-babd-1450e275534b,Yeti Tumbler,Outdoor,,4,127.2,0.05,Credit Card,Adult,Female,Bangalore,Neha Kumar
+dp0313,4/14/24,India,5ba3beb1-8429-4d52-bd07-f24b235b8fe3,Nike Air Max,Footwear,112.52,5,562.6,0.05,Mobile Wallet,Senior,Female,Chennai,
+yx2373,12/21/24,India,2a8bd6ed-245d-4dab-bc2a-4fea949a6ee0,Yeti Tumbler,Outdoor,28.54,2,57.08,0.1,Debit Card,Adult,Female,Chennai,Neha Mehta
+lu4129,12/18/24,India,1e9b1a00-75fc-449e-9ef4-d075cb4c4dd5,Nike Air Max,Footwear,109.22,7,764.54,0,Mobile Wallet,Young,Male,Delhi,Neha Patel
+Qt3325,6/27/24,India,b097e02a-d95a-49c1-ad30-22427a283dd7,KitchenAid Mixer,Home Appliances,442.2,1,442.2,0.15,Cash,Adult,Male,Bangalore,Anjali Gupta
+Gg1799,12/23/24,India,4878c96b-c431-4073-8ebd-2940f34a0191,Yeti Tumbler,Outdoor,34.39,1,34.39,0.05,Debit Card,Adult,Male,Hyderabad,Karan Patel
+ow5860,12/20/24,India,acee4dfe-23b0-4822-a4aa-014df3e5525f,The North Face Jacket,Apparel,199.54,7,1396.78,0.15,Cash,Young,Male,Chennai,Neha Singh
+Ms9642,2/10/25,India,3c3747a6-a13a-4581-9600-3a94250ea417,Apple MacBook Pro,Electronics,2288.26,5,11441.3,0.15,Credit Card,Young,Female,Chennai,Ravi Nair
+wZ7638,3/15/25,India,ff91747b-7320-4391-9a1a-f94eb971728a,Coca-Cola Can,Beverages,0.94,4,3.76,,Mobile Wallet,Adult,Male,Bangalore,Anjali Kumar
+Ho5423,9/20/24,India,11c54fa2-0f70-4c60-a342-0fa6eee33015,KitchenAid Mixer,Home Appliances,492.6,2,985.2,0.15,Debit Card,Young,Male,Bangalore,Neha Reddy
+dD6131,10/29/24,India,2e5b1024-dd41-4db9-97ac-1fdbd83fd000,Levi's 501 Jeans,Apparel,87.86,7,615.02,0.2,Mobile Wallet,Young,Male,Bangalore,Deepak Nair
+wL3088,2/13/25,India,d6e3f57b-525d-4cd3-8332-220c31c2093b,Yeti Tumbler,Outdoor,25.22,10,252.2,0.1,Online Payment,Senior,Male,Chennai,Deepak Nair
+kN7815,,India,67941523-d253-48d7-bdac-99abaa2bc423,Coca-Cola Can,Beverages,,3,2.49,0.1,Online Payment,Adult,Female,Hyderabad,Pooja Kumar
+RM7350,5/4/24,India,28819522-9ed5-4303-8c05-0e501abd5013,The North Face Jacket,Apparel,212.75,1,,0.1,Debit Card,Adult,Female,Bangalore,Anjali Nair
+no6701,11/11/24,India,7cb99e77-d2fd-4586-81e1-c5a4a610e682,Samsung QLED TV,Electronics,1091.39,,2182.78,0.1,Credit Card,Young,Female,Delhi,Pooja Kumar
+AJ1611,10/28/24,India,7778b3ee-ce15-4837-b01a-610ccdce6c5c,iPhone 14,Electronics,962.54,3,2887.62,0,Credit Card,Young,Female,Hyderabad,Anjali Mehta
+Mw0066,8/31/24,,ec9c173b-eb52-4e55-9ad1-1b81cb90f139,KitchenAid Mixer,Home Appliances,431.82,4,1727.28,0,Credit Card,Young,Male,Bangalore,Sneha Mehta
+Xc9284,9/6/24,,2d8639dd-b329-483a-b4d9-9331a951d4fb,Doritos Chips,Snacks,1.54,10,15.4,0.05,Mobile Wallet,Senior,Male,Mumbai,Sneha Nair
+Kj3944,2/10/25,India,9b03f1fe-e152-47e0-a9ac-dcb4c794334a,KitchenAid Mixer,Home Appliances,496.86,4,1987.44,0,Cash,Adult,Female,Hyderabad,Deepak Reddy
+uC8775,7/1/24,India,6f64d561-81cd-4315-9488-c45ae71f8dd1,iPhone 14,Electronics,822.91,3,2468.73,0,Credit Card,Senior,Male,Bangalore,Priya Mehta
+DT0780,1/19/25,India,65738785-efb0-46e9-a14b-e0bac34f2bde,The North Face Jacket,Apparel,149.57,2,299.14,0,Mobile Wallet,Young,Male,Bangalore,Ravi Kumar
+yX9761,6/18/24,India,a457f981-2309-4453-8a64-9a2433c7704d,iPhone 14,Electronics,942.21,4,3768.84,0,,Young,Female,Bangalore,Karan Mehta
+lk3941,2/11/25,India,7270af2c-c884-4bf8-a9d1-ab630154c2ce,Coca-Cola Can,Beverages,1.08,10,10.8,0.05,Debit Card,Young,Female,Delhi,Sneha Reddy
+jn7789,6/7/24,India,67effded-ef5c-462b-b0e2-e2fe4e52162f,,Home Appliances,472.09,4,,0.2,,Adult,Male,Delhi,Pooja Singh
+BN3358,8/25/24,India,d1c85c9a-138a-49e1-a874-61aa63e0eff8,KitchenAid Mixer,Home Appliances,436.52,5,2182.6,0.05,Credit Card,Senior,Male,Chennai,Priya Mehta
+VO0808,8/20/24,India,7adf4586-f083-47b8-95ce-ee8f1db71dc3,iPhone 14,Electronics,1145.16,1,1145.16,0.05,,Senior,Female,Hyderabad,Amit Reddy
+Ey4232,12/20/24,India,78042e4a-f3d2-4317-ab26-3b5a02b3cd40,iPhone 14,Electronics,819.82,3,2459.46,0.15,Online Payment,Young,Male,Bangalore,Sneha Reddy
+rq6322,,India,f9580a88-e50d-43c0-88a4-484c56628ebb,KitchenAid Mixer,Home Appliances,494.99,3,1484.97,0.05,Mobile Wallet,Senior,Male,Bangalore,Neha Gupta
+Ts1281,7/2/24,India,564dc2d0-aa49-4942-b076-2f59b1e229f5,Doritos Chips,,1.94,10,19.4,0,Online Payment,Senior,Male,Delhi,Pooja Singh
+HD0857,11/16/24,India,d3780f2c-1e42-4895-a8e0-2e710df92cc0,Yeti Tumbler,Outdoor,40.48,6,242.88,0.15,Credit Card,Young,Male,Mumbai,Deepak Sharma
+wd9252,,India,cb71210f-8781-4e7b-8efc-b13969344aad,Doritos Chips,Snacks,3.18,5,15.9,0,Online Payment,Young,Female,Delhi,Karan Iyer
+PY4055,3/28/24,India,33ae7511-8266-4d99-8a44-bc38c063d7ec,Apple MacBook Pro,Electronics,2021.43,9,18192.87,0.05,Cash,Adult,Female,Hyderabad,Pooja Sharma
+Ft8569,8/26/24,India,0db63d6e-b63c-4030-b3a4-00fb7e10ed19,Doritos Chips,Snacks,,6,15.3,0.1,Debit Card,Young,Female,Delhi,Deepak Patel
+BZ3074,9/8/24,India,f128b474-4b20-4fc9-a633-f20c2ae88ea1,Samsung QLED TV,Electronics,,7,11029.69,0.15,Debit Card,Young,Female,Delhi,Deepak Singh
+wx4009,1/5/25,India,d5725982-0f43-4a14-a450-854d9848ce83,iPhone 14,Electronics,1192.96,9,10736.64,0.05,Mobile Wallet,Young,Male,Hyderabad,Sneha Sharma
+ns1888,8/4/24,India,344c61fa-2561-4ab3-bf24-91a25d7a4764,Apple MacBook Pro,Electronics,2149.42,1,2149.42,0.2,,Adult,Female,Delhi,Rahul Gupta
+KN4558,6/12/24,India,239c32ff-1750-47cd-b576-6b0eaedec37d,Yeti Tumbler,Outdoor,31.25,8,250,0.2,Cash,Senior,Male,Mumbai,Karan Mehta
+rJ0423,8/19/24,India,c5410157-adee-411f-806e-470b1391203b,Coca-Cola Can,Beverages,1.89,5,9.45,,Cash,Senior,Female,Hyderabad,Ravi Patel
+Cs8698,6/27/24,India,28fa50ef-076d-4e42-9619-20d9163a16cf,KitchenAid Mixer,Home Appliances,292.14,3,876.42,0.15,Credit Card,Adult,Male,Hyderabad,Priya Patel
+qi9342,6/28/24,India,8cccea16-3d3b-4603-81f7-196a8ece5da8,Coca-Cola Can,Beverages,1.43,5,7.15,0,Debit Card,Senior,Male,Mumbai,Amit Gupta
+eb3974,1/10/25,India,de64105a-f48a-4d2f-a1d9-f3b415deb3aa,Doritos Chips,Snacks,2.68,5,13.4,0,Credit Card,Senior,Female,Delhi,Karan Sharma
+kQ1433,3/11/25,India,4591b2b6-dca6-44e0-b730-a1381b352d8c,Doritos Chips,Snacks,4.56,4,18.24,0.1,Credit Card,Young,Male,Hyderabad,Priya Nair
+lK3015,8/10/24,India,aa9416d6-9452-40ff-a1b6-63b65f336c57,Coca-Cola Can,Beverages,1.55,1,1.55,,Online Payment,Senior,Male,Mumbai,Deepak Chopra
+xg8070,12/3/24,India,6615a58f-d0bf-469a-be35-43774c5b3245,Doritos Chips,Snacks,2.34,8,18.72,0.15,Mobile Wallet,Young,,Chennai,Sneha Nair
+Rk6820,4/20/24,India,aa0d24f1-54a3-48ec-b9db-667eefb239dc,Samsung QLED TV,Electronics,1964.61,9,17681.49,0,Cash,Adult,Female,Mumbai,
+eN7574,11/9/24,India,45b70863-320b-4d85-9f75-b9ead947e2c1,Levi's 501 Jeans,,94.59,4,378.36,0.05,Online Payment,Adult,Male,Mumbai,Sneha Singh
+iu8434,3/19/25,India,e9cbfa61-1489-4ed9-9931-1a9ee234267f,KitchenAid Mixer,Home Appliances,415.31,7,2907.17,0,Online Payment,Young,Male,Hyderabad,Anjali Gupta
+Ml5910,2/26/25,India,0930b91b-41d2-4193-94cc-1638a607d5d7,iPhone 14,Electronics,864.94,5,4324.7,,Credit Card,Adult,Male,Mumbai,Ravi Mehta
+LV9488,9/19/24,India,09cb3cf5-f3b0-49b6-a209-49fd2ec207bc,iPhone 14,Electronics,1189.6,5,5948,0.1,Mobile Wallet,Senior,Male,Hyderabad,Pooja Chopra
+pN8128,10/2/24,India,bfff6079-3889-4e2b-af14-a134ac104e6f,Levi's 501 Jeans,Apparel,60.62,10,606.2,0.2,Mobile Wallet,Senior,Male,Bangalore,Priya Patel
+vU1836,5/5/24,India,faf5d0ca-d21d-400f-ad11-b160521a056f,Apple MacBook Pro,Electronics,1900.14,4,7600.56,0.15,Mobile Wallet,Senior,,Delhi,Deepak Reddy
+PX3408,11/4/24,India,7951a46f-b892-4beb-a150-af8c753193b1,Nike Air Max,Footwear,165.3,9,1487.7,0.05,Mobile Wallet,Adult,Male,Chennai,Neha Nair
+mx0096,,India,8f7751cf-2b8c-4685-ae78-e98df3d25f6e,,Snacks,2.44,5,12.2,0.05,Debit Card,Senior,,Bangalore,Sneha Reddy
+jo7749,3/26/24,India,fa571dc4-afee-47f8-a6e4-5245ed9308a4,The North Face Jacket,Apparel,,7,1382.15,0,Credit Card,,Male,Chennai,Rahul Chopra
+KJ0930,9/29/24,India,32226740-5a70-444d-9ed7-c86f82aa431d,Apple MacBook Pro,Electronics,2206.62,1,2206.62,0.15,Cash,Young,Male,Delhi,Karan Kumar
+NE5103,7/30/24,India,e9f5813d-db27-492f-82c3-9218150c1665,Apple MacBook Pro,Electronics,1784.14,10,17841.4,0,,Young,Male,Hyderabad,Karan Kumar
+hD2147,7/4/24,India,3e2ad41e-99b5-4616-9a10-a18fbd87aece,Levi's 501 Jeans,Apparel,98.24,5,491.2,0.2,Cash,Senior,Male,Chennai,Priya Kumar
+xw5733,10/6/24,India,50c8ad5b-7115-49cf-97c0-4ffe040ab59d,Levi's 501 Jeans,Apparel,71.53,5,357.65,0.2,Mobile Wallet,Senior,Female,Bangalore,Ravi Singh
+hl0991,,India,de69d8dd-479f-4c70-8e98-3c3ce3b78401,Samsung QLED TV,Electronics,1859.84,10,18598.4,0,Debit Card,Adult,Female,Hyderabad,Deepak Kumar
+cu4836,7/6/24,India,b02575a4-e761-447b-901b-b619d1839499,Nike Air Max,Footwear,165.55,10,,0.15,Mobile Wallet,Senior,Female,Chennai,Sneha Chopra
+Ed6761,10/18/24,India,496e5132-49af-44df-80c8-c72a6c319877,Samsung QLED TV,Electronics,1433.54,4,5734.16,0,Cash,Adult,Male,Mumbai,Ravi Nair
+go1681,5/14/24,India,f2c355c9-0777-4ccb-8e69-bcae6e4625d0,Doritos Chips,Snacks,3.22,6,19.32,0.1,Mobile Wallet,Senior,Male,Chennai,Ravi Kumar
+rA4760,5/26/24,India,b40c5cb8-8c01-4449-99ce-87b10f928378,Samsung QLED TV,,1384.35,9,12459.15,0.1,Mobile Wallet,Senior,Female,Delhi,Amit Patel
+qO5726,5/22/24,India,ceb5d8a8-e8bd-44c7-a44f-14616902e986,Doritos Chips,,2.59,2,5.18,,Cash,Senior,Female,Mumbai,Anjali Reddy
+dO4166,6/2/24,India,58af2456-a1e5-403c-9dab-d0cd8c572b40,The North Face Jacket,Apparel,213.13,,213.13,0.05,Cash,Adult,Female,Delhi,Anjali Kumar
+zU6426,3/16/25,India,969d6388-0b37-428b-9c53-86e04851b147,,Footwear,128.28,10,1282.8,0.2,Cash,Senior,Male,Bangalore,
+xZ3112,9/26/24,India,0e72d902-e569-4833-9505-5dd8c2dd5ab9,Coca-Cola Can,Beverages,0.59,4,2.36,0.15,,Young,,Mumbai,Pooja Mehta
+ks7020,2/11/25,India,9a2485c0-943d-4dac-91eb-59380e356068,Nike Air Max,Footwear,189.9,5,949.5,0.05,Cash,Senior,Female,Delhi,Deepak Singh
+UX4041,12/9/24,India,09aaed22-dc47-4b93-822d-04eb5d31b97e,iPhone 14,Electronics,856.38,3,2569.14,0.15,Online Payment,Young,Male,Delhi,Ravi Singh
+YE9077,9/29/24,India,faca0849-6b43-4cd8-815c-1d6bad408c86,Doritos Chips,Snacks,4.32,4,17.28,0.15,Mobile Wallet,Senior,Male,Mumbai,Priya Gupta
+rS2245,7/17/24,India,6f7a47b3-51b0-4fa5-9921-21883929b385,Coca-Cola Can,Beverages,,1,0.71,0.1,Online Payment,Adult,Female,Delhi,Deepak Gupta
+vN2545,10/3/24,,39ce3840-e4a6-4ad0-8e17-c0bf93cb6a08,Levi's 501 Jeans,Apparel,69.04,9,621.36,0.15,Credit Card,Adult,Male,Hyderabad,Anjali Sharma
+Mo4996,1/26/25,India,ed8d9767-7fea-467a-8c71-f7b50ed1af8b,The North Face Jacket,Apparel,252.11,7,1764.77,0,Cash,Adult,Female,Hyderabad,Rahul Mehta
+fi9245,7/13/24,India,be4838f2-b973-494d-8b34-95d5ff90b231,Yeti Tumbler,Outdoor,22.74,7,159.18,0.1,Online Payment,Adult,Male,Chennai,Priya Nair
+tg2316,4/16/24,India,4340716a-91cd-45f6-8162-b6a315f7230e,The North Face Jacket,Apparel,207.01,5,1035.05,0.1,Cash,Young,Male,Chennai,Priya Nair
+Xi3471,12/30/24,India,,Levi's 501 Jeans,Apparel,80.4,8,,0.05,Cash,Young,Male,Chennai,Deepak Chopra
+Uk9708,2/9/25,India,a31473c7-19c1-4ed7-a5c6-e8019b6a9e64,iPhone 14,Electronics,1186.48,5,5932.4,0.2,Credit Card,Young,Female,Delhi,
+iO8279,7/30/24,India,54c162d7-73d1-4377-b2ba-3e4b223d1057,KitchenAid Mixer,Home Appliances,448.07,1,448.07,0.1,Credit Card,Senior,Male,Bangalore,Pooja Singh
+Ac6725,9/7/24,India,d3fef6cd-a1d6-46eb-9acf-1f57d974421f,Coca-Cola Can,Beverages,1.31,3,3.93,0.15,Online Payment,Young,Female,Delhi,Priya Sharma
+Sn2745,5/15/24,India,,Levi's 501 Jeans,Apparel,93.1,7,651.7,0,Online Payment,Adult,Female,Hyderabad,Sneha Mehta
+pA5415,6/9/24,India,ea20d85c-3973-415a-9aa1-388a6573d228,Samsung QLED TV,Electronics,798.69,1,798.69,0.15,Mobile Wallet,Adult,Female,Delhi,Ravi Sharma
+CG6466,12/1/24,India,46069882-f8a3-4468-a983-33ae1f528e10,Coca-Cola Can,Beverages,1.56,1,1.56,0.2,Credit Card,Senior,Male,Chennai,Sneha Nair
+Of1177,10/11/24,India,,iPhone 14,Electronics,,8,9567.68,0.1,Credit Card,Adult,Male,Bangalore,Pooja Kumar
+nF3914,1/29/25,India,3cbf22e7-6d83-46f5-8be6-2d0568367360,Doritos Chips,Snacks,2.04,7,14.28,0.1,Credit Card,Senior,Male,Mumbai,Amit Reddy
+ww7501,12/31/24,India,6c678922-c411-494e-95ed-1d8f1535110f,iPhone 14,,1040.79,1,1040.79,0.05,Cash,Senior,Male,Delhi,Ravi Gupta
+jD6606,2/6/25,India,43e6d58c-3125-48c0-8f1b-77ea3ea7fce2,KitchenAid Mixer,Home Appliances,298.68,4,1194.72,0.15,Credit Card,Adult,,Chennai,Amit Sharma
+lI8338,5/28/24,India,820be973-ff2a-4bf1-9a4f-324a35ddd4d9,,Beverages,0.97,2,1.94,0.1,Mobile Wallet,Senior,Male,Hyderabad,Ravi Iyer
+Xw5037,12/1/24,India,c943103d-93ae-4851-90a1-6c07d73f032a,Nike Air Max,Footwear,147.73,1,147.73,0.05,Cash,Senior,Male,Delhi,Ravi Kumar
+mB8870,6/19/24,India,803e3a78-8817-4c80-abb4-7ef66c75abc0,iPhone 14,Electronics,874.9,8,6999.2,0,Mobile Wallet,Young,Male,Chennai,Priya Chopra
+mQ2488,3/14/25,India,c7b045ab-e822-4d0d-a2c9-b7b099f91887,iPhone 14,Electronics,883.29,5,4416.45,0,Cash,Adult,Male,Mumbai,Neha Singh
+BP8571,7/22/24,India,12877d57-ccc7-4e77-8029-b086d3546ef8,Yeti Tumbler,Outdoor,35.65,2,71.3,0.1,Debit Card,,Female,Mumbai,Sneha Sharma
+pw4705,10/9/24,,803491a9-50f9-4957-85e4-50f50758daf4,Nike Air Max,Footwear,117.84,2,235.68,0.15,Cash,Adult,,Chennai,Ravi Patel
+kr5575,8/24/24,India,466984cb-a430-419b-99ee-1acd5c92ef78,Samsung QLED TV,Electronics,724.23,3,2172.69,0.15,Cash,Young,Male,Hyderabad,Deepak Chopra
+xA3863,5/10/24,India,c5f0c3bc-c357-4d35-b4e9-0dcbe6928a41,Coca-Cola Can,Beverages,1.4,2,2.8,0.2,,Young,Male,Chennai,Amit Patel
+kG0566,1/15/25,,1d2e8dcd-8fbf-434a-b662-9dbd176f1582,Samsung QLED TV,Electronics,1235.22,9,11116.98,0.05,Debit Card,Senior,Female,Mumbai,Amit Chopra
+jg7583,12/18/24,India,32bdd995-0f61-40e0-ac19-39f0136f3c84,Doritos Chips,,4.81,9,,0.2,Cash,Adult,Male,Hyderabad,Ravi Patel
+PT5663,2/20/25,India,8ee68591-74f8-40d5-93c2-29d76417cdbd,Coca-Cola Can,Beverages,0.65,7,4.55,0.1,Mobile Wallet,Adult,Female,Chennai,Rahul Singh
+KH8254,9/1/24,,749cd801-1746-40d0-9711-767da197369d,iPhone 14,Electronics,951.56,4,3806.24,0,Debit Card,Adult,Female,Delhi,Deepak Iyer
+XV0855,6/22/24,India,91373ed7-4a05-4c51-9e7f-543d5a53910d,KitchenAid Mixer,Home Appliances,436.76,,1747.04,0.2,Debit Card,Senior,Male,Hyderabad,Ravi Singh
+zI4745,8/9/24,,2a7e707d-3655-4dd2-8716-3665ea66f922,Doritos Chips,Snacks,3.53,2,7.06,0.15,Mobile Wallet,Young,Male,Bangalore,Karan Reddy
+lj4417,11/15/24,India,e63b03ce-dee2-419c-9ed0-eba2f6ec92d7,Yeti Tumbler,Outdoor,35.72,10,357.2,0.15,Mobile Wallet,Senior,Female,Hyderabad,Rahul Gupta
+bH4946,10/24/24,India,3b2268da-0588-4d87-b697-b1cc64e31472,Coca-Cola Can,Beverages,1.19,8,,0,Credit Card,Senior,Female,Mumbai,Pooja Gupta
+EP5480,4/5/24,India,0825f3b0-06e4-4fb4-a8cf-25784ddc2898,The North Face Jacket,Apparel,261.58,9,2354.22,0.05,Online Payment,Young,Male,Bangalore,Karan Patel
+zW3313,1/19/25,India,63d427be-5561-4bed-bbde-7f6e3d5cd036,The North Face Jacket,Apparel,112.43,9,1011.87,0.2,Debit Card,Senior,Female,Hyderabad,Rahul Iyer
+pS5045,2/3/25,India,d2352389-dfb8-472c-85c3-a82f0e83f745,Doritos Chips,Snacks,3.84,4,15.36,0.2,Cash,Adult,Male,Delhi,Karan Sharma
+FL2711,2/25/25,India,9ceac485-403a-4509-9b08-4aaea5e52890,KitchenAid Mixer,Home Appliances,456.69,3,1370.07,0.2,Credit Card,Senior,Male,,Priya Patel
+UD7502,,India,46a14072-7d28-4394-b16a-2e4c1759aee8,Samsung QLED TV,Electronics,1658.2,2,3316.4,0.1,Debit Card,Adult,Female,Bangalore,Sneha Sharma
+Ub2688,2/18/25,,2a9135d0-1c46-4aeb-8c25-1f61037b694c,Nike Air Max,Footwear,178.71,10,1787.1,0,Cash,Adult,Female,Hyderabad,Karan Kumar
+dW2881,12/18/24,India,9d726ec1-ba76-4fe6-b880-93710ff3a7d0,Nike Air Max,,113.16,10,1131.6,0.15,Debit Card,Senior,Male,,Amit Reddy
+Wc8216,12/19/24,India,dfc93e26-7cad-4415-9d4e-571ae81f767b,Doritos Chips,Snacks,2.53,7,17.71,,Cash,Senior,Female,Hyderabad,Deepak Chopra
+kx1235,5/11/24,India,239601bc-7a3a-4d6f-83f1-5cd09f71cf84,Nike Air Max,Footwear,119.43,,836.01,0.05,Online Payment,Senior,Female,Mumbai,Deepak Nair
+rc4048,5/7/24,India,bfd26145-7cc1-469e-ae01-8987eb8b7150,Nike Air Max,Footwear,134.36,2,268.72,0.1,Credit Card,Young,Male,Delhi,Ravi Sharma
+MO7778,7/7/24,India,7108754c-f35a-4ec0-b698-eb4d03146664,Coca-Cola Can,Beverages,0.71,6,4.26,0,Mobile Wallet,Young,Female,Bangalore,Pooja Iyer
+GW7494,11/8/24,India,51bd8139-b4b0-4f4f-b7aa-2dff6c7a2dc3,Yeti Tumbler,Outdoor,29.64,2,59.28,0.2,Credit Card,Adult,Male,Delhi,Ravi Nair
+AZ0874,10/7/24,India,1077aa06-a5b7-4558-a96f-e64ee1398f9d,The North Face Jacket,Apparel,286.56,7,2005.92,0.2,Mobile Wallet,Senior,Female,Hyderabad,Ravi Singh
+kM7840,1/20/25,India,81624a3b-4898-4c52-af55-047bba0d5682,KitchenAid Mixer,Home Appliances,390.7,5,1953.5,0.15,Cash,Young,Female,,Anjali Kumar
+qc9107,6/9/24,India,20b82756-80d8-43c9-83ea-24ace218b366,The North Face Jacket,Apparel,188.17,3,564.51,,Mobile Wallet,Young,Male,Hyderabad,Priya Reddy
+Mi8730,6/12/24,India,3e124029-736f-4790-9764-a4238fc46e38,Apple MacBook Pro,Electronics,2090.99,5,10454.95,0.05,Online Payment,Senior,Male,Mumbai,
+ad6856,11/23/24,India,da3883cb-349f-412a-9a94-7f3b7bd8b4f0,Yeti Tumbler,Outdoor,44.19,2,88.38,0.15,Debit Card,Senior,Male,Delhi,Deepak Singh
+wf4130,9/17/24,India,536602c1-a8a4-4eb5-b25d-aaf18272b333,Samsung QLED TV,Electronics,1542.25,4,6169,0,Credit Card,Senior,Female,Bangalore,Rahul Chopra
+xE0285,8/27/24,India,ee0bb12d-dd8c-4b4e-9aa3-94fff84ab26b,Doritos Chips,Snacks,3.68,10,36.8,0.15,Debit Card,Young,Male,Delhi,Priya Iyer
+TL6196,12/4/24,India,8d63f1cb-4c8b-4999-b162-799364c0ddbf,iPhone 14,Electronics,935.52,8,7484.16,0.05,Debit Card,Young,Female,Hyderabad,Ravi Patel
+il5705,12/13/24,India,087c39d8-dd75-4915-90e4-e36c625bb345,,Home Appliances,444.14,9,3997.26,0.2,Debit Card,Adult,Male,Mumbai,
+fH7424,4/28/24,India,8b185160-6314-4a6f-ac19-7777b6d149d1,KitchenAid Mixer,Home Appliances,486.9,2,,0.2,Mobile Wallet,Adult,Female,,Pooja Kumar
+tK4027,11/27/24,India,,Yeti Tumbler,Outdoor,25.47,6,152.82,0.05,,Young,Male,Mumbai,Karan Chopra
+qq1831,9/13/24,India,18fef9e7-e02f-4a88-a975-90ae74d3b821,iPhone 14,Electronics,1098.4,4,4393.6,0.05,Cash,Senior,Female,Delhi,Karan Patel
+HX9051,12/17/24,India,48a4c6de-7c5c-45ff-a496-835669c636bc,The North Face Jacket,Apparel,265.34,10,2653.4,0.1,Mobile Wallet,Senior,Male,Chennai,Ravi Nair
+zN7073,9/12/24,India,,Yeti Tumbler,Outdoor,22.83,3,,0,Online Payment,Senior,Male,Hyderabad,Rahul Mehta
+EH2052,4/16/24,India,adca9a6d-9fe7-4d37-8494-c4ee7e22c08a,Apple MacBook Pro,,1591.1,6,9546.6,0.2,Credit Card,Senior,Male,Hyderabad,Ravi Reddy
+Sk3727,8/27/24,India,,Doritos Chips,Snacks,3.24,1,3.24,0.2,Credit Card,Young,Male,Mumbai,Anjali Sharma
+uq0955,10/4/24,India,7ea54e1d-7298-427c-90df-5bab3e745f30,Samsung QLED TV,Electronics,605.61,5,3028.05,0.1,Online Payment,,Female,Hyderabad,Priya Iyer
+hs5495,2/26/25,India,ce5ce9be-e704-4fa9-87e4-be6ded81efa1,Nike Air Max,Footwear,101.62,7,711.34,0.05,Cash,Adult,Female,Delhi,Sneha Reddy
+PL2584,9/8/24,India,77d1f58f-0f42-4fe1-8d60-8e40d4d3e1a7,Nike Air Max,Footwear,112.89,5,564.45,0.1,Cash,Adult,Female,Chennai,Deepak Chopra
+Mm4020,6/27/24,India,92b658fd-8a2a-4245-9e5a-c9995f3c509d,Apple MacBook Pro,Electronics,2056.58,,16452.64,0.05,Online Payment,Adult,Male,Hyderabad,Amit Nair
+Xy6771,12/9/24,India,d5274e8a-6abf-40b2-b09d-a904ed3bde07,,Footwear,152.61,2,305.22,0.05,Credit Card,Senior,Female,Chennai,Karan Chopra
+os7235,10/22/24,India,3baf54ac-b3b6-44b8-a05a-a5da6c64bab5,Nike Air Max,Footwear,158.75,9,1428.75,0.1,Cash,Young,Female,Bangalore,Neha Kumar
+xZ9563,7/11/24,India,511d0f5c-ff2d-4a44-a7c6-2f2df7b9bb43,Levi's 501 Jeans,Apparel,53.71,4,214.84,0.15,Cash,Adult,Female,Mumbai,Anjali Patel
+xv0845,,India,8ceaa5e6-41dd-411f-a4bd-7a1cccee03b2,Apple MacBook Pro,Electronics,2055.47,10,20554.7,,Online Payment,Young,Male,Bangalore,Ravi Gupta
+nl0685,12/24/24,India,686e811a-e825-4e99-b8fc-589533c55ae2,Nike Air Max,Footwear,193.94,7,1357.58,0.05,Cash,Senior,Male,Mumbai,Ravi Mehta
+uz0184,5/9/24,India,3368a8e5-43c2-4b52-8180-1d532011a29a,KitchenAid Mixer,Home Appliances,434.41,2,868.82,0.2,Debit Card,Adult,Female,Chennai,Rahul Patel
+gS6051,2/13/25,India,4c2adcef-9d6c-49cb-9ad0-7fc02290fed5,The North Face Jacket,Apparel,284.16,3,852.48,0,Credit Card,Senior,Female,Mumbai,Sneha Gupta
+xa7558,9/1/24,India,bcddec17-b9af-417e-8aa0-b2e56009fdf1,Samsung QLED TV,Electronics,1225.64,10,12256.4,0.15,Mobile Wallet,Adult,Male,Mumbai,Rahul Iyer
+vn8686,3/14/25,India,6308f7c4-fc55-45fe-a503-1580594fc111,KitchenAid Mixer,Home Appliances,343.06,7,2401.42,0.05,Online Payment,Adult,Male,Chennai,Pooja Nair
+Vc5486,6/2/24,,fc0ef996-38e9-43df-880c-955b4952b4a5,,Electronics,2160.86,,8643.44,0.15,Cash,Senior,Female,Chennai,Priya Mehta
+kt0162,10/24/24,India,,Apple MacBook Pro,Electronics,1737.39,5,8686.95,0.2,,Adult,Male,Hyderabad,Sneha Sharma
+cy2011,5/10/24,India,1c5a3781-0efe-4e67-a585-78e93a42823d,Yeti Tumbler,Outdoor,20.3,3,60.9,0.1,Credit Card,Young,Male,Mumbai,Priya Nair
+zH3939,12/1/24,India,221c2501-2ba8-4524-889b-2b3742d53761,Coca-Cola Can,Beverages,1.77,3,5.31,,Credit Card,Young,Female,Mumbai,Anjali Mehta
+On6959,12/6/24,India,7864ff31-89ac-48a0-914e-8f0ab5a5f5ef,Apple MacBook Pro,Electronics,1728.08,3,,0.2,Debit Card,Adult,Female,Bangalore,Deepak Singh
+Kq3162,2/13/25,India,8ddce3ef-f9b0-4eab-9d2b-9cba0acb4aab,Coca-Cola Can,Beverages,0.99,,,0.05,Credit Card,Young,Female,Delhi,Karan Iyer
+Va4818,1/15/25,India,43cdcf9c-fb6f-4726-93ee-b96e5a445234,,Electronics,,7,3747.94,0.15,Debit Card,Adult,Female,Delhi,Deepak Gupta
+iq6212,1/3/25,India,d9b6cd9c-3a2b-437d-a426-adde53a45acd,Samsung QLED TV,Electronics,1110.39,1,1110.39,,Mobile Wallet,Young,Female,Delhi,Sneha Singh
+qW7578,5/1/24,India,c8eb7eaa-8c8a-4489-904b-f2e9dff7567b,Nike Air Max,Footwear,190.74,5,953.7,0.2,Credit Card,Senior,Female,Chennai,Deepak Patel
+bj6168,3/26/24,India,d3729310-208c-44bb-8157-81aa7d1a356a,Samsung QLED TV,Electronics,1661.5,,4984.5,0.2,Credit Card,Young,Female,Bangalore,Amit Nair
+jY1769,8/1/24,India,58660b92-9918-48c2-92d1-ee47fc1088f4,The North Face Jacket,Apparel,213.11,,1491.77,0.2,Cash,Young,Female,Mumbai,Ravi Singh
+nO7072,11/10/24,India,56f97ee6-aff1-4e0b-823a-dbd7d73c965a,Levi's 501 Jeans,Apparel,62.26,9,560.34,0.15,Credit Card,Young,Male,Mumbai,Priya Nair
+zB7472,10/2/24,India,87cbcb16-c872-4c8a-b38a-c2d5e3cd4a9e,,Outdoor,44.54,3,133.62,0.2,Credit Card,Young,Female,Delhi,Sneha Patel
+PZ2549,5/7/24,India,621b7d99-2aaa-40b8-b4db-3fe66934cbbf,iPhone 14,Electronics,954.13,10,9541.3,0.05,Online Payment,Young,Female,Mumbai,Deepak Chopra
+xc1620,6/11/24,India,6ce2e133-5374-4459-8895-33ab355c89bb,Apple MacBook Pro,Electronics,1976.51,10,19765.1,0.05,Cash,Adult,Male,Delhi,Ravi Mehta
+wm8503,4/28/24,India,acd1dc41-6c45-40ca-b342-b0c56ce026f3,Doritos Chips,Snacks,4.46,3,13.38,0.15,Debit Card,Senior,Male,Chennai,Amit Iyer
+Vk9637,12/5/24,India,826513cf-bef9-4ce6-b80f-2f2c73505996,The North Face Jacket,Apparel,190.67,9,1716.03,0.15,Online Payment,Adult,Female,Delhi,Neha Mehta
+pL1148,1/7/25,India,f89a3c8a-3bfd-48a5-965b-febc66825f93,Levi's 501 Jeans,Apparel,73.51,10,,0.05,Credit Card,Adult,Male,Hyderabad,Amit Reddy
+Aj7423,5/28/24,India,85ff72aa-f2fa-4392-9e1a-c680449b6823,Yeti Tumbler,Outdoor,48.52,3,145.56,0,Mobile Wallet,Young,Male,Mumbai,Pooja Patel
+vK7242,6/20/24,India,d2e645a5-097d-48de-9aa3-db822ae03f3b,The North Face Jacket,Apparel,243.78,5,1218.9,0.1,Cash,Senior,Female,Hyderabad,
+Di3496,4/22/24,India,8a7ded0e-6a18-48d4-92c7-c39dcc351c2d,Doritos Chips,Snacks,1.8,9,16.2,0.05,Online Payment,Adult,Female,Bangalore,Amit Singh
+yl1849,12/27/24,India,6d1376c5-cc0f-4cac-9fc0-41365c7ec100,Coca-Cola Can,Beverages,1.4,4,5.6,,Debit Card,Young,Female,Delhi,Amit Patel
+Mh9445,8/31/24,India,7d0169b9-4fa8-4ad6-9aef-c3ad74f0aa76,iPhone 14,Electronics,1078.77,8,8630.16,0.1,Online Payment,Adult,Female,Hyderabad,Anjali Singh
+pe3193,6/2/24,,b6a4dcac-f859-421e-8cd4-8df8af292156,Levi's 501 Jeans,Apparel,98.61,6,591.66,0.05,Online Payment,Young,Male,Chennai,Deepak Chopra
+le5407,5/9/24,India,,KitchenAid Mixer,Home Appliances,346.18,3,,0.05,Cash,Young,Female,,
+XM3515,,India,c8ec4c72-d83a-48c1-bfa8-ba4c29756c31,Doritos Chips,Snacks,4.15,8,,0.2,Cash,Adult,Female,Mumbai,Karan Iyer
+Sh5138,2/22/25,India,16cb5bd4-d83f-47ce-b1fd-87ab67c67536,The North Face Jacket,Apparel,153.38,6,920.28,0.2,Online Payment,Senior,Female,Hyderabad,Pooja Patel
+Sm4979,10/3/24,India,fe01d705-1a99-4598-bf03-2f8b97061150,iPhone 14,Electronics,968.82,4,3875.28,0,Debit Card,Young,Male,Mumbai,Amit Reddy
+aT0146,10/14/24,India,06d09c63-1f9b-479e-917f-443d2be429d6,Apple MacBook Pro,Electronics,2183.5,5,10917.5,0.05,Mobile Wallet,Young,Male,Mumbai,Sneha Chopra
+Wd2485,,India,,Coca-Cola Can,Beverages,0.67,8,5.36,0.2,Online Payment,Senior,Male,Mumbai,Priya Chopra
+ic2016,7/24/24,India,65d60089-b519-48d6-a42d-d75698bd7e8c,Yeti Tumbler,Outdoor,31.09,4,124.36,0.05,Online Payment,Senior,Male,Bangalore,Pooja Singh
+zd3835,12/29/24,India,fa95cd99-deb3-4689-8aaa-8b7537519962,Doritos Chips,Snacks,4.25,3,,0.2,Mobile Wallet,Adult,Female,Chennai,Neha Mehta
+QP7548,2/14/25,India,60c38261-87dc-4b46-bf80-5873cb04d4e5,Levi's 501 Jeans,Apparel,62.03,3,186.09,0,Mobile Wallet,Young,Male,,Neha Kumar
+PG1773,3/10/25,India,f6f305a6-d89d-4286-b402-27c20f7f7a81,KitchenAid Mixer,Home Appliances,,9,3412.08,0,Credit Card,Senior,Female,Hyderabad,
+qE8360,5/13/24,,d95f433d-2de0-4f8a-9d81-743cfc077383,Levi's 501 Jeans,Apparel,62.4,3,187.2,0.05,Online Payment,Adult,Female,,Pooja Sharma
+DT3110,9/1/24,India,3803d2d3-a6cd-4464-b0cc-2cb3558cf75e,The North Face Jacket,Apparel,125.92,8,1007.36,0.15,Mobile Wallet,,Female,Hyderabad,Karan Patel
+lR0175,11/8/24,India,f324fc3c-b927-4235-a227-8ed9f4016ba7,Samsung QLED TV,Electronics,1315.55,10,13155.5,0,Mobile Wallet,Senior,Male,Bangalore,Anjali Kumar
+NE8908,5/16/24,,afe4f7f6-0c7b-4082-ac97-4a830e9eaa47,The North Face Jacket,Apparel,148.37,6,890.22,0.15,Cash,Adult,Female,Mumbai,Amit Iyer
+Qw3277,9/6/24,India,6baca991-6b62-4917-8228-a7c921aff15b,Doritos Chips,Snacks,,2,4.96,0.05,Debit Card,Senior,Male,Mumbai,Sneha Nair
+US9532,9/11/24,India,73328790-3606-4146-b32d-2c71e4ae2bbe,Levi's 501 Jeans,Apparel,92.73,4,370.92,0.15,,Senior,Female,Mumbai,Rahul Sharma
+uy8982,3/31/24,India,b63bcba9-f7ac-4a2a-be1a-86d66930185f,,Beverages,0.96,5,4.8,0.05,Debit Card,Adult,Female,Hyderabad,Anjali Mehta
+bq7626,4/21/24,India,524e5039-6ec3-4ebe-8d5f-39c135d1f3ae,Coca-Cola Can,Beverages,0.81,7,5.67,0.05,Mobile Wallet,Senior,Female,Delhi,Deepak Iyer
+mV1575,11/4/24,India,5bf0f6fa-63ff-4756-b9d4-f892a1dc932d,Doritos Chips,Snacks,3.18,6,,0.15,Mobile Wallet,Adult,Female,Bangalore,Deepak Chopra
+Bd7925,1/24/25,India,b8b8d70c-d7e5-43ae-9023-f321c0234947,Doritos Chips,Snacks,,2,5.12,,Credit Card,Young,Female,Bangalore,Deepak Iyer
+Bm4126,3/12/25,India,485a894e-3757-4f4a-904f-91786c381831,Coca-Cola Can,Beverages,0.52,4,2.08,0,,Young,Male,Delhi,Sneha Singh
+En5396,9/2/24,India,5d2aa093-9d20-406b-8960-3480b3a267d6,Apple MacBook Pro,Electronics,2403.68,8,19229.44,0.2,Mobile Wallet,Senior,Male,Hyderabad,Ravi Patel
+Oq2175,10/22/24,India,ee178384-6da4-4733-a423-a25863602f87,iPhone 14,Electronics,1021.03,2,2042.06,0.2,Debit Card,Senior,Female,Hyderabad,Ravi Patel
+Pp8137,4/27/24,India,67c0f25e-2f56-43b7-adaf-ecbeae16a8ec,Doritos Chips,Snacks,2.15,3,,0.1,Cash,Senior,Male,Mumbai,Deepak Singh
+RS6230,8/8/24,India,9c0aaec9-8e65-4bcd-9f49-1051c0e3e4ba,KitchenAid Mixer,Home Appliances,465.37,9,4188.33,0.15,Debit Card,,Male,Hyderabad,Neha Kumar
+Xd5891,5/13/24,India,fc571798-2851-4adc-b6b9-a2947af1042b,Coca-Cola Can,Beverages,1.07,8,8.56,0,Credit Card,Young,Female,Hyderabad,Rahul Sharma
+cG2698,11/18/24,India,690e83bf-d460-426d-9bb4-5ca545b2fdf5,Nike Air Max,Footwear,104.5,5,522.5,0.1,Credit Card,Senior,Female,Bangalore,Karan Reddy
+zO9952,9/9/24,India,f6ec3e10-7c59-4e79-a555-aec37b884963,The North Face Jacket,Apparel,256.16,9,2305.44,0.2,Cash,Young,Male,Mumbai,Karan Singh
+AN0411,5/8/24,India,43dd9074-31be-494c-a34e-f56476874668,Levi's 501 Jeans,,,5,321.6,0.1,,Adult,Male,Bangalore,Rahul Gupta
+CD1620,12/20/24,India,5a14a592-f4d5-4c5e-b66b-8dff887b4f32,Nike Air Max,Footwear,135.87,5,679.35,0.15,Debit Card,Senior,Male,Hyderabad,Pooja Patel
+Nz3864,,India,5fc2ebc2-a600-4142-bd37-a8bd420dde39,Coca-Cola Can,Beverages,1.85,9,16.65,0.15,Mobile Wallet,Young,Female,Bangalore,Neha Nair
+Ht7454,1/18/25,India,48725f22-eec3-459f-a15b-24eec1687534,Coca-Cola Can,Beverages,0.51,2,1.02,0.1,Credit Card,Senior,,,Amit Kumar
+Dl8116,10/23/24,India,07acd78b-5a0a-4752-ace6-6e6c5b52fb15,iPhone 14,Electronics,897.67,5,4488.35,,Credit Card,Young,Male,Delhi,Rahul Iyer
+xT9697,8/20/24,India,6df11d4a-4c9f-42c3-977a-04865b19ff5c,iPhone 14,Electronics,913.31,,2739.93,0,Online Payment,Senior,Male,Hyderabad,Rahul Chopra
+RM1811,5/23/24,India,579ffb2f-9f20-4def-a065-e13d2238a023,Nike Air Max,Footwear,114.76,3,344.28,,Credit Card,Senior,Male,Delhi,Karan Iyer
+LS3887,,India,b6cf5240-1507-4013-a3c6-2c170a2fb5fc,,Electronics,,4,7061.96,0.15,Mobile Wallet,Young,Female,Chennai,
+Nm2244,10/1/24,India,bfcec9d7-c83d-4b2f-8946-4bec72196fcd,KitchenAid Mixer,Home Appliances,371.12,,3711.2,0,Credit Card,Adult,Male,Mumbai,Pooja Sharma
+vd3301,11/20/24,India,6955cf85-e1a7-4f15-befe-8c1d1fee58d8,Levi's 501 Jeans,Apparel,61.74,8,493.92,0,Credit Card,Senior,Male,Chennai,Deepak Kumar
+Zm9971,2/21/25,India,8116ed3a-6502-4411-89a0-8c4aaab0843c,KitchenAid Mixer,Home Appliances,461.4,10,4614,0.05,Debit Card,Senior,Female,Delhi,Sneha Nair
+uu2227,10/5/24,India,ef9dfa47-45b2-433e-b83c-c7bd98f5efd3,Yeti Tumbler,Outdoor,22.59,10,225.9,0.1,Cash,Adult,Male,Bangalore,Karan Sharma
+Mc4096,,India,b6ab3802-6aa1-47c3-8be2-1d16a93e5cb4,iPhone 14,Electronics,1000.83,8,8006.64,0,Online Payment,Young,Male,Mumbai,Sneha Chopra
+Zq0484,12/2/24,India,ee62dbe9-19a7-4fba-ae3b-612654afd7a1,Yeti Tumbler,Outdoor,37.76,3,113.28,0.15,Credit Card,Adult,Male,Chennai,Ravi Patel
+He5536,2/5/25,,a79406c2-6e8e-4f9a-a192-d30833115c09,Apple MacBook Pro,Electronics,2072.53,4,8290.12,0.05,Cash,Adult,Female,Delhi,Sneha Iyer
+WX7019,7/18/24,India,40c01a2f-5648-4319-9ca0-6ce5479d54c8,,Outdoor,22.18,6,133.08,0.15,Online Payment,Senior,Female,Hyderabad,Karan Reddy
+GE8599,6/1/24,India,732e1656-6754-4ae2-aa37-f8f07a32408e,KitchenAid Mixer,Home Appliances,367.19,2,734.38,0.15,Online Payment,Senior,Female,Chennai,
+FX6801,3/17/25,India,30fb6ff0-2cfb-4186-bd62-b91e58b59eb1,Apple MacBook Pro,Electronics,2336.21,1,2336.21,0,Credit Card,Young,Female,Hyderabad,Karan Patel
+RC1636,4/8/24,,1800b1b4-7bd9-4b7e-9161-df1d82b34199,Levi's 501 Jeans,Apparel,58.86,7,412.02,0.05,Online Payment,Senior,Male,Hyderabad,
+uu8983,8/23/24,India,653b06b3-1cef-4d6b-bb75-85cf3752d408,Doritos Chips,Snacks,4.67,3,14.01,0.05,Cash,Adult,Female,Chennai,Pooja Gupta
+Nb0520,,India,b60ed443-7cbb-45e5-a28a-83dd740982ae,Nike Air Max,Footwear,157.78,6,946.68,0,Debit Card,Adult,Male,Bangalore,Deepak Iyer
+wU1983,8/25/24,India,7840f129-5c42-49a2-ad90-a7080e80094e,,Footwear,175.9,10,1759,0.1,Cash,Senior,Male,Delhi,Karan Iyer
+wY5763,8/10/24,India,5c922d8a-02dd-4d4b-ab77-eacbff09aa2d,KitchenAid Mixer,Home Appliances,452.34,5,2261.7,0.1,Mobile Wallet,Senior,Female,Hyderabad,Deepak Patel
+Qn6582,5/3/24,India,810baa62-4247-49e2-a226-4577359bd518,iPhone 14,Electronics,970.06,1,970.06,0,Online Payment,Adult,,Chennai,Deepak Iyer
+Kb8979,1/16/25,,ad1dc65e-c8a4-4ef9-be91-ae3a6ef9ca8e,Coca-Cola Can,Beverages,0.92,7,6.44,0.1,Credit Card,Adult,Male,Mumbai,Anjali Patel
+HH4538,2/15/25,India,c9a29fe3-114f-4453-a072-9547a43b9a83,Doritos Chips,Snacks,4.66,3,13.98,0.1,Cash,Adult,Male,Delhi,Neha Iyer
+ag7096,10/15/24,India,3fe22772-1e57-4e86-a95f-d011d73ce721,Samsung QLED TV,Electronics,1502.09,7,10514.63,0.05,Credit Card,Senior,Male,Mumbai,Pooja Sharma
+xF7897,5/22/24,India,,Yeti Tumbler,Outdoor,47.79,6,286.74,0.15,Debit Card,Adult,Male,Bangalore,Deepak Iyer
+xE2407,11/7/24,India,5cb97398-c46f-45f7-8379-5d97c7140448,iPhone 14,Electronics,1031.6,3,3094.8,0.2,Credit Card,Young,Female,Delhi,Neha Iyer
+yh1102,5/31/24,India,66bdfe39-7399-4abf-8b59-7ed41569d0d6,Apple MacBook Pro,Electronics,1327.55,4,5310.2,0.15,Cash,Senior,Male,Mumbai,Ravi Sharma
+JO4656,4/6/24,India,f357c9f1-10e1-4f13-aeb1-1658b0e97289,Samsung QLED TV,Electronics,1087.02,3,3261.06,0.05,Cash,Senior,Male,Chennai,Anjali Kumar
+xg2703,1/13/25,India,e6c7d072-f443-4ee6-8931-7ae40d25f7f6,KitchenAid Mixer,Home Appliances,402.49,8,3219.92,0.2,Online Payment,Senior,Female,Mumbai,Karan Mehta
+jo2418,11/11/24,India,fd46f6f0-4d17-47d4-a003-c347990fcfc3,Apple MacBook Pro,Electronics,1834.01,10,18340.1,0.05,Credit Card,,,Delhi,
+NL4310,3/14/25,India,7b12aa66-fee4-4c25-bbaa-dbcac7852e45,Apple MacBook Pro,Electronics,1964.92,2,3929.84,0.2,Cash,Young,Female,Delhi,Ravi Gupta
+Wr7244,9/1/24,India,,Nike Air Max,Footwear,190.25,4,761,0,Mobile Wallet,Senior,Female,Chennai,Amit Iyer
+pX7815,9/24/24,India,d41c0742-6d7c-4a0f-a249-ffe10a789d7f,Levi's 501 Jeans,Apparel,78.98,5,394.9,0.1,Mobile Wallet,Senior,Male,,Neha Mehta
+Vl6356,4/14/24,India,880e154a-65c3-4a72-ae02-88ba7f31c196,Apple MacBook Pro,Electronics,1900.72,3,5702.16,0.15,Cash,Adult,Male,Mumbai,Priya Patel
+eO4308,5/27/24,India,83fd49f1-1f27-4778-beba-cbff3b1c5bd3,Yeti Tumbler,Outdoor,38.94,10,389.4,0.15,Credit Card,Adult,Female,Delhi,Rahul Chopra
+nr2602,6/3/24,India,bb68b461-cd44-4289-8fde-e9b28212bbd5,iPhone 14,Electronics,1130.47,7,7913.29,0.15,Debit Card,Senior,Female,Chennai,Karan Nair
+Vr8147,3/12/25,India,2cd8d439-ebbc-447f-8ff6-bc99b03bf3f1,iPhone 14,Electronics,1158.73,3,3476.19,0.15,Debit Card,Senior,Male,Hyderabad,Amit Nair
+iG9669,7/14/24,India,b050d255-3ec1-4ff5-b61e-a7bcf77205a3,KitchenAid Mixer,Home Appliances,390.54,1,390.54,0,Mobile Wallet,Adult,Female,Chennai,Sneha Gupta
+Ok3340,8/23/24,India,4b1ae938-c8b1-48c1-8c69-15baee0d0368,KitchenAid Mixer,Home Appliances,445.89,6,2675.34,0.05,Online Payment,Adult,Male,Bangalore,Amit Patel
+iY5580,9/3/24,India,f80c4845-2281-4ea5-90a2-1c1df9535a3d,Samsung QLED TV,Electronics,1118.23,1,1118.23,0.15,Online Payment,Young,Male,Chennai,Priya Chopra
+Wa1378,8/19/24,India,9447a81c-4e4d-47ba-8cd5-4b4574ba1a47,Samsung QLED TV,Electronics,1817.38,6,10904.28,0.15,Credit Card,Young,Male,Bangalore,Ravi Reddy
+uj4425,7/10/24,India,03dd9741-a1ca-423a-a17f-47c0a2fffb96,Levi's 501 Jeans,Apparel,85.12,8,680.96,0,Mobile Wallet,Senior,Male,Chennai,Rahul Patel
+Wj8922,3/25/24,India,5926292c-00fd-4c74-ba3f-2e31b20185fc,Yeti Tumbler,Outdoor,22.43,1,22.43,0,Credit Card,Adult,Female,Mumbai,Anjali Mehta
+hq8173,6/23/24,India,d8a32d81-9abc-487d-8c8f-8b7a800f6ce3,Samsung QLED TV,Electronics,970.96,1,970.96,0.1,Online Payment,Senior,Male,Hyderabad,Neha Patel
+kR7559,4/6/24,India,8568d564-0e4b-485a-80d7-0944c4271e38,iPhone 14,Electronics,866.37,2,1732.74,0.05,Debit Card,Young,,Mumbai,Priya Reddy
+ow4019,5/12/24,India,723a29a2-fe12-4968-8301-40066ea8f670,Coca-Cola Can,Beverages,1.69,,6.76,0,Mobile Wallet,Senior,Female,Mumbai,Anjali Nair
+Jn5787,9/15/24,India,d17b1f84-f281-4a54-b34e-a0cfa284694f,Nike Air Max,Footwear,142.6,7,998.2,0.15,Mobile Wallet,Senior,Male,Delhi,Neha Sharma
+Tf8783,11/7/24,India,8388ee04-5c56-4dbb-a711-505db8320109,KitchenAid Mixer,Home Appliances,342.35,3,1027.05,0.1,Credit Card,Young,Female,Mumbai,Ravi Chopra
+Mu2276,8/7/24,India,bb313aa0-86c3-4dd1-87b2-ee6f25ae940d,Coca-Cola Can,Beverages,0.71,1,0.71,0,Online Payment,Young,Male,Chennai,Pooja Nair
+Ca1539,6/17/24,India,7b7ad32e-d289-4afb-b4d4-5fda6bbb7eab,Doritos Chips,Snacks,4.63,7,32.41,0.1,Cash,,Female,Chennai,Sneha Iyer
+My8862,5/3/24,India,,Apple MacBook Pro,Electronics,1412.9,3,4238.7,0.15,,Adult,,,Rahul Mehta
+ho6107,9/13/24,India,dc62b57e-575c-4ace-9831-cf149913af27,Yeti Tumbler,Outdoor,48.56,8,388.48,0.15,Credit Card,Adult,Male,Mumbai,Karan Singh
+BC5637,4/1/24,India,8532006b-d077-419b-96f1-55f9efc42070,The North Face Jacket,Apparel,228.58,10,2285.8,0,Debit Card,Adult,Female,Chennai,Neha Gupta
+xD8303,2/15/25,,3f6bdf8f-39cc-48ed-8b11-1b66f9ba8322,The North Face Jacket,Apparel,109.58,9,986.22,0.05,Cash,Adult,Female,Chennai,Amit Reddy
+rS9561,9/28/24,India,9df9a99e-29b4-4d5c-a1f4-5953743b4473,Doritos Chips,Snacks,2.15,3,6.45,0.2,Credit Card,Senior,Female,Chennai,
+hb1033,6/17/24,India,eb8309d9-fe74-40be-805f-83b9f645bd03,The North Face Jacket,Apparel,231.6,6,1389.6,0,Online Payment,Young,Female,Delhi,Anjali Chopra
+yd7550,7/30/24,India,e62c2bcc-67ba-4ff0-ba7e-e91bbaf1752d,Samsung QLED TV,Electronics,1231.67,5,6158.35,0.2,Debit Card,Young,Female,Mumbai,Karan Sharma
+TJ4734,6/18/24,India,ed9b01d7-7256-4853-8e5e-941547ac82c0,KitchenAid Mixer,Home Appliances,472.19,5,2360.95,0.05,Mobile Wallet,Senior,Male,Chennai,Ravi Iyer
+CE5754,9/21/24,India,8255258f-6e0a-4a42-9d9d-4e7c75356799,Nike Air Max,Footwear,122.9,2,245.8,0.1,Debit Card,Adult,Male,Chennai,Karan Sharma
+NB7392,5/29/24,India,63201c44-e702-4b94-a48a-26b0102c830e,Yeti Tumbler,Outdoor,35.55,10,355.5,0.1,Cash,Adult,Male,Bangalore,Priya Reddy
+Lf1903,7/17/24,India,9928f191-5bb0-4073-adc2-b05c0aade73f,The North Face Jacket,Apparel,121.75,4,487,0.2,Mobile Wallet,Senior,Female,Delhi,Deepak Kumar
+GP2498,5/14/24,India,97f3a354-8ced-4e5f-8292-78ef66ce88fc,KitchenAid Mixer,Home Appliances,272.69,2,545.38,0.05,Mobile Wallet,Young,Male,Bangalore,Neha Reddy
+ut8651,4/11/24,India,559a44c5-ab75-4ad0-9dbf-d8981ffedd49,Coca-Cola Can,Beverages,0.53,3,1.59,0,Debit Card,Adult,Female,Delhi,Priya Chopra
+tn1516,8/19/24,India,d5cff9fc-edb7-415c-b2fe-8a7d943e5036,Nike Air Max,Footwear,187.76,5,938.8,0,Cash,Adult,Female,Hyderabad,Deepak Patel
+ej0429,9/28/24,India,a0682f36-e800-44e2-8a12-7ffa1ebd49b5,KitchenAid Mixer,Home Appliances,447.71,5,2238.55,0.2,Mobile Wallet,Young,,Hyderabad,Pooja Nair
+IN7162,5/1/24,India,a665c068-e984-4df3-97c6-e8fab797707b,KitchenAid Mixer,Home Appliances,402.63,6,2415.78,0.05,Online Payment,Young,Female,Chennai,Neha Singh
+aW0721,1/23/25,,00b3b8f9-a2d4-47d3-8e50-9c53123baa68,Apple MacBook Pro,Electronics,,10,21958.7,0.15,Cash,Senior,,Bangalore,Neha Mehta
+nu2147,11/3/24,India,,Coca-Cola Can,Beverages,0.81,4,3.24,0.1,Cash,Young,Female,Mumbai,Karan Mehta
+Im9997,,India,d3ad5200-fc33-47cb-ab9a-3fa50c7df427,Nike Air Max,Footwear,166.81,8,1334.48,0.2,Cash,Young,Male,Bangalore,Sneha Patel
+Zc4039,6/6/24,India,4d999e97-d537-4da6-88af-b99bf8c7a222,Samsung QLED TV,Electronics,,,4035.15,0,Debit Card,Young,Female,Chennai,Pooja Singh
+vJ4671,11/8/24,India,2e17aa00-d98e-4917-8561-6a825f9706a9,KitchenAid Mixer,Home Appliances,346.1,3,1038.3,0.2,,Senior,Female,Bangalore,Anjali Patel
+uX7934,11/30/24,India,3ae87578-6d4e-434c-82bb-94d1b23cb20d,iPhone 14,Electronics,1010.94,7,7076.58,0.15,Debit Card,Adult,Male,Chennai,Anjali Kumar
+Wk1487,12/31/24,India,0263de41-0831-4160-940a-2e5dc4eaddf9,Coca-Cola Can,Beverages,1.48,3,4.44,0.2,Online Payment,Young,Female,Delhi,Rahul Singh
+AE9990,10/23/24,India,d0620575-91a4-4e96-8f87-48f34cdccd27,Yeti Tumbler,Outdoor,29.81,4,119.24,0.2,Mobile Wallet,Senior,Male,Mumbai,Rahul Mehta
+Cy6647,8/29/24,India,,Nike Air Max,Footwear,113.18,8,905.44,0.1,Cash,Adult,Male,,Karan Kumar
+Uy6722,10/15/24,India,a653f1cd-fd54-4d5a-a677-9db4c42166af,Coca-Cola Can,Beverages,,8,11.52,0.15,Online Payment,Senior,Male,Delhi,Amit Reddy
+dO7546,6/6/24,India,,Samsung QLED TV,Electronics,1635.84,9,14722.56,0.1,Cash,Young,Female,Delhi,Ravi Gupta
+Eg8000,11/3/24,India,6793e137-804b-4356-97f0-eeaeb25e75d4,Doritos Chips,Snacks,4.76,7,33.32,0.05,Debit Card,Senior,Male,Hyderabad,
+UR2341,11/8/24,India,f1b91b79-5a09-4cb4-88b3-b2aee5693f88,Coca-Cola Can,Beverages,1.6,10,16,0.15,Credit Card,Young,Female,Bangalore,Sneha Gupta
+Dy1004,8/16/24,India,5a8ed0c8-3fd0-4c28-b869-45996be85e53,Doritos Chips,Snacks,2.63,9,23.67,0.15,Debit Card,Senior,Male,Mumbai,Rahul Iyer
+CN3927,5/26/24,India,,Nike Air Max,Footwear,161.58,9,1454.22,0.2,Online Payment,Young,Female,Bangalore,Ravi Patel
+qQ4098,1/3/25,India,4be55251-7178-4138-b436-28ebe7e305ab,iPhone 14,Electronics,918.3,6,5509.8,0,Credit Card,Adult,Female,Hyderabad,Priya Iyer
+iv3662,9/27/24,India,6cda4ed8-344f-4127-b6de-4c5a95175ecd,iPhone 14,Electronics,1021.28,9,9191.52,0,Online Payment,Young,,Delhi,Amit Sharma
+dz7463,4/12/24,India,ef2b2845-19c5-4471-bace-e31987288866,Levi's 501 Jeans,Apparel,86.25,9,776.25,0.2,Credit Card,,Female,Mumbai,Sneha Kumar
+fl4702,2/7/25,India,dc2c5e3f-0d5e-4f0d-b01e-d53306ce3116,Apple MacBook Pro,Electronics,1747.29,8,13978.32,0.15,Cash,Young,Male,Hyderabad,
+Te9425,8/13/24,India,d02b4bbf-5eda-49be-8a77-c14a6122c5d3,Apple MacBook Pro,Electronics,1582.9,8,12663.2,0.05,Online Payment,Senior,Male,Hyderabad,Anjali Kumar
+gL2416,9/11/24,India,ddad3c23-e7df-4e9b-a5c4-6b779438df6a,Nike Air Max,Footwear,126.25,1,126.25,0.15,Cash,Adult,Male,Hyderabad,Rahul Gupta
+ex4939,3/10/25,India,b29d9656-7672-44ce-abba-eb6de55762df,Apple MacBook Pro,Electronics,1522.05,10,15220.5,0.15,Cash,Adult,Male,Bangalore,Pooja Reddy
+mB1462,12/10/24,India,cefabde9-8b52-4ff8-b211-460f699d1133,The North Face Jacket,Apparel,136.87,6,821.22,0.05,Cash,Young,Female,Chennai,Neha Patel
+Ui6445,3/22/24,India,9e2fbe20-f284-481f-adf3-26f4f2f3465f,Nike Air Max,Footwear,103.92,7,727.44,0.05,Credit Card,Young,Male,Hyderabad,Amit Kumar
+Qo0431,9/21/24,India,71166de5-b2ae-4f35-ab30-aeee5040bd8d,Coca-Cola Can,Beverages,0.87,2,1.74,0,Cash,Young,Male,Delhi,Karan Sharma
+Gs3435,7/7/24,India,3f1540bc-1af0-4cf1-b679-b2d7cd6fa2ee,Doritos Chips,Snacks,3.05,1,3.05,0.15,Debit Card,Senior,Male,Mumbai,Deepak Reddy
+qw8205,9/8/24,India,f2a0ba6f-4500-4008-b172-c40a3ed2c169,Coca-Cola Can,Beverages,0.94,1,0.94,0.1,Debit Card,Adult,Female,Hyderabad,Deepak Kumar
+PQ3378,10/12/24,India,cc7ff27b-cfc6-403a-864e-9b58ab5efc9b,The North Face Jacket,Apparel,120.84,10,1208.4,0.05,Online Payment,Adult,Female,Delhi,Anjali Nair
+wa3570,6/25/24,India,f7fc642a-df9b-4023-9295-abc937648c2d,Yeti Tumbler,Outdoor,27.91,2,,0.15,Credit Card,Senior,Male,Mumbai,Karan Kumar
+cq4579,2/19/25,,dc4a76b0-2269-44de-9083-d0688e6a0dbc,The North Face Jacket,Apparel,,7,1053.78,0.1,Debit Card,Young,Male,Mumbai,Karan Chopra
+Mu2697,5/10/24,India,554e8d7a-09f7-427d-b7fc-28f8475c47f5,Coca-Cola Can,Beverages,1.6,9,14.4,0.1,Mobile Wallet,Adult,Female,Bangalore,Amit Mehta
+Qa0263,11/29/24,India,cdc90a20-8334-4414-bce2-405faf883816,Levi's 501 Jeans,Apparel,75.11,2,150.22,0.1,Debit Card,Adult,Female,Chennai,Priya Mehta
+gy3205,1/11/25,India,f642026f-1705-4e10-92a1-140dbf3f2f53,Samsung QLED TV,Electronics,1840.13,2,3680.26,0.05,Debit Card,Adult,Male,Chennai,Sneha Sharma
+Pm8911,12/22/24,India,2181f4ad-f10d-4094-81bb-ced36dcd5dbf,Levi's 501 Jeans,Apparel,56.1,6,336.6,0.2,Online Payment,,Female,Chennai,
+FZ8100,9/8/24,India,ac462971-6781-44f6-aa95-0e6e53ed032b,Apple MacBook Pro,Electronics,1743.35,1,1743.35,0.05,Debit Card,Young,Female,Bangalore,Pooja Singh
+Ti8503,5/8/24,India,3ee3f94b-0e00-4b74-b791-913b862d27e4,KitchenAid Mixer,Home Appliances,460.2,9,4141.8,0.2,Credit Card,Adult,Female,,Pooja Patel
+zZ4023,3/15/25,India,675864b4-acea-4733-91b2-bbfb8854de1e,Doritos Chips,Snacks,3.82,7,26.74,0.1,Cash,Senior,Female,Delhi,Anjali Iyer
+vB7634,4/8/24,India,,Doritos Chips,Snacks,,10,37.7,0.05,,Adult,Male,Chennai,Anjali Singh
+yz6639,10/12/24,India,a8d6cb97-7a27-446e-8d56-7b5b0bfc4c39,KitchenAid Mixer,Home Appliances,251.45,5,1257.25,0.2,Online Payment,Adult,Male,Delhi,Ravi Singh
+HK2920,8/2/24,India,6e08bd39-f1c3-4709-964d-ae45306e0ee6,KitchenAid Mixer,Home Appliances,352.7,5,1763.5,0.1,Debit Card,Senior,Male,Delhi,Deepak Mehta
+Ua3861,1/3/25,India,f6ddfe8d-fa13-4dae-ac84-5d7c29126108,Doritos Chips,Snacks,3.6,2,7.2,0.15,Debit Card,Senior,Male,Mumbai,Ravi Mehta
+nV9089,12/19/24,India,6a1db73b-c9e8-41a4-9d5d-f0a741214b51,Levi's 501 Jeans,,60.45,5,302.25,0.05,Mobile Wallet,Young,Male,Chennai,Karan Nair
+OU6585,10/8/24,India,320833c1-22ca-4a98-ae35-0ec8ae47e42e,The North Face Jacket,Apparel,166.62,3,499.86,0.2,Online Payment,Adult,Male,Bangalore,Amit Chopra
+uZ8258,5/9/24,India,9fbe5eb6-6dc5-4ff7-b465-619c993725bd,KitchenAid Mixer,Home Appliances,258.77,7,1811.39,0,Credit Card,Adult,Male,Hyderabad,Ravi Nair
+xy0863,10/20/24,India,a8c5553a-e14a-4243-bcab-2be8fef7c54d,iPhone 14,Electronics,854.36,9,7689.24,0.2,Cash,Young,Female,,Priya Singh
+SH7253,5/2/24,India,caaac488-e976-4638-90a3-f2cc15e0708f,Levi's 501 Jeans,Apparel,72.86,9,655.74,0.05,Credit Card,Adult,Female,Mumbai,Priya Kumar
+WR2645,3/7/25,India,719e15ba-f0f8-4f5d-a4fd-e4f54cdb872a,Doritos Chips,Snacks,1.62,4,6.48,0,Credit Card,Young,Female,Chennai,Neha Gupta
+BD6973,5/2/24,India,44254723-2d2d-4f1d-bc1c-40dc31f9fab3,KitchenAid Mixer,Home Appliances,404.58,9,3641.22,0.15,Debit Card,Adult,Female,Delhi,Priya Reddy
+uD6242,7/14/24,India,41523595-2c4e-419f-8959-a804be83a780,Levi's 501 Jeans,Apparel,80.34,6,482.04,,Credit Card,Adult,Female,Mumbai,Pooja Sharma
+de2697,6/6/24,India,5bd7b357-1d3c-4084-ac69-2a0c45a26f97,iPhone 14,Electronics,1082.35,1,1082.35,0.15,Online Payment,,Male,Hyderabad,Pooja Kumar
+ht3784,6/27/24,India,59a39841-4a07-4e06-a13c-4f137ba0ba54,Doritos Chips,Snacks,4,7,28,0.05,Debit Card,Senior,Male,Mumbai,Pooja Iyer
+bH6689,5/5/24,India,6229bd43-becf-45fb-aa7e-d30fd0a21255,The North Face Jacket,Apparel,154.4,8,1235.2,0,Credit Card,Adult,Male,Hyderabad,Karan Reddy
+Ae7382,11/25/24,India,d1f1d199-d978-47a6-97a7-4631928868cb,KitchenAid Mixer,Home Appliances,388.74,5,1943.7,0.05,Debit Card,Adult,Female,Bangalore,Pooja Reddy
+GK0574,10/27/24,India,2b72584c-46e1-47f9-9c5a-83b9c70827a8,KitchenAid Mixer,Home Appliances,418.41,3,1255.23,0.1,Credit Card,Senior,Male,,Pooja Sharma
+nD7150,2/20/25,India,c2585cc7-8f54-465d-a8cd-8971bc990ad5,Levi's 501 Jeans,Apparel,92.45,9,,0.1,Credit Card,,Male,Bangalore,Priya Mehta
+kc1630,1/20/25,India,5425d9b4-b1fa-4e64-9a91-caab449b89a9,Levi's 501 Jeans,Apparel,85.85,10,858.5,,Mobile Wallet,,Female,Hyderabad,
+cA2640,7/17/24,India,1a7316c2-3c14-4dcb-8853-db1745a9e0ee,Levi's 501 Jeans,Apparel,98.29,9,884.61,0.15,Debit Card,Senior,Female,Delhi,Karan Patel
+jA6534,6/16/24,India,cd3dcccb-a713-4205-bcbf-5a7b93da037f,Samsung QLED TV,Electronics,602.39,10,6023.9,0.2,,Young,Male,Delhi,Amit Reddy
+rX6394,8/1/24,India,8a093498-242a-4442-9e9d-13c5c3594bff,Doritos Chips,Snacks,4.53,10,45.3,0.2,Cash,Senior,Female,Hyderabad,Amit Chopra
+WJ5502,12/9/24,India,31fdcf8a-da2e-439b-8f2e-a5abf02e2deb,The North Face Jacket,Apparel,130.13,1,130.13,0.2,Cash,Young,Male,Mumbai,Anjali Patel
+rk8952,10/21/24,India,,Levi's 501 Jeans,Apparel,66.22,1,66.22,0.05,Credit Card,Young,Female,Delhi,
+Ra9234,3/27/24,India,ad52e46a-2f83-4006-a7e6-a4726e89bf72,Apple MacBook Pro,Electronics,1994.25,,17948.25,0,Mobile Wallet,Young,Female,Mumbai,Neha Reddy
+OW2569,10/23/24,India,33310bf6-eae5-413f-9853-e3fd41a4caa8,The North Face Jacket,Apparel,291.78,2,583.56,0.2,Mobile Wallet,Senior,Female,Hyderabad,Ravi Singh
+gw0711,1/1/25,India,211929bd-b63b-4697-9c3a-a9a32efe61a9,Yeti Tumbler,Outdoor,47.33,9,425.97,0.2,Cash,Adult,Male,Mumbai,Deepak Sharma
+oI2832,8/19/24,India,8f0e8b7f-e059-433d-9dcc-f84231e7bb59,Yeti Tumbler,Outdoor,25.5,,153,0.1,Mobile Wallet,Adult,Female,Delhi,Neha Sharma
+gS9994,4/21/24,,3fd1f46f-f309-4078-8354-55033574e26a,Samsung QLED TV,Electronics,1430.94,10,14309.4,0,Mobile Wallet,Adult,Female,Delhi,Ravi Chopra
+Rn5469,4/8/24,India,6eea96e2-16eb-4bdc-9c1d-294a2cf74ada,The North Face Jacket,Apparel,124.09,3,,0.2,Cash,Young,Female,Hyderabad,Pooja Reddy
+Nr9607,7/18/24,India,421d1499-6032-41e2-b049-0035f9bd2cf7,Samsung QLED TV,Electronics,1093.53,5,5467.65,0.05,Cash,Adult,Female,Bangalore,Pooja Nair
+se3642,9/26/24,India,60c54053-724f-4e58-aea8-1d6b58a422f7,The North Face Jacket,Apparel,169.63,4,678.52,0.2,Debit Card,Adult,Male,Bangalore,Ravi Mehta
+WD5849,5/11/24,,7379a8df-d672-4cfe-9dcd-733b286c6a28,Samsung QLED TV,Electronics,,9,14960.61,0,Online Payment,Senior,Female,Delhi,Karan Patel
+vx7116,6/3/24,India,c35db6a3-0814-41cf-aeec-ff798171aa67,Levi's 501 Jeans,Apparel,73.35,4,293.4,0.15,Online Payment,Adult,Male,Hyderabad,Sneha Sharma
+St2451,7/11/24,India,4496e167-12c7-4481-ae77-9631f06c0e8a,Doritos Chips,Snacks,4.15,6,24.9,0.15,Online Payment,Young,Male,Chennai,Amit Mehta
+Aq4124,12/27/24,India,1861c69a-a752-42c0-a7dc-8900fdf2804d,Doritos Chips,Snacks,1.65,4,6.6,0.2,Mobile Wallet,Senior,Male,Bangalore,Pooja Mehta
+Bf8219,1/20/25,India,,Nike Air Max,Footwear,153.35,4,613.4,0,Cash,Senior,Female,Mumbai,Ravi Chopra
+MQ3365,12/6/24,India,,Yeti Tumbler,Outdoor,48.02,2,96.04,0.2,Credit Card,Senior,Male,,Amit Mehta
+Uj6731,3/19/25,India,,KitchenAid Mixer,Home Appliances,481.81,4,1927.24,0.05,Online Payment,Young,Female,Chennai,Sneha Chopra
+yv7301,10/31/24,India,904d7ec8-ad3b-4e7c-9671-31a3374d7275,Doritos Chips,Snacks,4.38,5,21.9,,Credit Card,Senior,Female,Hyderabad,Rahul Mehta
+up3499,2/25/25,India,0d474ce4-fddf-48a3-95dd-e35ae71ab718,The North Face Jacket,Apparel,266.83,4,1067.32,0.2,Online Payment,Young,,Mumbai,Ravi Chopra
+mE2223,3/12/25,India,49473bc2-adcf-4bbf-9d36-632d67d67887,Doritos Chips,Snacks,4.74,7,33.18,,Debit Card,Young,Male,Bangalore,Deepak Kumar
+hm1628,12/17/24,India,124162f0-7e4b-47f5-867d-6db495610c57,Doritos Chips,Snacks,3.93,8,31.44,0.2,Cash,Young,Female,Delhi,Amit Patel
+ZS5265,6/9/24,India,457e11f5-2e96-4226-b819-3063e2f741fa,iPhone 14,Electronics,1009.54,,8076.32,0.05,Debit Card,Senior,,Delhi,Rahul Reddy
+DC3718,9/11/24,India,52a38955-1cf3-492c-b18b-5f9d0d9aabb9,The North Face Jacket,Apparel,112.44,3,337.32,0.15,Credit Card,Adult,Female,Bangalore,Deepak Sharma
+aU7108,8/27/24,India,6674f91d-b5fc-4f7c-9664-148af27acb62,Levi's 501 Jeans,Apparel,94.2,8,753.6,0.05,Credit Card,Young,Male,Chennai,Priya Nair
+Sp9556,1/3/25,India,055a0562-be3e-44cd-b698-11e4a601a8d4,Apple MacBook Pro,Electronics,1675.63,3,5026.89,0.1,Debit Card,Young,Male,Hyderabad,Ravi Patel
+gC4535,10/19/24,India,2fb94dde-bf94-4957-aadb-014f82ec7015,iPhone 14,Electronics,804.35,2,1608.7,0.05,Credit Card,Young,Male,Hyderabad,Priya Chopra
+CA3911,3/14/25,India,ff0bd6d7-fa0e-4195-aa78-c8f7e78d19c7,Apple MacBook Pro,Electronics,1685.55,10,16855.5,0.2,Mobile Wallet,Senior,Female,Chennai,Amit Kumar
+pe3231,9/7/24,India,38c7b69f-2d7c-48ac-a476-33b3bfd435d5,Yeti Tumbler,Outdoor,35.92,10,359.2,0,Debit Card,Young,Male,Bangalore,Neha Patel
+xR6646,3/25/24,India,bbe6c1a6-6a90-41a4-886b-38cb0899cad7,Levi's 501 Jeans,Apparel,90.04,2,180.08,0.2,Mobile Wallet,Young,Male,Mumbai,Anjali Mehta
+AP1137,2/11/25,India,,Yeti Tumbler,Outdoor,37.14,6,222.84,0.05,Debit Card,Young,Female,Delhi,Pooja Singh
+Xw4699,5/10/24,India,,Samsung QLED TV,,1739.66,10,17396.6,0.15,Mobile Wallet,Young,Male,,Sneha Chopra
+VT3161,4/14/24,India,4bd53839-b8dc-4ded-b814-c8e033ecb08b,Samsung QLED TV,Electronics,550.09,9,4950.81,0.2,Debit Card,Senior,Female,Mumbai,Amit Sharma
+AC9870,11/27/24,India,191d92b2-f83f-4ebd-9627-690a4d11c769,Apple MacBook Pro,Electronics,1442.4,8,11539.2,0.05,Online Payment,Adult,Male,Mumbai,Anjali Gupta
+yp2177,3/17/25,India,de0bcd58-903e-44ef-bf27-6a7142bd8924,The North Face Jacket,Apparel,,,435.02,0.1,Online Payment,Senior,Female,Bangalore,Anjali Sharma
+gv4022,9/14/24,India,d256f2b7-76f5-4593-b03b-1e3243114fac,Coca-Cola Can,Beverages,,,2.54,0.15,Mobile Wallet,Adult,Male,Hyderabad,Karan Patel
+Hp8324,5/17/24,India,e6a0a31b-3bb6-4794-bc7d-f30bef1112ea,Nike Air Max,,119.72,9,1077.48,0.2,Credit Card,,Male,Mumbai,Amit Mehta
+lQ2693,,India,29992b83-21c2-4ba6-ad10-d1bda91e8a59,Nike Air Max,,124.44,10,1244.4,0.05,Debit Card,Adult,Male,Bangalore,Deepak Sharma
+Df5570,6/25/24,India,991a6f12-bed6-42c3-8fe7-05c665762d62,iPhone 14,Electronics,800.8,1,800.8,,Mobile Wallet,Senior,Male,Bangalore,Amit Kumar
+OG0832,11/8/24,India,925e209f-57cd-4457-8744-18f0a8228eec,Doritos Chips,Snacks,3.82,6,22.92,0.2,Debit Card,Adult,Male,Mumbai,Priya Singh
+OW5038,4/9/24,India,b8f8162f-555c-4bb9-9c6b-67b774939519,KitchenAid Mixer,,313.55,4,1254.2,0.2,Debit Card,Adult,Male,Hyderabad,Neha Sharma
+wd1938,8/5/24,India,f30784fa-dfb3-4c43-8b13-6f66082c273e,KitchenAid Mixer,Home Appliances,380.48,6,2282.88,0.05,Cash,Adult,Male,Delhi,Ravi Nair
+cJ8924,10/19/24,India,f2f125ed-5c16-43cf-8d21-f0e6b5e93514,Levi's 501 Jeans,Apparel,64.94,3,194.82,0.2,Cash,Senior,Male,Delhi,Rahul Patel
+ni5068,5/28/24,India,3fc0193c-4a3f-4bae-9c76-5a511362ed70,Nike Air Max,Footwear,190.41,1,190.41,0.15,Debit Card,Young,Female,Delhi,Rahul Nair
+As5855,6/3/24,India,19bbf7aa-30da-4ce3-9d39-5e50efde28ba,,Home Appliances,348.56,3,1045.68,0.05,Cash,Young,Female,Mumbai,Amit Gupta
+MY5820,10/28/24,India,8d8b89f7-dc32-4bb9-b8b3-b351b830e20c,Doritos Chips,Snacks,2.72,3,8.16,0.1,Cash,Young,Male,Hyderabad,Deepak Sharma
+gT2314,6/6/24,India,94935c25-fe15-4654-8a31-93a2c11205bc,Apple MacBook Pro,Electronics,2160.93,8,17287.44,0.05,,Senior,Male,Chennai,Rahul Singh
+ev8126,,India,f28c1d78-667e-426d-b343-e048eabe8865,Nike Air Max,Footwear,130.63,3,391.89,0.05,Credit Card,Adult,Female,,Deepak Gupta
+VC3246,9/21/24,India,c5fff00e-2134-4dca-a4cc-a5ad29507fa4,The North Face Jacket,Apparel,171.54,1,171.54,0,Online Payment,Senior,Female,Bangalore,Ravi Gupta
+Zl5938,7/26/24,India,15d98bc7-b19a-4b63-b64b-666e56349d00,Apple MacBook Pro,Electronics,2360.21,1,2360.21,0.2,Online Payment,Senior,Female,Delhi,Deepak Reddy
+MR3448,3/3/25,India,10c3d251-234e-40bc-a833-b13debf9fa2f,Levi's 501 Jeans,Apparel,57.77,6,346.62,0.15,Debit Card,Young,Male,Chennai,Priya Chopra
+PX1710,2/17/25,India,6f5f35ac-bcbb-4d7a-bcdc-949c8e86dd64,Coca-Cola Can,Beverages,1.8,2,3.6,0.15,Online Payment,Adult,Female,Mumbai,Neha Reddy
+dd1904,9/30/24,India,3c71e232-c9b4-44a6-bb2f-1c49d981b76f,The North Face Jacket,Apparel,193.25,5,966.25,0,Mobile Wallet,,Female,Hyderabad,Anjali Kumar
+cm2176,9/14/24,India,,Levi's 501 Jeans,Apparel,94.89,5,474.45,0.1,,Senior,Female,Hyderabad,Neha Iyer
+Rz7693,7/13/24,India,02094442-611e-4433-82b8-95db8a068c55,Nike Air Max,Footwear,100.09,2,200.18,0.2,Online Payment,Adult,Male,Hyderabad,Sneha Sharma
+Zm8676,2/3/25,India,a57b64bf-b8b8-4178-a745-139a1d08e608,Apple MacBook Pro,Electronics,1873.44,4,7493.76,0.05,Online Payment,Adult,Female,Hyderabad,Anjali Sharma
+FE7184,8/15/24,India,b60b1db7-bb47-44b8-a970-9c71a4796673,Levi's 501 Jeans,Apparel,51.47,8,411.76,0,Online Payment,Young,Male,Bangalore,Priya Mehta
+ab7265,5/8/24,India,5124c495-a7a5-4470-8c02-ba05ec8564ff,KitchenAid Mixer,Home Appliances,462.36,8,3698.88,0,Debit Card,Young,Female,Hyderabad,Neha Sharma
+pu8074,2/16/25,India,7969fca5-1fde-4506-8537-56eb05451cfb,Levi's 501 Jeans,Apparel,52.05,6,312.3,0.05,Credit Card,Senior,Male,Bangalore,Deepak Mehta
+zL5383,6/20/24,,89f65c3b-a803-4bd3-a3a6-8334d2170171,Doritos Chips,Snacks,4.67,8,37.36,0.1,Credit Card,Senior,Male,Chennai,Pooja Nair
+Yd0403,9/2/24,India,e785f5eb-6e0a-445a-b2fc-16670c65823b,Samsung QLED TV,Electronics,1369.31,5,,0,,Senior,Male,Delhi,Priya Patel
+Op5362,4/20/24,India,af3a298b-ec0d-4c0e-8a44-43abe097ecbc,Samsung QLED TV,Electronics,705.47,8,5643.76,0.15,Mobile Wallet,Young,Male,Mumbai,Neha Gupta
+Pt9710,1/22/25,India,,The North Face Jacket,Apparel,130.22,5,651.1,,Online Payment,Young,Female,Bangalore,Amit Patel
+ne2077,6/24/24,India,f1db5d7e-1cd6-4f89-8752-7f7ffbc45f98,iPhone 14,Electronics,833.14,2,1666.28,0.15,,Senior,Female,Hyderabad,Pooja Singh
+lW5968,4/22/24,India,fb66cc01-bbe6-486e-96cd-a327b468a4a7,Yeti Tumbler,Outdoor,41.71,6,250.26,0.2,Online Payment,Adult,Male,Hyderabad,Priya Singh
+tv9425,3/4/25,India,67330383-23a1-43a1-94b8-d0af1df008f0,iPhone 14,Electronics,885.81,7,6200.67,0.15,Cash,Adult,Male,,Sneha Patel
+Yp0594,1/26/25,India,c65d9316-936c-4083-9a07-e24f0bd107c3,,Snacks,4.1,4,16.4,0,Cash,Young,Male,Mumbai,Amit Gupta
+LM7806,11/1/24,India,66e0dd37-3b49-4deb-9701-6efb396c4a44,Samsung QLED TV,Electronics,585,3,1755,0.15,Debit Card,Senior,Female,Bangalore,Priya Chopra
+Ig4949,7/25/24,India,57fb4987-2c10-4ea9-83c0-a0d9c28f2bf6,Nike Air Max,Footwear,152.29,2,304.58,0.1,Credit Card,Young,Male,Delhi,Neha Singh
+QR8148,7/9/24,India,52a1ab10-22be-4327-896e-f0e6c06ebd2f,Yeti Tumbler,Outdoor,48.19,3,144.57,0.05,Credit Card,Young,Female,Delhi,Rahul Reddy
+Iq9308,7/16/24,India,b9141e1c-4210-454c-a2ce-0419ecde44cb,Samsung QLED TV,Electronics,1990.87,4,7963.48,0.05,Mobile Wallet,Young,Female,Delhi,Neha Singh
+jH6361,11/30/24,India,11426c92-1abd-481a-a76d-576a9133124f,Yeti Tumbler,Outdoor,35.8,1,35.8,0.15,Online Payment,Adult,Male,Chennai,Pooja Nair
+in0795,8/22/24,India,6995fc1c-4d66-4331-afa2-d47e38ae0bc0,iPhone 14,Electronics,943.75,4,3775,0.05,Mobile Wallet,Senior,Female,Chennai,Amit Singh
+wq2927,6/25/24,India,5a8ef4fb-1fdd-4771-a74e-5e72b0d118d7,KitchenAid Mixer,,458.11,7,3206.77,0.05,Online Payment,Young,Male,Delhi,Anjali Mehta
+nj6259,7/7/24,India,8ad77003-c6a7-42e7-bf45-08f4446a1b52,Samsung QLED TV,Electronics,1443.36,,7216.8,0.05,Online Payment,Senior,Female,Hyderabad,Deepak Iyer
+lx9429,8/9/24,India,778ca93f-8d24-495c-8477-b8a3e0e7327e,The North Face Jacket,Apparel,153.34,6,920.04,0.05,,Senior,Male,Hyderabad,Ravi Nair
+PX4229,5/26/24,,084a2f37-95e4-4e3e-9b6f-62aa41f949ac,Levi's 501 Jeans,Apparel,68.94,1,68.94,0.15,Online Payment,Young,Male,Chennai,Priya Singh
+Ow3289,,India,11b872ff-b5a2-4697-827d-0c4adf8e242c,KitchenAid Mixer,Home Appliances,300.07,2,600.14,0,Debit Card,Senior,Female,Hyderabad,Pooja Patel
+KS3680,2/9/25,India,ba2b9d35-8047-4541-9207-a7fb17244ed5,KitchenAid Mixer,Home Appliances,281.36,,844.08,0.2,Debit Card,Adult,Female,Delhi,Anjali Gupta
+sY3400,3/9/25,India,fd8448f0-1014-49e8-99bf-48efaf99fe98,Doritos Chips,Snacks,4.59,5,22.95,0.05,Online Payment,,Male,Chennai,Anjali Reddy
+dG7001,7/28/24,India,e50cacd4-15ad-4ec4-b89b-69b676bce18c,Coca-Cola Can,Beverages,1.67,9,15.03,0,Mobile Wallet,Young,Male,Chennai,
+iF6128,9/7/24,India,30204cce-4d48-48ec-b2fe-7a8d8cebef2e,KitchenAid Mixer,Home Appliances,483.46,3,1450.38,0,Debit Card,Young,,Mumbai,Amit Reddy
+AR4652,1/5/25,India,eea8a890-cbdf-4840-a610-747b57afa2e2,Samsung QLED TV,Electronics,1299.78,3,3899.34,0.15,Cash,,Female,Chennai,Neha Patel
+Nl8238,8/22/24,India,4e14afc3-eaad-417d-ba0a-af83672fd8e9,Coca-Cola Can,Beverages,0.66,3,1.98,0.2,Credit Card,Young,Female,Hyderabad,Amit Sharma
+ZZ3436,11/21/24,,30015145-3815-4c5b-8941-572a0d6f7031,Yeti Tumbler,Outdoor,26.96,5,134.8,,Debit Card,Senior,Male,Delhi,Karan Sharma
+kb4613,8/23/24,India,9f7be879-db07-43c7-9913-862d76cb9686,iPhone 14,Electronics,828.29,9,7454.61,0.1,Mobile Wallet,Adult,Male,Delhi,Anjali Reddy
+yE3109,,India,72dc5391-6ce4-410a-ab97-ec0cb67fe9ca,Levi's 501 Jeans,Apparel,87.8,5,439,0.15,Debit Card,Senior,Female,Delhi,Karan Nair
+oM8502,7/6/24,India,64939b6a-7706-4506-b023-9371b151e66d,Coca-Cola Can,Beverages,0.78,4,3.12,0.1,Mobile Wallet,Senior,Male,Chennai,Ravi Kumar
+lv3767,11/29/24,India,bbe7fb02-6b4d-4323-832c-8846134c440b,Doritos Chips,Snacks,2.13,7,14.91,0.1,Mobile Wallet,Senior,Male,Delhi,Rahul Nair
+gI7799,12/6/24,India,2d3a8f60-60dc-4f47-afd4-827cf76ed61d,The North Face Jacket,Apparel,237.83,1,237.83,0.2,Cash,Young,Male,Delhi,Deepak Reddy
+vi5967,12/28/24,India,10fbf0d6-c51a-40f4-8308-c9275a5f6781,Apple MacBook Pro,Electronics,,6,14753.46,0.15,Mobile Wallet,Senior,Male,Chennai,Anjali Sharma
+oz4346,1/22/25,India,23b44647-1d71-478e-b015-fa728b7411b2,Yeti Tumbler,Outdoor,41.91,9,377.19,0.05,Credit Card,Senior,Female,Delhi,Karan Kumar
+eA4949,11/25/24,India,ede222aa-a112-48eb-95de-4302c4ef4573,,Home Appliances,268.86,3,806.58,0,Debit Card,Senior,Female,Mumbai,Sneha Chopra
+nk1035,5/16/24,India,6f0e10cb-d3b4-4264-86bd-0ed532aad845,Samsung QLED TV,Electronics,1711.58,1,1711.58,0,Online Payment,Adult,Male,Delhi,Priya Reddy
+QV7426,,India,60e8592d-019b-4f56-a1f5-f645fc86e064,Apple MacBook Pro,Electronics,,5,,0.05,,Senior,Male,Hyderabad,Neha Kumar
+Mr8691,4/29/24,India,7f41eab0-bf89-4901-a570-c0e3b2d4e696,Nike Air Max,Footwear,178.34,5,891.7,0.05,Debit Card,Young,Female,Hyderabad,Rahul Patel
+ZK9293,2/13/25,India,d91c4024-e0a6-4681-8438-6b9281c3530e,Levi's 501 Jeans,Apparel,71.79,8,574.32,,Credit Card,Young,Female,Delhi,Amit Reddy
+cX2642,9/19/24,India,1ba1596f-daa4-437a-af18-99df1b4755ff,KitchenAid Mixer,Home Appliances,278.7,5,1393.5,0.05,Online Payment,Adult,Female,,Anjali Kumar
+Uc9434,12/19/24,India,,KitchenAid Mixer,Home Appliances,,10,2889.6,0,Mobile Wallet,Senior,Female,Chennai,Deepak Kumar
+Zu2487,9/9/24,India,64a690c5-37e2-4b0d-b939-77f2779e03d7,Coca-Cola Can,Beverages,0.99,9,8.91,0,Mobile Wallet,Adult,Female,Bangalore,Karan Gupta
+DZ8916,4/17/24,India,cb6e28ec-10c2-4e32-9ee4-11a3cb4fa34b,KitchenAid Mixer,Home Appliances,401.19,6,2407.14,0.2,Credit Card,Young,Female,Hyderabad,Sneha Gupta
+eW5186,5/7/24,India,926b8be0-5a14-4443-80ee-1d9eb8fa8bcf,Yeti Tumbler,Outdoor,29.54,2,59.08,0,Cash,Adult,Female,Bangalore,Amit Reddy
+fC6941,1/10/25,India,5dea009b-c51e-4d99-adf9-9e371e83cf88,Samsung QLED TV,Electronics,1958.2,1,1958.2,0.05,Debit Card,Adult,Female,Delhi,
+WW9855,10/9/24,India,dbec3e08-2720-492d-bdd4-ae270061c9eb,Nike Air Max,Footwear,173.8,9,1564.2,0.1,Mobile Wallet,Senior,Male,Delhi,Karan Reddy
+lM0117,6/5/24,India,1d8e6374-6705-43ff-99b2-494fe7d63dd4,Doritos Chips,Snacks,1.99,9,17.91,0.15,Debit Card,Young,Female,Mumbai,Rahul Nair
+IM5278,9/19/24,India,72e0aede-bd0f-4007-b3a5-9be069a60ae1,Nike Air Max,Footwear,174.68,4,698.72,0,Mobile Wallet,Young,Female,,Neha Singh
+gH6045,9/5/24,India,a2320947-38eb-4a9d-99e0-a53777889b38,Levi's 501 Jeans,Apparel,55.54,2,111.08,0.05,Online Payment,Young,Female,Bangalore,Anjali Chopra
+Zc4202,4/30/24,India,5e7a6b18-1384-4b46-8c04-73e523f01537,The North Face Jacket,Apparel,120.03,9,1080.27,0.05,Debit Card,Senior,Female,Mumbai,Priya Chopra
+Fp6016,8/11/24,India,96ca2e40-93b3-4306-8f15-f152853db51b,Coca-Cola Can,Beverages,0.65,7,4.55,0.1,Cash,Young,Male,Hyderabad,Sneha Gupta
+bU7012,,,a70be054-9d15-4601-88f5-92bf23c1af0b,The North Face Jacket,Apparel,110.67,3,332.01,0.15,Credit Card,Senior,Male,Delhi,Anjali Iyer
+mv2801,8/5/24,India,669c4260-1a2f-4668-90e8-e3f0b50cb6e8,Yeti Tumbler,Outdoor,24.09,3,72.27,0.2,Online Payment,Senior,Female,Chennai,Deepak Patel
+aH4633,4/2/24,India,06553b4f-4189-4cef-af29-0cd5568643c3,Levi's 501 Jeans,Apparel,82.39,3,247.17,0.2,Cash,Young,Female,Hyderabad,Rahul Patel
+tZ6661,6/8/24,India,5c05a522-82dc-4b10-8c49-70ea72c4eda7,The North Face Jacket,Apparel,145.95,8,1167.6,0.2,Credit Card,Young,Female,Chennai,Priya Sharma
+LQ2892,1/3/25,,0c746fe8-0be8-4de6-b3f9-280dae49c4a7,The North Face Jacket,Apparel,180.47,3,541.41,0.2,Mobile Wallet,Young,Female,Chennai,Sneha Nair
+fP5835,12/26/24,India,87a4e005-f97b-4544-9e95-9e2ee12da583,Samsung QLED TV,Electronics,1292.37,5,6461.85,0.2,,Young,Female,,Deepak Iyer

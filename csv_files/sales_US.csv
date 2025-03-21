@@ -1,501 +1,501 @@
-transcation_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,store_representation
-K1J421HRPC,2/20/24,United States,703,Wonder Bread,Bakery,1.2,5,0.8,0.2,Bank Transfer,Adult,Male,Los Angeles,Physical Store
-402Q4F9CF4,2/1/24,United States,703,Wonder Bread,Bakery,1.2,3,0.8,0.18,Debit Card,Adult,Female,Philadelphia,Physical Store
-R25NFO519F,1/8/24,United States,706,Hershey's Chocolate,Sweets,4,2,3.1,0.1,Bank Transfer,Senior,Female,Houston,Physical Store
-WX1YR1CFI7,1/24/24,United States,705,Folgers Coffee,Beverages,7,8,5.2,0.31,Credit Card,Young,Female,Houston,Online
-A6S4569XNQ,2/21/24,United States,704,Domino Sugar,Food,1.6,8,1.2,0.12,Apple Pay,Young,Female,Houston,Online
-PYYCPT8MGW,2/23/24,United States,706,Hershey's Chocolate,Sweets,4,10,3.1,0.09,Bank Transfer,Young,Male,Chicago,Physical Store
-VZ84W1LNSN,2/23/24,United States,702,Horizon Organic Milk,Dairy,2.5,10,1.8,0,PayPal,Adult,Female,Houston,Physical Store
-HYM13LME5U,1/19/24,United States,709,Dove Soap,Personal Care,2.5,9,1.8,0.1,Bank Transfer,Adult,Male,Phoenix,Physical Store
-7J6GDRR8Q7,2/1/24,United States,702,Horizon Organic Milk,Dairy,2.5,6,1.8,0.14,Bank Transfer,Adult,Female,San Francisco,Physical Store
-T1CJUDHN1T,1/6/24,United States,710,Crisco Cooking Oil,Food,5,4,4,0.72,Google Pay,Adult,Female,Chicago,Online
-YWYPDA5SRJ,2/3/24,United States,701,Uncle Ben's Rice,Food,2.9,10,2.1,0.09,Debit Card,Adult,Male,Los Angeles,Online
-0ELBY2B12J,1/25/24,United States,707,Charmin Tissue,Hygiene,4.5,4,3.5,0.28,Bank Transfer,Adult,Male,San Francisco,Online
-7EN45LEHOV,2/4/24,United States,705,Folgers Coffee,Beverages,7,6,5.2,0.33,Debit Card,Senior,Male,Houston,Online
-RJHRXA589N,1/11/24,United States,710,Crisco Cooking Oil,Food,5,6,4,0.25,Cash,Adult,Male,Phoenix,Physical Store
-JIPDDNFB66,2/11/24,United States,706,Hershey's Chocolate,Sweets,4,10,3.1,0.49,Debit Card,Senior,Female,Houston,Physical Store
-QOGYLB7Y7W,1/1/24,United States,705,Folgers Coffee,Beverages,7,1,5.2,0.84,PayPal,Senior,Female,Houston,Online
-MTPT3B21WG,2/9/24,United States,704,Domino Sugar,Food,1.6,7,1.2,0.23,Apple Pay,Adult,Female,Phoenix,Online
-PMYX15MIF4,1/15/24,United States,701,Uncle Ben's Rice,Food,2.9,5,2.1,0.54,Credit Card,Young,Female,Los Angeles,Online
-J44EUTX2MP,2/1/24,United States,702,Horizon Organic Milk,Dairy,2.5,4,1.8,0.19,PayPal,Senior,Female,Phoenix,Physical Store
-G2YC8QF7K1,1/1/24,United States,701,Uncle Ben's Rice,Food,2.9,8,2.1,0.24,Credit Card,Young,Female,San Francisco,Physical Store
-KDUNORMNFK,2/11/24,United States,704,Domino Sugar,Food,1.6,9,1.2,0.25,Bank Transfer,Senior,Male,Chicago,Physical Store
-0F0B2IBWJA,1/25/24,United States,707,Charmin Tissue,Hygiene,4.5,7,3.5,0.05,Apple Pay,Adult,Female,New York,Online
-TVTZ3ECZ76,1/1/24,United States,705,Folgers Coffee,Beverages,7,4,5.2,1.01,Google Pay,Adult,Male,Phoenix,Physical Store
-4Q0EFESEPD,2/3/24,United States,703,Wonder Bread,Bakery,1.2,3,0.8,0.05,Apple Pay,Adult,Female,Chicago,Online
-JH27IHRBGY,1/9/24,United States,702,Horizon Organic Milk,Dairy,2.5,4,1.8,0.41,Google Pay,Adult,Female,Philadelphia,Online
-CMCDHTNSSW,2/21/24,United States,703,Wonder Bread,Bakery,1.2,9,0.8,0.17,PayPal,Adult,Male,New York,Online
-PPTL1ZLQW6,2/26/24,United States,703,Wonder Bread,Bakery,1.2,7,0.8,0.1,Cash,Adult,Female,Phoenix,Physical Store
-YUL4QWMKM3,2/24/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,1,5.8,0.48,Venmo,Senior,Male,Los Angeles,Physical Store
-Y99S0ZX2HP,1/5/24,United States,702,Horizon Organic Milk,Dairy,2.5,6,1.8,0.02,Apple Pay,Young,Male,New York,Physical Store
-I04YNH8GLA,2/28/24,United States,706,Hershey's Chocolate,Sweets,4,6,3.1,0.76,Google Pay,Young,Male,San Francisco,Physical Store
-1N5VJB0F2G,1/14/24,United States,702,Horizon Organic Milk,Dairy,2.5,1,1.8,0.16,Venmo,Adult,Male,New York,Online
-CJ04ONKK3Y,2/22/24,United States,707,Charmin Tissue,Hygiene,4.5,7,3.5,0.69,Venmo,Young,Female,San Francisco,Online
-BS98TH9E11,1/2/24,United States,709,Dove Soap,Personal Care,2.5,5,1.8,0.41,Bank Transfer,Senior,Male,Chicago,Physical Store
-B56VN94AYV,2/1/24,United States,705,Folgers Coffee,Beverages,7,7,5.2,0.7,Bank Transfer,Adult,Female,San Francisco,Online
-4BCQ65U8VE,1/24/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,6,5.8,0.12,Credit Card,Adult,Female,Chicago,Physical Store
-BQ77QH2FL7,1/22/24,United States,702,Horizon Organic Milk,Dairy,2.5,5,1.8,0.04,Apple Pay,Senior,Female,Philadelphia,Physical Store
-HXK3K49UPR,2/16/24,United States,709,Dove Soap,Personal Care,2.5,2,1.8,0.49,Bank Transfer,Adult,Male,Philadelphia,Online
-BGEQ7MIOA3,1/2/24,United States,710,Crisco Cooking Oil,Food,5,8,4,0.17,Apple Pay,Senior,Female,New York,Physical Store
-KCAL9JKBY9,2/3/24,United States,702,Horizon Organic Milk,Dairy,2.5,10,1.8,0.42,Debit Card,Young,Male,Phoenix,Physical Store
-1EU1K154I5,2/11/24,United States,710,Crisco Cooking Oil,Food,5,8,4,0.6,Credit Card,Adult,Female,San Francisco,Online
-1KYUFQG3RG,2/21/24,United States,702,Horizon Organic Milk,Dairy,2.5,6,1.8,0.41,Google Pay,Adult,Female,New York,Online
-HPD7YEKM9I,1/21/24,United States,704,Domino Sugar,Food,1.6,3,1.2,0.1,Apple Pay,Adult,Female,San Francisco,Physical Store
-7PNZBHZL8J,1/24/24,United States,705,Folgers Coffee,Beverages,7,2,5.2,1.4,Debit Card,Senior,Male,Philadelphia,Online
-ZXE923X1PL,2/13/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,1,5.8,1.11,Cash,Young,Male,Phoenix,Online
-72AL2A5K0K,2/21/24,United States,704,Domino Sugar,Food,1.6,10,1.2,0.06,PayPal,Senior,Female,Phoenix,Online
-G4M0F9DCET,1/15/24,United States,709,Dove Soap,Personal Care,2.5,10,1.8,0.39,Venmo,Senior,Male,Los Angeles,Online
-C1C4RJTRGD,1/25/24,United States,710,Crisco Cooking Oil,Food,5,6,4,0.75,PayPal,Adult,Male,New York,Online
-TSFG0S00AK,1/22/24,United States,703,Wonder Bread,Bakery,1.2,1,0.8,0.07,Debit Card,Young,Male,Houston,Online
-80M4A8YSY4,1/5/24,United States,706,Hershey's Chocolate,Sweets,4,3,3.1,0.05,Cash,Adult,Female,San Francisco,Physical Store
-AI9MH85M27,1/29/24,United States,701,Uncle Ben's Rice,Food,2.9,9,2.1,0.32,PayPal,Senior,Female,San Francisco,Online
-I98XYWN9XZ,2/17/24,United States,709,Dove Soap,Personal Care,2.5,6,1.8,0.35,Cash,Adult,Female,Chicago,Online
-CLJC2YV43A,2/13/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,3,5.8,1.22,Apple Pay,Senior,Female,Chicago,Online
-1SWXGULPMZ,1/12/24,United States,710,Crisco Cooking Oil,Food,5,3,4,0.33,Google Pay,Adult,Female,Philadelphia,Physical Store
-N58MKRHZKM,2/20/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,9,5.8,0.89,Venmo,Adult,Female,Houston,Physical Store
-FZ26Z8PCQ9,2/9/24,United States,707,Charmin Tissue,Hygiene,4.5,7,3.5,0.24,Google Pay,Adult,Male,Houston,Physical Store
-L6BQGA96B7,2/13/24,United States,704,Domino Sugar,Food,1.6,6,1.2,0.26,Credit Card,Young,Female,San Francisco,Physical Store
-H2K71OF9V2,1/22/24,United States,706,Hershey's Chocolate,Sweets,4,9,3.1,0.16,PayPal,Adult,Male,Houston,Physical Store
-5F4NR4PKMU,1/30/24,United States,701,Uncle Ben's Rice,Food,2.9,10,2.1,0.27,Credit Card,Young,Male,Houston,Online
-813BXXJKOM,1/6/24,United States,707,Charmin Tissue,Hygiene,4.5,7,3.5,0.88,Debit Card,Senior,Male,Philadelphia,Physical Store
-L3GNKVSXOZ,3/1/24,United States,703,Wonder Bread,Bakery,1.2,5,0.8,0.12,Bank Transfer,Senior,Female,New York,Online
-HOV6Q3M97W,1/20/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,2,5.8,0.34,Google Pay,Adult,Male,San Francisco,Physical Store
-BKMRNINJ6B,1/5/24,United States,704,Domino Sugar,Food,1.6,1,1.2,0.01,Credit Card,Senior,Male,Phoenix,Physical Store
-OU9PYHN4UH,2/19/24,United States,705,Folgers Coffee,Beverages,7,6,5.2,0.94,Venmo,Adult,Male,San Francisco,Physical Store
-X8EHQFEZSG,2/14/24,United States,707,Charmin Tissue,Hygiene,4.5,6,3.5,0.14,Cash,Adult,Female,San Francisco,Online
-BMZCCCEJF8,1/4/24,United States,710,Crisco Cooking Oil,Food,5,9,4,0.12,PayPal,Adult,Female,Chicago,Physical Store
-S6XMJBC4WS,2/10/24,United States,709,Dove Soap,Personal Care,2.5,6,1.8,0.26,Venmo,Senior,Female,Phoenix,Physical Store
-EVEG6K6H7N,1/19/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,9,5.8,0.68,Cash,Senior,Male,Houston,Online
-6Y4WR4M9N9,2/8/24,United States,703,Wonder Bread,Bakery,1.2,8,0.8,0.01,Credit Card,Adult,Male,San Francisco,Online
-UQ8QHYF61B,2/5/24,United States,709,Dove Soap,Personal Care,2.5,3,1.8,0.08,Cash,Senior,Female,Los Angeles,Physical Store
-6CK4E99DW2,1/14/24,United States,701,Uncle Ben's Rice,Food,2.9,4,2.1,0.54,Bank Transfer,Adult,Female,Los Angeles,Online
-IXJ1C0XXO8,1/6/24,United States,710,Crisco Cooking Oil,Food,5,9,4,0.86,PayPal,Adult,Female,Chicago,Physical Store
-2SQ8E9LBS7,2/1/24,United States,709,Dove Soap,Personal Care,2.5,9,1.8,0.31,PayPal,Adult,Male,Philadelphia,Physical Store
-PYAO6T32O7,2/12/24,United States,707,Charmin Tissue,Hygiene,4.5,10,3.5,0.27,Google Pay,Adult,Female,San Francisco,Physical Store
-UBZBJ1MMNJ,2/16/24,United States,704,Domino Sugar,Food,1.6,10,1.2,0.18,PayPal,Young,Male,Houston,Physical Store
-GTJ9C6CTEL,2/4/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,6,5.8,1.15,Venmo,Adult,Male,Los Angeles,Online
-UX8JK040N6,2/23/24,United States,706,Hershey's Chocolate,Sweets,4,2,3.1,0.57,Bank Transfer,Young,Male,Houston,Physical Store
-OF3MCUA7JZ,1/7/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,10,5.8,1.43,Venmo,Young,Female,New York,Online
-SJ4ZR6ER1A,2/18/24,United States,710,Crisco Cooking Oil,Food,5,1,4,0.79,PayPal,Adult,Male,Houston,Online
-TWFCHLBZ7B,1/9/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,7,5.8,0.15,PayPal,Senior,Male,Philadelphia,Physical Store
-LKU064YXEV,2/10/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,6,5.8,1.16,PayPal,Adult,Female,Los Angeles,Physical Store
-2RWEJS1ID4,1/2/24,United States,704,Domino Sugar,Food,1.6,1,1.2,0.04,Cash,Adult,Female,Chicago,Online
-CS9PY542JC,1/5/24,United States,701,Uncle Ben's Rice,Food,2.9,8,2.1,0.31,Apple Pay,Young,Female,San Francisco,Online
-1K6A8ULAM4,2/27/24,United States,709,Dove Soap,Personal Care,2.5,5,1.8,0.18,PayPal,Adult,Female,San Francisco,Online
-5ARNHROSFM,2/5/24,United States,706,Hershey's Chocolate,Sweets,4,5,3.1,0.74,Apple Pay,Adult,Male,San Francisco,Online
-8VDY59BJ3Z,2/7/24,United States,701,Uncle Ben's Rice,Food,2.9,6,2.1,0.49,Venmo,Young,Male,Philadelphia,Online
-FINL1VGHN4,1/31/24,United States,702,Horizon Organic Milk,Dairy,2.5,2,1.8,0.05,Google Pay,Adult,Female,Phoenix,Physical Store
-YJGEQ3J79E,1/14/24,United States,703,Wonder Bread,Bakery,1.2,2,0.8,0.01,Cash,Young,Female,Chicago,Physical Store
-9X3UT78V0F,2/22/24,United States,709,Dove Soap,Personal Care,2.5,1,1.8,0.44,PayPal,Young,Male,Chicago,Online
-0LAQFNWWM8,2/29/24,United States,706,Hershey's Chocolate,Sweets,4,2,3.1,0.47,Debit Card,Senior,Male,New York,Physical Store
-WM7V313X9M,2/20/24,United States,709,Dove Soap,Personal Care,2.5,4,1.8,0.32,Credit Card,Young,Female,Chicago,Physical Store
-03E17B6YB0,1/11/24,United States,703,Wonder Bread,Bakery,1.2,3,0.8,0.07,Apple Pay,Young,Male,Phoenix,Online
-UQ4ESO7TUV,1/30/24,United States,701,Uncle Ben's Rice,Food,2.9,6,2.1,0.03,Cash,Senior,Female,San Francisco,Online
-ZNHI7UMR4G,2/16/24,United States,702,Horizon Organic Milk,Dairy,2.5,6,1.8,0.26,Credit Card,Adult,Male,New York,Physical Store
-JUQKYARY1B,2/23/24,United States,706,Hershey's Chocolate,Sweets,4,10,3.1,0.64,Venmo,Senior,Male,Chicago,Physical Store
-TDGQ0FAAUN,2/6/24,United States,706,Hershey's Chocolate,Sweets,4,2,3.1,0.67,Apple Pay,Adult,Female,Los Angeles,Online
-K7GYEVJP4Q,1/2/24,United States,705,Folgers Coffee,Beverages,7,7,5.2,0.02,Bank Transfer,Adult,Male,Philadelphia,Online
-9SAVOEZDUQ,1/31/24,United States,707,Charmin Tissue,Hygiene,4.5,1,3.5,0.9,Venmo,Senior,Female,San Francisco,Online
-VJB45FSOKA,1/4/24,United States,709,Dove Soap,Personal Care,2.5,9,1.8,0.48,PayPal,Senior,Male,Chicago,Physical Store
-OLHBXFJ7NP,2/8/24,United States,709,Dove Soap,Personal Care,2.5,4,1.8,0.13,PayPal,Young,Male,Phoenix,Physical Store
-E0JYW2LQUE,2/16/24,United States,703,Wonder Bread,Bakery,1.2,3,0.8,0.22,PayPal,Young,Male,Chicago,Physical Store
-WEWO16J7CC,1/13/24,United States,706,Hershey's Chocolate,Sweets,4,4,3.1,0.01,Debit Card,Senior,Male,San Francisco,Online
-6LQX7Q2WXT,1/21/24,United States,704,Domino Sugar,Food,1.6,4,1.2,0.2,Apple Pay,Adult,Male,Philadelphia,Physical Store
-8ZTJ3HMZ8R,1/6/24,United States,706,Hershey's Chocolate,Sweets,4,9,3.1,0.46,Apple Pay,Adult,Male,Philadelphia,Physical Store
-16WYS0C2U7,1/15/24,United States,702,Horizon Organic Milk,Dairy,2.5,4,1.8,0.01,Apple Pay,Senior,Female,Chicago,Online
-9WVZD9UKE9,1/1/24,United States,704,Domino Sugar,Food,1.6,8,1.2,0.14,Apple Pay,Young,Female,Philadelphia,Physical Store
-J48YCGRR1Y,2/29/24,United States,705,Folgers Coffee,Beverages,7,10,5.2,0.21,Cash,Adult,Female,New York,Online
-N0CP856OTK,1/12/24,United States,702,Horizon Organic Milk,Dairy,2.5,10,1.8,0.48,Debit Card,Young,Male,Chicago,Online
-5ZL3JGC8GZ,1/21/24,United States,701,Uncle Ben's Rice,Food,2.9,6,2.1,0.56,Apple Pay,Young,Female,San Francisco,Online
-CQ2460PPUF,1/29/24,United States,704,Domino Sugar,Food,1.6,8,1.2,0.29,Apple Pay,Adult,Male,San Francisco,Physical Store
-GJL1PVIVG6,2/11/24,United States,706,Hershey's Chocolate,Sweets,4,6,3.1,0.74,Debit Card,Senior,Male,Philadelphia,Physical Store
-VPOF8CT9G2,1/8/24,United States,706,Hershey's Chocolate,Sweets,4,2,3.1,0.38,Apple Pay,Senior,Female,San Francisco,Online
-RMB4NFV0GY,1/30/24,United States,705,Folgers Coffee,Beverages,7,10,5.2,1.36,PayPal,Young,Female,Los Angeles,Online
-6LRSK984ZO,2/5/24,United States,707,Charmin Tissue,Hygiene,4.5,5,3.5,0.46,Cash,Adult,Female,Los Angeles,Online
-RWC9ML5JTP,2/22/24,United States,703,Wonder Bread,Bakery,1.2,9,0.8,0.13,Apple Pay,Senior,Male,New York,Online
-TBCBYYU7PI,1/19/24,United States,705,Folgers Coffee,Beverages,7,5,5.2,0.3,PayPal,Senior,Male,Chicago,Online
-X2SCKRDL6K,1/13/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,7,5.8,1.02,Apple Pay,Adult,Female,New York,Physical Store
-5RVQFEPC04,2/7/24,United States,709,Dove Soap,Personal Care,2.5,1,1.8,0.18,PayPal,Senior,Female,Philadelphia,Online
-VMZBH82B1U,1/16/24,United States,705,Folgers Coffee,Beverages,7,9,5.2,1.01,Debit Card,Adult,Female,New York,Online
-3ZOV62SMBL,1/13/24,United States,704,Domino Sugar,Food,1.6,5,1.2,0.02,Bank Transfer,Adult,Female,Houston,Physical Store
-1YLKM7KW7D,1/8/24,United States,703,Wonder Bread,Bakery,1.2,6,0.8,0.18,Venmo,Adult,Female,Houston,Online
-EOTVEPC7V7,1/9/24,United States,703,Wonder Bread,Bakery,1.2,7,0.8,0.07,Cash,Young,Male,Los Angeles,Physical Store
-QHWM21UK60,1/18/24,United States,705,Folgers Coffee,Beverages,7,6,5.2,1.14,Credit Card,Young,Male,Phoenix,Online
-LH499LEB7R,2/3/24,United States,702,Horizon Organic Milk,Dairy,2.5,5,1.8,0.4,PayPal,Young,Male,Philadelphia,Physical Store
-SEQPFK8OOH,2/14/24,United States,705,Folgers Coffee,Beverages,7,5,5.2,1.06,Apple Pay,Adult,Male,Los Angeles,Online
-4FL63U2DFU,2/27/24,United States,705,Folgers Coffee,Beverages,7,10,5.2,0.7,PayPal,Senior,Female,Houston,Online
-CU35ZKZCKT,2/21/24,United States,703,Wonder Bread,Bakery,1.2,5,0.8,0.17,Apple Pay,Adult,Male,San Francisco,Physical Store
-N9KCEKW04V,2/29/24,United States,706,Hershey's Chocolate,Sweets,4,3,3.1,0.47,Venmo,Adult,Female,Chicago,Physical Store
-ONWLUHAMTC,2/11/24,United States,707,Charmin Tissue,Hygiene,4.5,7,3.5,0.66,PayPal,Young,Female,Houston,Physical Store
-UGG438R9D1,1/7/24,United States,709,Dove Soap,Personal Care,2.5,2,1.8,0.22,Cash,Adult,Female,San Francisco,Physical Store
-D0QM6XJGK4,2/8/24,United States,709,Dove Soap,Personal Care,2.5,10,1.8,0.08,Cash,Young,Male,Houston,Physical Store
-GMQUWDDR6K,3/1/24,United States,706,Hershey's Chocolate,Sweets,4,3,3.1,0.77,Google Pay,Senior,Female,New York,Physical Store
-VRM1BL67YV,2/29/24,United States,704,Domino Sugar,Food,1.6,4,1.2,0.04,Venmo,Senior,Female,Phoenix,Online
-IUF1LCT6GO,1/5/24,United States,705,Folgers Coffee,Beverages,7,2,5.2,0.93,Google Pay,Adult,Female,Chicago,Online
-YVDJ1V8QFQ,1/21/24,United States,703,Wonder Bread,Bakery,1.2,8,0.8,0.04,Google Pay,Senior,Male,Philadelphia,Physical Store
-8FO7ZRWLI4,1/29/24,United States,702,Horizon Organic Milk,Dairy,2.5,8,1.8,0.33,Debit Card,Senior,Male,New York,Physical Store
-G953OJ6S7Y,1/15/24,United States,705,Folgers Coffee,Beverages,7,5,5.2,1.03,Cash,Adult,Male,Chicago,Physical Store
-LJ6QK8GT00,2/9/24,United States,703,Wonder Bread,Bakery,1.2,8,0.8,0,Venmo,Senior,Male,San Francisco,Online
-K8IQWGA6XH,2/10/24,United States,710,Crisco Cooking Oil,Food,5,8,4,0.6,Google Pay,Adult,Female,Phoenix,Online
-65Q50DBEKF,2/19/24,United States,705,Folgers Coffee,Beverages,7,4,5.2,0.7,Debit Card,Young,Male,Philadelphia,Physical Store
-Q5FCIMD2A9,2/8/24,United States,705,Folgers Coffee,Beverages,7,4,5.2,0.85,Cash,Young,Male,Chicago,Physical Store
-2SNC7Z3T2T,1/15/24,United States,704,Domino Sugar,Food,1.6,1,1.2,0.01,Bank Transfer,Senior,Male,Houston,Online
-DSWCVKQR0L,1/7/24,United States,702,Horizon Organic Milk,Dairy,2.5,8,1.8,0.14,Bank Transfer,Adult,Male,Philadelphia,Online
-FGGEF9EUQE,2/26/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,10,5.8,1.21,Credit Card,Adult,Female,Phoenix,Online
-DNK9NUUMKI,1/16/24,United States,710,Crisco Cooking Oil,Food,5,8,4,0.39,Apple Pay,Adult,Female,Chicago,Online
-FNNUCS9RZO,2/8/24,United States,709,Dove Soap,Personal Care,2.5,8,1.8,0.41,Debit Card,Young,Male,Houston,Physical Store
-QJMXGK390R,1/3/24,United States,710,Crisco Cooking Oil,Food,5,7,4,0.26,Bank Transfer,Adult,Female,San Francisco,Online
-IGEMDAY5IO,1/6/24,United States,710,Crisco Cooking Oil,Food,5,2,4,0.49,Debit Card,Young,Male,Philadelphia,Physical Store
-0TQR3OIX70,2/13/24,United States,702,Horizon Organic Milk,Dairy,2.5,6,1.8,0.29,PayPal,Adult,Male,Philadelphia,Online
-A7OT8QW6ZT,2/17/24,United States,706,Hershey's Chocolate,Sweets,4,4,3.1,0.11,Cash,Adult,Male,Philadelphia,Physical Store
-VUYJYURLV4,1/20/24,United States,704,Domino Sugar,Food,1.6,3,1.2,0.11,Venmo,Senior,Male,Chicago,Physical Store
-W480M8SDZA,1/29/24,United States,709,Dove Soap,Personal Care,2.5,5,1.8,0.45,Venmo,Senior,Male,Houston,Online
-GKB1PNESZM,2/9/24,United States,705,Folgers Coffee,Beverages,7,4,5.2,0.52,Bank Transfer,Adult,Female,Houston,Online
-X49G7P66IS,1/26/24,United States,701,Uncle Ben's Rice,Food,2.9,1,2.1,0.36,Google Pay,Senior,Male,New York,Physical Store
-VD1RVKMKLM,1/10/24,United States,704,Domino Sugar,Food,1.6,8,1.2,0.11,Bank Transfer,Senior,Male,Philadelphia,Online
-P8PJBPD2P3,2/6/24,United States,705,Folgers Coffee,Beverages,7,8,5.2,0.47,PayPal,Senior,Male,San Francisco,Physical Store
-PWE92T5S18,2/5/24,United States,710,Crisco Cooking Oil,Food,5,10,4,0.9,Debit Card,Adult,Male,New York,Online
-FTCD8Z9863,2/16/24,United States,710,Crisco Cooking Oil,Food,5,10,4,0.92,Bank Transfer,Young,Female,Los Angeles,Online
-OVNNGSHT82,2/11/24,United States,705,Folgers Coffee,Beverages,7,7,5.2,0.5,Cash,Senior,Male,Chicago,Physical Store
-SFDO8P4MD3,2/27/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,5,5.8,0.21,Bank Transfer,Young,Male,Philadelphia,Online
-ITRIDNWBDQ,2/1/24,United States,709,Dove Soap,Personal Care,2.5,9,1.8,0.13,Venmo,Young,Male,San Francisco,Online
-FJYR8L9PV0,1/1/24,United States,704,Domino Sugar,Food,1.6,1,1.2,0.24,Venmo,Adult,Male,Philadelphia,Online
-ABKKA1NWXT,2/24/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,8,5.8,0.75,Venmo,Young,Female,Phoenix,Physical Store
-HZZLUWU0XF,1/18/24,United States,709,Dove Soap,Personal Care,2.5,7,1.8,0.05,Venmo,Adult,Female,Houston,Online
-6RY4JW34JS,1/1/24,United States,707,Charmin Tissue,Hygiene,4.5,5,3.5,0.25,Venmo,Adult,Male,Philadelphia,Online
-CXE9ISGKWQ,1/17/24,United States,701,Uncle Ben's Rice,Food,2.9,3,2.1,0.46,Google Pay,Senior,Male,San Francisco,Online
-VJ87O2OWSY,1/11/24,United States,704,Domino Sugar,Food,1.6,6,1.2,0.31,Credit Card,Adult,Male,Phoenix,Physical Store
-RD6YSDEJHG,2/7/24,United States,704,Domino Sugar,Food,1.6,1,1.2,0.14,Venmo,Adult,Female,Los Angeles,Online
-JAPDPCNZTQ,1/3/24,United States,703,Wonder Bread,Bakery,1.2,4,0.8,0.01,PayPal,Senior,Male,New York,Physical Store
-EASOT68DPJ,1/13/24,United States,705,Folgers Coffee,Beverages,7,8,5.2,0.1,PayPal,Adult,Female,New York,Physical Store
-AOE8Q5ZAF5,1/15/24,United States,706,Hershey's Chocolate,Sweets,4,10,3.1,0.34,Apple Pay,Adult,Male,Chicago,Physical Store
-W7MET43WGH,2/15/24,United States,706,Hershey's Chocolate,Sweets,4,1,3.1,0.58,Debit Card,Senior,Male,Phoenix,Physical Store
-692JWAC3WQ,1/31/24,United States,704,Domino Sugar,Food,1.6,2,1.2,0.04,Google Pay,Adult,Male,San Francisco,Physical Store
-G1TDDY4POO,2/24/24,United States,704,Domino Sugar,Food,1.6,4,1.2,0.06,Debit Card,Adult,Female,Philadelphia,Online
-REVF6WTXW4,1/23/24,United States,704,Domino Sugar,Food,1.6,8,1.2,0.24,PayPal,Senior,Male,San Francisco,Physical Store
-U72IPR97WO,1/13/24,United States,709,Dove Soap,Personal Care,2.5,5,1.8,0.4,Apple Pay,Adult,Female,San Francisco,Online
-SIVW01LFLC,1/28/24,United States,703,Wonder Bread,Bakery,1.2,2,0.8,0.16,PayPal,Adult,Female,New York,Online
-4AQBDHQALS,2/10/24,United States,702,Horizon Organic Milk,Dairy,2.5,8,1.8,0.07,Bank Transfer,Adult,Male,Los Angeles,Online
-LOCV7Q9C9A,1/20/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,7,5.8,0.87,Cash,Young,Female,Los Angeles,Physical Store
-OXIG5HPGJ9,1/11/24,United States,705,Folgers Coffee,Beverages,7,9,5.2,1.24,Venmo,Adult,Female,Philadelphia,Physical Store
-CZBB6RENJU,1/27/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,4,5.8,1.1,PayPal,Young,Male,Phoenix,Online
-JHY9YFS1QE,1/27/24,United States,705,Folgers Coffee,Beverages,7,7,5.2,1.11,PayPal,Adult,Female,San Francisco,Online
-CZ4IKPIVEK,2/26/24,United States,702,Horizon Organic Milk,Dairy,2.5,7,1.8,0.13,Apple Pay,Senior,Female,Chicago,Online
-PIJSV0GFVG,2/22/24,United States,707,Charmin Tissue,Hygiene,4.5,5,3.5,0.44,Venmo,Young,Male,New York,Physical Store
-EAK4NKERI6,1/2/24,United States,701,Uncle Ben's Rice,Food,2.9,4,2.1,0.19,Credit Card,Adult,Female,Chicago,Online
-KIMP60EFK8,2/6/24,United States,710,Crisco Cooking Oil,Food,5,5,4,0.77,Bank Transfer,Adult,Female,Los Angeles,Online
-HUM41UMYD7,1/1/24,United States,703,Wonder Bread,Bakery,1.2,5,0.8,0.17,Google Pay,Young,Male,Houston,Physical Store
-LE4HVQ5HA8,2/29/24,United States,704,Domino Sugar,Food,1.6,4,1.2,0.18,Credit Card,Adult,Male,Los Angeles,Physical Store
-B2CGYEJUM0,2/9/24,United States,705,Folgers Coffee,Beverages,7,9,5.2,0.28,PayPal,Adult,Male,Phoenix,Online
-A9Q6OW6RIR,3/1/24,United States,702,Horizon Organic Milk,Dairy,2.5,2,1.8,0.48,Google Pay,Adult,Female,Houston,Online
-AGAT2VC88A,2/13/24,United States,706,Hershey's Chocolate,Sweets,4,4,3.1,0,Cash,Senior,Male,New York,Online
-LH11EO7FH8,1/10/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,10,5.8,1.22,Venmo,Young,Male,Philadelphia,Physical Store
-AZQC718PQM,1/31/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,4,5.8,0.78,Venmo,Adult,Female,Phoenix,Online
-YBOEO00VD6,1/16/24,United States,704,Domino Sugar,Food,1.6,8,1.2,0.08,Cash,Senior,Female,San Francisco,Online
-CNJZI30VIO,1/6/24,United States,703,Wonder Bread,Bakery,1.2,3,0.8,0.13,Venmo,Senior,Male,Phoenix,Online
-RKI5PR2LEF,1/3/24,United States,705,Folgers Coffee,Beverages,7,3,5.2,1,Debit Card,Adult,Male,Philadelphia,Physical Store
-IB3CGWK08X,2/2/24,United States,705,Folgers Coffee,Beverages,7,3,5.2,0.39,Google Pay,Adult,Male,San Francisco,Physical Store
-DIBT25UO4W,1/15/24,United States,702,Horizon Organic Milk,Dairy,2.5,1,1.8,0.33,Bank Transfer,Adult,Female,Chicago,Online
-VAXK4ZKXK1,2/20/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,9,5.8,1.05,PayPal,Adult,Male,New York,Online
-45L3D4RREB,1/9/24,United States,704,Domino Sugar,Food,1.6,4,1.2,0.03,Cash,Adult,Female,Houston,Physical Store
-YW27NJA09F,2/10/24,United States,710,Crisco Cooking Oil,Food,5,4,4,0.59,Venmo,Adult,Female,Houston,Online
-O1QEY54AVB,2/29/24,United States,705,Folgers Coffee,Beverages,7,5,5.2,0.69,Credit Card,Young,Female,Phoenix,Physical Store
-3TOVIQ6356,1/13/24,United States,705,Folgers Coffee,Beverages,7,5,5.2,1.23,Apple Pay,Adult,Male,New York,Physical Store
-0211PW85WG,1/31/24,United States,704,Domino Sugar,Food,1.6,10,1.2,0.2,Credit Card,Young,Female,Philadelphia,Online
-SFMV0MB6X3,1/11/24,United States,710,Crisco Cooking Oil,Food,5,4,4,0.73,Credit Card,Senior,Female,New York,Online
-L4U9XFALXC,2/3/24,United States,707,Charmin Tissue,Hygiene,4.5,6,3.5,0.37,Venmo,Young,Female,New York,Online
-0CBRXYMHSU,1/12/24,United States,707,Charmin Tissue,Hygiene,4.5,7,3.5,0.23,Cash,Senior,Male,Houston,Physical Store
-H2WQ7XI6BS,1/8/24,United States,703,Wonder Bread,Bakery,1.2,3,0.8,0.1,Google Pay,Young,Male,Los Angeles,Online
-MHZX67QVIK,1/29/24,United States,701,Uncle Ben's Rice,Food,2.9,6,2.1,0.17,PayPal,Adult,Female,Chicago,Physical Store
-RWKOU7WCUD,2/20/24,United States,705,Folgers Coffee,Beverages,7,5,5.2,0.8,Credit Card,Adult,Female,New York,Physical Store
-R9XMGVN4X2,1/2/24,United States,703,Wonder Bread,Bakery,1.2,3,0.8,0.2,Apple Pay,Senior,Female,San Francisco,Physical Store
-2LBOYU7SK3,2/8/24,United States,702,Horizon Organic Milk,Dairy,2.5,7,1.8,0.3,PayPal,Adult,Male,Phoenix,Physical Store
-QPSTTFZKZ4,2/25/24,United States,706,Hershey's Chocolate,Sweets,4,10,3.1,0.64,Credit Card,Adult,Female,Philadelphia,Online
-C1M7ARZF4U,1/13/24,United States,704,Domino Sugar,Food,1.6,3,1.2,0.32,Apple Pay,Adult,Male,Los Angeles,Physical Store
-6E4OTS0VOY,2/10/24,United States,707,Charmin Tissue,Hygiene,4.5,8,3.5,0.78,Apple Pay,Adult,Female,San Francisco,Physical Store
-TUNIJTLS9J,2/16/24,United States,702,Horizon Organic Milk,Dairy,2.5,1,1.8,0.39,Debit Card,Adult,Male,New York,Online
-R7PJQIZM8I,2/19/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,10,5.8,0.66,Cash,Adult,Female,New York,Physical Store
-8HAVRX0PU4,2/6/24,United States,704,Domino Sugar,Food,1.6,7,1.2,0.18,Bank Transfer,Adult,Male,New York,Physical Store
-9ZQSO08LJ3,1/29/24,United States,710,Crisco Cooking Oil,Food,5,8,4,0.77,Google Pay,Young,Female,Phoenix,Online
-ZFV31VOGFP,1/13/24,United States,707,Charmin Tissue,Hygiene,4.5,10,3.5,0.43,Venmo,Young,Female,New York,Online
-IMZ8U5LUOU,1/12/24,United States,710,Crisco Cooking Oil,Food,5,8,4,0.1,Google Pay,Adult,Female,Philadelphia,Online
-76H7ER6EH7,2/3/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,8,5.8,0.82,Cash,Young,Male,Chicago,Physical Store
-WQ7FRI292D,1/12/24,United States,703,Wonder Bread,Bakery,1.2,6,0.8,0.24,Bank Transfer,Adult,Female,New York,Online
-QW4CPSYPLO,2/8/24,United States,707,Charmin Tissue,Hygiene,4.5,10,3.5,0.2,Google Pay,Senior,Male,Philadelphia,Online
-81KOO4WUZP,2/19/24,United States,701,Uncle Ben's Rice,Food,2.9,8,2.1,0.09,Google Pay,Young,Female,Chicago,Online
-503V3CSHNA,2/4/24,United States,704,Domino Sugar,Food,1.6,8,1.2,0.24,Cash,Adult,Female,Los Angeles,Physical Store
-DSG8UOISP8,2/19/24,United States,709,Dove Soap,Personal Care,2.5,10,1.8,0.21,Venmo,Adult,Male,Phoenix,Online
-A9GHH544AM,1/12/24,United States,707,Charmin Tissue,Hygiene,4.5,1,3.5,0.54,PayPal,Adult,Male,San Francisco,Physical Store
-TXOURVGQCP,1/3/24,United States,703,Wonder Bread,Bakery,1.2,5,0.8,0.13,Credit Card,Adult,Male,Chicago,Physical Store
-22D3W4MB2J,1/13/24,United States,701,Uncle Ben's Rice,Food,2.9,9,2.1,0.17,PayPal,Young,Male,San Francisco,Online
-Z98ZZEK1P1,2/9/24,United States,709,Dove Soap,Personal Care,2.5,7,1.8,0.31,Apple Pay,Adult,Male,Phoenix,Online
-3PDM8OBG4N,1/10/24,United States,705,Folgers Coffee,Beverages,7,7,5.2,0.57,Credit Card,Young,Male,Phoenix,Online
-C541EET1L0,2/12/24,United States,704,Domino Sugar,Food,1.6,2,1.2,0.15,Google Pay,Senior,Male,Los Angeles,Online
-JTYAFW1BM2,1/25/24,United States,709,Dove Soap,Personal Care,2.5,4,1.8,0.31,Credit Card,Adult,Male,Philadelphia,Online
-0JTWHHWZ3P,2/28/24,United States,704,Domino Sugar,Food,1.6,5,1.2,0.12,Bank Transfer,Senior,Male,Philadelphia,Physical Store
-MKNNZZB9KJ,2/1/24,United States,707,Charmin Tissue,Hygiene,4.5,1,3.5,0.06,Google Pay,Adult,Female,Phoenix,Online
-7VBCQI8WUM,1/27/24,United States,706,Hershey's Chocolate,Sweets,4,7,3.1,0.53,Google Pay,Adult,Male,Philadelphia,Physical Store
-14ILAUX7IY,1/10/24,United States,706,Hershey's Chocolate,Sweets,4,2,3.1,0.11,Google Pay,Adult,Female,Philadelphia,Online
-HSTZQ6BNF2,2/2/24,United States,706,Hershey's Chocolate,Sweets,4,10,3.1,0.65,Credit Card,Adult,Female,Phoenix,Physical Store
-CPRKUGWP40,1/7/24,United States,704,Domino Sugar,Food,1.6,9,1.2,0.26,Bank Transfer,Young,Male,Houston,Online
-7257QY9KUL,2/4/24,United States,705,Folgers Coffee,Beverages,7,4,5.2,0.52,PayPal,Senior,Male,San Francisco,Online
-2PNISTYI2Q,2/28/24,United States,703,Wonder Bread,Bakery,1.2,10,0.8,0.12,PayPal,Senior,Male,Houston,Physical Store
-KE1PXMLYVV,2/25/24,United States,707,Charmin Tissue,Hygiene,4.5,4,3.5,0.6,Venmo,Senior,Male,Los Angeles,Physical Store
-HJYZTUKNXB,2/17/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,4,5.8,1.42,Debit Card,Senior,Female,Los Angeles,Physical Store
-WCK9ZOGVD7,1/11/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,3,5.8,0.27,PayPal,Young,Male,New York,Physical Store
-22NF4BNT2V,1/31/24,United States,710,Crisco Cooking Oil,Food,5,10,4,0.2,Cash,Young,Male,San Francisco,Online
-1LEIPKWDG6,1/3/24,United States,710,Crisco Cooking Oil,Food,5,6,4,0.37,Credit Card,Senior,Male,Philadelphia,Online
-QMRNB71IYY,2/24/24,United States,701,Uncle Ben's Rice,Food,2.9,8,2.1,0.26,Apple Pay,Young,Female,Chicago,Physical Store
-3EWSOZ6YZK,2/8/24,United States,709,Dove Soap,Personal Care,2.5,6,1.8,0,Google Pay,Adult,Male,San Francisco,Physical Store
-0QP8ECO9Q9,2/10/24,United States,710,Crisco Cooking Oil,Food,5,8,4,0.43,PayPal,Senior,Male,San Francisco,Online
-AUFT57SJKC,2/2/24,United States,710,Crisco Cooking Oil,Food,5,8,4,0.55,Bank Transfer,Adult,Female,Houston,Physical Store
-6838XXD5ZH,2/3/24,United States,710,Crisco Cooking Oil,Food,5,2,4,0.6,Apple Pay,Young,Male,Chicago,Physical Store
-5J9FRRFB70,1/5/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,8,5.8,0.04,Apple Pay,Young,Male,Philadelphia,Physical Store
-1HHLBZTWIG,1/11/24,United States,704,Domino Sugar,Food,1.6,1,1.2,0.02,Cash,Adult,Female,New York,Online
-MNPAP8Q70I,1/19/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,1,5.8,0.58,Credit Card,Adult,Female,Phoenix,Physical Store
-9AUUMY2VX1,2/3/24,United States,701,Uncle Ben's Rice,Food,2.9,4,2.1,0.47,PayPal,Young,Male,Los Angeles,Physical Store
-PTOHJWH6ZW,2/23/24,United States,710,Crisco Cooking Oil,Food,5,3,4,0.95,Debit Card,Adult,Male,Los Angeles,Physical Store
-J89TLOLASE,1/13/24,United States,707,Charmin Tissue,Hygiene,4.5,5,3.5,0.53,PayPal,Adult,Female,New York,Online
-LDOJ9KMMO6,2/10/24,United States,707,Charmin Tissue,Hygiene,4.5,6,3.5,0.69,Venmo,Adult,Female,Phoenix,Online
-C7UO1HF0F5,2/8/24,United States,710,Crisco Cooking Oil,Food,5,2,4,0.61,Venmo,Adult,Female,New York,Online
-TEFQ8I66FM,1/5/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,5,5.8,0.2,Bank Transfer,Senior,Male,Phoenix,Physical Store
-3C7OWKF7KA,1/19/24,United States,707,Charmin Tissue,Hygiene,4.5,1,3.5,0.23,Google Pay,Senior,Female,New York,Physical Store
-28YI6MO840,1/23/24,United States,702,Horizon Organic Milk,Dairy,2.5,6,1.8,0.5,PayPal,Young,Male,Chicago,Online
-LFI02I0MWB,1/11/24,United States,706,Hershey's Chocolate,Sweets,4,8,3.1,0.2,Debit Card,Adult,Female,Chicago,Online
-DA96LJFTXN,1/25/24,United States,702,Horizon Organic Milk,Dairy,2.5,1,1.8,0.44,Apple Pay,Adult,Male,Chicago,Online
-EZ7KVW7KMJ,1/26/24,United States,706,Hershey's Chocolate,Sweets,4,7,3.1,0.62,Apple Pay,Senior,Female,New York,Online
-G4TDL4HVMA,2/13/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,2,5.8,0.68,PayPal,Adult,Male,San Francisco,Online
-GGEPW3B6WZ,1/11/24,United States,704,Domino Sugar,Food,1.6,2,1.2,0.04,Venmo,Adult,Male,New York,Physical Store
-5QZQDK9ITG,1/30/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,7,5.8,1.15,Google Pay,Young,Male,San Francisco,Physical Store
-WMFOQ612JY,2/29/24,United States,710,Crisco Cooking Oil,Food,5,9,4,0.89,Apple Pay,Senior,Female,San Francisco,Online
-D6UTQL7SFM,2/11/24,United States,707,Charmin Tissue,Hygiene,4.5,5,3.5,0.81,Google Pay,Young,Male,Chicago,Online
-8SQ5YVJH6J,2/18/24,United States,704,Domino Sugar,Food,1.6,2,1.2,0.3,Venmo,Senior,Male,Philadelphia,Online
-PD8A8DAVN0,1/12/24,United States,704,Domino Sugar,Food,1.6,3,1.2,0.25,Google Pay,Adult,Female,Phoenix,Online
-229L64TAK0,1/30/24,United States,705,Folgers Coffee,Beverages,7,1,5.2,0.35,Cash,Senior,Female,Houston,Online
-J4Z2BJEGZW,1/6/24,United States,709,Dove Soap,Personal Care,2.5,9,1.8,0.23,Credit Card,Adult,Female,Chicago,Physical Store
-CE1GE2I6FX,1/24/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,2,5.8,0.03,PayPal,Adult,Male,Houston,Online
-YQR41NU68S,1/3/24,United States,710,Crisco Cooking Oil,Food,5,7,4,0.23,PayPal,Young,Male,Philadelphia,Physical Store
-1H3CV51UYX,1/14/24,United States,709,Dove Soap,Personal Care,2.5,2,1.8,0.18,Google Pay,Senior,Female,Houston,Online
-N07A6U6C2N,2/4/24,United States,705,Folgers Coffee,Beverages,7,3,5.2,1.14,Bank Transfer,Adult,Male,San Francisco,Online
-3PWW8RITVQ,1/3/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,1,5.8,0.88,Debit Card,Adult,Female,Chicago,Physical Store
-0FRMYP6KSZ,2/17/24,United States,701,Uncle Ben's Rice,Food,2.9,1,2.1,0.53,Venmo,Senior,Female,New York,Physical Store
-E3DPQVJCYO,1/16/24,United States,709,Dove Soap,Personal Care,2.5,3,1.8,0.28,Apple Pay,Senior,Male,Los Angeles,Online
-COZPQLQN1D,2/4/24,United States,702,Horizon Organic Milk,Dairy,2.5,10,1.8,0.3,Debit Card,Adult,Male,Houston,Online
-U3MNWKF52N,2/26/24,United States,703,Wonder Bread,Bakery,1.2,5,0.8,0.19,Credit Card,Young,Female,Chicago,Online
-HWMG97ZA33,2/19/24,United States,705,Folgers Coffee,Beverages,7,1,5.2,0.8,Apple Pay,Senior,Female,San Francisco,Physical Store
-2UVL34S1MJ,2/29/24,United States,709,Dove Soap,Personal Care,2.5,4,1.8,0.37,Apple Pay,Young,Male,Phoenix,Online
-P3PHC1FGIB,2/11/24,United States,706,Hershey's Chocolate,Sweets,4,8,3.1,0.78,Cash,Young,Male,Philadelphia,Physical Store
-WOBFAW903Q,1/4/24,United States,702,Horizon Organic Milk,Dairy,2.5,5,1.8,0.13,Venmo,Young,Female,New York,Physical Store
-FN6O5IBH09,1/24/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,6,5.8,0.41,Venmo,Young,Female,San Francisco,Physical Store
-BXRTNCQ10H,1/26/24,United States,705,Folgers Coffee,Beverages,7,8,5.2,1.14,Google Pay,Adult,Male,Los Angeles,Online
-BWR4NHZH64,1/8/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,9,5.8,0.73,Venmo,Young,Female,San Francisco,Online
-9P77LYIHTG,2/23/24,United States,704,Domino Sugar,Food,1.6,3,1.2,0.15,Apple Pay,Senior,Male,Chicago,Physical Store
-PIAWI23TOK,2/27/24,United States,706,Hershey's Chocolate,Sweets,4,4,3.1,0.15,Credit Card,Senior,Female,San Francisco,Physical Store
-PUZAOEUF3W,2/1/24,United States,710,Crisco Cooking Oil,Food,5,5,4,0.91,Apple Pay,Adult,Male,Phoenix,Online
-V6XD16C5B3,2/20/24,United States,702,Horizon Organic Milk,Dairy,2.5,6,1.8,0.41,Bank Transfer,Senior,Female,Houston,Online
-8YR2L7M9ZM,1/27/24,United States,709,Dove Soap,Personal Care,2.5,5,1.8,0.42,Apple Pay,Adult,Male,San Francisco,Physical Store
-ACYKMGJTCU,3/1/24,United States,702,Horizon Organic Milk,Dairy,2.5,1,1.8,0.22,Apple Pay,Adult,Female,Houston,Physical Store
-ZW4E130QL8,2/25/24,United States,710,Crisco Cooking Oil,Food,5,9,4,0.76,Bank Transfer,Adult,Female,Phoenix,Physical Store
-XBR5TAGXHX,2/17/24,United States,702,Horizon Organic Milk,Dairy,2.5,9,1.8,0.1,Debit Card,Adult,Male,Chicago,Physical Store
-KHOKWHQWJG,2/25/24,United States,702,Horizon Organic Milk,Dairy,2.5,9,1.8,0.4,Debit Card,Young,Male,New York,Physical Store
-HKK1XBNZ99,2/14/24,United States,709,Dove Soap,Personal Care,2.5,9,1.8,0.27,PayPal,Adult,Male,Phoenix,Online
-8WA1UIW12V,2/28/24,United States,706,Hershey's Chocolate,Sweets,4,2,3.1,0.59,PayPal,Young,Male,Phoenix,Physical Store
-DG2FSKJJD0,2/3/24,United States,705,Folgers Coffee,Beverages,7,5,5.2,0.21,Google Pay,Senior,Male,Phoenix,Online
-7JLCB9BNMK,2/3/24,United States,704,Domino Sugar,Food,1.6,3,1.2,0.07,Cash,Adult,Male,Chicago,Online
-TX4B8ZK8AK,2/21/24,United States,706,Hershey's Chocolate,Sweets,4,1,3.1,0.75,Apple Pay,Adult,Male,Philadelphia,Online
-ATMHX36FLO,2/4/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,6,5.8,1.08,Venmo,Adult,Female,Philadelphia,Online
-SM8BRUFY2L,1/17/24,United States,702,Horizon Organic Milk,Dairy,2.5,1,1.8,0.49,Credit Card,Adult,Female,Chicago,Physical Store
-CDGZU17T66,1/28/24,United States,710,Crisco Cooking Oil,Food,5,4,4,0.18,Cash,Adult,Male,Philadelphia,Physical Store
-Y9KLZA5E2D,1/30/24,United States,701,Uncle Ben's Rice,Food,2.9,2,2.1,0.42,PayPal,Senior,Male,New York,Physical Store
-AMFPX061DH,1/7/24,United States,705,Folgers Coffee,Beverages,7,7,5.2,0.99,Google Pay,Adult,Male,Chicago,Online
-927ZWGACUG,1/28/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,1,5.8,0.49,Bank Transfer,Senior,Male,Houston,Physical Store
-8WTI5CTIS3,2/1/24,United States,709,Dove Soap,Personal Care,2.5,5,1.8,0,Apple Pay,Adult,Female,Houston,Physical Store
-REY79EGDH9,2/3/24,United States,703,Wonder Bread,Bakery,1.2,7,0.8,0.06,Debit Card,Adult,Male,New York,Physical Store
-N52DT759QP,1/29/24,United States,704,Domino Sugar,Food,1.6,4,1.2,0.21,Credit Card,Adult,Female,Phoenix,Online
-NHUSUJUNB9,2/24/24,United States,709,Dove Soap,Personal Care,2.5,1,1.8,0.45,Apple Pay,Young,Female,Houston,Physical Store
-M4AF4BI857,2/24/24,United States,701,Uncle Ben's Rice,Food,2.9,6,2.1,0.54,Credit Card,Adult,Female,Los Angeles,Physical Store
-93FLC9MU6Z,2/6/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,5,5.8,0.14,Apple Pay,Adult,Female,Chicago,Online
-6P16ER6E2D,2/29/24,United States,707,Charmin Tissue,Hygiene,4.5,1,3.5,0.83,Cash,Adult,Male,Phoenix,Physical Store
-DPS5WU91SV,1/15/24,United States,709,Dove Soap,Personal Care,2.5,2,1.8,0.43,Apple Pay,Adult,Female,Phoenix,Physical Store
-PFUCM0JBJM,2/21/24,United States,705,Folgers Coffee,Beverages,7,4,5.2,0.78,Cash,Adult,Female,San Francisco,Physical Store
-AVPWHHI6CO,1/23/24,United States,710,Crisco Cooking Oil,Food,5,7,4,0.85,Credit Card,Senior,Female,Philadelphia,Physical Store
-TOX27AMQJN,2/26/24,United States,703,Wonder Bread,Bakery,1.2,4,0.8,0.12,Apple Pay,Young,Female,Phoenix,Online
-UON8KSHAP9,2/23/24,United States,707,Charmin Tissue,Hygiene,4.5,2,3.5,0.31,Bank Transfer,Senior,Female,Philadelphia,Online
-488PGWKDBF,1/11/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,10,5.8,0.68,Bank Transfer,Senior,Male,Chicago,Physical Store
-W8SPSPC6ZY,2/11/24,United States,706,Hershey's Chocolate,Sweets,4,10,3.1,0.28,Credit Card,Senior,Male,Chicago,Physical Store
-0UE7DD32F1,1/28/24,United States,707,Charmin Tissue,Hygiene,4.5,8,3.5,0.03,Cash,Adult,Male,San Francisco,Physical Store
-QMOEWB5AJO,2/14/24,United States,701,Uncle Ben's Rice,Food,2.9,6,2.1,0.52,Credit Card,Young,Female,Phoenix,Online
-QAW6XB1Z12,1/18/24,United States,705,Folgers Coffee,Beverages,7,4,5.2,1.13,Venmo,Adult,Female,New York,Online
-VVKPU0QOQQ,2/12/24,United States,701,Uncle Ben's Rice,Food,2.9,7,2.1,0.4,Credit Card,Adult,Male,New York,Online
-DTV27NOI3O,1/12/24,United States,704,Domino Sugar,Food,1.6,3,1.2,0.31,Cash,Adult,Male,San Francisco,Online
-KINNRHYYLJ,2/11/24,United States,706,Hershey's Chocolate,Sweets,4,9,3.1,0.42,Cash,Adult,Male,Phoenix,Online
-NR0DT0R7E2,2/3/24,United States,703,Wonder Bread,Bakery,1.2,6,0.8,0.1,Credit Card,Senior,Female,Los Angeles,Online
-MQTAXLYDAB,1/28/24,United States,709,Dove Soap,Personal Care,2.5,7,1.8,0.44,Apple Pay,Senior,Female,Houston,Physical Store
-QU39M8IW01,2/26/24,United States,706,Hershey's Chocolate,Sweets,4,6,3.1,0.29,Apple Pay,Young,Female,San Francisco,Online
-SE6W3UOM8K,1/1/24,United States,705,Folgers Coffee,Beverages,7,4,5.2,0.05,Credit Card,Adult,Female,Philadelphia,Physical Store
-QX110EBLNY,1/6/24,United States,704,Domino Sugar,Food,1.6,10,1.2,0.14,Debit Card,Senior,Male,Philadelphia,Physical Store
-AQNCT9UVOF,1/23/24,United States,707,Charmin Tissue,Hygiene,4.5,8,3.5,0.33,Debit Card,Senior,Male,San Francisco,Online
-0BM1LLRNCO,2/9/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,4,5.8,0.3,Bank Transfer,Adult,Male,Chicago,Online
-B18A4RTZBP,1/8/24,United States,709,Dove Soap,Personal Care,2.5,8,1.8,0.45,Apple Pay,Young,Male,Houston,Physical Store
-9CHA4HQ6NJ,2/17/24,United States,703,Wonder Bread,Bakery,1.2,2,0.8,0.18,Venmo,Young,Male,Houston,Online
-QK0W66Q369,1/10/24,United States,704,Domino Sugar,Food,1.6,9,1.2,0.14,Debit Card,Adult,Male,Phoenix,Online
-GXSA4J7SGQ,1/1/24,United States,706,Hershey's Chocolate,Sweets,4,3,3.1,0.07,Credit Card,Adult,Female,New York,Physical Store
-PO6CQ4H04U,1/5/24,United States,705,Folgers Coffee,Beverages,7,2,5.2,0.21,Credit Card,Adult,Male,San Francisco,Physical Store
-BCVCUMTONK,1/12/24,United States,704,Domino Sugar,Food,1.6,1,1.2,0.3,Bank Transfer,Young,Male,Los Angeles,Online
-24YHLEQN7T,1/30/24,United States,701,Uncle Ben's Rice,Food,2.9,5,2.1,0.43,Venmo,Adult,Female,San Francisco,Online
-XD91GIZIN0,2/24/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,4,5.8,0.94,Credit Card,Young,Male,Philadelphia,Online
-OWPLVSXDQ8,2/6/24,United States,709,Dove Soap,Personal Care,2.5,6,1.8,0.38,Cash,Young,Male,Los Angeles,Physical Store
-5L96D3SE48,1/28/24,United States,705,Folgers Coffee,Beverages,7,6,5.2,0.53,Bank Transfer,Adult,Male,Houston,Physical Store
-KQK6VJC27M,1/21/24,United States,704,Domino Sugar,Food,1.6,4,1.2,0.23,Google Pay,Senior,Male,Los Angeles,Physical Store
-MDUZZ776EV,2/1/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,1,5.8,0.8,Venmo,Senior,Male,New York,Physical Store
-PC8VG1OV1L,1/25/24,United States,710,Crisco Cooking Oil,Food,5,6,4,0.85,Cash,Senior,Female,Chicago,Online
-J6DBM1666K,2/6/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,8,5.8,0.18,Google Pay,Adult,Female,San Francisco,Physical Store
-KL85HL15JR,3/1/24,United States,710,Crisco Cooking Oil,Food,5,5,4,0.27,Credit Card,Young,Female,Phoenix,Physical Store
-2SEW33A60E,2/15/24,United States,709,Dove Soap,Personal Care,2.5,4,1.8,0.13,Bank Transfer,Adult,Female,Chicago,Physical Store
-G6XDM2AKCU,1/21/24,United States,703,Wonder Bread,Bakery,1.2,5,0.8,0.2,Credit Card,Adult,Female,Houston,Online
-ZVCRH235L0,2/4/24,United States,705,Folgers Coffee,Beverages,7,9,5.2,0.72,PayPal,Young,Female,New York,Online
-TE21TAYLB2,1/30/24,United States,701,Uncle Ben's Rice,Food,2.9,6,2.1,0.42,PayPal,Senior,Male,Houston,Online
-QLR6490RT6,1/17/24,United States,706,Hershey's Chocolate,Sweets,4,2,3.1,0.01,Apple Pay,Senior,Female,Los Angeles,Physical Store
-S0UA60FJ0D,2/17/24,United States,705,Folgers Coffee,Beverages,7,7,5.2,1.1,Cash,Adult,Female,Phoenix,Online
-DKX14NQ0QP,1/6/24,United States,703,Wonder Bread,Bakery,1.2,1,0.8,0.12,Credit Card,Adult,Female,Houston,Physical Store
-ZHCT18CIID,2/25/24,United States,705,Folgers Coffee,Beverages,7,2,5.2,1.26,Credit Card,Young,Male,Houston,Online
-1FJ0Z0MYDL,2/21/24,United States,710,Crisco Cooking Oil,Food,5,5,4,0.7,PayPal,Senior,Male,San Francisco,Online
-SNSJMJ8IZB,1/7/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,9,5.8,0.07,Credit Card,Senior,Female,San Francisco,Online
-OEQ0VBTBGR,1/19/24,United States,704,Domino Sugar,Food,1.6,4,1.2,0,PayPal,Senior,Male,New York,Online
-9XIT9ND63V,2/9/24,United States,707,Charmin Tissue,Hygiene,4.5,3,3.5,0.11,Cash,Adult,Male,Houston,Online
-M8816WD4K7,1/18/24,United States,709,Dove Soap,Personal Care,2.5,7,1.8,0.18,Apple Pay,Senior,Male,Los Angeles,Physical Store
-H6ZWQM960N,1/2/24,United States,709,Dove Soap,Personal Care,2.5,9,1.8,0.15,Venmo,Adult,Female,Phoenix,Physical Store
-C747DIRC9W,2/5/24,United States,709,Dove Soap,Personal Care,2.5,9,1.8,0,PayPal,Adult,Female,Philadelphia,Online
-4KE0BUELI0,1/16/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,8,5.8,0.62,Credit Card,Young,Male,Houston,Online
-WD12PKX76M,2/6/24,United States,706,Hershey's Chocolate,Sweets,4,1,3.1,0.5,Apple Pay,Young,Female,New York,Online
-5WZOGOQ77U,1/9/24,United States,706,Hershey's Chocolate,Sweets,4,4,3.1,0.77,Google Pay,Adult,Female,New York,Online
-5IXOUHDLO7,2/8/24,United States,701,Uncle Ben's Rice,Food,2.9,5,2.1,0.08,Apple Pay,Young,Female,New York,Physical Store
-NXZRYO7PR7,2/7/24,United States,709,Dove Soap,Personal Care,2.5,9,1.8,0.29,PayPal,Adult,Male,Chicago,Online
-QVCA5OFJ55,2/16/24,United States,704,Domino Sugar,Food,1.6,1,1.2,0.07,Bank Transfer,Senior,Female,Philadelphia,Physical Store
-Y1VS5DSVTQ,2/2/24,United States,705,Folgers Coffee,Beverages,7,10,5.2,1.24,Cash,Adult,Female,San Francisco,Physical Store
-50S9EHE1LM,2/1/24,United States,702,Horizon Organic Milk,Dairy,2.5,1,1.8,0.07,Credit Card,Adult,Female,New York,Online
-8ANV32NYIL,2/16/24,United States,710,Crisco Cooking Oil,Food,5,3,4,0.13,Bank Transfer,Adult,Female,San Francisco,Physical Store
-7IYAOISF7Q,1/24/24,United States,710,Crisco Cooking Oil,Food,5,2,4,0.63,Venmo,Senior,Female,Chicago,Online
-TZXLE2YPEO,1/19/24,United States,710,Crisco Cooking Oil,Food,5,4,4,0.36,PayPal,Young,Female,Chicago,Physical Store
-LP65A2QCWH,2/26/24,United States,709,Dove Soap,Personal Care,2.5,8,1.8,0.18,Cash,Senior,Male,Los Angeles,Physical Store
-CD7GECEC52,2/6/24,United States,703,Wonder Bread,Bakery,1.2,1,0.8,0.05,Venmo,Adult,Male,Chicago,Physical Store
-42Y9WIX4NP,2/1/24,United States,710,Crisco Cooking Oil,Food,5,1,4,0.6,Debit Card,Senior,Female,Houston,Physical Store
-SMC4SMH0M8,2/28/24,United States,710,Crisco Cooking Oil,Food,5,5,4,0.77,Venmo,Senior,Female,Philadelphia,Physical Store
-5QPPZCGD8L,1/7/24,United States,703,Wonder Bread,Bakery,1.2,7,0.8,0.02,Credit Card,Young,Female,New York,Online
-1F05ZUER4R,1/7/24,United States,707,Charmin Tissue,Hygiene,4.5,2,3.5,0.31,Venmo,Young,Male,New York,Online
-LPAOFQ0V1L,1/23/24,United States,707,Charmin Tissue,Hygiene,4.5,9,3.5,0.3,Bank Transfer,Adult,Female,Houston,Physical Store
-XFWJ3H8GMI,1/1/24,United States,710,Crisco Cooking Oil,Food,5,10,4,0.22,PayPal,Adult,Male,Phoenix,Online
-196SKD4TBZ,1/1/24,United States,706,Hershey's Chocolate,Sweets,4,2,3.1,0.12,PayPal,Senior,Male,Los Angeles,Online
-3M2OH239N4,1/14/24,United States,703,Wonder Bread,Bakery,1.2,4,0.8,0.07,Cash,Young,Female,Houston,Online
-EUJE5NOX2Z,1/22/24,United States,704,Domino Sugar,Food,1.6,4,1.2,0.04,Debit Card,Adult,Male,Phoenix,Online
-AQJWI2AY1W,1/26/24,United States,710,Crisco Cooking Oil,Food,5,2,4,0.85,Cash,Young,Female,Houston,Physical Store
-LFJP478E8J,2/20/24,United States,701,Uncle Ben's Rice,Food,2.9,3,2.1,0.2,Venmo,Senior,Female,Philadelphia,Physical Store
-7O617K0A4O,2/27/24,United States,702,Horizon Organic Milk,Dairy,2.5,8,1.8,0.19,Venmo,Young,Male,New York,Physical Store
-1BXEDGY3EJ,2/9/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,2,5.8,0.63,Cash,Senior,Female,Philadelphia,Physical Store
-JZZVUOVM41,2/4/24,United States,704,Domino Sugar,Food,1.6,1,1.2,0.04,Apple Pay,Adult,Female,Philadelphia,Physical Store
-4CWABGOPSK,2/3/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,6,5.8,0.84,Google Pay,Young,Female,Philadelphia,Online
-D568WCMHJJ,2/17/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,6,5.8,0.84,Cash,Adult,Male,Los Angeles,Online
-4SRQKULH73,1/9/24,United States,709,Dove Soap,Personal Care,2.5,4,1.8,0.44,Google Pay,Senior,Female,Chicago,Online
-DJ3KZZVIUZ,2/24/24,United States,702,Horizon Organic Milk,Dairy,2.5,4,1.8,0.39,Debit Card,Adult,Female,Houston,Physical Store
-4C03L8X84M,1/11/24,United States,707,Charmin Tissue,Hygiene,4.5,1,3.5,0.66,Bank Transfer,Senior,Female,Phoenix,Online
-WSJQSE1QSE,1/17/24,United States,709,Dove Soap,Personal Care,2.5,6,1.8,0.48,Venmo,Adult,Female,Phoenix,Online
-WTGLVUKV7L,2/15/24,United States,706,Hershey's Chocolate,Sweets,4,8,3.1,0.3,Bank Transfer,Adult,Female,Los Angeles,Online
-H567ZKOCYU,1/16/24,United States,701,Uncle Ben's Rice,Food,2.9,5,2.1,0.26,PayPal,Young,Female,Phoenix,Online
-LAUBBM26DP,1/19/24,United States,707,Charmin Tissue,Hygiene,4.5,3,3.5,0.85,Debit Card,Senior,Male,Philadelphia,Physical Store
-BUM2PZL5Y1,2/4/24,United States,704,Domino Sugar,Food,1.6,5,1.2,0.04,Venmo,Young,Male,Phoenix,Physical Store
-QTZZNWM7TW,3/1/24,United States,707,Charmin Tissue,Hygiene,4.5,5,3.5,0.62,Cash,Adult,Male,Chicago,Online
-P8EB53PQP8,2/1/24,United States,704,Domino Sugar,Food,1.6,6,1.2,0.08,Credit Card,Young,Male,Houston,Physical Store
-1O2W67XKHL,1/7/24,United States,707,Charmin Tissue,Hygiene,4.5,4,3.5,0.79,Apple Pay,Adult,Female,Houston,Physical Store
-N9SL3955RJ,1/3/24,United States,704,Domino Sugar,Food,1.6,10,1.2,0.22,Apple Pay,Senior,Female,San Francisco,Online
-UN23V9WWRI,2/8/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,10,5.8,0.96,Venmo,Adult,Male,New York,Online
-E927C5Q6OC,1/15/24,United States,705,Folgers Coffee,Beverages,7,2,5.2,0.6,Bank Transfer,Senior,Male,Los Angeles,Physical Store
-0XJ1R5T4G5,2/25/24,United States,706,Hershey's Chocolate,Sweets,4,1,3.1,0.37,Apple Pay,Senior,Female,Chicago,Online
-F453OEMZED,1/13/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,8,5.8,0.98,Apple Pay,Senior,Female,New York,Physical Store
-KT9FWDGDGC,2/25/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,2,5.8,1.05,Debit Card,Senior,Male,San Francisco,Online
-O9PUJ3L2QS,1/9/24,United States,704,Domino Sugar,Food,1.6,7,1.2,0.17,PayPal,Young,Male,Los Angeles,Online
-NSF9VBMAHD,1/15/24,United States,703,Wonder Bread,Bakery,1.2,4,0.8,0.2,Bank Transfer,Senior,Male,Los Angeles,Online
-SUD9SRBB7B,2/16/24,United States,701,Uncle Ben's Rice,Food,2.9,5,2.1,0.39,Venmo,Senior,Male,Houston,Physical Store
-DHPH3RTRIW,2/21/24,United States,710,Crisco Cooking Oil,Food,5,7,4,0.25,Debit Card,Adult,Male,New York,Physical Store
-RFWD6YXYXK,1/18/24,United States,710,Crisco Cooking Oil,Food,5,6,4,0.72,Cash,Senior,Male,San Francisco,Physical Store
-Z9TCVYW1XP,1/15/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,6,5.8,0.93,Venmo,Young,Male,New York,Online
-O3Y61PAJ1L,2/24/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,3,5.8,0.38,Venmo,Young,Male,San Francisco,Online
-8L0593WXM3,2/2/24,United States,701,Uncle Ben's Rice,Food,2.9,10,2.1,0.09,Google Pay,Senior,Male,Chicago,Online
-T0K6OAXDP9,1/10/24,United States,705,Folgers Coffee,Beverages,7,9,5.2,0.37,Cash,Adult,Female,Chicago,Online
-BQJA5HS2WD,2/4/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,9,5.8,1,Google Pay,Senior,Female,Chicago,Online
-9WC2SW7IJL,1/29/24,United States,704,Domino Sugar,Food,1.6,7,1.2,0.19,PayPal,Adult,Male,Chicago,Online
-K46AQP0UXT,1/5/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,10,5.8,0.48,Bank Transfer,Adult,Female,San Francisco,Online
-NXQX0CF8QS,2/9/24,United States,703,Wonder Bread,Bakery,1.2,3,0.8,0.15,Bank Transfer,Adult,Male,Philadelphia,Online
-KEZQLHLKX2,1/5/24,United States,709,Dove Soap,Personal Care,2.5,1,1.8,0.28,Cash,Adult,Male,Philadelphia,Physical Store
-LZTQHIBKI7,1/24/24,United States,707,Charmin Tissue,Hygiene,4.5,8,3.5,0.17,Cash,Senior,Male,New York,Online
-J3XTNPXBYN,2/18/24,United States,701,Uncle Ben's Rice,Food,2.9,4,2.1,0.07,Venmo,Young,Female,Phoenix,Physical Store
-HGHOQNY1NF,1/18/24,United States,701,Uncle Ben's Rice,Food,2.9,2,2.1,0.45,Credit Card,Adult,Female,Houston,Online
-CV33S4HCLP,2/16/24,United States,701,Uncle Ben's Rice,Food,2.9,2,2.1,0.01,Apple Pay,Young,Male,San Francisco,Physical Store
-TWEJMSE7NC,2/7/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,8,5.8,0.2,Google Pay,Senior,Male,Phoenix,Online
-O94M4UJW58,2/11/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,6,5.8,0.91,Bank Transfer,Young,Male,San Francisco,Online
-4M06J0UBJU,2/14/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,1,5.8,0.47,PayPal,Senior,Male,Phoenix,Online
-5Z5S234ZA3,2/11/24,United States,702,Horizon Organic Milk,Dairy,2.5,9,1.8,0.43,Apple Pay,Adult,Female,San Francisco,Online
-NMOZ0T0TPO,1/13/24,United States,701,Uncle Ben's Rice,Food,2.9,5,2.1,0.29,Cash,Young,Male,Los Angeles,Physical Store
-E4RP5MT5QC,1/22/24,United States,703,Wonder Bread,Bakery,1.2,1,0.8,0.13,Credit Card,Young,Male,Los Angeles,Physical Store
-0G7G33K3R7,1/28/24,United States,703,Wonder Bread,Bakery,1.2,7,0.8,0.01,Cash,Adult,Male,Chicago,Physical Store
-MIY14BG8GB,1/29/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,1,5.8,1.16,Google Pay,Adult,Female,Phoenix,Online
-V6YVNM4G38,2/29/24,United States,702,Horizon Organic Milk,Dairy,2.5,5,1.8,0.43,Debit Card,Adult,Male,San Francisco,Online
-8DJRXOYICY,2/9/24,United States,705,Folgers Coffee,Beverages,7,2,5.2,0.64,Cash,Young,Female,San Francisco,Online
-C5O6SZG5LR,1/27/24,United States,709,Dove Soap,Personal Care,2.5,8,1.8,0.31,Debit Card,Adult,Male,Los Angeles,Online
-347QW67XAK,2/17/24,United States,703,Wonder Bread,Bakery,1.2,9,0.8,0.02,Cash,Senior,Female,Los Angeles,Physical Store
-5KFI7AKYUC,1/31/24,United States,702,Horizon Organic Milk,Dairy,2.5,4,1.8,0.08,Google Pay,Adult,Female,New York,Online
-V3E8WTKRKR,1/30/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,8,5.8,0.13,Debit Card,Young,Female,New York,Physical Store
-FVCZ73U1RP,2/6/24,United States,703,Wonder Bread,Bakery,1.2,1,0.8,0.18,PayPal,Young,Male,San Francisco,Online
-346R1S5M2D,2/29/24,United States,707,Charmin Tissue,Hygiene,4.5,8,3.5,0.58,Bank Transfer,Senior,Male,Chicago,Online
-TKQOD5ZQQ4,1/4/24,United States,705,Folgers Coffee,Beverages,7,1,5.2,0.19,Bank Transfer,Adult,Female,Phoenix,Online
-20YIVP7ZYX,2/29/24,United States,702,Horizon Organic Milk,Dairy,2.5,10,1.8,0.49,Google Pay,Adult,Female,Houston,Physical Store
-LC3YXX95XK,2/5/24,United States,710,Crisco Cooking Oil,Food,5,9,4,0.72,Bank Transfer,Adult,Female,San Francisco,Physical Store
-011F09NJ0Z,1/17/24,United States,709,Dove Soap,Personal Care,2.5,3,1.8,0.27,Debit Card,Young,Female,Los Angeles,Online
-IP422OLB2Q,2/12/24,United States,705,Folgers Coffee,Beverages,7,8,5.2,0.5,Apple Pay,Adult,Female,Chicago,Physical Store
-TG53LSCM3N,1/31/24,United States,706,Hershey's Chocolate,Sweets,4,6,3.1,0.7,Venmo,Adult,Female,New York,Physical Store
-JKYJYF50A8,1/26/24,United States,709,Dove Soap,Personal Care,2.5,9,1.8,0.4,Debit Card,Senior,Male,Los Angeles,Physical Store
-PKZ47ETP59,2/3/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,10,5.8,1.49,Venmo,Adult,Female,Phoenix,Online
-137U4A4YM8,1/9/24,United States,702,Horizon Organic Milk,Dairy,2.5,3,1.8,0.06,Apple Pay,Senior,Male,Philadelphia,Physical Store
-85RGB3TCGG,1/8/24,United States,702,Horizon Organic Milk,Dairy,2.5,2,1.8,0.41,PayPal,Senior,Male,New York,Online
-6PLCPXU0UG,2/4/24,United States,703,Wonder Bread,Bakery,1.2,2,0.8,0.12,Debit Card,Senior,Male,Los Angeles,Physical Store
-82DTEMWVV7,1/1/24,United States,710,Crisco Cooking Oil,Food,5,7,4,0.21,Apple Pay,Young,Female,Phoenix,Online
-PQDQLI4L07,2/21/24,United States,704,Domino Sugar,Food,1.6,7,1.2,0.17,Apple Pay,Adult,Male,Houston,Physical Store
-YIN4KW14BO,1/19/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,3,5.8,1.22,Apple Pay,Adult,Male,New York,Online
-CT2US32C9Y,2/17/24,United States,706,Hershey's Chocolate,Sweets,4,7,3.1,0.74,PayPal,Adult,Male,New York,Physical Store
-LNT1AX109O,2/29/24,United States,706,Hershey's Chocolate,Sweets,4,8,3.1,0.63,Credit Card,Adult,Female,Los Angeles,Physical Store
-TV15VTWDT7,1/16/24,United States,705,Folgers Coffee,Beverages,7,4,5.2,0.73,Credit Card,Senior,Male,Phoenix,Online
-R5GN7ULEPW,1/4/24,United States,705,Folgers Coffee,Beverages,7,8,5.2,1.04,Credit Card,Adult,Female,Los Angeles,Online
-IQYHZRFO8X,2/6/24,United States,701,Uncle Ben's Rice,Food,2.9,8,2.1,0.51,Cash,Adult,Male,Los Angeles,Physical Store
-J63X4JWB0A,1/18/24,United States,706,Hershey's Chocolate,Sweets,4,9,3.1,0.5,Cash,Adult,Male,Chicago,Physical Store
-RS9EG4C22J,1/19/24,United States,709,Dove Soap,Personal Care,2.5,7,1.8,0.43,Bank Transfer,Adult,Female,Philadelphia,Physical Store
-7EUMFYQCER,1/2/24,United States,702,Horizon Organic Milk,Dairy,2.5,3,1.8,0.18,Credit Card,Young,Male,Phoenix,Online
-HU9XFC7FSD,1/25/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,2,5.8,1.36,Venmo,Young,Male,New York,Online
-33AWYI9MRI,2/5/24,United States,709,Dove Soap,Personal Care,2.5,9,1.8,0.01,Apple Pay,Adult,Female,Los Angeles,Physical Store
-ISQ07Z8PFP,2/28/24,United States,705,Folgers Coffee,Beverages,7,8,5.2,0.51,Apple Pay,Young,Male,Los Angeles,Online
-2BUK9NZRNN,2/28/24,United States,701,Uncle Ben's Rice,Food,2.9,7,2.1,0.54,Apple Pay,Adult,Male,Houston,Online
-Q1YZQRJQH2,2/18/24,United States,701,Uncle Ben's Rice,Food,2.9,4,2.1,0.08,Google Pay,Senior,Male,San Francisco,Physical Store
-1L39XSBNHA,1/4/24,United States,703,Wonder Bread,Bakery,1.2,4,0.8,0.05,Venmo,Young,Male,New York,Physical Store
-4D7ZF8UOZ0,2/25/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,2,5.8,0.4,Credit Card,Young,Female,Phoenix,Online
-RSYJ6RMAOT,2/15/24,United States,704,Domino Sugar,Food,1.6,3,1.2,0.22,Google Pay,Senior,Male,Chicago,Online
-1P3DDSEJAI,2/11/24,United States,704,Domino Sugar,Food,1.6,4,1.2,0.24,Bank Transfer,Senior,Male,Phoenix,Physical Store
-QN0679G0PX,1/8/24,United States,703,Wonder Bread,Bakery,1.2,10,0.8,0.02,Apple Pay,Adult,Male,Chicago,Online
-MKV7KAZUDY,1/28/24,United States,701,Uncle Ben's Rice,Food,2.9,8,2.1,0.51,Apple Pay,Adult,Female,San Francisco,Physical Store
-S85DKZZ4IV,1/29/24,United States,709,Dove Soap,Personal Care,2.5,8,1.8,0.33,Google Pay,Senior,Male,Chicago,Online
-JTU823ABN9,2/27/24,United States,703,Wonder Bread,Bakery,1.2,9,0.8,0.18,Apple Pay,Adult,Male,Phoenix,Online
-XNOFE5948P,2/27/24,United States,709,Dove Soap,Personal Care,2.5,8,1.8,0.33,Credit Card,Adult,Male,New York,Online
-LXC0QUX02P,2/15/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,2,5.8,1.23,PayPal,Senior,Female,Chicago,Online
-966ABZ1GW3,2/4/24,United States,706,Hershey's Chocolate,Sweets,4,10,3.1,0.27,Cash,Adult,Female,Los Angeles,Physical Store
-K2KD7R38KQ,1/14/24,United States,706,Hershey's Chocolate,Sweets,4,7,3.1,0.03,PayPal,Adult,Male,Philadelphia,Physical Store
-1KWTLYIJ1G,2/9/24,United States,706,Hershey's Chocolate,Sweets,4,6,3.1,0.79,Apple Pay,Young,Female,Philadelphia,Online
-KCJB1N8TSG,2/17/24,United States,704,Domino Sugar,Food,1.6,3,1.2,0.2,Venmo,Senior,Male,Houston,Physical Store
-5GPVO9KUYD,1/2/24,United States,705,Folgers Coffee,Beverages,7,5,5.2,0.44,Venmo,Senior,Female,Philadelphia,Online
-I2FHZO0VVP,2/16/24,United States,704,Domino Sugar,Food,1.6,2,1.2,0.06,Credit Card,Adult,Male,New York,Online
-MUSOVH9SVV,1/7/24,United States,707,Charmin Tissue,Hygiene,4.5,1,3.5,0.81,Google Pay,Senior,Female,Los Angeles,Online
-2E2ET56WY4,1/2/24,United States,704,Domino Sugar,Food,1.6,1,1.2,0.04,Debit Card,Young,Male,New York,Online
-EDY77X6CET,1/10/24,United States,703,Wonder Bread,Bakery,1.2,4,0.8,0.21,Debit Card,Adult,Female,New York,Online
-2LMQWAK7Z4,2/19/24,United States,710,Crisco Cooking Oil,Food,5,3,4,0.08,Debit Card,Senior,Female,Houston,Physical Store
-NQ6RF25D1X,1/30/24,United States,708,Herbal Essences Shampoo,Personal Care,7.5,7,5.8,0.49,Google Pay,Young,Male,New York,Online
-O1LY0QUHII,2/6/24,United States,701,Uncle Ben's Rice,Food,2.9,8,2.1,0.24,Debit Card,Senior,Male,Chicago,Online
-NL0984KR54,2/11/24,United States,709,Dove Soap,Personal Care,2.5,1,1.8,0.22,PayPal,Young,Female,Los Angeles,Physical Store
-0NPYUJYHGO,2/10/24,United States,701,Uncle Ben's Rice,Food,2.9,9,2.1,0.36,Debit Card,Adult,Male,Chicago,Physical Store
-1P4656SU7A,2/26/24,United States,704,Domino Sugar,Food,1.6,6,1.2,0.16,Apple Pay,Young,Female,Phoenix,Online
-T221M4ZO04,2/17/24,United States,710,Crisco Cooking Oil,Food,5,10,4,0.93,Cash,Adult,Female,Los Angeles,Physical Store
+transaction_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,sales_representative
+Vr7533,1/22/25,USA,3d301fbd-cd28-486d-a88e-d80cff6440c0,Nike Air Max,Footwear,185.96,4,743.84,0.05,Cash,Senior,Female,New York,William Campos
+Rm3940,3/15/25,USA,598e93fb-b8ce-429c-b333-ca0e423bafd0,Nike Air Max,Footwear,117.4,5,587,0.1,Mobile Wallet,Young,Female,Los Angeles,Jesse Meyer
+Ok9957,5/12/24,USA,9d9b01d8-731e-48a6-9249-67bb13eb51b2,Yeti Tumbler,Outdoor,20.22,5,101.1,0.2,Credit Card,Adult,Female,New York,Paul Jones
+bD1681,10/19/24,USA,419bb25d-fe0d-49eb-927b-6acc9305c9d5,Yeti Tumbler,Outdoor,38.35,6,230.1,0.05,Online Payment,Young,Female,Houston,Kelly Green
+Gi8282,5/14/24,USA,de3eb748-1eeb-4414-a8ee-1c15b03cb480,,Home Appliances,428.78,9,3859.02,0,Credit Card,Senior,Male,Los Angeles,Michelle Smith
+iz7897,12/10/24,USA,0ab1a67e-eabf-462b-b919-a341d1635d62,Nike Air Max,Footwear,135.25,7,946.75,0.1,Cash,,Female,Chicago,Melissa Thompson
+mU9431,11/3/24,USA,85c88657-fa95-4ed3-a310-48f9d445c719,,Beverages,1.93,10,19.3,0,Credit Card,,Female,New York,Michael King
+zV1786,3/12/25,USA,1754e380-77d8-47db-b998-21abe32633f0,Levi's 501 Jeans,Apparel,94.04,10,940.4,0,Online Payment,Adult,Female,Houston,Mark Wolfe
+kf5142,8/3/24,USA,9503587b-36d2-40e8-aa4c-b4a51c8f3bf8,Yeti Tumbler,Outdoor,22.94,9,206.46,0.05,Debit Card,Senior,,Houston,Gregory Pierce
+rq9543,12/9/24,USA,67184d87-749c-4b19-9c0f-286d8c85ed2d,Yeti Tumbler,,43.83,4,175.32,0.05,Cash,,Female,Chicago,Dawn Ellis
+Gd4807,4/3/24,USA,,Samsung QLED TV,Electronics,1647.01,7,11529.07,0,Credit Card,Senior,Male,Los Angeles,Katie Brooks
+ns9571,3/27/24,USA,54d2febe-1420-40dc-9582-cd5388e61614,Levi's 501 Jeans,Apparel,60.26,6,361.56,0.15,Mobile Wallet,Young,Female,Houston,Katherine Morrison
+YW9346,3/7/25,USA,8e9fff09-29a4-431c-82bc-55e67aa98e18,Doritos Chips,Snacks,3.84,4,15.36,0.05,Online Payment,Senior,Male,Chicago,Benjamin Garcia
+Hd1181,8/2/24,USA,0f4bf8dd-2ef5-41fd-8151-98df4f496575,The North Face Jacket,Apparel,,8,1408.88,0.2,Mobile Wallet,Senior,Female,Phoenix,Melissa Gould
+lw6444,8/17/24,USA,6848ca0a-2146-4800-a779-824ed494e7a5,The North Face Jacket,Apparel,165.75,8,1326,0.1,Debit Card,Senior,Male,New York,Patricia Nelson
+HZ3635,10/14/24,USA,545e7259-71c5-48f5-8587-08888f5e2dcd,Coca-Cola Can,Beverages,1.81,,12.67,0.2,Debit Card,Adult,Male,Houston,Scott Rosales
+RB6309,11/3/24,USA,50992982-b856-4817-9522-d57177c5aed6,Levi's 501 Jeans,Apparel,92.39,6,554.34,0.15,Credit Card,Senior,Male,Houston,Matthew Fowler
+DB4018,3/28/24,USA,14b9e623-02d0-4195-bb34-907df966fdd8,Doritos Chips,Snacks,2,4,8,0,Cash,,Female,New York,Angel Hernandez
+rl8775,6/6/24,USA,21b691aa-40e5-4615-b2ef-217e7e9e9b9e,Nike Air Max,Footwear,126.81,4,507.24,0,Debit Card,Senior,Male,Phoenix,John Kane
+on5838,1/18/25,USA,16fde443-c396-4e95-b977-9809126a65cb,Doritos Chips,Snacks,3.91,1,3.91,0.05,Online Payment,Young,Female,New York,Ernest Larson
+eq3524,9/26/24,USA,ef66b8d7-7199-47b1-919b-d782b1ef917e,Coca-Cola Can,Beverages,1.6,6,9.6,0.15,Cash,Young,Male,Chicago,Sherry Nelson
+dn6389,9/19/24,USA,9bc04635-5812-47af-83c6-911d045de06d,KitchenAid Mixer,Home Appliances,282.56,8,2260.48,0.15,Debit Card,Adult,Female,Chicago,Brittany Wilson
+Rr6681,11/25/24,USA,4197fc7a-a965-4856-9cf3-aa1956b8752f,KitchenAid Mixer,Home Appliances,,8,3061.44,0,Cash,Adult,Female,New York,Jennifer Perez
+zp0139,10/6/24,USA,9d1cc5d1-c132-4692-8b9c-b2ac3b7a1d73,Levi's 501 Jeans,Apparel,77.04,5,385.2,0.2,Online Payment,Adult,Female,Houston,Rebecca Henderson
+go9532,2/15/25,USA,3f337663-1ce0-4693-8b74-d2d8b1c372e4,Nike Air Max,Footwear,182.59,,,0.15,Online Payment,Adult,Male,Phoenix,James Pham
+qb2508,3/27/24,USA,e2bd18e6-9d82-4e7f-99ab-bc66f04ffbbf,Yeti Tumbler,Outdoor,36.09,9,324.81,0.2,Credit Card,Young,Male,Los Angeles,Catherine Smith
+UJ1677,5/31/24,USA,aa0dc8ba-b592-42f6-a441-224fbb316e4a,Apple MacBook Pro,Electronics,2447.53,1,2447.53,0.2,Mobile Wallet,Young,Female,Los Angeles,
+Lf2846,1/2/25,USA,2dea6ec8-882b-4e63-bbc8-b58f16a8764c,Coca-Cola Can,Beverages,0.56,9,5.04,0.05,Cash,Adult,Male,Chicago,Becky Baker
+BM2523,3/20/25,USA,64773934-9751-4480-b6aa-948b6c974f13,Yeti Tumbler,Outdoor,23.56,6,141.36,0,,Senior,Male,Phoenix,Tara Anderson
+MI4091,12/17/24,USA,909b0ba5-722f-49bd-b2bd-adb0bc83615b,Doritos Chips,,3.3,9,29.7,0.15,Cash,Senior,Female,New York,Oscar Lopez
+zk2934,4/7/24,USA,697c67c0-2212-4412-9d62-41eb6442140c,Samsung QLED TV,Electronics,599.95,4,2399.8,0.15,Debit Card,Young,Male,,Jamie Simmons
+PU4067,9/18/24,USA,3ae3c72e-6860-458f-be0c-d9e5062b7c28,,Electronics,2293.83,5,11469.15,0.15,,Senior,Male,,David Nguyen
+eD3792,3/13/25,USA,c622b21f-6230-4e31-b3ce-3fb4f9c2d1e8,Doritos Chips,Snacks,,3,7.23,0.15,Online Payment,Adult,Male,Chicago,Lisa Allen
+Fk9829,6/11/24,USA,2db77dd0-b325-41be-8325-ba135c326f80,Coca-Cola Can,Beverages,0.69,9,6.21,0,Credit Card,Adult,Female,Chicago,Jason Phillips
+UN4761,6/12/24,USA,8f053a88-6988-4bc0-a5ff-885b17c1ef83,Apple MacBook Pro,Electronics,1509.71,7,,,Online Payment,Young,Male,Houston,Madison Ramos
+Gd7009,6/20/24,USA,8224a140-e923-445b-b756-9adc9fc11e2b,iPhone 14,Electronics,1171.92,6,7031.52,0.15,Mobile Wallet,Senior,Male,Los Angeles,Keith Wilkerson
+Xp4987,7/18/24,USA,b24402e7-68e9-4b63-912d-20d702bfffe3,Yeti Tumbler,Outdoor,36.13,4,144.52,0.1,Cash,Young,Female,,Anita Williams
+kw9340,1/13/25,USA,5d4da777-9687-4505-a34f-91acb4ba6f46,iPhone 14,Electronics,1038.11,8,8304.88,0.05,Cash,Adult,Male,Los Angeles,Carrie Fischer
+SB3643,9/4/24,USA,4a10b66c-381b-4ff2-9802-cc99fd41c5b3,Yeti Tumbler,Outdoor,29.95,9,,0.1,Cash,Adult,Male,Phoenix,Brooke Cook
+NK6732,4/17/24,USA,,Doritos Chips,Snacks,4.12,5,20.6,0.05,Debit Card,Senior,Male,Phoenix,Steven Weber
+Rg0378,2/26/25,USA,,Samsung QLED TV,Electronics,,1,1507.61,0.2,Mobile Wallet,Senior,Male,Phoenix,John Johnson
+Ei9648,3/27/24,USA,0c6e23d7-857f-4bda-9d54-1cee46763067,Apple MacBook Pro,Electronics,1647.96,9,14831.64,0.15,Credit Card,Adult,Male,Los Angeles,James Downs
+GH8896,7/30/24,USA,caea284c-e9b2-4d14-8219-db6c03a65439,Levi's 501 Jeans,Apparel,85.76,5,428.8,0,Mobile Wallet,Young,Female,New York,Alyssa Best
+Jr7464,11/14/24,USA,d288dfb1-88c3-4f23-87e8-d40fe1d02bd4,Samsung QLED TV,Electronics,742.72,4,2970.88,0.15,Credit Card,Senior,Male,Phoenix,Steven Cox
+MY2228,10/7/24,USA,f30c987a-6a2b-4a5d-abe1-e3afac1cac7d,The North Face Jacket,Apparel,291.09,10,2910.9,0.2,Debit Card,Young,Male,Los Angeles,Robin Gibson
+RA2944,7/22/24,USA,427c01da-8148-4d21-8462-c084652be3d6,Coca-Cola Can,Beverages,1.76,4,7.04,0.1,Debit Card,Senior,Male,Houston,Ricky Castillo
+Cl9478,8/12/24,USA,d429f25c-af2d-4b6f-9acf-e57148861019,KitchenAid Mixer,Home Appliances,463.11,8,3704.88,0.2,Mobile Wallet,Senior,Male,Houston,Charles Le
+SU9961,9/29/24,USA,904b3f12-bbb4-4ade-94e6-0e2a48f2de83,Coca-Cola Can,,1.94,6,11.64,0.15,Online Payment,Senior,Female,Los Angeles,Angela Brown
+XZ8372,2/22/25,USA,cbe0795a-d4da-4add-99ae-9c2a4ccaca39,Yeti Tumbler,Outdoor,37.39,10,373.9,0.2,Debit Card,Young,Female,Chicago,Christopher Levine
+Qd0853,3/22/24,USA,e19633cd-debd-41a1-93b3-b3e57269437f,iPhone 14,Electronics,1076,6,6456,0.2,Credit Card,Young,Male,New York,Kevin Trujillo
+yh8185,3/26/24,USA,957894e2-aecd-42de-ab29-057f60c945e4,Doritos Chips,Snacks,4.95,3,14.85,,Online Payment,Young,Male,Los Angeles,Kathleen Sims
+UK8654,,USA,8050bfc2-72b5-4e2d-afd9-6fc9f37f6de1,,Electronics,1559,6,9354,0.2,Debit Card,,Male,Houston,Annette Solomon
+yh4877,9/16/24,USA,55912d57-b273-48e8-b301-156c32b3986c,Coca-Cola Can,Beverages,1.75,1,1.75,0.1,Credit Card,Senior,Female,Los Angeles,Jacqueline Murphy
+qR4643,9/2/24,USA,26d09567-26bf-433f-a0a7-a89397eb26ea,Coca-Cola Can,Beverages,0.65,3,1.95,0.15,Cash,Senior,Female,Houston,Marisa Smith
+wk2660,12/10/24,USA,b3505b57-3416-445a-bbcb-c0857fcd987e,Apple MacBook Pro,Electronics,1441,5,,0.05,Mobile Wallet,Adult,Male,Houston,Kelly Riley
+cC5285,11/10/24,USA,bbb842c3-06ff-4033-a52b-0ae277bbea1f,Yeti Tumbler,Outdoor,42.66,,298.62,0.1,Cash,Young,Male,Houston,Melanie Thompson
+vn1426,12/10/24,USA,725da45d-14d9-4c41-bbbf-131fdc609d89,Coca-Cola Can,Beverages,0.71,7,4.97,0,Credit Card,Senior,Female,Houston,Sherri Lopez
+ln5043,8/19/24,USA,a0c3f278-ba78-4af2-a12e-1c4b97b9c5b5,iPhone 14,Electronics,845.71,6,,0.15,Credit Card,Young,Male,New York,Rachel Miranda
+ST8739,12/9/24,USA,e1c07723-3e50-4917-a858-fac4478fb189,KitchenAid Mixer,Home Appliances,397.91,2,795.82,0.15,Debit Card,Adult,Female,Phoenix,Jose Dalton
+rc6140,7/17/24,USA,60eb0675-07f5-431e-9b5e-ffca21cbf026,Levi's 501 Jeans,Apparel,87.19,2,174.38,0.2,Mobile Wallet,Young,Male,New York,Amy Leblanc
+nC0811,6/14/24,USA,180fa320-51f0-40aa-937f-b2e770a50868,Doritos Chips,Snacks,3.86,7,27.02,0,Cash,Senior,Female,Phoenix,Kayla Rice
+Al6798,1/8/25,USA,70b32082-6382-4895-a113-f02626d73a4a,Coca-Cola Can,Beverages,1.99,6,11.94,0.05,Debit Card,Adult,Male,Houston,Daniel Woods
+GE7990,8/10/24,USA,3d109f20-44cf-423f-abab-ede451db9ab1,iPhone 14,Electronics,822.2,6,4933.2,,Mobile Wallet,Senior,Male,Chicago,Kristine Lee
+yZ2522,2/11/25,USA,960a7475-78d7-44f6-8e62-858bd8b325d2,iPhone 14,Electronics,1190.67,3,3572.01,0.2,Debit Card,Young,Female,Chicago,Brian Strong
+iW0445,3/17/25,USA,24b64c41-d0f9-4c91-906b-b1c4ff53e849,iPhone 14,Electronics,1073.46,10,10734.6,0.15,Cash,Young,Male,Phoenix,Kelly Cameron
+UT6725,8/1/24,USA,c43d71a8-96d2-4b3c-b3cd-89ae244b93f1,Levi's 501 Jeans,Apparel,71.96,4,287.84,0,Mobile Wallet,,Female,New York,Kelly Scott
+LD4650,5/9/24,,6ac44718-1868-4b33-99fc-6c3bebda5a87,KitchenAid Mixer,Home Appliances,304.3,7,,0.15,Cash,Adult,Female,Chicago,Jason Smith
+GN4300,1/13/25,USA,f77c2a1b-b111-4c06-91f8-2b9d07fd66d6,Apple MacBook Pro,Electronics,2214.55,4,8858.2,0.15,Cash,Young,Male,Phoenix,William Williams
+KS5712,9/15/24,USA,908bcdd5-97bf-487f-9cf1-b91ff383831c,Nike Air Max,Footwear,111.1,2,,0.2,,Adult,Female,Phoenix,Patrick Hernandez
+eC2709,7/7/24,USA,a1982138-eb7e-4b61-acc3-c3adb804413b,iPhone 14,Electronics,1165.78,7,8160.46,,Credit Card,Young,,Los Angeles,Jacqueline Castro
+RT9419,10/25/24,USA,93b05f1c-2086-42ff-a102-88d44c8760aa,iPhone 14,Electronics,822.46,10,8224.6,0.05,Cash,Young,Female,Houston,Crystal Klein
+gf9502,7/17/24,USA,405885ea-dcf6-4745-9b9d-d01c00ca1e8f,KitchenAid Mixer,Home Appliances,465.22,2,930.44,0.1,Mobile Wallet,Senior,Male,Houston,Linda Parks
+Ln7989,8/1/24,USA,e7f6005f-3f13-46a3-a0b2-c2482381948f,iPhone 14,Electronics,910.28,10,9102.8,0.05,Cash,Adult,Male,Chicago,Traci Buckley
+qw5652,11/14/24,USA,a0c0de45-df41-44a4-8ebb-d3d0a24c9760,Yeti Tumbler,Outdoor,43.45,1,43.45,0.05,Cash,Senior,Female,Los Angeles,Suzanne Wilkerson
+vb8623,3/23/24,USA,0987f1aa-4fb9-4cf9-b51c-059fbeeed18d,Levi's 501 Jeans,,66.31,9,596.79,0.15,Cash,Senior,Male,Los Angeles,Ms. Samantha Martinez
+Mt9726,,USA,7e30a9f5-54af-4291-852b-24609cd1aeb5,Apple MacBook Pro,Electronics,2290.51,10,22905.1,0.05,Mobile Wallet,Senior,Female,Chicago,Monique Garza
+xs1798,3/21/24,USA,0b1d1921-bd77-46d2-b907-ce49cc83d934,Apple MacBook Pro,Electronics,1955.4,4,7821.6,0.05,Cash,Adult,Female,New York,Jessica Torres
+Hm8301,11/12/24,USA,4340c55b-c938-4f99-8ed8-717868d5e9bf,Yeti Tumbler,Outdoor,26.87,7,188.09,0.15,Debit Card,Young,Male,Houston,Marc Wilson
+gK4082,9/28/24,USA,bb2720d8-8386-41e0-aca9-8bfaabdf8e4a,Nike Air Max,Footwear,112.77,1,112.77,0,Online Payment,Young,Female,Houston,Adrian George
+Xi5121,8/13/24,USA,954e1ca5-29b3-4c10-98f0-3845e5b83df9,Coca-Cola Can,Beverages,1.26,4,5.04,0.1,Mobile Wallet,Young,Female,Phoenix,
+cJ4163,7/6/24,USA,6d811ab8-98dc-4d9e-a68b-4ec84d4a2fc1,Apple MacBook Pro,Electronics,2055.49,1,2055.49,0.1,Credit Card,Adult,Female,Phoenix,Alejandra Valdez
+lI2099,10/20/24,USA,f679fdf3-a1fe-4e2d-8147-10e920298826,KitchenAid Mixer,Home Appliances,369.22,4,1476.88,0.2,Online Payment,Adult,Male,Houston,Glenn Figueroa
+fn3524,12/4/24,USA,296699b0-3ef3-4c2f-a45e-3a02e1586dd1,KitchenAid Mixer,Home Appliances,340.78,7,2385.46,0.05,Debit Card,Senior,Female,Houston,
+Vy6159,4/4/24,USA,3b8da9ec-81f1-473f-ac91-f647b3125eff,KitchenAid Mixer,Home Appliances,,7,2114.56,0.1,Mobile Wallet,Senior,Male,Houston,Bethany Johnson
+Bc3972,2/25/25,USA,bd35aa9d-85f6-458d-991d-35468d4c0153,Levi's 501 Jeans,Apparel,59.5,,357,0.15,Cash,Adult,Male,Phoenix,Tracey Hernandez
+iY6545,,USA,44d4529e-c3de-4d6e-b99f-2d689d67058b,Coca-Cola Can,Beverages,1.04,5,5.2,0.2,Mobile Wallet,Senior,Female,Los Angeles,Michael Sparks
+ro5257,2/23/25,USA,2c52f2aa-c5d6-4d1a-b9eb-841b02809e26,Levi's 501 Jeans,Apparel,91.25,2,182.5,0.05,,Young,Male,Los Angeles,Rodney Greene
+eM1018,12/19/24,USA,12c9c8d3-3a4f-4aba-b3f4-97d0a0a822d2,Nike Air Max,Footwear,187.47,2,,0,Credit Card,Adult,Male,Chicago,David Mccarthy
+vS8963,9/18/24,USA,66739839-f0f8-4c1b-9b5d-f9b89b6f2cde,Nike Air Max,Footwear,101.53,4,406.12,0.15,Credit Card,Adult,Female,New York,Victor Miller
+wk1311,10/10/24,USA,acb8387d-e8cd-4fab-8dd1-cdb268cdc356,Samsung QLED TV,Electronics,1005.6,7,7039.2,0,,Adult,Male,Chicago,Holly Jones
+Wo1397,,USA,93c1b334-4fc7-4cde-ae61-5ba05b8121cb,Levi's 501 Jeans,Apparel,76.86,6,461.16,0,Debit Card,Senior,Male,Phoenix,Dominic Harris
+kd8734,12/9/24,USA,5c275c44-c259-4f4d-a823-fb15e01401b7,Nike Air Max,Footwear,116.5,2,233,,Debit Card,Senior,Female,Houston,Matthew Riley
+Va3807,6/6/24,USA,3673f0ae-e384-4bf3-9432-1127accc77c2,Levi's 501 Jeans,Apparel,,7,568.4,0.2,Debit Card,Adult,Male,Houston,Richard Cooper
+ND2810,4/8/24,USA,c91cffed-ff43-455e-ac3a-38372687b890,The North Face Jacket,Apparel,209.21,,1255.26,0,Online Payment,Senior,Female,New York,Melanie Welch
+WZ7067,3/17/25,USA,6b2b514a-8f72-4bc0-bf55-10c1eb00e7d8,Coca-Cola Can,Beverages,1.64,9,14.76,0.15,,Adult,Male,Los Angeles,Julie Brown
+ao9747,3/5/25,,aeb887ae-cf7f-4d23-9875-12571acca0a8,Nike Air Max,Footwear,147.93,7,1035.51,0,Online Payment,Adult,Male,Los Angeles,Douglas Gomez
+pB0177,4/11/24,USA,6ccddc90-4e5b-4000-8ff2-d96e25f1f2c4,Coca-Cola Can,Beverages,1.24,2,2.48,0.1,Cash,Adult,Male,Chicago,Julie Schneider
+Eh7504,8/6/24,USA,6432ac6d-9266-4d79-abc6-edafe8c3e5ba,The North Face Jacket,Apparel,,2,499.14,0.15,Cash,Senior,Male,Phoenix,Lisa Howard
+Jb4429,3/23/24,USA,2431b3f8-4733-4b03-afd4-220c62a8007e,The North Face Jacket,Apparel,155.81,2,311.62,0.2,Credit Card,Senior,Female,Houston,Katherine Ayers
+cj2827,2/13/25,USA,ca9165ca-c787-4fa7-85c9-73b16a741b5c,Yeti Tumbler,Outdoor,43.38,6,260.28,0.05,Credit Card,Young,Female,,Patricia Flores
+QZ0656,5/3/24,USA,49e037c9-e82d-4d96-a86d-e21f7b4458b0,The North Face Jacket,Apparel,169.87,9,1528.83,0.1,Debit Card,Adult,Female,Chicago,Brandi Maldonado
+QO7007,6/4/24,USA,,Samsung QLED TV,Electronics,1746.73,1,1746.73,0.15,Mobile Wallet,Young,Male,Chicago,Victor Guzman
+by1219,11/17/24,USA,d5bf64ce-1d21-46d4-8a83-e71a87fb095a,Coca-Cola Can,Beverages,1.23,5,6.15,0,Credit Card,Adult,Male,Los Angeles,Christopher Bradley
+CJ2493,7/10/24,USA,a79eeccf-079f-498a-913c-294dc2289a86,Samsung QLED TV,,1544.41,10,15444.1,0.05,Online Payment,Young,Male,Los Angeles,
+QG6558,2/8/25,USA,9a859e3c-face-4ce0-886a-4731d226caa2,Yeti Tumbler,Outdoor,48.89,4,195.56,,Cash,Young,Female,Los Angeles,Mr. Christopher Lewis
+wY6220,9/17/24,USA,053c951c-6b30-422e-b175-da680af4bdd6,Levi's 501 Jeans,Apparel,,2,123.92,0.2,Debit Card,Senior,Female,New York,Terry Bishop
+Wj4188,2/15/25,USA,665f0ff5-0a62-4ed7-8270-3a26f8364c3b,iPhone 14,Electronics,1110.72,4,4442.88,0,Credit Card,Adult,,New York,Christina Boyd
+Qc1670,11/24/24,USA,78ca55e2-f443-433f-b6e5-d9996b39894c,Levi's 501 Jeans,Apparel,62.92,4,251.68,0.2,Cash,Senior,Female,Los Angeles,Lisa Mckee
+ux1658,6/6/24,USA,9ad53529-3b98-47ac-ac0f-7cb48fbd1f1d,Yeti Tumbler,Outdoor,,2,85.86,0,Debit Card,Adult,Female,Phoenix,Devon Powell
+UK4181,12/3/24,USA,37ad4dfb-6507-4d81-9eed-003c7848a0b6,,Snacks,2.07,6,12.42,0.2,Debit Card,Senior,Female,Chicago,Cindy Sims
+FU3291,5/26/24,USA,393ca0ae-d253-486a-beb3-8a5f16fec710,Coca-Cola Can,Beverages,1.72,7,12.04,0.1,Debit Card,Young,Male,New York,Keith Morgan
+xJ2471,7/17/24,USA,d5a3e780-270d-4ffb-8294-a6d891fd2634,Apple MacBook Pro,Electronics,1450.36,6,8702.16,0.2,Mobile Wallet,Adult,Male,Phoenix,Jesus Curtis
+Fn0737,11/21/24,USA,f0cd9032-4f48-4884-bca8-2c21bbf46871,Levi's 501 Jeans,Apparel,82.13,10,821.3,0.1,Debit Card,Young,Female,Phoenix,Mr. David Mendez MD
+dJ7694,11/22/24,USA,cc381645-5de6-4f96-9733-4a32526970bd,Coca-Cola Can,Beverages,1.04,10,,0.2,Debit Card,Young,Female,Los Angeles,Dr. Alexis Colon
+fQ8774,7/23/24,USA,a8edd15f-7a1a-4ddc-b6fb-a01db86bc489,Doritos Chips,,2.48,5,12.4,0.05,Mobile Wallet,Young,Male,Los Angeles,Tyler Briggs
+TE9171,6/4/24,USA,da2e8329-87ae-4c16-bab1-4c6f9fe3be1b,,,1643.33,7,11503.31,0.2,,Young,Female,Phoenix,Vanessa Gutierrez MD
+Ux1441,4/1/24,USA,5f731705-2997-4e39-a6c8-b92365fc0780,KitchenAid Mixer,Home Appliances,373.46,1,373.46,,Online Payment,Senior,,Houston,
+GO9029,11/25/24,USA,6427c728-2849-4021-9799-c904e4fba411,The North Face Jacket,Apparel,230.75,4,923,0,Cash,Young,Male,Phoenix,
+gi2050,10/25/24,USA,29b0c7a1-ab03-425a-9b97-2fcf266688be,,Snacks,4.35,6,26.1,0.05,Cash,Adult,Female,Houston,Yolanda Jones
+DK4584,1/21/25,USA,0ab50c77-06f3-4e1f-955d-7451224797bd,KitchenAid Mixer,Home Appliances,410.53,6,2463.18,0.1,Mobile Wallet,Senior,Male,Houston,Amber Castillo
+xR5698,11/7/24,USA,338b8f1a-3106-4d94-9745-a4246521a406,Levi's 501 Jeans,Apparel,62.16,,497.28,0.1,Online Payment,Adult,Male,New York,Sandra Walsh
+hR9753,4/23/24,USA,ec664085-4fb5-41a4-8af0-166ba95368d9,Apple MacBook Pro,Electronics,2015.66,7,14109.62,0,Mobile Wallet,Senior,Male,Los Angeles,Miguel Nixon
+hq7842,4/16/24,USA,604aeb1b-1fb0-434f-b13b-e98c8bf8dbec,Yeti Tumbler,Outdoor,43.32,7,,,Credit Card,Young,Female,Los Angeles,Mark Hopkins
+hd6852,9/22/24,USA,4b3a2319-40c6-436e-b841-c2532c976a55,Doritos Chips,Snacks,3.17,2,,0.2,Mobile Wallet,Senior,Male,Houston,Joseph Spence
+om6814,2/7/25,USA,6e539c1c-d255-4ba2-85d4-90a808f1dc8c,Levi's 501 Jeans,Apparel,96.65,7,676.55,0.05,,Senior,,New York,Michael Shelton MD
+ne5312,1/20/25,USA,ad2fd0ec-e6d7-449d-adcf-fb982983e359,KitchenAid Mixer,Home Appliances,436.56,7,3055.92,0.05,Debit Card,Senior,Male,Houston,Marisa Greer
+SF4684,,USA,a8353882-5c0c-4d3d-be0b-039fe0603a7d,Samsung QLED TV,Electronics,1726.99,6,10361.94,0.05,Cash,Young,Female,Los Angeles,Theresa Austin
+SJ4770,10/29/24,USA,01fd0bcb-5c1a-4bd9-acf7-6bfc4b91713e,Doritos Chips,Snacks,1.86,3,5.58,0,Mobile Wallet,Senior,Female,Chicago,
+GJ5205,1/21/25,USA,4c4e2881-929e-483f-a73e-ad0e780ba040,The North Face Jacket,Apparel,217.96,10,2179.6,0.15,,Adult,Female,New York,Toni Graham
+aE5353,4/8/24,USA,5eef6353-d377-45c0-8bd9-f13353f54c04,Doritos Chips,Snacks,3.96,6,23.76,0,Cash,Young,Male,Chicago,Adam Bates
+Cf9852,,USA,9b0bfe70-7783-4e90-b6a8-f2501d4927fc,Yeti Tumbler,Outdoor,32.05,2,64.1,0.2,Mobile Wallet,Senior,Male,Los Angeles,Shelley Kennedy
+Jp5330,12/8/24,USA,46ef3010-6882-4889-92ab-f8ac5ef71a3d,Samsung QLED TV,Electronics,802.86,8,6422.88,0,Debit Card,Senior,Female,Phoenix,Jessica Morgan
+yc3928,8/4/24,,bc8cec91-0214-493c-8078-9518caf8e922,Apple MacBook Pro,Electronics,2244.06,7,15708.42,0.2,Cash,Adult,Male,New York,Alicia Miller
+OK2386,8/25/24,USA,4ec251fa-5ffa-4362-a62a-0c4686bff19e,KitchenAid Mixer,Home Appliances,281.46,2,562.92,0.05,Cash,Young,Female,Houston,Christopher Jenkins
+gl1105,10/3/24,,b546f976-ae68-4ad1-8ae0-f62146ae7c26,Coca-Cola Can,Beverages,1.53,5,,0,Online Payment,Adult,Female,Phoenix,Christine Morales
+gJ5409,4/10/24,USA,0dd905c7-dfa6-4956-bd97-d0106d7667d4,KitchenAid Mixer,Home Appliances,254.65,9,2291.85,0.1,Cash,Young,Male,Los Angeles,James Gutierrez
+Kr1393,10/4/24,USA,8ad9adb8-cb18-4946-8bfb-d330269d2e4e,Coca-Cola Can,Beverages,1.78,8,14.24,0.15,Debit Card,Young,Female,Chicago,Cory King PhD
+OJ4328,4/20/24,USA,c7756ec7-d529-4572-a4fc-b627e232591b,The North Face Jacket,Apparel,226.11,10,2261.1,0.15,Credit Card,Adult,Female,New York,Christopher Wilson
+wr0233,9/25/24,USA,5055adce-b199-4d5b-bc84-443e6fa886d7,The North Face Jacket,,268.06,10,2680.6,0.15,Mobile Wallet,Adult,Female,Los Angeles,Stacey Calderon
+Mu7072,10/27/24,USA,10fdc1af-7a56-4d99-9f96-c7ff475336b7,Coca-Cola Can,Beverages,1.53,5,7.65,0.2,Cash,Young,Female,Chicago,Robin Harris
+EU5112,6/18/24,USA,be4edd17-3274-4c52-b8f2-3ce69ce760a9,Nike Air Max,Footwear,140.92,9,1268.28,0.2,Debit Card,Young,Female,New York,Angela Rice
+HT9258,1/17/25,USA,ab7dd995-8b61-4fea-8948-c0d670b9afa6,Samsung QLED TV,Electronics,967.43,1,967.43,0.05,Online Payment,Senior,Male,Phoenix,Ricky Johnson
+LB5362,5/21/24,USA,40c7121e-c65a-4026-b841-7a175ed19683,Nike Air Max,Footwear,127.23,1,127.23,0.1,Online Payment,Senior,Female,,Louis Velasquez
+Ky9969,7/26/24,USA,07b3bb67-a03b-4886-b046-f67661a4a8b1,iPhone 14,Electronics,1161.26,6,6967.56,0,Cash,Adult,Male,New York,Charles Poole
+yH7064,8/25/24,USA,d96ea15c-3aca-4cf8-9934-3887fae16caf,Nike Air Max,Footwear,152.14,3,456.42,0.1,Debit Card,Young,Female,Houston,Alex Smith
+pL9603,1/9/25,USA,8345d8ec-491a-441f-8d62-3c8dd0d3d268,KitchenAid Mixer,Home Appliances,476.08,10,4760.8,0.1,Credit Card,Young,Male,Los Angeles,David Michael
+Wt0156,6/16/24,USA,4973dff0-0544-4cc4-bce8-2dbd9db9097c,iPhone 14,Electronics,826.52,1,826.52,0.1,Debit Card,Young,Female,Phoenix,Maurice Reese
+Lv9951,11/6/24,USA,23d61488-14c0-4e1c-8c43-252ae07173c5,Coca-Cola Can,Beverages,,2,1.34,0.05,Online Payment,Young,Female,Phoenix,Kyle Jenkins
+fM7654,7/5/24,USA,a3b8bdd6-a356-4a03-ade2-204e1f437ddb,Nike Air Max,Footwear,155.2,10,1552,0.2,Cash,Young,Female,,Johnny Smith
+Ne2212,4/9/24,USA,f5fb8110-4f80-47c0-8cf7-a85c41cda175,Yeti Tumbler,Outdoor,46.95,3,140.85,0.2,Credit Card,Adult,Male,Phoenix,Todd White
+hc8302,6/2/24,USA,b47408fd-9a79-4e64-9003-53ac8e90f854,KitchenAid Mixer,Home Appliances,314.58,4,1258.32,0,Mobile Wallet,Adult,Male,Los Angeles,Tonya Ward
+if6444,11/19/24,USA,89babcba-4bc0-4569-a5e6-7f7f40c1b639,Levi's 501 Jeans,Apparel,85.55,4,342.2,0.15,Debit Card,Adult,Female,Phoenix,Tracy Watkins
+yu3173,9/2/24,USA,0977f275-e906-42c5-9099-e112e0b23f2d,Doritos Chips,Snacks,3.94,7,27.58,0.1,Debit Card,Young,Male,Houston,Megan Lang
+rF1763,7/24/24,USA,95a4af9e-df92-4a06-9369-c1d2d80724f2,Levi's 501 Jeans,Apparel,61.65,1,61.65,0,Cash,Adult,Female,Houston,Mr. John Wiley
+fZ0158,10/12/24,USA,9eed3a35-d4b6-4609-b8eb-e46467e22482,Nike Air Max,Footwear,177.77,8,1422.16,0.05,Debit Card,Senior,Male,Los Angeles,Antonio Gaines
+fF3292,6/30/24,USA,6a18ec5d-d1ba-4c68-8f42-10510f79ab2f,KitchenAid Mixer,Home Appliances,468.57,1,468.57,0.1,Online Payment,Senior,Female,Los Angeles,Allison Ramirez
+Om9088,6/17/24,USA,4d1a4c2c-3bb9-429e-b010-9a6ec7e54395,Samsung QLED TV,Electronics,1976.57,3,5929.71,0.1,Debit Card,Adult,Male,Houston,James Brown
+Am7436,2/26/25,USA,0fa6a930-033c-4f01-a4b8-96ee0269be44,Doritos Chips,Snacks,4.63,7,32.41,0.15,Debit Card,Adult,Male,Houston,Carrie Cannon
+mY3302,2/1/25,,649eb564-b5e7-4d50-8f6f-d60ce401714e,Doritos Chips,Snacks,4.95,9,44.55,0.2,Credit Card,Adult,Male,Chicago,Amber Acosta
+RX2584,4/26/24,USA,1ed7a085-735f-4209-8a00-077be3fcb630,Nike Air Max,Footwear,192.7,7,1348.9,0,Mobile Wallet,Adult,Female,Los Angeles,David Gonzales
+cQ1502,11/3/24,USA,30573f09-0868-4486-9965-959112ae0cbb,Samsung QLED TV,Electronics,1530.72,5,7653.6,,Mobile Wallet,Adult,Female,Chicago,Patricia Herrera
+kd6143,8/19/24,USA,,Doritos Chips,Snacks,3.88,3,11.64,0.15,Mobile Wallet,Adult,Male,Houston,
+hi7875,,USA,869893e5-0427-4f94-b395-90b76296ac18,Nike Air Max,Footwear,192.25,4,769,0.05,Debit Card,Senior,Male,Los Angeles,Brian Davidson
+Jv8285,,USA,0bbb7c05-1152-423e-8100-df301959b411,Nike Air Max,Footwear,184.23,5,921.15,,Credit Card,Young,Male,,Eric West
+fV9436,3/29/24,USA,12ce6ee4-88f3-4f93-a95a-91ea51c8f1d5,Doritos Chips,Snacks,4.96,,34.72,0,Cash,Adult,Female,New York,Rebecca Lowery
+zs0906,6/12/24,USA,,iPhone 14,Electronics,877.11,4,3508.44,0.05,Debit Card,Young,Female,Phoenix,Sherry Beck
+vG8565,6/25/24,USA,741a2f24-ed22-4ad2-a1ce-e588ae2f3cd6,Coca-Cola Can,Beverages,1.82,,16.38,0.15,Debit Card,Young,Female,New York,Charles Salazar
+Yd8610,3/30/24,USA,f3013f43-d455-4a8b-8480-301b8a03ebe7,The North Face Jacket,Apparel,271.9,5,1359.5,0,Cash,Adult,Female,New York,Nathan Stephenson
+rK3819,11/5/24,USA,2bf343ef-eef2-4fad-baed-590fc35f008b,Coca-Cola Can,Beverages,1.51,2,3.02,0.1,Debit Card,,,Chicago,Tim Tapia
+Yi5563,10/10/24,USA,464f194a-59a5-4214-a280-4ebd5d832989,iPhone 14,Electronics,840.91,10,8409.1,0.1,Credit Card,Young,Male,Phoenix,Martha Wright
+IN9992,12/6/24,,c70e6ebb-f3bc-487b-99d0-ec1b0a85f164,,Apparel,65.56,3,196.68,0.2,Cash,,Female,Houston,Anthony Charles
+SP7594,8/26/24,USA,a82a62ef-6ea2-49ea-9228-76023911f302,The North Face Jacket,Apparel,196.19,5,980.95,0.2,Online Payment,Senior,Male,Phoenix,Mr. David Patterson
+zo8680,4/20/24,USA,87ca8673-999c-40f5-b544-4146d0c8e491,Apple MacBook Pro,Electronics,1683.67,8,13469.36,0,Debit Card,Adult,Male,New York,Lindsey Mcgee
+vT5709,1/13/25,USA,c7f678fb-b0c5-4aaa-8828-85a2fa6d7e6a,Yeti Tumbler,Outdoor,23.48,3,70.44,0.2,Mobile Wallet,Senior,Male,Chicago,Donald Flowers
+VG5413,4/9/24,USA,ce8a41ac-f24a-47cd-8a0e-400d016da672,Yeti Tumbler,Outdoor,47.02,8,376.16,0,Mobile Wallet,Young,Male,Phoenix,Steven Gonzalez
+Wz5869,9/12/24,USA,e113c0d7-004e-498d-a766-fdf2dc33683e,Coca-Cola Can,Beverages,0.91,5,4.55,0,Online Payment,Senior,Male,Chicago,Eric Watkins
+cB2686,8/8/24,USA,f5d6ca6d-fe21-4531-9bbc-4ee8f508fd9c,Apple MacBook Pro,Electronics,1347.02,1,1347.02,0.05,,Adult,Female,Los Angeles,Mary Hutchinson
+Fq7150,8/10/24,USA,9762da2a-f69d-4f33-8ac1-dc58847f7332,Levi's 501 Jeans,Apparel,91.28,4,365.12,0.2,,Senior,Male,Phoenix,Chad Parker
+dB0174,11/10/24,USA,a6b36f5b-b011-4726-93e1-1f5ba7fba0a9,Yeti Tumbler,Outdoor,,8,245.36,0.1,Credit Card,Adult,Male,Houston,Jon Barber
+gy0857,7/1/24,USA,,Yeti Tumbler,Outdoor,22.1,3,66.3,0.2,Online Payment,Senior,Female,Houston,Steve Tucker
+vT7948,12/4/24,USA,37592b77-1523-4544-b978-e5bd0879f679,Nike Air Max,Footwear,147.76,6,886.56,0.15,Credit Card,Young,Male,Houston,Joshua Walker
+MZ8620,8/12/24,USA,63792755-4584-4ea4-b5e1-4b2d36e68f6c,The North Face Jacket,Apparel,188.39,7,1318.73,0.15,Debit Card,Senior,Male,Los Angeles,Janet Gallegos
+aD7064,,USA,ff444697-5e1b-4f68-8a60-5f6ef1d4ebb8,Coca-Cola Can,Beverages,1.72,10,17.2,0.15,Debit Card,Adult,Male,Los Angeles,Brian Chung
+OG1415,4/5/24,USA,b0e4fc21-a8b9-460e-bcee-3281264f03e5,Samsung QLED TV,Electronics,682.21,6,4093.26,0.2,Credit Card,Young,Female,Houston,Kevin Torres
+pE2725,4/18/24,USA,3355dbe6-ee29-4e5d-864b-aed56e45cb28,Coca-Cola Can,Beverages,1.85,6,11.1,0.05,Mobile Wallet,Young,Male,Phoenix,Jamie Fleming
+zC4462,2/5/25,USA,efd046e6-4a12-411b-8134-cda55a1d97a9,Nike Air Max,Footwear,175.09,8,1400.72,0.1,Debit Card,Adult,Female,New York,Samuel Warner
+KF5508,5/31/24,USA,7d666338-21a1-48c3-8e06-1560565b416c,KitchenAid Mixer,Home Appliances,496.98,6,2981.88,0.05,Cash,Young,Female,Houston,Andrea Palmer
+pb4526,7/3/24,USA,e78399a8-05cb-4510-8dc5-35b2d17b2b6f,Levi's 501 Jeans,Apparel,93.61,1,93.61,0,Credit Card,Young,Male,Chicago,Karen Morales
+GX0674,1/1/25,USA,,Coca-Cola Can,Beverages,1.97,2,3.94,0.1,Online Payment,Senior,Male,Phoenix,Michelle Goodwin
+lj3750,1/27/25,USA,524a3ac1-c633-4fdf-9d35-3ad6b7be9062,Apple MacBook Pro,Electronics,1895.48,,17059.32,0.05,Mobile Wallet,Adult,Male,New York,Michael Baker
+fI9669,10/10/24,USA,a8a0af38-65c1-4868-904e-998b7f2dcf1d,KitchenAid Mixer,Home Appliances,416.39,3,1249.17,0,Credit Card,Adult,Male,New York,Nicholas Valdez
+Ra9657,7/29/24,USA,7bf8790f-1159-4aa0-bf49-5758032be221,Levi's 501 Jeans,Apparel,,10,668.1,0.1,Online Payment,Senior,Female,Los Angeles,Linda Cook
+GG1387,1/29/25,USA,407c8a1e-6231-4d0b-a3f2-76f64d0bde6c,Apple MacBook Pro,Electronics,2456.99,2,,0,Cash,,Female,Chicago,Charles Wilson
+ZU4886,7/22/24,USA,92249252-075f-4578-9d44-ecef9f5cf99b,Levi's 501 Jeans,Apparel,66.59,7,466.13,0.05,Mobile Wallet,Young,Male,Chicago,Adam Lopez
+hi1015,1/30/25,USA,,Levi's 501 Jeans,Apparel,57.98,6,347.88,0,Debit Card,Senior,Male,Los Angeles,Christopher Powers MD
+Ld0036,9/18/24,USA,94dfc517-b3d3-4a46-9640-1330449e91b7,The North Face Jacket,Apparel,225.28,4,901.12,0.15,Cash,,Male,Chicago,Jennifer Nelson
+rk9699,12/21/24,USA,99219267-2866-4cac-9e55-6510fd288f54,Nike Air Max,Footwear,104.76,10,,0.1,Online Payment,Senior,Male,Phoenix,Cindy Thompson
+MG4915,5/29/24,USA,4d194177-9b3a-4158-a19a-d6f64d42c599,Levi's 501 Jeans,Apparel,,7,387.17,0.05,Debit Card,Adult,Female,New York,Patrick Grimes
+pd9562,4/18/24,USA,afc3044d-362c-4454-9917-b5d8962f42e1,Doritos Chips,Snacks,4.45,8,35.6,0.2,Online Payment,Young,Male,Phoenix,Krystal Schwartz
+Uq8612,2/11/25,USA,6853763e-231e-4858-a80f-e26a70f71351,iPhone 14,Electronics,904.37,6,5426.22,0.2,Online Payment,Young,Male,Chicago,
+GE8401,10/10/24,USA,9d71b1be-cce2-48d4-b317-d0426d31f2f7,Apple MacBook Pro,Electronics,1656.86,6,9941.16,,Cash,Young,Female,Phoenix,Amber Chapman
+Ho1068,3/17/25,USA,c9f21a5f-717a-43af-a83a-5b4d7d27b697,Nike Air Max,Footwear,166.34,1,166.34,0,Cash,,Male,Houston,Robin Clay
+eV7937,6/30/24,USA,bcea85f8-ebe5-49e8-b83d-99685fedc130,KitchenAid Mixer,Home Appliances,,5,1528.45,0,Cash,Senior,Male,Phoenix,Lynn Rhodes
+Ae8329,5/25/24,USA,857e20a9-b466-4d18-ab1c-279adcf5f00e,Yeti Tumbler,Outdoor,32.56,6,195.36,,Debit Card,Senior,Female,Houston,Katherine Lopez
+Sf3858,3/23/24,USA,df57e80a-e25a-420a-9253-9f1c2dbcf844,Doritos Chips,Snacks,,7,31.01,0.05,,Young,Male,Phoenix,Alejandro Carroll
+DE6059,5/27/24,USA,6f8b6d54-f9e7-4e4b-a342-541564bc28d9,Apple MacBook Pro,Electronics,1658.68,10,,0.1,Credit Card,Young,Male,New York,Megan Powell
+jz4745,7/4/24,USA,197b18f1-69c4-44a1-bf8c-29e4bed64951,Yeti Tumbler,Outdoor,23.9,3,,0.2,Online Payment,Senior,Male,New York,Raymond Lara
+ZB0906,11/14/24,USA,,Apple MacBook Pro,Electronics,1573.7,8,12589.6,0.15,Mobile Wallet,Senior,Female,Phoenix,Rachel Craig
+pX5629,11/5/24,USA,,Apple MacBook Pro,Electronics,1617.53,9,14557.77,0.2,Mobile Wallet,Senior,Female,,Kristy Roberts
+NM1578,8/25/24,USA,1093f826-2e84-408f-893f-4305bdfb27b4,iPhone 14,Electronics,959.37,7,6715.59,0,Cash,Adult,Female,New York,Richard Thompson
+xi3716,1/27/25,USA,23b22dfa-15ca-45dd-bb83-8b76d534e609,Yeti Tumbler,Outdoor,26.4,6,158.4,0,Mobile Wallet,Senior,Male,Los Angeles,John Hoffman
+ub5965,7/3/24,USA,a8f695ea-582c-4e08-8b56-a23bc34f3af3,Samsung QLED TV,Electronics,1088.74,4,4354.96,0,Mobile Wallet,Adult,Male,Chicago,Michael Ford
+RI6317,12/3/24,USA,71ec823d-d379-46eb-95d5-2ff31432c977,Samsung QLED TV,Electronics,1612.39,9,14511.51,0.2,Cash,Adult,Female,Los Angeles,
+BZ5586,10/16/24,USA,f7d33c47-fcef-42b5-8e30-5e7c5a69e0c7,Doritos Chips,Snacks,4.19,10,41.9,0.2,Cash,Senior,Female,Los Angeles,Fernando Mitchell
+xH6356,10/14/24,USA,af65762c-e72a-4bd0-b2ab-279a737c60e1,Yeti Tumbler,Outdoor,27.7,2,55.4,0,Online Payment,Young,Male,Phoenix,Erika Davis
+Xi0273,8/2/24,USA,b884b5c7-a4b2-4176-a81b-04790ec77c38,iPhone 14,Electronics,1067.2,8,8537.6,0.1,,Adult,Male,Phoenix,Bradley Morgan
+Wu9224,9/10/24,USA,218a6d93-7208-40af-aa84-4477aa4e931c,The North Face Jacket,Apparel,252.11,1,252.11,0.1,Debit Card,Senior,Female,Los Angeles,Nancy Terry
+xk7573,9/9/24,USA,0bda1f96-d6fc-42ee-be9c-d39879dde22b,Nike Air Max,Footwear,160.23,3,480.69,0.15,Mobile Wallet,Senior,Female,Phoenix,Phillip Harris
+UI4029,3/26/24,USA,f0c96b71-92c1-4cd3-9da2-594d81a8ab81,Doritos Chips,Snacks,4.77,3,14.31,0.05,Credit Card,,Female,New York,Sarah Yu
+Va8690,12/26/24,USA,6b5548e2-23ac-4b65-b6f4-c9f2aa575734,Yeti Tumbler,Outdoor,20.19,5,100.95,0.1,Cash,Senior,Male,Houston,Christian Kelley
+JU5813,8/4/24,USA,68962192-e2b9-4008-93fc-5a18e9213b31,Coca-Cola Can,Beverages,1.43,7,10.01,0.1,,Adult,Male,New York,Daniel Campbell
+kL5924,2/14/25,USA,b6a6127b-9223-49e7-8671-2931a3bd96af,Samsung QLED TV,Electronics,534.16,3,1602.48,0.2,Debit Card,Young,Female,Chicago,Cassie Walton
+kM0683,6/14/24,USA,b6c3338e-bfe6-4ad7-9511-cc053e71eaa3,The North Face Jacket,Apparel,103.8,3,311.4,0.2,Mobile Wallet,Young,Male,Chicago,Ronald Brown
+GI3334,8/15/24,USA,bf4d0809-0b48-4fbe-bff3-f311406d8a4e,Yeti Tumbler,Outdoor,41.33,7,289.31,0.1,Credit Card,Senior,Male,Chicago,Jeffrey Taylor
+ps8371,8/12/24,USA,034681f5-b07c-4da2-b35b-2b0d484ef27f,Yeti Tumbler,Outdoor,39.34,1,39.34,0,Online Payment,Senior,Female,Phoenix,
+qe0112,2/5/25,USA,c9aee72e-316f-4d5f-9b5f-c6a58ae4904f,Samsung QLED TV,Electronics,548.87,7,3842.09,0.05,Debit Card,Young,Male,New York,Brandon Scott
+mM7501,4/28/24,USA,8d6fb0f3-c377-45f9-ac62-9535db9320e0,Samsung QLED TV,Electronics,1037.98,7,7265.86,0,Mobile Wallet,Young,Male,New York,Lisa Brown
+uM1479,2/17/25,USA,55dd0b27-9322-4066-a8af-9b2fce813338,Yeti Tumbler,Outdoor,20.9,10,209,0.15,Mobile Wallet,Young,,Phoenix,Michael Flynn
+tO9333,12/28/24,USA,334fd618-7f53-4a80-809a-fe3e5acbb1ba,Yeti Tumbler,Outdoor,49.04,9,441.36,0.05,Credit Card,Adult,Male,New York,Matthew Wilkins
+Ey0219,12/21/24,USA,2bcab260-aadf-494a-9592-5358b6a2ea28,The North Face Jacket,Apparel,271.17,3,813.51,0.2,Online Payment,Young,Female,New York,Kristen Moreno
+Bi8522,11/17/24,USA,d9fed2a9-3258-4146-abc8-931ab10a56f9,Yeti Tumbler,Outdoor,26.35,10,263.5,0.05,Online Payment,Senior,Male,Los Angeles,David Frank
+kE5801,5/13/24,USA,4344c817-d14a-4025-9cb1-bfa7ea75970e,iPhone 14,Electronics,1120.7,8,8965.6,0.15,Mobile Wallet,Adult,,Los Angeles,Timothy Carpenter
+Vp8318,8/4/24,USA,aaf93591-88d0-4d02-abde-81d6d74c12f1,iPhone 14,Electronics,1028.61,7,7200.27,0,Credit Card,,Female,Chicago,Brittany Andersen
+yj6957,9/23/24,USA,773b74ca-32df-4775-ae12-ff544bb5a5eb,Coca-Cola Can,Beverages,1.13,3,3.39,0.05,Cash,Senior,Male,Houston,Melissa Obrien
+NZ0705,12/26/24,USA,4690d9e3-75dd-41b1-9e69-e8f7dbad9603,Levi's 501 Jeans,Apparel,99.65,6,597.9,0.1,Online Payment,Adult,Male,Phoenix,Leah Thomas
+YN1291,9/29/24,,5cb04b86-3b4d-4899-b1fe-8f95be4d5af6,Doritos Chips,Snacks,3.12,9,28.08,0.05,Credit Card,Senior,Female,Los Angeles,
+hL1174,6/7/24,USA,f7b5a0a0-5237-47a9-92cb-2fecbdf40a2e,Doritos Chips,Snacks,4.31,1,4.31,0.1,Credit Card,Adult,Female,Los Angeles,John Newman
+Hd6318,10/9/24,,ad40d602-d683-4110-b279-e650921b53e1,KitchenAid Mixer,Home Appliances,324.79,4,1299.16,0.1,Credit Card,Adult,Female,Phoenix,Andrea Norris MD
+OH0161,3/15/25,USA,0094465b-d275-4c85-a517-685011030569,The North Face Jacket,Apparel,186.45,3,559.35,0.1,Cash,Young,Male,Houston,David Williams
+ko0099,8/17/24,USA,336441c8-f3da-4a69-8a2b-0a5049583fe5,Samsung QLED TV,Electronics,606.75,3,1820.25,0.15,Cash,Young,Male,New York,Mark Hatfield
+fB5449,3/18/25,USA,162c4866-6ec1-48c6-a594-832b253fd73c,Levi's 501 Jeans,Apparel,71.32,8,570.56,0,Credit Card,Senior,Male,Phoenix,Jack Fields
+PL3543,8/1/24,USA,6886f1cd-3cb0-4be3-8b2d-e300d6c6db57,,Apparel,80.39,1,80.39,0.05,Online Payment,Adult,Male,Chicago,Elizabeth Sutton
+og4635,12/9/24,USA,e98c997e-03f6-477a-805a-19abfe58fe4e,The North Face Jacket,Apparel,151.87,9,1366.83,0.05,,Adult,Male,Phoenix,Dean Dominguez
+Xw7693,6/23/24,USA,0650b0fd-2a89-4798-98d9-073b1061091e,Apple MacBook Pro,Electronics,1986.52,9,,0.1,Credit Card,Adult,Male,Houston,Ashley White
+rp1414,2/21/25,USA,85cac957-0c2a-4755-92a6-f78f8f48a8a7,,Electronics,1027.75,7,7194.25,0.1,Mobile Wallet,Young,Female,Los Angeles,John Ramirez
+op6158,4/12/24,USA,7ff32b48-15f1-44fc-9386-079ac0abf116,Samsung QLED TV,Electronics,1198.43,10,11984.3,0.05,Credit Card,Senior,,Houston,Jason Price
+dE0914,11/12/24,USA,6af82040-3463-4c48-8ff2-8e0d538cd675,Doritos Chips,Snacks,3.59,3,10.77,0.15,Cash,Young,Female,Los Angeles,Christopher Freeman
+WY7512,7/28/24,USA,faeff479-7458-4981-8376-a263d181265e,Doritos Chips,Snacks,2.88,9,25.92,0,Online Payment,Senior,Female,Phoenix,Stephanie Wilcox
+Di0392,5/29/24,USA,887ce73f-e0ba-4dc8-9cd3-7d31ef125bc8,KitchenAid Mixer,Home Appliances,386.53,9,3478.77,0,Mobile Wallet,Senior,Female,New York,James Valenzuela
+pj7389,9/26/24,USA,08169e7b-8859-4299-83c0-661b31547845,Samsung QLED TV,Electronics,1046.58,10,10465.8,0.15,Debit Card,Young,Female,New York,
+Se0804,5/4/24,USA,39f67657-ae06-4bcb-b8b8-dd8816beea3f,Levi's 501 Jeans,Apparel,54.19,6,325.14,0,Credit Card,Senior,Male,Houston,Casey Edwards
+md8833,5/29/24,USA,cb645b4d-7490-404f-b976-f2efbc35d1fa,,Footwear,167.83,4,671.32,0.2,Cash,Adult,Male,Los Angeles,Christian Erickson
+jv7991,9/10/24,USA,bbbaaf6b-f270-473f-b2a6-93c699df7c8a,Nike Air Max,Footwear,199.28,,1394.96,0.2,Debit Card,Senior,Female,Chicago,Patricia Anderson
+PH0990,2/24/25,USA,0be1fc24-9acc-410b-9791-3acfe08b232c,Apple MacBook Pro,Electronics,1489.3,8,11914.4,0.2,Online Payment,Young,Female,Phoenix,Susan Parsons
+Nf0859,7/2/24,USA,2f9af212-663e-4107-8dd3-bf7af7c4a046,Nike Air Max,Footwear,164.83,,824.15,0.05,Mobile Wallet,Young,Male,Houston,Kara Brown
+RP3953,6/22/24,USA,127ebc42-5a63-44fc-887e-b3d0c7aad1b9,Nike Air Max,Footwear,135.68,5,678.4,0,Cash,Young,Female,Chicago,Lisa Bond
+cV2750,2/27/25,USA,09424dd8-9e3b-4873-81e4-6bdbd408d1da,Nike Air Max,Footwear,198.82,1,198.82,0.15,Mobile Wallet,Senior,Female,,Susan Marshall
+te2930,5/1/24,USA,26de5711-664b-4569-ac14-8c97761072af,iPhone 14,Electronics,1163.02,5,,0.15,Online Payment,Young,Male,Phoenix,Darren Hines
+bS3743,2/3/25,USA,599c926d-30e5-4dd8-9f23-bc9aed80db98,Yeti Tumbler,Outdoor,42.49,,424.9,0.15,Online Payment,Adult,Male,Chicago,Alex Harper
+Io7554,4/23/24,USA,354c324b-b293-48d2-8747-99788acb74ed,Yeti Tumbler,Outdoor,44.69,7,312.83,0.15,Cash,Senior,,New York,Lucas Howell
+IS3127,8/15/24,USA,585439fd-571d-4fdc-9e78-6d65660d2050,Nike Air Max,Footwear,143.09,,286.18,,Cash,Senior,Female,Phoenix,Andrea Bauer DDS
+JG6609,4/6/24,USA,50171fef-5752-4b63-8eb5-af243632d917,Yeti Tumbler,Outdoor,22.12,1,22.12,0.2,,Young,Female,Los Angeles,Morgan Vance
+QM3791,,USA,cbf71e8d-e3a3-4d85-a807-05116d4a3c0a,Apple MacBook Pro,Electronics,2087.17,8,16697.36,0.1,Online Payment,Young,Female,Los Angeles,Darrell Poole
+jP5340,4/3/24,USA,cb87a47a-2cc4-429c-ba7d-ea263cf9fa7e,iPhone 14,Electronics,1137.08,4,4548.32,0.15,Cash,Young,Female,Houston,Jeremy Hale
+zv3479,1/8/25,,771b007b-b941-4783-950c-2781ccaa42f9,Nike Air Max,Footwear,114.38,10,1143.8,0,Cash,Senior,Male,Los Angeles,April Robinson
+rg4786,5/21/24,USA,d20c1c65-ac6d-41ac-b673-0c0fff710dfb,The North Face Jacket,Apparel,289.37,2,578.74,0.1,Cash,Senior,Female,Phoenix,Thomas Morris
+UQ9553,4/27/24,USA,cd4e4aeb-73a7-4731-bc1b-593c69309f54,Apple MacBook Pro,Electronics,1961.15,2,3922.3,0.05,Online Payment,,Female,Chicago,Charles Johnson
+Ih7567,7/17/24,USA,c5318386-ffdd-4e95-9346-fdfa3db83d82,Yeti Tumbler,Outdoor,32.11,6,192.66,0,Online Payment,Adult,Female,Chicago,Randy Castaneda
+En3059,6/10/24,USA,39523c26-fb66-4276-b884-2459e7942be9,Nike Air Max,Footwear,196.85,6,1181.1,0.2,Cash,Adult,Male,,Elizabeth Morales
+qF7996,9/25/24,USA,ce1b1fe5-3cb7-4f80-9fbd-5c139001e119,iPhone 14,Electronics,1149.36,5,5746.8,0,Mobile Wallet,Young,Female,Phoenix,Joe Young
+qb1841,5/30/24,USA,87d7006f-2635-406a-b934-a736607a99f3,iPhone 14,Electronics,1039.01,4,4156.04,0,Cash,Senior,Male,New York,Sabrina Mckinney
+RE0056,6/22/24,USA,58e35b27-22b4-4633-9abb-f89cc8b868c2,iPhone 14,Electronics,1053.09,8,8424.72,,Cash,Young,Male,New York,David Moon
+CS0330,3/24/24,USA,f42ef478-c1c1-4fb4-8b88-07a73c873c49,Coca-Cola Can,Beverages,1.01,3,3.03,0.15,Mobile Wallet,,Male,Chicago,Adrian Parks
+AD2169,12/22/24,USA,b9487686-24ab-46ed-9197-c63d673f3b46,Yeti Tumbler,Outdoor,33.06,2,,0.1,Cash,Senior,Female,Phoenix,Andrew Munoz
+nN5711,10/15/24,USA,5a7fa5b3-8ebb-44e5-b0a1-988ec7a4d530,Yeti Tumbler,Outdoor,45.28,1,45.28,0.2,Credit Card,Senior,Female,Houston,James Ramos
+Uo7500,7/28/24,USA,4e75a797-e71c-4a66-8ad0-12af9a02662e,iPhone 14,Electronics,1123.99,,1123.99,0.2,Debit Card,Adult,Male,Chicago,Michele Williams
+Mr6322,7/19/24,USA,9c299cf7-a159-4743-a1f6-bfc4c850119b,Nike Air Max,Footwear,154.21,1,154.21,0.05,Credit Card,Young,Female,Houston,Jessica Robinson
+Km3989,8/25/24,,1d0ae282-db79-4215-b4cc-4ae9f06fc037,Doritos Chips,Snacks,4.95,7,,0.05,Credit Card,Senior,Male,Chicago,Catherine Joseph
+zC1864,4/28/24,USA,77b5c959-a546-4b90-9433-4c7b32dba6bd,iPhone 14,Electronics,981.7,8,7853.6,0.05,Mobile Wallet,Young,,Chicago,Bryan Hernandez
+Cw5479,5/4/24,USA,d0789cc8-6d3f-436c-9191-e5e6918c55ef,Apple MacBook Pro,Electronics,2417.08,3,7251.24,0.05,Cash,Senior,Female,New York,
+qe9685,1/27/25,USA,a8fb7d00-b3da-467b-8a87-2503a4fc6cf9,The North Face Jacket,Apparel,284.77,6,1708.62,0,Credit Card,Senior,Female,Houston,Kimberly Lopez
+KU8832,6/3/24,USA,10e137b5-7be0-4f1e-ac1e-da787bf1ca2d,Samsung QLED TV,Electronics,1797.66,2,3595.32,0.15,Mobile Wallet,Senior,Male,Los Angeles,
+rA1164,5/5/24,USA,8af8f30e-3163-4e01-9f8c-70be13be0b5c,Samsung QLED TV,Electronics,979.45,2,1958.9,0.15,Cash,Young,Female,Chicago,Mrs. Katrina Roberts MD
+kf3733,5/29/24,USA,7c5bfd7e-860a-45e6-9041-b5692f81e187,Doritos Chips,Snacks,4.64,3,13.92,0,Mobile Wallet,Senior,Male,New York,William Padilla
+np1215,3/3/25,USA,c34c1b44-0fda-4a09-a9d1-68466a6c9a18,Coca-Cola Can,Beverages,,8,5.04,0.1,Credit Card,Adult,Male,Los Angeles,
+Bo4801,7/23/24,USA,1eb114e5-3b1e-45e9-a018-4933da349b77,Apple MacBook Pro,Electronics,1831.15,1,1831.15,0.15,Credit Card,Adult,Male,Houston,Kenneth Jackson
+er9919,10/4/24,USA,70d29c11-152f-4a91-8168-e9b7562fa164,Apple MacBook Pro,Electronics,1543.28,10,15432.8,0.1,Online Payment,,Male,Los Angeles,Gabrielle King
+wB4892,11/23/24,USA,7a4301e2-dc95-42b1-a3cd-0a9459845b50,Coca-Cola Can,Beverages,1.08,4,4.32,0.05,Online Payment,Young,Female,Chicago,Samantha Hernandez
+mP2201,5/31/24,USA,afddc2ce-4e57-4758-92bc-e1e16b6dd0e3,Nike Air Max,Footwear,177.95,3,533.85,0.2,Cash,Senior,,Phoenix,David Jones
+jT9663,,USA,80b400ef-69dd-4cb4-a052-824c055e67fb,Doritos Chips,Snacks,3.26,8,26.08,0.05,Debit Card,Senior,Male,Houston,Bonnie Smith
+pi2254,7/7/24,USA,01ba120a-e8be-4a68-873a-1e31517e4bae,Nike Air Max,Footwear,135.07,1,135.07,,Mobile Wallet,Young,Male,Phoenix,Maurice Hill
+Zo9582,9/9/24,USA,b6a31791-0c64-48d7-b258-59fd3784aee3,KitchenAid Mixer,Home Appliances,398.85,,797.7,0.05,,Adult,Male,Phoenix,Alexa Collins
+he8513,6/22/24,USA,a10e0a35-f010-40ab-aafd-9e7ac4014c2d,KitchenAid Mixer,Home Appliances,297.42,10,2974.2,0.1,Cash,Young,Female,Chicago,Andrea Parks
+uF9321,3/20/24,USA,f5f1553c-e802-402b-a054-c7b2b78ee90a,Levi's 501 Jeans,Apparel,82.67,2,165.34,0,Mobile Wallet,Senior,Female,New York,Sara Rodriguez
+zW1099,5/17/24,USA,9e6993fc-883c-4f01-82ea-d7cb88dd528b,Doritos Chips,Snacks,3.84,3,11.52,0.05,Credit Card,Senior,Male,Chicago,
+lV2459,5/29/24,USA,0aaa13d3-3683-4323-8859-a19d5897331b,iPhone 14,Electronics,861.53,4,3446.12,0.15,Online Payment,Senior,Female,,David Taylor
+rj5308,7/23/24,USA,45794b34-552c-480d-8a6e-e17abe35ac15,Coca-Cola Can,Beverages,0.88,7,6.16,0.1,Mobile Wallet,Senior,Female,Phoenix,Erin Robles
+Jg0678,11/17/24,USA,a0a564c3-f748-483e-83dd-76e8dace2300,The North Face Jacket,Apparel,111.05,3,333.15,0.1,Online Payment,Adult,Male,Phoenix,Melissa Obrien
+RW1908,4/12/24,USA,191069ab-d20c-4833-9438-5b906ca0e034,Nike Air Max,Footwear,167.43,5,837.15,0.05,Debit Card,Adult,Female,Los Angeles,Brittany Foster
+sT4048,9/15/24,,cd93b2ac-81ee-45af-b4e3-eaca9afd7473,iPhone 14,Electronics,1032.51,4,4130.04,0.15,Cash,Adult,Male,New York,Randall Coleman
+yb9927,9/14/24,USA,814af53c-26e4-4b44-87c2-19174d1f9a8f,KitchenAid Mixer,Home Appliances,385.95,5,1929.75,0.15,Debit Card,Young,Male,Houston,Linda Robinson
+Nz9255,7/14/24,USA,2a3fc405-937c-4dab-a5fb-c2593d834b7d,,Electronics,894.18,6,5365.08,,Credit Card,Adult,Male,Los Angeles,Amanda Underwood
+Cn6359,11/1/24,USA,c454837c-b1b8-4a8b-9cba-d885526e3ea7,The North Face Jacket,Apparel,147.94,1,147.94,0.05,Debit Card,Senior,Female,Chicago,Matthew Castillo
+JG1427,5/23/24,USA,97cb8a55-3f6c-4c06-bf0c-860016ebf799,Samsung QLED TV,Electronics,1570.68,2,3141.36,0,Cash,Senior,Male,Phoenix,Elaine Reed
+ei1367,9/6/24,USA,,Yeti Tumbler,Outdoor,47.71,3,143.13,0.15,Cash,Adult,Female,Houston,Shirley Johnson
+Bw0492,6/3/24,,4bbaf3ef-21c9-4361-87e1-7839b5402f8c,Levi's 501 Jeans,Apparel,85.1,1,85.1,0.05,,Senior,Male,Los Angeles,Erika Jones
+HU7959,8/28/24,,a7085d5b-b208-4c8e-8156-f1b5a283c32a,The North Face Jacket,Apparel,159,5,795,0.15,Credit Card,Adult,Male,Houston,Rebecca Macias
+Yd7288,4/18/24,USA,e7532495-c219-41b1-b01d-3532f51f43a2,Nike Air Max,Footwear,181.84,1,181.84,0.15,Credit Card,,Female,Los Angeles,Donna Lewis
+xl0672,7/18/24,USA,1aaea628-354e-4fad-87dc-bcf784addd2f,iPhone 14,Electronics,836.54,2,1673.08,0.05,Mobile Wallet,Young,Male,Los Angeles,Dawn Brooks
+MD2334,5/8/24,USA,eda46140-1547-47c4-bedd-6968431d543f,Doritos Chips,,2.3,2,4.6,0.1,Mobile Wallet,Senior,Male,New York,Julie Bonilla
+lb1135,4/23/24,,6c3ab295-b301-4d5c-b1fe-6a3655ddc502,Levi's 501 Jeans,Apparel,87.47,1,87.47,,Cash,Adult,Female,Los Angeles,Holly Carroll
+nB1047,7/5/24,USA,cafb9dd8-8ae8-487a-86a8-64f59d37638d,KitchenAid Mixer,Home Appliances,394.43,10,3944.3,0.05,,Young,Female,New York,Whitney Salas
+xD2521,11/10/24,USA,74c4c5f1-19f9-4e20-8bec-0b5126e17cca,Coca-Cola Can,Beverages,1.2,4,4.8,0.1,Debit Card,Adult,Female,,Kimberly Palmer
+bi4168,10/8/24,USA,0095b5c2-afdb-46bc-b174-c94c225b97c0,,Snacks,1.9,8,15.2,0.05,Debit Card,Young,,Phoenix,Jesus Larsen
+WG2474,10/12/24,USA,9337cee9-7539-4d26-b745-9b438c3c6008,Doritos Chips,Snacks,4.24,6,25.44,0,Cash,Young,Female,,Richard Tyler
+YW8994,7/23/24,USA,36263502-429a-40d4-9d0f-fef6bc8542e7,The North Face Jacket,Apparel,140.86,1,140.86,0,Debit Card,Adult,Male,Phoenix,Janet Black
+gt5846,3/20/24,USA,b599f3b6-21ab-4b37-806b-0684448e8220,iPhone 14,Electronics,911.78,2,1823.56,0.1,Mobile Wallet,Adult,Female,Los Angeles,Mark Maldonado
+Re7910,2/10/25,USA,ff1b2ecb-9bce-45f5-abf9-3609dce1a374,Nike Air Max,Footwear,159.1,7,,0.1,Online Payment,Senior,Male,Chicago,Barbara Hughes
+Mv1159,11/3/24,USA,886482b4-17cf-4947-8c6a-d29bf6d44767,Coca-Cola Can,Beverages,1.69,3,5.07,0.1,Debit Card,Adult,Male,Phoenix,Jason Frazier
+fP8440,1/19/25,USA,30722cca-bb00-44e8-871d-e7d5fd4a0dbf,KitchenAid Mixer,Home Appliances,446.62,10,4466.2,0.05,Online Payment,Adult,Male,Los Angeles,Erik Cobb
+XC8100,2/20/25,USA,1f8f2613-2381-4a5e-9d3d-a9f19adacb21,Apple MacBook Pro,Electronics,2417.91,5,12089.55,0.2,Online Payment,Young,Male,Phoenix,Robert Wheeler
+nL4873,3/5/25,USA,9f5a50b7-4807-43d6-9abf-8c41f2c35a61,Nike Air Max,Footwear,153.51,1,153.51,0.05,Online Payment,Young,Male,New York,Marcus Garcia
+dO6142,4/29/24,,6af1e284-816d-482e-a961-39bba5259eaf,Nike Air Max,Footwear,145.57,3,436.71,0.2,Cash,Young,Male,Phoenix,David Gross
+Zt9269,8/9/24,USA,430c0f02-7ce2-4d9c-8b9f-71d8895a2d2a,The North Face Jacket,Apparel,117.83,7,824.81,0.15,Mobile Wallet,Adult,Female,Los Angeles,Laura Howell
+SW1015,7/11/24,USA,,Coca-Cola Can,Beverages,1.45,8,11.6,0.1,Credit Card,Young,Male,New York,Leah Berg
+ju7641,12/5/24,USA,3bd589e5-767a-4e5b-a934-d06c9651827e,Apple MacBook Pro,Electronics,1395.08,7,9765.56,0.2,Online Payment,Young,Male,Phoenix,Alyssa Jimenez
+iP6681,,USA,d4cc94f4-2d13-4039-a97e-33d5d2f9de4e,Levi's 501 Jeans,Apparel,64.84,4,259.36,0.2,Credit Card,Young,Male,Los Angeles,
+Ff5922,3/7/25,USA,348400bd-a70b-42e6-9d7f-5c3ac5f1384b,iPhone 14,Electronics,1023.81,5,5119.05,0.15,Online Payment,Adult,Female,Chicago,Randy Bryant
+vz5712,10/27/24,,a7b392ad-1968-4d9b-8c64-fcd72d46e4f2,Coca-Cola Can,Beverages,1.31,8,10.48,0.1,Credit Card,Senior,Male,Chicago,Lori Rodriguez
+No3252,4/18/24,USA,d750bc2a-5894-428b-9e18-78fdff5ca522,iPhone 14,Electronics,1176.58,7,8236.06,0.2,Debit Card,Adult,Female,Los Angeles,Alexandra Lindsey
+zA9031,,USA,0e0c0253-f7ba-4319-ab93-3021f739150f,Levi's 501 Jeans,Apparel,95.4,,95.4,0.15,Mobile Wallet,Young,Female,,Brian Ramirez
+Hb0697,10/9/24,USA,ad552b8f-57e3-4a3e-a77b-6e8a6be966ce,Coca-Cola Can,Beverages,1.04,5,5.2,0.1,Online Payment,Senior,Female,New York,Manuel Ortiz
+PP9053,9/7/24,USA,73e6192a-1dc9-4e32-92db-2acd7bd45d25,Apple MacBook Pro,Electronics,1681.82,4,6727.28,0,Cash,Adult,Female,New York,Erin Brown
+em9678,5/4/24,USA,764f7e43-fd4b-4206-8e8e-a35c9337f25f,,Electronics,1112.52,9,10012.68,0.05,Credit Card,Young,Female,,Stephen Watson
+UX8416,9/29/24,USA,eeb6e323-6cc4-4163-822b-fd23eb77a337,Doritos Chips,Snacks,3.15,8,25.2,0.2,Mobile Wallet,Adult,Female,Chicago,Jennifer Miller
+an9134,7/11/24,USA,62cbaa39-76f3-4cb9-b0d8-6de395c9d643,Doritos Chips,Snacks,2.03,6,12.18,0.15,Cash,Adult,,Los Angeles,James Gates
+Mo7589,12/15/24,USA,952ab916-7f44-41a9-b288-bec61adf1622,Samsung QLED TV,Electronics,1007.46,6,6044.76,0.05,Debit Card,Senior,Female,Chicago,
+Jf6525,4/3/24,USA,d18caf1d-4982-4225-b7d3-45e418a0942e,Coca-Cola Can,Beverages,1.72,10,17.2,0.1,Mobile Wallet,,Female,Los Angeles,
+qz9945,1/10/25,USA,c345e929-1e39-4787-8eaa-5aea3b5a9b97,iPhone 14,Electronics,821.71,6,4930.26,0.1,Mobile Wallet,,Male,Los Angeles,Amy Trujillo
+ZR2552,3/29/24,,e3d2176c-c4df-4fe0-a859-ed516102198a,Levi's 501 Jeans,Apparel,89.9,8,719.2,0.1,Online Payment,Senior,Female,Houston,David Jordan
+yG0025,7/8/24,USA,69ae2d7f-ed1e-4de6-893e-a5c65f048dbe,Samsung QLED TV,Electronics,1243.67,1,1243.67,0.2,Online Payment,Senior,Female,Houston,Francis Adams
+IA5500,8/24/24,USA,10317166-c97b-4d31-84fa-e0ef409e25aa,Samsung QLED TV,Electronics,1409.56,3,4228.68,0,Debit Card,Senior,Female,New York,Robert Moore
+Yl9033,8/9/24,USA,7f7debfc-d7a1-4c64-afbe-31a034ae0621,Apple MacBook Pro,Electronics,1939.53,6,11637.18,0,Credit Card,Senior,Female,Chicago,Christina Peters
+xB1482,8/10/24,USA,5c0f8554-38ce-49b0-8810-98f9ccd7892f,Yeti Tumbler,Outdoor,32.18,3,96.54,0.1,Online Payment,Young,Female,Phoenix,Susan Baxter
+GC1549,10/12/24,USA,1537b6b4-94c0-4a82-af29-6c01f4772b26,Coca-Cola Can,Beverages,0.97,1,0.97,0,Online Payment,Young,Male,New York,Phillip Carpenter
+rP1832,2/3/25,USA,ec491255-eb9e-43e0-8ac5-1ef4a2e99e27,Nike Air Max,Footwear,155.74,9,1401.66,0.05,Credit Card,,Female,Phoenix,Bradley Smith MD
+OR2266,4/2/24,USA,d750243e-0bca-4d67-83de-fb784509b353,Doritos Chips,Snacks,4.17,5,20.85,0.05,Credit Card,Young,Female,Chicago,James Carrillo
+Mm6298,4/30/24,USA,471f5498-482a-4f70-abe1-5b4da35bf656,The North Face Jacket,Apparel,184.4,10,1844,0.15,,Young,Male,Phoenix,Christopher Holt
+TM8388,2/9/25,USA,0aca6211-c6f2-41ab-b454-9ddf98829e01,,Beverages,,1,0.54,0.2,Mobile Wallet,Senior,Male,Houston,John Macdonald
+Bq8661,12/26/24,USA,9ef63bbb-1e45-42be-bb46-6add280d4eff,Doritos Chips,Snacks,4.25,6,25.5,0.15,Credit Card,Young,Female,Los Angeles,Kathleen Christensen
+hd3506,1/27/25,USA,b9811914-a354-4769-bd57-631928318026,iPhone 14,Electronics,1101.2,3,3303.6,0.1,Debit Card,Adult,Female,Chicago,Katelyn Clark
+Yt9501,11/24/24,USA,c2793cf7-b524-4c62-abca-d1c7773d3682,Yeti Tumbler,Outdoor,27.65,3,82.95,0.2,Online Payment,Senior,Male,Chicago,Sandra Rivera
+yS1338,9/4/24,USA,,,Electronics,1022.8,2,2045.6,0.05,Online Payment,Young,Male,New York,Sean Mathews
+vy3439,6/20/24,USA,8a72f8e1-ad15-421b-a62f-db0f32ff5d20,Levi's 501 Jeans,Apparel,99.46,8,795.68,0.15,Credit Card,Adult,Male,Los Angeles,Matthew Brady
+eR8868,4/19/24,USA,03c78161-0f79-4cf9-afff-0b9af71e15f1,Nike Air Max,Footwear,167.26,2,334.52,0,Debit Card,Young,Female,New York,Rachel Lambert
+Bi2927,9/9/24,USA,,iPhone 14,Electronics,1111.42,5,5557.1,0.2,Online Payment,Senior,Male,New York,Thomas Bailey
+dD4798,12/2/24,USA,b654bbd0-d49e-431e-b1e5-6013a1c4eb3e,KitchenAid Mixer,Home Appliances,250.46,4,1001.84,0.2,Online Payment,Senior,Female,Phoenix,Alexander Richardson
+YQ8608,1/6/25,USA,f041e0d0-9820-48c6-9191-e75ed879041b,Coca-Cola Can,Beverages,0.88,5,4.4,0.15,Online Payment,Senior,Female,Houston,Jessica Hunt
+CG6713,10/23/24,USA,,Nike Air Max,Footwear,110.29,9,992.61,0.05,Cash,Adult,Female,New York,Charles Walker
+EM3843,1/29/25,USA,c6fc5b2c-24cf-48f9-9efc-2b076752abff,KitchenAid Mixer,Home Appliances,311.96,7,2183.72,0,Mobile Wallet,Young,Male,Phoenix,Catherine Singleton
+wW5965,2/9/25,USA,00fc8107-57ad-4b34-91ff-fac1c9d00a3e,Samsung QLED TV,Electronics,1873.41,3,5620.23,,Online Payment,Adult,Male,Phoenix,Margaret Copeland MD
+uS6844,,USA,11c801bf-169b-47dd-9970-43ee954b3362,iPhone 14,Electronics,919.83,10,9198.3,0.1,Cash,Adult,Female,Phoenix,Nicole Solomon
+fz1541,2/3/25,USA,65deb8a3-b0fc-4f16-bb4b-5af47363e43d,Yeti Tumbler,Outdoor,41.77,3,125.31,0.15,Cash,Senior,Female,Los Angeles,Jennifer Dunn
+bx2374,2/4/25,USA,5b1598c3-5735-4f35-95a7-193da23fa718,Levi's 501 Jeans,Apparel,93.11,8,744.88,0,Cash,Young,Male,Houston,Erika Neal
+li4856,4/25/24,USA,f9e80c0a-2c12-4189-aa6d-48135adad80d,Samsung QLED TV,Electronics,1461.62,3,,0.1,Cash,Senior,Female,Chicago,James Harrington
+KE5512,9/2/24,USA,80b4b560-9288-421e-8709-e79b3c04b1f5,KitchenAid Mixer,Home Appliances,347.76,4,1391.04,0.2,Debit Card,Young,Female,Chicago,Keith Orozco
+MU3490,,,d76ef054-b4a6-491f-b7e1-66c9e5f02b79,iPhone 14,Electronics,1072.83,3,3218.49,,Credit Card,Young,Male,Phoenix,Sharon Neal
+OF3605,10/16/24,USA,de82cbf1-7368-48d6-a78a-74a5e9a19e5c,Nike Air Max,Footwear,159.32,10,1593.2,0.2,Debit Card,Adult,Female,Phoenix,Allen Thomas
+MV9864,9/16/24,USA,51b47ebf-9821-4e46-878b-0e28bbb72478,Apple MacBook Pro,Electronics,2317.76,10,23177.6,0.2,Debit Card,Senior,Male,Chicago,Scott Murphy
+Ho1312,8/12/24,USA,b2264783-bccc-4e90-962d-a181eacfbe0c,Apple MacBook Pro,Electronics,2327.66,2,4655.32,0.15,Credit Card,Adult,Female,New York,Colleen Johnson
+Uz3420,9/2/24,USA,c10fccae-8ecd-4e54-8ea5-594d50014f00,Nike Air Max,Footwear,180.07,10,1800.7,0.1,,Young,Male,Phoenix,Michael Reeves
+Wk5708,12/15/24,USA,5f539c82-f200-4a54-899f-64143919a6be,Nike Air Max,Footwear,124.96,8,999.68,0.1,Online Payment,,Female,Houston,Kristina Cruz
+jf0396,7/28/24,USA,b26fb3b7-aaae-4cdb-a05f-787f0182d6ed,KitchenAid Mixer,Home Appliances,283.4,1,283.4,0,Credit Card,Young,Female,Phoenix,Dawn Tyler
+tp7118,2/10/25,,677a9651-469e-41cc-9b49-8b07c74df382,The North Face Jacket,Apparel,104.7,10,1047,0.2,Credit Card,Senior,Male,Houston,Lisa Hodge
+wa5384,12/10/24,USA,d92952ad-4cfe-4c76-b430-dd49283a9d70,Nike Air Max,Footwear,140.04,5,700.2,0.1,Mobile Wallet,Adult,Male,Chicago,Richard Solomon
+Dp3082,1/12/25,USA,3dd5d9df-3cd5-449a-8bd1-11901be2ef7b,The North Face Jacket,Apparel,248.65,5,1243.25,0.2,Online Payment,Senior,Male,Houston,Robert Stein
+wz0793,7/14/24,USA,19f75821-0e26-4494-b6e9-7035aa6d7a59,KitchenAid Mixer,Home Appliances,445.11,5,2225.55,0,Online Payment,Adult,Female,New York,Robert Avila
+Od2536,10/31/24,USA,0681ab1a-5cce-4929-be1f-7222c9483493,Levi's 501 Jeans,Apparel,87.31,2,174.62,0.15,Debit Card,Adult,Male,Los Angeles,William Garcia
+uC6061,11/4/24,USA,cbb309d8-e77d-4eac-b7dd-b57f918f42d6,Levi's 501 Jeans,Apparel,92.22,,737.76,0.05,Debit Card,Young,Male,New York,Christine Ramos
+Jx6501,12/10/24,,29b5f5dd-8861-453c-8f64-87796f869124,The North Face Jacket,Apparel,235.13,6,1410.78,0.1,Credit Card,Adult,Male,Houston,Jonathan Johnson
+Qh9418,9/21/24,USA,,iPhone 14,,1160.03,10,11600.3,0,Mobile Wallet,Senior,Female,Phoenix,Samantha Weiss
+zs1408,7/7/24,USA,2a13c7a8-cef1-4fe9-92be-13543dceb9e7,iPhone 14,Electronics,890.52,,2671.56,0,Mobile Wallet,Young,Female,New York,Kimberly Davis
+Ev5701,1/1/25,USA,4273768c-44b8-4422-a409-737bf962d1d1,KitchenAid Mixer,Home Appliances,254.21,3,762.63,0.2,Mobile Wallet,Adult,Female,,Mitchell Todd
+Bd3950,10/5/24,USA,bdbf69c8-7a72-496c-923c-a1292be3f057,Coca-Cola Can,Beverages,1.06,7,7.42,0.15,Mobile Wallet,,Male,Los Angeles,Christine Wilson
+XB9195,7/26/24,USA,,Yeti Tumbler,Outdoor,31.36,3,94.08,0.2,Cash,Adult,Female,Houston,Kayla James
+yR9682,2/20/25,,c0944780-90a6-44e7-a559-65896d0278b6,iPhone 14,Electronics,894.51,,4472.55,0.2,,Senior,Male,New York,Martin Rasmussen
+MZ4278,12/4/24,USA,c98989eb-3e28-47d9-8b99-723959d75890,Levi's 501 Jeans,Apparel,70.87,10,,0,Mobile Wallet,Adult,,Los Angeles,Patrick Rios
+UF5235,1/19/25,USA,72da644a-c3dc-4b7e-ac8f-460a5389c091,KitchenAid Mixer,Home Appliances,278.65,7,1950.55,0.1,Debit Card,Young,Female,Phoenix,Chad Frost
+mY5297,9/20/24,USA,2f27bc57-5e72-4e94-8d94-141c6685d9b8,Nike Air Max,,108.95,10,1089.5,0,Mobile Wallet,Young,Female,Phoenix,Jeffery Ray
+WN0611,12/2/24,USA,77726a27-4e54-4f96-876b-5b8af23d975c,iPhone 14,Electronics,881.24,2,1762.48,0.15,Debit Card,Young,Male,Chicago,David Manning
+cs4060,12/31/24,USA,e5bc3185-e1d2-4ec8-880b-5aa56faeef0f,iPhone 14,Electronics,882.51,1,882.51,0.1,Cash,Young,Male,Phoenix,Alexis Adkins
+QC7763,9/5/24,USA,c281d07e-8691-43b3-9389-cca1b1f74657,Coca-Cola Can,Beverages,1.11,9,9.99,0.2,Cash,Young,Male,Phoenix,Peter Allen
+Xf4794,10/31/24,USA,6ed155a1-7c01-45b4-8db3-2e423b312f5c,Coca-Cola Can,Beverages,0.6,6,3.6,0.05,Online Payment,Adult,Female,New York,Ana Davis
+aG7997,7/1/24,USA,,Coca-Cola Can,Beverages,1.55,5,7.75,0.1,Credit Card,Young,Female,Phoenix,Ruth Gates
+Lc8629,10/8/24,USA,1a3e6817-dda2-470f-a91a-29d53fe05da6,Samsung QLED TV,Electronics,869.59,2,1739.18,0,Cash,Senior,,Los Angeles,Jamie Romero
+YN7432,3/2/25,USA,85a09c25-ef93-4faf-b943-e356ad1ac8cf,Doritos Chips,Snacks,2.56,5,12.8,0.1,Online Payment,Adult,Female,New York,Sarah Hensley
+uw4857,5/13/24,USA,e0e71344-be1d-4abd-8c96-a511c5eb12f8,KitchenAid Mixer,,325.84,3,977.52,0.15,,Young,Female,Phoenix,Brandon Richardson
+vP8581,12/10/24,,714211c2-82d9-4358-82dd-a4382a3bba90,,Outdoor,46.2,3,138.6,0.2,Credit Card,Young,Male,Los Angeles,Tamara Smith
+Xi4452,3/12/25,USA,d971d75e-b912-4390-8d82-56cac060509e,The North Face Jacket,,257.31,10,2573.1,0.05,Mobile Wallet,Senior,Male,Phoenix,Deanna Key
+Ke7479,5/21/24,USA,d2aea71c-ad76-44fa-bf54-d7637b0e7495,Apple MacBook Pro,Electronics,1665.47,2,,0.2,Credit Card,Adult,Female,Chicago,John Walker
+DG5378,10/15/24,USA,8fee60c0-c7f4-4731-9271-7ed749149ef7,The North Face Jacket,Apparel,279.56,5,1397.8,0.1,Debit Card,Adult,Female,Chicago,Amanda Hunt
+FO1026,6/4/24,USA,dd51fbeb-d777-451c-8566-4e9e400212d1,Apple MacBook Pro,Electronics,1302.49,9,11722.41,0.05,Online Payment,Adult,,Chicago,Christina Price
+hn2810,1/16/25,USA,b217ff1c-4a60-4860-951c-64f8a4b50eac,The North Face Jacket,Apparel,259.04,3,777.12,0,,,Male,,Drew Mcdaniel
+vG8089,7/9/24,USA,61d85111-822c-4eb4-a846-f0c6bffebe5f,,,39.73,9,357.57,0,Debit Card,Adult,Male,Chicago,Robin Colon
+LV2925,12/23/24,USA,e1d6baf2-e20d-452f-b9d7-1a94a327a371,Apple MacBook Pro,Electronics,2217.6,10,22176,0.1,Online Payment,Senior,Female,Chicago,Debra Castillo
+rh8224,3/30/24,USA,92361eec-79f1-4536-8adb-2f4c2f90f4ce,iPhone 14,,829.87,4,3319.48,0,Mobile Wallet,Senior,Female,Chicago,Ruth Simpson
+DG3852,5/13/24,USA,570dec2e-7ce1-4d77-baef-0af3293fb36d,Levi's 501 Jeans,Apparel,87.29,2,174.58,,Credit Card,Senior,Male,Phoenix,Shawn Williams
+Xl2711,,USA,379af5fe-60d5-4bce-98b4-486baa1d3a05,Doritos Chips,Snacks,4.37,,8.74,0.05,Credit Card,Senior,Female,Chicago,Timothy Cruz
+Bb7910,2/11/25,USA,371c637a-4199-4155-8db5-a80ec1389655,Apple MacBook Pro,Electronics,2357.4,7,16501.8,0.15,Cash,Adult,Female,Chicago,Michael King
+NT8769,10/17/24,USA,,Coca-Cola Can,Beverages,1.7,6,10.2,0.2,Mobile Wallet,Young,Male,Houston,John Berry
+FF0812,11/22/24,USA,c9d351f5-b943-4e29-8a82-a55fe994b390,iPhone 14,Electronics,1021.76,4,4087.04,0.05,Cash,Senior,Female,Houston,Dawn Daugherty
+Fq3523,3/25/24,USA,9e7b9ce6-c458-459b-8188-7b0ce7b86c63,Doritos Chips,Snacks,3.18,4,12.72,0,Online Payment,Young,Female,New York,Johnny Carr
+xk9067,5/13/24,USA,e282bdc9-9976-4017-8216-df90ea62ff07,Apple MacBook Pro,Electronics,1412.73,7,9889.11,0,Credit Card,Young,Female,Los Angeles,Ms. Sheri Lozano
+sk2640,7/1/24,USA,11231224-9290-4396-9b36-72897f4bf5c5,iPhone 14,Electronics,815.2,3,2445.6,0.1,Cash,Senior,Female,New York,
+MI8527,5/8/24,USA,a2137bdc-d982-4248-bc99-3116b6c03ab8,Doritos Chips,Snacks,4.14,,28.98,,,Adult,Female,Phoenix,David Cardenas
+sG3681,7/16/24,USA,5b993093-8274-4661-a1e5-7dad44d40922,Apple MacBook Pro,Electronics,2474.33,3,7422.99,0,Cash,Young,Male,Chicago,Denise Garner
+qi4567,11/1/24,USA,7eaeba8d-174e-4e40-bff9-2c77871abf0d,Samsung QLED TV,Electronics,1657.63,4,6630.52,0.1,Mobile Wallet,,Male,New York,Larry Rocha
+IH5715,3/25/24,USA,c2258b52-f2f7-4edd-a26a-265016274923,Samsung QLED TV,Electronics,1092.06,3,3276.18,0.2,Debit Card,Adult,Male,Houston,Angela Lee
+Ak5628,10/13/24,USA,8f98c6c4-9806-4f21-a5c4-56ce0ba04b18,Yeti Tumbler,Outdoor,37.66,1,37.66,,Mobile Wallet,Senior,Male,Houston,Michelle Wilcox
+GL3579,2/6/25,USA,96d111ca-a738-4d51-9734-601374f3b437,Coca-Cola Can,Beverages,1.08,7,7.56,0.05,Mobile Wallet,Adult,Male,Phoenix,James Johnson
+yw9056,6/30/24,USA,,,Home Appliances,322.95,10,3229.5,0.1,Mobile Wallet,Young,Male,Chicago,Zachary Yoder
+DY6807,2/26/25,USA,d118b5e2-12af-4093-a0d1-5cb92c0be6ae,Samsung QLED TV,,641.02,5,3205.1,0.05,Online Payment,Young,Female,Chicago,Courtney Wiggins
+Fk9919,7/15/24,USA,,Levi's 501 Jeans,Apparel,77.41,2,154.82,0.05,Cash,Young,Male,Los Angeles,Luke Thompson
+lP1296,1/21/25,,,KitchenAid Mixer,Home Appliances,,3,1072.56,0.15,,Senior,Male,Phoenix,Diana Johnson
+Ih9965,9/10/24,USA,34559dad-918b-4b28-91d4-008cd3f10577,Levi's 501 Jeans,Apparel,56.61,9,509.49,0,Debit Card,Adult,Male,Los Angeles,Andrew Martin
+Dz0623,2/24/25,USA,842571c3-fba2-495c-9424-2abbea2e391b,iPhone 14,Electronics,998.29,4,3993.16,0,Debit Card,Senior,Female,New York,Rebecca Bell
+FM2599,1/30/25,USA,e33a26b9-67b5-4e80-8be8-8a7b5975611a,The North Face Jacket,Apparel,147.51,6,,0.2,Credit Card,Senior,Female,Phoenix,Lisa Greer
+CL6148,6/16/24,USA,9a05115a-90c8-48a7-9c71-16c7dbf96fee,Levi's 501 Jeans,Apparel,87.29,9,785.61,0,Online Payment,Adult,Female,Chicago,Victoria Jimenez DDS
+uT5540,3/26/24,USA,2aac080c-7689-42f6-bd03-a506bdba3267,Nike Air Max,,138.05,9,1242.45,0,Credit Card,Senior,Female,Chicago,Thomas Cross
+Zm4465,4/10/24,USA,474d5c2d-8c0e-4e99-9678-aa8e121f906d,Coca-Cola Can,Beverages,1.04,4,4.16,0.05,Debit Card,Young,Male,Los Angeles,Nancy Osborne MD
+vE8854,8/21/24,USA,95c15ecd-1775-4e96-95d5-58c8098282c7,Samsung QLED TV,Electronics,1848.4,5,9242,0.2,Debit Card,Adult,Female,Houston,Laura Beard
+qC2218,11/12/24,USA,209d45d1-2c6c-47f3-b658-2ab30c1b3d48,Apple MacBook Pro,Electronics,2152.91,3,6458.73,0.2,Credit Card,Senior,Female,Chicago,Jordan White
+xt5188,3/19/25,,ea6fc8f6-eb18-483d-ba83-9a2134e20adf,Apple MacBook Pro,Electronics,2193.49,4,8773.96,0.15,Cash,Adult,Female,Houston,Emily Moore
+ye6086,6/7/24,USA,acfffdb6-780a-4f6a-bb0f-3bd0e5aa7845,Nike Air Max,Footwear,117.05,7,819.35,0.2,Debit Card,Senior,Female,Houston,Mrs. Sarah Hernandez
+bw7814,10/25/24,USA,a307ad3a-fd9a-4a89-a36a-9a311886406e,KitchenAid Mixer,Home Appliances,466.8,10,4668,0.2,Credit Card,Senior,Female,Houston,Michele Jordan
+TB5796,11/26/24,USA,85b69ef9-147f-42f5-a953-7ba3f30d1d28,The North Face Jacket,Apparel,129.83,5,649.15,0,Credit Card,Senior,Male,New York,Tracy Mclaughlin
+pz5105,,USA,,Samsung QLED TV,Electronics,,7,12977.3,0.2,Credit Card,Senior,Female,Houston,Alisha Contreras
+WT1695,6/17/24,USA,e6be258a-77f6-444c-81ac-d8a0715334e2,Coca-Cola Can,Beverages,0.67,4,2.68,0,,Young,Female,Houston,Tina Coleman
+iq0097,2/12/25,USA,,Yeti Tumbler,Outdoor,26.21,9,235.89,0.2,Credit Card,Adult,Male,New York,Doris Rubio
+oy0317,3/20/25,USA,afc85239-5676-4b4a-a758-2f97c5ef9ea5,Coca-Cola Can,Beverages,1.93,5,9.65,0,Debit Card,Adult,Female,Houston,Heather Evans DDS
+en6726,3/7/25,USA,48a6405f-e6e8-40d2-a257-6df93ff0093b,Apple MacBook Pro,Electronics,1401.33,9,12611.97,0.2,Cash,Senior,Female,New York,Elizabeth Gray
+nZ0551,10/14/24,USA,,KitchenAid Mixer,Home Appliances,302.42,4,1209.68,0.1,Online Payment,Young,Female,Chicago,Rebecca Holmes
+fD0497,6/15/24,USA,bd5609c8-498f-47be-8feb-68356759310c,The North Face Jacket,Apparel,171.32,6,1027.92,0.15,,Adult,Female,Los Angeles,Jeremy Landry
+Lm6610,3/30/24,USA,8aaed5e1-9c27-4b53-98bb-42afb4b49d1c,Samsung QLED TV,Electronics,912.84,6,5477.04,0.05,Mobile Wallet,Adult,Female,New York,David Weiss
+wh4435,8/22/24,USA,dfceab6a-c401-4ec3-ba17-99a0d8b6181b,The North Face Jacket,Apparel,,,1995.92,0.1,Credit Card,Adult,Male,Los Angeles,
+Lk5911,7/5/24,USA,3a8b8782-d10f-4c00-8a0b-c27d1b531eca,iPhone 14,Electronics,990.33,4,3961.32,0.2,Cash,Adult,Male,Chicago,Mark Patterson
+QA2369,2/7/25,USA,68e37767-9a1a-46bf-a480-2a1e782098a9,Coca-Cola Can,Beverages,1.15,4,4.6,0.1,Debit Card,Senior,Female,Chicago,Robert Lucas
+tt7085,6/29/24,USA,cdc32103-6eb4-4fa5-8a82-ea4f9114b831,Apple MacBook Pro,Electronics,1696.07,2,3392.14,0,Credit Card,Adult,Male,Chicago,Joshua Noble
+VA1550,3/25/24,USA,e8473dbe-d38d-4e6a-9e5e-2640598c8907,iPhone 14,Electronics,1032.09,5,5160.45,0.1,Online Payment,Young,Female,Los Angeles,
+sL5823,7/12/24,USA,,Nike Air Max,Footwear,131.49,7,920.43,0.15,Credit Card,Senior,Male,Los Angeles,Tyler Rosario
+DA1705,7/12/24,USA,2c707ad3-553b-4142-8bd8-76f17ad197c2,Nike Air Max,Footwear,169.33,1,169.33,0.2,Online Payment,Adult,Male,New York,Amanda Flores
+ek0135,,USA,b1806ef2-3c48-45c5-a202-aa1890f386fd,KitchenAid Mixer,Home Appliances,404.72,2,809.44,0.2,Debit Card,Adult,Male,,John Diaz
+Eh1326,7/5/24,USA,0436ba3b-59f2-4ba7-98d5-17e1b9dfc4fe,Samsung QLED TV,Electronics,572.47,4,2289.88,0.05,Debit Card,Young,Male,,Cameron Huffman MD
+Ur0643,7/23/24,USA,69f94806-2f17-45c6-aee6-90734799b379,Nike Air Max,Footwear,107.67,1,,,Mobile Wallet,Adult,Male,Phoenix,Melissa Berry
+uJ6102,2/23/25,USA,28472132-eaff-4ce7-8057-ecb969f1e859,Apple MacBook Pro,Electronics,2307.39,5,11536.95,0.15,Mobile Wallet,Adult,Female,Los Angeles,Tyler Mcdowell
+me6227,,USA,0491b1d7-fc8a-43e5-9711-c32b402a5eb3,Coca-Cola Can,Beverages,1.71,5,8.55,0,Cash,Senior,Female,Houston,Susan Davis
+Dz9672,2/13/25,USA,e97c82b7-120f-4f81-968f-5d928a86319a,Levi's 501 Jeans,Apparel,90.01,7,630.07,0.15,Mobile Wallet,Senior,Female,Chicago,Elizabeth Fitzgerald
+RQ2111,2/20/25,USA,a201ad57-2bcd-446a-8411-c86f9840d112,The North Face Jacket,Apparel,143.92,2,287.84,0.2,Credit Card,Adult,Female,New York,Christopher Smith
+Sy8501,2/5/25,USA,4ab4856b-e7d4-4f82-b784-41564c41098c,Yeti Tumbler,Outdoor,37.69,9,339.21,0.2,Credit Card,Young,Female,Chicago,Theresa Sanchez
+jm9429,8/31/24,USA,19cd0aac-cb72-4c8f-9d3d-06b97da19e8b,Apple MacBook Pro,Electronics,1348.3,2,2696.6,0.05,Cash,Adult,Female,Phoenix,Caitlin Hernandez
+PQ0905,8/3/24,USA,,Doritos Chips,,1.83,6,10.98,0.15,Debit Card,Young,Male,Phoenix,Kyle Juarez
+BO9436,4/14/24,USA,1bea17b8-0aca-4017-b3ce-131b7ff9fdd0,Apple MacBook Pro,Electronics,1686.31,3,5058.93,0.1,,Young,Male,Los Angeles,Natasha Costa
+Ak1632,2/14/25,,bac762fd-38e6-43b0-86f3-3b832e9a7248,Levi's 501 Jeans,Apparel,52.71,9,474.39,0.05,Cash,Young,Male,Phoenix,Laura Mckinney
+wz8013,10/13/24,USA,a5d3f355-5faa-4234-87c2-d3e05e628c0f,Levi's 501 Jeans,Apparel,61.7,8,493.6,0.1,Cash,Young,Female,Los Angeles,Taylor Yates
+DT0522,4/16/24,USA,8dee11fc-45ff-4e55-a5cd-bc5fdb9298e3,Levi's 501 Jeans,Apparel,84.7,1,84.7,0.15,Online Payment,Adult,Female,Chicago,Rebecca Mullen
+bP1675,12/18/24,USA,12f0d58d-2ada-4efb-9550-c0b7db35c4d3,The North Face Jacket,Apparel,182.46,,912.3,0,Debit Card,Adult,Female,Phoenix,Sharon Houston
+od0009,12/22/24,USA,e1bf1242-10ca-4353-8df0-369fee9b6ee2,Samsung QLED TV,Electronics,1827.88,,10967.28,0.1,Cash,Young,Female,Houston,Erik Wells
+BV0967,6/26/24,USA,7c5d754b-64fb-453d-a240-06ac5dd58291,Yeti Tumbler,Outdoor,47.95,5,239.75,0.05,Online Payment,Senior,Male,Los Angeles,Christopher Sandoval
+tz7030,2/14/25,USA,92fb50ae-0a32-48a7-b594-3b5d9c08a615,Samsung QLED TV,Electronics,610.79,,1832.37,0,Credit Card,Adult,Male,Chicago,Rebecca Petersen
+Ee8117,6/27/24,USA,06403dcc-cb61-4c4d-ba0a-cdaa91979fd3,Apple MacBook Pro,Electronics,1540.97,3,4622.91,0,Cash,Senior,Male,Phoenix,Jorge Roberts
+vN6675,3/14/25,USA,261b0a16-dd90-4d91-9be1-12bba360f731,iPhone 14,Electronics,856.89,8,6855.12,0.1,Debit Card,Adult,Male,New York,Mrs. Robin Moss
+Oc8446,1/8/25,USA,0aa30821-1603-4ed6-9ba4-f89b448e548d,Doritos Chips,Snacks,4.13,4,16.52,0,Credit Card,Young,Male,Chicago,Deborah Lee
+BA6021,12/5/24,USA,06841668-905b-40b0-b221-4e78cbf7e5cd,Samsung QLED TV,Electronics,682,5,,0.1,Online Payment,Adult,Male,Phoenix,Dennis Hawkins
+nl8699,3/26/24,USA,b4d48a37-e438-44c5-9428-1f0165528931,Doritos Chips,Snacks,1.98,10,19.8,0.2,Debit Card,Young,Male,New York,Samantha Rodriguez
+Fh1063,6/17/24,USA,16a8c225-0125-44b2-ab1c-df214e33ee98,Samsung QLED TV,Electronics,1776.76,5,,0.1,Mobile Wallet,Adult,Male,,Steven Hill
+mw2654,10/23/24,USA,081259c2-b2c0-4b7c-88ea-c9d40500060d,KitchenAid Mixer,Home Appliances,,10,3041.6,0,Mobile Wallet,Adult,Male,,Christina Smith
+sQ1057,3/4/25,USA,4d200285-25c3-4a4b-986c-56390a165769,Samsung QLED TV,Electronics,1865,6,11190,0.15,Mobile Wallet,Young,,New York,
+WM4023,2/8/25,USA,c35a2409-d111-4643-aa9a-b24564a9c447,The North Face Jacket,Apparel,181.37,5,906.85,0.1,Credit Card,Adult,Female,Chicago,Ronald Dean
+qK7060,6/25/24,USA,d91f53b1-0b95-45ca-92eb-a3671bf06640,Yeti Tumbler,Outdoor,26.95,9,,0.05,Online Payment,Adult,Male,Los Angeles,Jeffrey Lewis
+pv8627,1/14/25,USA,4ffe48e6-4da2-4563-a58a-2dcc60777deb,Nike Air Max,Footwear,,6,737.82,0,Credit Card,Young,Female,Chicago,Stacy Buckley DVM
+Lg0615,2/25/25,USA,83a02410-2fd5-4b63-8bf1-c5dc10c9ba64,Yeti Tumbler,Outdoor,44.25,5,221.25,0.2,Cash,Young,Female,Chicago,Jennifer Zimmerman
+xS9855,7/30/24,USA,133fc594-6e2c-4f78-81ba-1ecabb000e92,The North Face Jacket,Apparel,198.93,4,795.72,0.2,Cash,Young,Female,Chicago,Todd Boyer
+qP4922,6/2/24,,7082181f-a5e5-4324-8c66-8bc0b6880072,The North Face Jacket,Apparel,294.05,4,1176.2,,Online Payment,Adult,Female,Houston,Linda Powell
+wA8037,3/28/24,USA,04f9b53e-bfeb-461e-88b6-f6e368ca5cb7,Coca-Cola Can,,0.88,5,4.4,0.15,Online Payment,Young,Male,Los Angeles,Deanna Wallace
+zQ2432,7/3/24,USA,0b899932-36b0-485d-a80e-aad0537dae70,Levi's 501 Jeans,Apparel,51.25,8,,0,Credit Card,Young,Female,Phoenix,William Wright
+Mb6179,8/20/24,USA,137fe3ae-1e78-45e6-a4da-b0c6f22c75b3,KitchenAid Mixer,Home Appliances,372.32,3,1116.96,0,,Young,Female,New York,Stephanie Adams
+PC3453,,USA,5cee086c-1439-48a9-a599-ae8381ba2087,,,0.73,6,4.38,0.1,Credit Card,Senior,Female,Houston,Mrs. Jennifer Briggs
+oB2807,,USA,9502406c-4325-4eb3-b5f6-d5f9d786d4f4,The North Face Jacket,Apparel,131.19,3,393.57,0.15,Online Payment,Young,Male,New York,Stephen Willis
+mD9429,5/25/24,USA,6e811f18-8164-406d-8579-93f59a781c69,Apple MacBook Pro,Electronics,2107.37,3,6322.11,0.15,Credit Card,Senior,Male,Chicago,Maria Roberts
+Ci3254,5/22/24,,86930ee1-8c8c-4e77-86a7-203726cb14ac,Samsung QLED TV,Electronics,1229.31,4,4917.24,0,Credit Card,Young,Male,Houston,
+uz3232,12/17/24,USA,684c0bc7-15a7-419c-817e-2591fbff0f8c,KitchenAid Mixer,Home Appliances,372.95,,745.9,0.1,Online Payment,,Female,New York,Marcus Gomez
+sc6228,5/2/24,USA,b23877f4-fe11-44f0-aac0-c6ff717241d2,The North Face Jacket,Apparel,218.24,4,872.96,0.1,Debit Card,Senior,Female,Los Angeles,Jeremy Matthews
+nm1753,11/2/24,USA,b79908f9-bb76-4948-80f1-8630d8cd3aeb,iPhone 14,Electronics,811.34,2,,0.05,Mobile Wallet,Young,Male,Los Angeles,Michael Levine
+Hh7551,1/9/25,USA,026e6f23-3a60-4b6c-a828-8571cb76c90e,Nike Air Max,Footwear,126.3,5,631.5,0,Credit Card,Adult,Male,Phoenix,Erica Anderson
+uw0771,5/4/24,USA,d9176189-5516-4c9a-933b-b853e1c36d10,KitchenAid Mixer,Home Appliances,444.95,9,4004.55,0.05,Mobile Wallet,Young,Female,,Ashley Warren
+Xf5671,11/21/24,USA,a40e974a-1cf9-49bb-afbe-a04bd6b09aa6,KitchenAid Mixer,Home Appliances,423.4,9,3810.6,0,Cash,Senior,Female,Houston,Robert Middleton
+cR3126,10/3/24,USA,f8b38563-6c27-411b-8c89-969c396d2f20,Doritos Chips,Snacks,4.68,10,46.8,0.15,Credit Card,Adult,Female,Houston,Samantha Lucero
+bK7451,1/26/25,USA,e0c74d84-8e7a-4719-9778-66bd651832bc,Doritos Chips,Snacks,4.86,5,24.3,0.1,Debit Card,Young,Female,Phoenix,Christopher Moody
+Kj4697,6/10/24,USA,30b9deea-c983-4f6e-a42c-0042c9790caa,iPhone 14,Electronics,1065.12,3,3195.36,0.2,Online Payment,Young,Male,Chicago,Christy Wallace
+YZ4796,6/12/24,USA,6c96bdaf-949f-4cf3-a687-fcef75570fb3,Nike Air Max,,192.83,5,964.15,0,Cash,Adult,Male,New York,Francisco Carpenter

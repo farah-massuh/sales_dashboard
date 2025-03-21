@@ -1,501 +1,501 @@
-transcation_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,store_representation
-0G5B9HE3E7,1/31/24,Nigeria,206,Cadbury Bournvita,Sweets,3,4,2.2,0.45,Credit Card,Senior,Male,Ibadan,Online
-9GTTOC8LGX,2/4/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,5,0.3,0.04,Credit Card,Adult,Female,Ibadan,Online
-DM3QQ2D0RN,2/1/24,Nigeria,206,Cadbury Bournvita,Sweets,3,2,2.2,0,Mobile Money,Senior,Female,Benin City,Physical Store
-60BHA4PAEB,2/28/24,Nigeria,202,Peak Milk,Dairy,1.5,6,1,0.04,Debit Card,Adult,Male,Abuja,Physical Store
-1RHQOK1S16,2/17/24,Nigeria,207,Fine Tissue,Hygiene,2.8,3,2,0.3,Credit Card,Young,Female,Ibadan,Online
-4IT81PFTXU,1/22/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,5,3.6,0.58,Mobile Money,Adult,Male,Kano,Physical Store
-M9136C4LWP,1/30/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,4,0.3,0.03,Debit Card,Adult,Female,Enugu,Online
-XMPG6H24Q8,1/27/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,10,1,0.21,Mobile Money,Young,Female,Port Harcourt,Physical Store
-SD2PH4VIXB,1/23/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,1,1,0.09,Cash,Adult,Female,Benin City,Online
-CMX1JPXX2C,1/9/24,Nigeria,201,Mama Gold Rice,Food,1.8,3,1.2,0.13,Credit Card,Adult,Male,Kano,Physical Store
-9IW3Y54SJ9,2/13/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,8,3.6,0.85,Debit Card,Senior,Male,Ibadan,Online
-10YTR2VZBL,2/15/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,7,0.3,0.01,Debit Card,Young,Female,Port Harcourt,Online
-80X081SC8Y,2/6/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,3,1,0.15,Mobile Money,Adult,Male,Kano,Physical Store
-59H4X2LYRF,2/22/24,Nigeria,210,Kings Cooking Oil,Food,3.5,4,2.8,0.48,Credit Card,Adult,Male,Enugu,Online
-6SDF5B96UC,2/11/24,Nigeria,210,Kings Cooking Oil,Food,3.5,1,2.8,0.67,Debit Card,Young,Male,Benin City,Online
-PAVMWY8POI,2/27/24,Nigeria,210,Kings Cooking Oil,Food,3.5,3,2.8,0.66,Mobile Money,Young,Female,Kano,Physical Store
-23DB2B6V3I,2/20/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,9,3.5,0.11,Mobile Money,Senior,Male,Benin City,Online
-4W2WN7YH6P,1/13/24,Nigeria,202,Peak Milk,Dairy,1.5,2,1,0.07,Bank Transfer,Young,Female,Abuja,Physical Store
-APMD0SNSOO,2/19/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,7,0.3,0.08,Cash,Young,Male,Benin City,Online
-GCYEFDT0XR,2/15/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,5,1,0.28,Bank Transfer,Adult,Female,Kano,Physical Store
-SSS8I9OMVT,2/3/24,Nigeria,207,Fine Tissue,Hygiene,2.8,5,2,0.46,Debit Card,Senior,Female,Benin City,Online
-ODN4WQUOP1,2/15/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,7,3.5,0.16,Debit Card,Senior,Female,Lagos,Online
-CICNIG8Z8M,1/26/24,Nigeria,201,Mama Gold Rice,Food,1.8,7,1.2,0.28,Bank Transfer,Adult,Female,Port Harcourt,Online
-YMEGT3S4G8,2/13/24,Nigeria,202,Peak Milk,Dairy,1.5,1,1,0.2,Cash,Senior,Female,Enugu,Online
-1V5OU615G8,2/16/24,Nigeria,204,Dangote Sugar,Food,1.2,2,0.9,0.24,Mobile Money,Adult,Female,Abuja,Physical Store
-U91ZXLQC1O,2/15/24,Nigeria,210,Kings Cooking Oil,Food,3.5,7,2.8,0.44,Mobile Money,Senior,Female,Lagos,Physical Store
-U6AS4ERK0M,2/17/24,Nigeria,206,Cadbury Bournvita,Sweets,3,6,2.2,0.29,Credit Card,Adult,Female,Port Harcourt,Online
-FZIFGLEA9U,2/16/24,Nigeria,202,Peak Milk,Dairy,1.5,6,1,0.16,Debit Card,Adult,Female,Benin City,Physical Store
-UJSVAHEJHN,1/6/24,Nigeria,206,Cadbury Bournvita,Sweets,3,8,2.2,0.58,Credit Card,Senior,Male,Kano,Physical Store
-NJD3MKWDEP,1/9/24,Nigeria,201,Mama Gold Rice,Food,1.8,1,1.2,0.17,Credit Card,Adult,Male,Lagos,Online
-5MXH928GDS,1/12/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,6,3.6,0.47,Credit Card,Adult,Male,Abuja,Online
-0J7D3UTXQ3,1/26/24,Nigeria,202,Peak Milk,Dairy,1.5,10,1,0.15,Credit Card,Adult,Male,Ibadan,Physical Store
-JXRRKSCD0E,1/8/24,Nigeria,210,Kings Cooking Oil,Food,3.5,3,2.8,0.3,Mobile Money,Senior,Female,Benin City,Online
-K03YNEZUPX,1/17/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,10,3.5,0.26,Credit Card,Senior,Male,Abuja,Physical Store
-YIQBRKDB9Z,1/3/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,3,0.3,0.08,Mobile Money,Adult,Male,Benin City,Online
-I8HJQJZR7Q,2/22/24,Nigeria,201,Mama Gold Rice,Food,1.8,10,1.2,0.32,Bank Transfer,Young,Male,Kano,Online
-Z0C0KWTRD1,1/27/24,Nigeria,206,Cadbury Bournvita,Sweets,3,5,2.2,0.47,Mobile Money,Young,Male,Benin City,Physical Store
-JIT8VS28DA,2/9/24,Nigeria,207,Fine Tissue,Hygiene,2.8,5,2,0.32,Bank Transfer,Young,Female,Port Harcourt,Online
-V0VVNU6655,2/28/24,Nigeria,210,Kings Cooking Oil,Food,3.5,1,2.8,0.26,Cash,Young,Female,Port Harcourt,Online
-XOVYA3A503,2/17/24,Nigeria,206,Cadbury Bournvita,Sweets,3,5,2.2,0.59,Bank Transfer,Adult,Female,Enugu,Physical Store
-DLEV9W6VG5,2/6/24,Nigeria,201,Mama Gold Rice,Food,1.8,5,1.2,0.28,Credit Card,Senior,Male,Benin City,Online
-FSQOEYS3AN,2/4/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,10,3.6,0.01,Cash,Adult,Female,Ibadan,Online
-7AN5Z88DX1,2/13/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,8,3.5,0.66,Mobile Money,Adult,Female,Ibadan,Physical Store
-9I5JUV9YI3,2/22/24,Nigeria,202,Peak Milk,Dairy,1.5,1,1,0.2,Cash,Adult,Female,Lagos,Physical Store
-6V2XA8VFSR,1/29/24,Nigeria,204,Dangote Sugar,Food,1.2,2,0.9,0.11,Mobile Money,Adult,Male,Benin City,Physical Store
-DHTGUG5Q5N,1/21/24,Nigeria,204,Dangote Sugar,Food,1.2,1,0.9,0.01,Debit Card,Senior,Female,Enugu,Online
-YQ9PZCHHC7,1/15/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,1,3.5,0.83,Bank Transfer,Adult,Male,Ibadan,Online
-0M78EOO5S7,2/25/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,3,0.3,0.03,Credit Card,Adult,Male,Port Harcourt,Online
-NHUVKZVBSW,1/17/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,9,0.3,0.02,Bank Transfer,Adult,Male,Enugu,Online
-FIINC3TIZL,1/26/24,Nigeria,210,Kings Cooking Oil,Food,3.5,4,2.8,0.32,Credit Card,Senior,Male,Benin City,Physical Store
-K1P7LROIOM,1/17/24,Nigeria,210,Kings Cooking Oil,Food,3.5,10,2.8,0.17,Debit Card,Adult,Male,Kano,Online
-ZPB6KT80L9,1/18/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,2,1,0.19,Credit Card,Adult,Female,Enugu,Physical Store
-0ZKMW5B0UG,1/5/24,Nigeria,207,Fine Tissue,Hygiene,2.8,7,2,0.31,Credit Card,Senior,Male,Enugu,Physical Store
-U2UYCVQW3Q,1/14/24,Nigeria,201,Mama Gold Rice,Food,1.8,2,1.2,0.31,Cash,Adult,Female,Kano,Online
-SU81DQ73O9,2/10/24,Nigeria,202,Peak Milk,Dairy,1.5,4,1,0.04,Bank Transfer,Adult,Female,Abuja,Online
-EYCPG08IE0,2/11/24,Nigeria,207,Fine Tissue,Hygiene,2.8,4,2,0.34,Mobile Money,Senior,Female,Benin City,Physical Store
-1F25UOPUBI,2/8/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,6,3.5,0.66,Cash,Senior,Male,Lagos,Online
-J1YW8C546G,1/24/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,3,3.5,0.63,Bank Transfer,Adult,Female,Kano,Online
-J2APCE6A7F,1/13/24,Nigeria,201,Mama Gold Rice,Food,1.8,8,1.2,0.04,Bank Transfer,Young,Female,Kano,Online
-HSMQPN0PUV,2/7/24,Nigeria,210,Kings Cooking Oil,Food,3.5,1,2.8,0.24,Credit Card,Adult,Female,Kano,Physical Store
-8UJ7P9SZIG,1/16/24,Nigeria,201,Mama Gold Rice,Food,1.8,7,1.2,0.36,Cash,Adult,Female,Abuja,Physical Store
-XYV8J2SRC0,2/19/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,3,3.5,0.02,Debit Card,Adult,Male,Abuja,Physical Store
-G8E6UHVOWW,1/5/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,5,3.5,0.46,Debit Card,Young,Male,Benin City,Physical Store
-VIIHG9GPXL,2/9/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,2,1,0.12,Cash,Senior,Female,Ibadan,Online
-COMTPM8IR3,1/24/24,Nigeria,201,Mama Gold Rice,Food,1.8,3,1.2,0.32,Mobile Money,Adult,Female,Ibadan,Physical Store
-4C5IMFBKCG,1/3/24,Nigeria,202,Peak Milk,Dairy,1.5,8,1,0.23,Credit Card,Adult,Female,Kano,Physical Store
-61U4T9JBE5,1/9/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,3,3.6,0.06,Credit Card,Adult,Male,Ibadan,Online
-4ZI2GTPS2M,2/4/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,7,3.5,0.11,Mobile Money,Adult,Female,Lagos,Online
-U1N7IMTOZQ,2/26/24,Nigeria,201,Mama Gold Rice,Food,1.8,8,1.2,0.12,Bank Transfer,Senior,Female,Benin City,Online
-T368721DPH,2/3/24,Nigeria,204,Dangote Sugar,Food,1.2,5,0.9,0.18,Cash,Adult,Male,Ibadan,Online
-Q4WKRNREKN,1/13/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,1,1,0.17,Bank Transfer,Senior,Male,Lagos,Physical Store
-GDB37UEDO9,2/2/24,Nigeria,206,Cadbury Bournvita,Sweets,3,2,2.2,0.31,Cash,Adult,Female,Port Harcourt,Physical Store
-6VDGKWFIAC,2/2/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,1,3.5,0.28,Mobile Money,Young,Male,Abuja,Online
-71Y9Q9E6AB,1/27/24,Nigeria,210,Kings Cooking Oil,Food,3.5,6,2.8,0.01,Credit Card,Adult,Male,Enugu,Online
-BXTP78M1GJ,1/10/24,Nigeria,201,Mama Gold Rice,Food,1.8,3,1.2,0.07,Credit Card,Young,Female,Kano,Physical Store
-91RMREKD97,2/29/24,Nigeria,202,Peak Milk,Dairy,1.5,3,1,0.19,Credit Card,Adult,Female,Benin City,Online
-OZ1738KOYO,2/15/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,6,3.6,0.01,Cash,Adult,Male,Enugu,Online
-52DEJPK3WW,2/1/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,5,3.5,0.29,Cash,Young,Male,Kano,Physical Store
-UGXZG5DTBE,2/29/24,Nigeria,210,Kings Cooking Oil,Food,3.5,9,2.8,0.02,Mobile Money,Senior,Female,Lagos,Physical Store
-IKVLDKU5O6,1/1/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,6,3.5,0.71,Cash,Young,Male,Lagos,Online
-MJXE9KMHJL,2/16/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,2,0.3,0.08,Bank Transfer,Senior,Female,Enugu,Physical Store
-BBYWUIRKG3,1/1/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,10,0.3,0.06,Debit Card,Adult,Male,Abuja,Online
-2WJ1DZMD96,1/9/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,2,3.5,0.37,Bank Transfer,Senior,Male,Enugu,Physical Store
-D3XT8EENCM,2/9/24,Nigeria,201,Mama Gold Rice,Food,1.8,1,1.2,0.17,Mobile Money,Adult,Male,Benin City,Online
-CBCEZR6BHT,1/12/24,Nigeria,206,Cadbury Bournvita,Sweets,3,2,2.2,0.43,Bank Transfer,Senior,Female,Ibadan,Physical Store
-PUSSU6N02V,1/24/24,Nigeria,204,Dangote Sugar,Food,1.2,10,0.9,0.08,Mobile Money,Adult,Male,Kano,Physical Store
-AQWC59N8JX,1/14/24,Nigeria,210,Kings Cooking Oil,Food,3.5,6,2.8,0.1,Bank Transfer,Young,Male,Kano,Online
-9A8J298OF8,1/30/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,9,3.5,0.9,Credit Card,Senior,Female,Abuja,Physical Store
-586ULKRY84,3/1/24,Nigeria,202,Peak Milk,Dairy,1.5,5,1,0.19,Cash,Adult,Female,Enugu,Physical Store
-V89GDB10G3,2/29/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,6,3.6,0.52,Mobile Money,Adult,Male,Enugu,Physical Store
-P2KVLTBTPO,2/3/24,Nigeria,207,Fine Tissue,Hygiene,2.8,8,2,0.52,Credit Card,Adult,Female,Port Harcourt,Online
-GBZHAOBY3Y,1/4/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,9,0.3,0.03,Credit Card,Adult,Male,Port Harcourt,Physical Store
-6I1R4WIO7B,2/3/24,Nigeria,204,Dangote Sugar,Food,1.2,10,0.9,0.19,Bank Transfer,Young,Male,Enugu,Online
-0MCMC52NUS,1/12/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,6,3.5,0.36,Cash,Senior,Male,Kano,Physical Store
-VH0ZCMBFSL,2/11/24,Nigeria,204,Dangote Sugar,Food,1.2,2,0.9,0.06,Credit Card,Adult,Male,Kano,Physical Store
-S1D9JLJ2OQ,1/7/24,Nigeria,201,Mama Gold Rice,Food,1.8,1,1.2,0.24,Bank Transfer,Senior,Female,Benin City,Online
-CU3F6V0EBF,2/17/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,1,3.5,0.62,Mobile Money,Adult,Female,Kano,Online
-2H9N4PVLQD,1/20/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,1,0.3,0,Credit Card,Young,Male,Benin City,Physical Store
-SCU7VEGY3P,1/26/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,6,1,0.05,Credit Card,Senior,Male,Lagos,Online
-AHSZNQG8PK,1/10/24,Nigeria,201,Mama Gold Rice,Food,1.8,2,1.2,0.04,Credit Card,Adult,Female,Abuja,Online
-NS2WTEV8ER,1/23/24,Nigeria,201,Mama Gold Rice,Food,1.8,1,1.2,0.29,Debit Card,Young,Female,Ibadan,Online
-YA1FRLFDR4,1/1/24,Nigeria,202,Peak Milk,Dairy,1.5,5,1,0.14,Bank Transfer,Adult,Male,Benin City,Physical Store
-00FN586MFL,2/19/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,5,3.5,0.32,Bank Transfer,Adult,Female,Lagos,Online
-6XJZ02N3K8,1/8/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,9,3.6,0.06,Debit Card,Adult,Male,Port Harcourt,Physical Store
-KVYJPOHJY8,2/5/24,Nigeria,207,Fine Tissue,Hygiene,2.8,10,2,0.17,Cash,Senior,Male,Benin City,Online
-L3RDMZVYZ7,2/7/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,4,0.3,0.04,Mobile Money,Senior,Female,Port Harcourt,Online
-73VHK3LQFB,2/27/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,7,3.5,0.38,Mobile Money,Young,Female,Kano,Physical Store
-CGER7S7X5H,2/22/24,Nigeria,207,Fine Tissue,Hygiene,2.8,8,2,0.09,Debit Card,Senior,Female,Port Harcourt,Physical Store
-GQDISJFILD,1/6/24,Nigeria,202,Peak Milk,Dairy,1.5,3,1,0.27,Mobile Money,Senior,Male,Ibadan,Online
-PQU0Q1Y2J1,1/6/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,9,1,0.13,Credit Card,Adult,Male,Abuja,Online
-507Q2VY38P,2/4/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,9,0.3,0.09,Debit Card,Adult,Male,Abuja,Physical Store
-X0Z3UMD599,1/1/24,Nigeria,201,Mama Gold Rice,Food,1.8,10,1.2,0.28,Credit Card,Senior,Male,Enugu,Online
-H1A0XUYLST,1/19/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,5,3.5,0.43,Bank Transfer,Adult,Male,Abuja,Physical Store
-Z3DQPBHCM7,1/6/24,Nigeria,202,Peak Milk,Dairy,1.5,5,1,0.2,Cash,Young,Female,Enugu,Physical Store
-9KRF7E88A1,1/18/24,Nigeria,207,Fine Tissue,Hygiene,2.8,6,2,0.47,Cash,Senior,Male,Benin City,Online
-6Y0M26VAVR,2/12/24,Nigeria,207,Fine Tissue,Hygiene,2.8,2,2,0.51,Credit Card,Senior,Female,Lagos,Physical Store
-3T61WMTFLX,1/23/24,Nigeria,201,Mama Gold Rice,Food,1.8,3,1.2,0.11,Debit Card,Adult,Female,Abuja,Physical Store
-IT26AJELGI,1/22/24,Nigeria,201,Mama Gold Rice,Food,1.8,8,1.2,0.33,Bank Transfer,Young,Male,Ibadan,Online
-NG4WJA2W8U,2/17/24,Nigeria,201,Mama Gold Rice,Food,1.8,5,1.2,0.29,Credit Card,Young,Male,Abuja,Physical Store
-LCRLEC2BYT,1/27/24,Nigeria,202,Peak Milk,Dairy,1.5,6,1,0.24,Cash,Adult,Male,Kano,Physical Store
-8ISANMVJNJ,2/3/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,5,1,0.1,Bank Transfer,Adult,Male,Lagos,Online
-QYK0WD7LOW,1/9/24,Nigeria,204,Dangote Sugar,Food,1.2,1,0.9,0.18,Credit Card,Senior,Female,Lagos,Physical Store
-WN5ZZO5L7Q,2/16/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,3,1,0.1,Credit Card,Adult,Male,Lagos,Online
-JWP33U35WY,2/19/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,10,1,0.16,Mobile Money,Adult,Male,Ibadan,Online
-217ILYTVOT,1/27/24,Nigeria,204,Dangote Sugar,Food,1.2,9,0.9,0.13,Mobile Money,Senior,Male,Lagos,Physical Store
-5EYT759UTZ,2/6/24,Nigeria,204,Dangote Sugar,Food,1.2,10,0.9,0.17,Mobile Money,Adult,Female,Lagos,Physical Store
-8BVHE5Y83J,1/27/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,9,3.5,0.63,Mobile Money,Young,Male,Lagos,Physical Store
-EU2JPIJXQ4,2/16/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,5,1,0.02,Cash,Adult,Female,Enugu,Online
-ZTSGRGM412,3/1/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,8,3.6,0.9,Credit Card,Adult,Female,Benin City,Online
-32KKOWHBWY,1/10/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,10,3.6,0.84,Debit Card,Adult,Male,Enugu,Physical Store
-XPFQN0EAQP,1/20/24,Nigeria,204,Dangote Sugar,Food,1.2,7,0.9,0.05,Debit Card,Young,Male,Ibadan,Online
-TMRY5IAB4D,2/6/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,10,0.3,0.01,Bank Transfer,Adult,Female,Lagos,Physical Store
-2F6AZB4BQG,1/26/24,Nigeria,201,Mama Gold Rice,Food,1.8,9,1.2,0.34,Mobile Money,Adult,Male,Ibadan,Online
-G9OYGFNVQL,2/29/24,Nigeria,201,Mama Gold Rice,Food,1.8,5,1.2,0.03,Mobile Money,Adult,Male,Ibadan,Online
-EUU0RHXVSB,1/8/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,10,3.6,0.33,Debit Card,Adult,Male,Benin City,Physical Store
-12L59Q2U8J,1/4/24,Nigeria,207,Fine Tissue,Hygiene,2.8,5,2,0.05,Cash,Adult,Female,Abuja,Online
-OWXPG5I14S,2/9/24,Nigeria,210,Kings Cooking Oil,Food,3.5,8,2.8,0.36,Mobile Money,Senior,Female,Abuja,Physical Store
-NLAFS306PA,1/13/24,Nigeria,207,Fine Tissue,Hygiene,2.8,3,2,0.04,Debit Card,Adult,Male,Lagos,Physical Store
-VDWSJCOW1B,2/22/24,Nigeria,204,Dangote Sugar,Food,1.2,3,0.9,0.05,Cash,Senior,Female,Lagos,Physical Store
-1XTMCD0EOL,2/7/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,9,3.6,0.54,Cash,Adult,Male,Abuja,Physical Store
-MZNG2GHACH,2/26/24,Nigeria,207,Fine Tissue,Hygiene,2.8,4,2,0.48,Cash,Adult,Male,Kano,Physical Store
-VXM7P17BR0,2/2/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,1,3.6,0.67,Cash,Senior,Female,Kano,Physical Store
-XLSX4857K2,2/3/24,Nigeria,204,Dangote Sugar,Food,1.2,3,0.9,0.21,Credit Card,Adult,Female,Enugu,Online
-C5A1T5UTY3,2/25/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,3,3.6,0.44,Mobile Money,Senior,Female,Lagos,Online
-Q3AK5XC8FA,2/8/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,9,1,0.21,Bank Transfer,Young,Male,Kano,Online
-QEUD2FSSZ4,2/12/24,Nigeria,202,Peak Milk,Dairy,1.5,9,1,0.04,Debit Card,Senior,Female,Kano,Physical Store
-570AD6HYJJ,1/14/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,10,0.3,0.08,Bank Transfer,Senior,Male,Port Harcourt,Physical Store
-7Y57F30JME,1/10/24,Nigeria,207,Fine Tissue,Hygiene,2.8,7,2,0.27,Bank Transfer,Young,Male,Ibadan,Physical Store
-VEVY2APNFU,2/3/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,1,3.6,0.01,Mobile Money,Senior,Female,Kano,Online
-TT1JYK3WJG,1/9/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,9,3.5,0.85,Mobile Money,Adult,Female,Enugu,Online
-7U7P60AIOT,1/1/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,6,1,0.25,Cash,Young,Male,Port Harcourt,Physical Store
-SP1M8NVKHF,2/22/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,5,1,0.25,Bank Transfer,Senior,Male,Abuja,Online
-W2KVUG4G4V,2/17/24,Nigeria,201,Mama Gold Rice,Food,1.8,5,1.2,0.22,Credit Card,Adult,Male,Port Harcourt,Physical Store
-ZPH7JWXZYJ,1/26/24,Nigeria,210,Kings Cooking Oil,Food,3.5,3,2.8,0.26,Cash,Adult,Male,Ibadan,Physical Store
-258O9MXUYD,1/6/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,2,0.3,0.02,Credit Card,Adult,Male,Enugu,Physical Store
-NYJFH85GVH,1/16/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,5,0.3,0,Debit Card,Senior,Female,Enugu,Physical Store
-HZ8RPE9GMU,2/26/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,1,3.5,0.21,Credit Card,Senior,Male,Lagos,Online
-RXMEGNKIOX,2/27/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,2,3.5,0.39,Mobile Money,Adult,Female,Kano,Online
-7QXJPORNLR,2/19/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,7,3.5,0.06,Debit Card,Adult,Male,Ibadan,Online
-MQFVRQN862,1/8/24,Nigeria,204,Dangote Sugar,Food,1.2,6,0.9,0.06,Cash,Adult,Female,Port Harcourt,Physical Store
-8KTOJ46OVI,2/18/24,Nigeria,207,Fine Tissue,Hygiene,2.8,1,2,0.19,Bank Transfer,Adult,Female,Port Harcourt,Physical Store
-LVSHS1PLW0,1/3/24,Nigeria,202,Peak Milk,Dairy,1.5,1,1,0.28,Mobile Money,Adult,Male,Port Harcourt,Physical Store
-1P9CV4I6UW,1/6/24,Nigeria,201,Mama Gold Rice,Food,1.8,5,1.2,0.1,Cash,Senior,Female,Benin City,Online
-YWNX5QT0IB,2/20/24,Nigeria,204,Dangote Sugar,Food,1.2,10,0.9,0.21,Debit Card,Senior,Female,Port Harcourt,Physical Store
-5ANE5Z3YFD,2/5/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,9,0.3,0.01,Credit Card,Adult,Male,Enugu,Physical Store
-WSQ3ZI7Y9H,1/9/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,3,0.3,0.09,Bank Transfer,Young,Male,Port Harcourt,Online
-LBAQMI26HD,1/31/24,Nigeria,201,Mama Gold Rice,Food,1.8,5,1.2,0.12,Bank Transfer,Adult,Female,Enugu,Online
-BA9W6GYAO4,2/19/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,10,3.5,0.37,Mobile Money,Young,Female,Port Harcourt,Online
-QHLZTLMN1A,2/4/24,Nigeria,207,Fine Tissue,Hygiene,2.8,5,2,0.12,Cash,Adult,Female,Benin City,Physical Store
-TXIKKVGQ1X,1/12/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,5,0.3,0.08,Credit Card,Senior,Male,Enugu,Physical Store
-94EC3WX9H6,1/8/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,9,1,0,Mobile Money,Adult,Female,Benin City,Online
-YKA0MXL9RK,2/8/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,2,3.6,0.47,Debit Card,Senior,Male,Port Harcourt,Online
-REWXVILG2Q,2/19/24,Nigeria,202,Peak Milk,Dairy,1.5,5,1,0.07,Credit Card,Young,Female,Port Harcourt,Online
-LAR3WTBQU0,2/18/24,Nigeria,201,Mama Gold Rice,Food,1.8,10,1.2,0.11,Mobile Money,Senior,Male,Benin City,Physical Store
-446Q93JHGD,1/6/24,Nigeria,206,Cadbury Bournvita,Sweets,3,4,2.2,0.29,Debit Card,Adult,Male,Lagos,Online
-YX3V3ZOZHX,1/11/24,Nigeria,210,Kings Cooking Oil,Food,3.5,2,2.8,0.59,Debit Card,Senior,Male,Ibadan,Physical Store
-UZ3XJ1Q67V,2/23/24,Nigeria,202,Peak Milk,Dairy,1.5,2,1,0.12,Credit Card,Young,Female,Port Harcourt,Online
-9G4067H98U,2/24/24,Nigeria,202,Peak Milk,Dairy,1.5,1,1,0.14,Debit Card,Adult,Male,Ibadan,Physical Store
-TOFDLEZKQC,2/8/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,4,3.5,0.77,Mobile Money,Senior,Male,Benin City,Physical Store
-8I6MX15IPE,1/12/24,Nigeria,204,Dangote Sugar,Food,1.2,9,0.9,0.17,Cash,Young,Male,Abuja,Online
-4D6LIC2H5I,1/26/24,Nigeria,210,Kings Cooking Oil,Food,3.5,9,2.8,0.48,Debit Card,Senior,Female,Abuja,Online
-4J63JXUZS8,1/31/24,Nigeria,210,Kings Cooking Oil,Food,3.5,4,2.8,0.04,Cash,Senior,Female,Abuja,Online
-NS9837DJSH,2/7/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,3,0.3,0.1,Mobile Money,Adult,Female,Port Harcourt,Online
-8TC2GI6O97,2/28/24,Nigeria,207,Fine Tissue,Hygiene,2.8,1,2,0.09,Bank Transfer,Senior,Female,Enugu,Physical Store
-S3P5ADI3AZ,1/29/24,Nigeria,207,Fine Tissue,Hygiene,2.8,6,2,0.31,Mobile Money,Senior,Male,Enugu,Online
-N23QPAZBSY,1/18/24,Nigeria,210,Kings Cooking Oil,Food,3.5,6,2.8,0.12,Credit Card,Adult,Male,Benin City,Online
-PFW4N3UTAU,2/1/24,Nigeria,204,Dangote Sugar,Food,1.2,3,0.9,0.17,Mobile Money,Young,Male,Ibadan,Online
-96CWIFRFSZ,2/25/24,Nigeria,210,Kings Cooking Oil,Food,3.5,8,2.8,0.57,Debit Card,Senior,Female,Lagos,Online
-ME8DOVWA9R,2/14/24,Nigeria,207,Fine Tissue,Hygiene,2.8,5,2,0.01,Credit Card,Senior,Male,Enugu,Physical Store
-HV40GH61DJ,2/16/24,Nigeria,201,Mama Gold Rice,Food,1.8,9,1.2,0.33,Credit Card,Adult,Female,Port Harcourt,Physical Store
-GFSQYF4BVF,2/10/24,Nigeria,210,Kings Cooking Oil,Food,3.5,6,2.8,0.19,Mobile Money,Adult,Male,Lagos,Physical Store
-LMAXGEENQ3,1/29/24,Nigeria,207,Fine Tissue,Hygiene,2.8,2,2,0.5,Mobile Money,Young,Male,Port Harcourt,Physical Store
-XKYHBH7WTZ,2/22/24,Nigeria,201,Mama Gold Rice,Food,1.8,8,1.2,0.13,Debit Card,Adult,Male,Enugu,Online
-ID1TD5VTWM,2/21/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,5,0.3,0.04,Bank Transfer,Adult,Male,Enugu,Online
-T6L55ZS55C,1/18/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,7,3.5,0.12,Bank Transfer,Adult,Female,Lagos,Online
-N3DSMQFZTB,1/21/24,Nigeria,207,Fine Tissue,Hygiene,2.8,1,2,0.32,Bank Transfer,Adult,Male,Port Harcourt,Online
-AVVOXCSFKF,2/24/24,Nigeria,202,Peak Milk,Dairy,1.5,2,1,0.07,Mobile Money,Senior,Male,Lagos,Physical Store
-FWWWUGO0J9,1/13/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,5,3.6,0.59,Mobile Money,Adult,Male,Ibadan,Online
-7Z8REB2LJB,1/18/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,6,0.3,0.03,Credit Card,Senior,Male,Port Harcourt,Online
-1PJTP4GEO8,2/11/24,Nigeria,204,Dangote Sugar,Food,1.2,9,0.9,0.05,Mobile Money,Senior,Female,Port Harcourt,Physical Store
-U1RGMPHLGS,1/4/24,Nigeria,204,Dangote Sugar,Food,1.2,9,0.9,0.07,Cash,Young,Female,Benin City,Online
-RM3ZALHCWD,1/24/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,4,0.3,0.07,Bank Transfer,Adult,Male,Abuja,Physical Store
-2SBFR20WQ7,2/27/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,5,3.5,0.78,Bank Transfer,Adult,Female,Abuja,Physical Store
-U12RD9DS5W,2/25/24,Nigeria,201,Mama Gold Rice,Food,1.8,8,1.2,0.23,Bank Transfer,Senior,Male,Kano,Online
-UM5LFBI7PE,2/25/24,Nigeria,204,Dangote Sugar,Food,1.2,1,0.9,0.07,Cash,Young,Female,Ibadan,Online
-C5F1VT8UL8,1/9/24,Nigeria,202,Peak Milk,Dairy,1.5,6,1,0.1,Credit Card,Adult,Male,Port Harcourt,Physical Store
-7LWF5RUT93,2/6/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,1,3.6,0.8,Credit Card,Adult,Female,Lagos,Online
-7G0OI0R23Q,1/28/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,1,3.5,0.7,Bank Transfer,Young,Female,Kano,Online
-KOFZY6RN50,1/11/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,8,0.3,0.07,Cash,Adult,Male,Port Harcourt,Online
-2SEWZBLXQQ,1/11/24,Nigeria,204,Dangote Sugar,Food,1.2,6,0.9,0.19,Debit Card,Adult,Male,Abuja,Physical Store
-LVVPQ79K47,1/13/24,Nigeria,204,Dangote Sugar,Food,1.2,5,0.9,0.07,Mobile Money,Young,Female,Abuja,Physical Store
-RQ1QGSZU2H,1/2/24,Nigeria,202,Peak Milk,Dairy,1.5,5,1,0.16,Bank Transfer,Adult,Male,Abuja,Online
-7T7DXQCQW0,1/6/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,5,3.6,0.1,Bank Transfer,Young,Female,Kano,Online
-9OAO1RNUAO,1/4/24,Nigeria,207,Fine Tissue,Hygiene,2.8,10,2,0.17,Cash,Young,Female,Benin City,Physical Store
-UAJQPRX0AO,1/16/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,5,1,0.08,Credit Card,Young,Male,Benin City,Online
-FCQ7UPF8DZ,2/5/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,2,3.6,0.28,Bank Transfer,Young,Female,Lagos,Online
-6LNG2GGJR5,1/24/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,10,1,0.13,Mobile Money,Young,Female,Lagos,Online
-OLRPLIQMBO,1/10/24,Nigeria,204,Dangote Sugar,Food,1.2,2,0.9,0.13,Debit Card,Senior,Female,Abuja,Physical Store
-FN94Z4XKMT,1/5/24,Nigeria,206,Cadbury Bournvita,Sweets,3,5,2.2,0.3,Bank Transfer,Young,Male,Ibadan,Online
-6ET9CJUVIG,2/3/24,Nigeria,201,Mama Gold Rice,Food,1.8,3,1.2,0.27,Cash,Young,Male,Lagos,Online
-UTWJLX7VYP,1/28/24,Nigeria,202,Peak Milk,Dairy,1.5,8,1,0.01,Credit Card,Senior,Female,Lagos,Online
-IZBABDHCXO,1/7/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,8,3.5,0.48,Cash,Young,Male,Lagos,Online
-DBFEX78DS6,2/7/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,8,1,0.06,Bank Transfer,Adult,Female,Kano,Online
-VW3LFEZK84,1/4/24,Nigeria,206,Cadbury Bournvita,Sweets,3,4,2.2,0.11,Cash,Young,Male,Benin City,Online
-DUF2RD3YS6,2/29/24,Nigeria,201,Mama Gold Rice,Food,1.8,6,1.2,0.23,Credit Card,Adult,Female,Kano,Physical Store
-IUJ6C40MIA,2/18/24,Nigeria,210,Kings Cooking Oil,Food,3.5,7,2.8,0.16,Bank Transfer,Senior,Male,Kano,Online
-N3IGEMF97E,2/25/24,Nigeria,204,Dangote Sugar,Food,1.2,7,0.9,0.13,Credit Card,Young,Male,Port Harcourt,Physical Store
-4SX1S0PRWA,1/19/24,Nigeria,204,Dangote Sugar,Food,1.2,4,0.9,0.18,Mobile Money,Young,Male,Ibadan,Online
-SHR2BXCDBE,1/21/24,Nigeria,206,Cadbury Bournvita,Sweets,3,8,2.2,0.01,Mobile Money,Senior,Male,Kano,Physical Store
-NLMHV8SGHF,1/8/24,Nigeria,206,Cadbury Bournvita,Sweets,3,2,2.2,0.39,Credit Card,Adult,Male,Port Harcourt,Online
-5J76T6BZW1,1/24/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,10,1,0.1,Bank Transfer,Young,Male,Enugu,Online
-G4U3T7HDL4,2/26/24,Nigeria,202,Peak Milk,Dairy,1.5,3,1,0.16,Bank Transfer,Adult,Male,Abuja,Physical Store
-0AHL4ERPSP,1/14/24,Nigeria,204,Dangote Sugar,Food,1.2,2,0.9,0.23,Cash,Adult,Male,Enugu,Online
-BVIX2OHEX6,1/24/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,5,3.5,0.24,Debit Card,Adult,Male,Port Harcourt,Online
-YUQIDX3Y1G,1/31/24,Nigeria,204,Dangote Sugar,Food,1.2,6,0.9,0.08,Cash,Young,Female,Ibadan,Physical Store
-VODYI9OLWK,2/12/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,6,3.5,0.14,Debit Card,Adult,Male,Lagos,Physical Store
-H7I9NZLC5H,1/26/24,Nigeria,202,Peak Milk,Dairy,1.5,9,1,0.2,Cash,Adult,Female,Kano,Physical Store
-ATIY2L3BH5,1/31/24,Nigeria,210,Kings Cooking Oil,Food,3.5,7,2.8,0.06,Debit Card,Adult,Male,Ibadan,Online
-4YG6HU86EL,2/19/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,7,1,0.12,Mobile Money,Senior,Female,Enugu,Online
-OGOHOM134F,2/13/24,Nigeria,206,Cadbury Bournvita,Sweets,3,5,2.2,0.15,Mobile Money,Adult,Male,Port Harcourt,Physical Store
-372VVDLD62,2/18/24,Nigeria,207,Fine Tissue,Hygiene,2.8,7,2,0.46,Debit Card,Senior,Female,Port Harcourt,Online
-GDRIF6XBVB,1/2/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,3,1,0.16,Mobile Money,Adult,Male,Benin City,Online
-U3IBXMNO3I,1/5/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,5,0.3,0.1,Debit Card,Adult,Male,Kano,Physical Store
-NE23XTJB36,1/8/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,7,0.3,0.02,Credit Card,Senior,Male,Ibadan,Physical Store
-LY7ER5UM73,2/3/24,Nigeria,210,Kings Cooking Oil,Food,3.5,2,2.8,0.68,Mobile Money,Senior,Male,Kano,Online
-PZXG9YIIDG,1/18/24,Nigeria,201,Mama Gold Rice,Food,1.8,8,1.2,0.1,Cash,Adult,Male,Enugu,Physical Store
-UBTNJ5QKGT,2/25/24,Nigeria,206,Cadbury Bournvita,Sweets,3,5,2.2,0.54,Credit Card,Young,Male,Lagos,Physical Store
-ZHQO65N0WO,1/31/24,Nigeria,207,Fine Tissue,Hygiene,2.8,3,2,0.09,Debit Card,Adult,Male,Lagos,Physical Store
-5DW7F8GXWS,2/2/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,6,1,0.24,Bank Transfer,Adult,Male,Port Harcourt,Online
-02BZM77TYL,2/18/24,Nigeria,207,Fine Tissue,Hygiene,2.8,9,2,0.56,Debit Card,Senior,Female,Benin City,Physical Store
-09FW6IVAJI,3/1/24,Nigeria,204,Dangote Sugar,Food,1.2,6,0.9,0.02,Credit Card,Senior,Male,Benin City,Physical Store
-ZLAU61BC2G,2/6/24,Nigeria,207,Fine Tissue,Hygiene,2.8,7,2,0.54,Credit Card,Senior,Male,Abuja,Online
-W5X2T0NHQS,2/16/24,Nigeria,202,Peak Milk,Dairy,1.5,6,1,0.1,Credit Card,Senior,Male,Abuja,Online
-DN8GSELEXF,1/29/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,7,3.6,0.1,Credit Card,Adult,Female,Lagos,Online
-CCBYFMTMCC,1/18/24,Nigeria,210,Kings Cooking Oil,Food,3.5,4,2.8,0.12,Debit Card,Young,Female,Enugu,Online
-CDFY6T3WR9,2/22/24,Nigeria,207,Fine Tissue,Hygiene,2.8,10,2,0.28,Debit Card,Adult,Female,Enugu,Online
-1YP0I8QHJO,2/9/24,Nigeria,206,Cadbury Bournvita,Sweets,3,6,2.2,0.18,Credit Card,Adult,Male,Ibadan,Physical Store
-B0YK9J7BEA,2/12/24,Nigeria,210,Kings Cooking Oil,Food,3.5,3,2.8,0.17,Cash,Senior,Male,Kano,Online
-HQXWVZMRKE,1/4/24,Nigeria,210,Kings Cooking Oil,Food,3.5,5,2.8,0.33,Debit Card,Adult,Female,Benin City,Physical Store
-K824RO556A,2/2/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,3,3.6,0.92,Debit Card,Young,Male,Lagos,Online
-VG4MQGLBX8,2/20/24,Nigeria,206,Cadbury Bournvita,Sweets,3,9,2.2,0.15,Bank Transfer,Senior,Male,Ibadan,Physical Store
-C66FWZ8L52,1/21/24,Nigeria,210,Kings Cooking Oil,Food,3.5,7,2.8,0.08,Cash,Young,Male,Port Harcourt,Online
-TFUTQY6S1A,2/29/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,7,3.6,0.68,Cash,Adult,Male,Kano,Online
-FIXFRI6B8C,2/1/24,Nigeria,210,Kings Cooking Oil,Food,3.5,1,2.8,0.18,Credit Card,Senior,Female,Lagos,Online
-HPSCKNTI9L,2/26/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,10,0.3,0,Bank Transfer,Adult,Male,Benin City,Online
-7AZK14JSIR,2/20/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,1,1,0.07,Debit Card,Adult,Male,Lagos,Physical Store
-TGXZ2IXSJG,1/3/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,3,1,0.29,Mobile Money,Adult,Female,Benin City,Online
-PRQ331TQ22,2/2/24,Nigeria,207,Fine Tissue,Hygiene,2.8,5,2,0.5,Bank Transfer,Adult,Male,Abuja,Physical Store
-BPK89GK03N,2/16/24,Nigeria,206,Cadbury Bournvita,Sweets,3,2,2.2,0.57,Debit Card,Young,Male,Abuja,Online
-2AEQFZ0U2V,2/20/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,2,0.3,0.08,Cash,Young,Male,Enugu,Online
-60O34VFYHP,1/19/24,Nigeria,204,Dangote Sugar,Food,1.2,4,0.9,0.13,Credit Card,Senior,Male,Port Harcourt,Physical Store
-N7QHDM4AHG,1/5/24,Nigeria,206,Cadbury Bournvita,Sweets,3,3,2.2,0.12,Debit Card,Young,Female,Abuja,Physical Store
-7CSDGBUVZV,2/26/24,Nigeria,207,Fine Tissue,Hygiene,2.8,8,2,0.09,Debit Card,Adult,Female,Benin City,Physical Store
-WBW131K9QU,1/19/24,Nigeria,207,Fine Tissue,Hygiene,2.8,6,2,0.14,Bank Transfer,Young,Male,Port Harcourt,Online
-HQ3SZS2AS6,1/14/24,Nigeria,202,Peak Milk,Dairy,1.5,6,1,0.15,Debit Card,Adult,Male,Port Harcourt,Physical Store
-BTO3UC1DHL,1/18/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,1,1,0.25,Mobile Money,Senior,Male,Ibadan,Online
-RVT6TGRRWX,2/11/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,8,1,0.2,Debit Card,Senior,Female,Lagos,Online
-FDMJD5PCPK,2/12/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,6,1,0.04,Bank Transfer,Adult,Female,Port Harcourt,Physical Store
-9A6XI80LAT,2/4/24,Nigeria,202,Peak Milk,Dairy,1.5,4,1,0.16,Debit Card,Senior,Female,Kano,Physical Store
-BD0J3C5B6A,2/29/24,Nigeria,202,Peak Milk,Dairy,1.5,3,1,0.26,Cash,Senior,Male,Abuja,Physical Store
-0NBX08ELTQ,1/2/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,1,1,0.12,Mobile Money,Adult,Female,Lagos,Online
-1U8PBFN2GJ,2/27/24,Nigeria,206,Cadbury Bournvita,Sweets,3,2,2.2,0.48,Mobile Money,Adult,Male,Lagos,Online
-JLRX3ED4RZ,2/19/24,Nigeria,210,Kings Cooking Oil,Food,3.5,6,2.8,0.2,Cash,Adult,Female,Abuja,Online
-2EIOPDMDU7,2/15/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,7,1,0.04,Debit Card,Young,Female,Kano,Online
-W4M4Z6QWCA,1/8/24,Nigeria,210,Kings Cooking Oil,Food,3.5,8,2.8,0.26,Bank Transfer,Young,Female,Ibadan,Online
-6W0NGCX4OV,1/16/24,Nigeria,202,Peak Milk,Dairy,1.5,8,1,0.02,Debit Card,Adult,Female,Ibadan,Physical Store
-Y7PA2X5B6X,2/23/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,7,3.5,0.27,Debit Card,Senior,Male,Benin City,Physical Store
-NIHZ0M3TZY,2/4/24,Nigeria,210,Kings Cooking Oil,Food,3.5,3,2.8,0.39,Credit Card,Adult,Male,Abuja,Online
-NPAC1CMQ8W,2/2/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,6,3.6,0.61,Bank Transfer,Adult,Male,Port Harcourt,Physical Store
-QJPVDT9OMJ,2/4/24,Nigeria,202,Peak Milk,Dairy,1.5,5,1,0.11,Cash,Young,Female,Lagos,Online
-4AECZZL6YL,2/14/24,Nigeria,207,Fine Tissue,Hygiene,2.8,8,2,0.55,Debit Card,Adult,Female,Kano,Online
-GN3L0BST2R,1/25/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,7,1,0.25,Mobile Money,Young,Male,Port Harcourt,Online
-1FUI10IUEE,1/23/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,7,1,0,Credit Card,Adult,Male,Abuja,Online
-ESTY6YB0QY,1/17/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,7,1,0.09,Debit Card,Adult,Male,Abuja,Online
-H2PPUA4460,1/10/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,3,3.5,0.82,Debit Card,Adult,Female,Port Harcourt,Physical Store
-J6W9Y0N82W,2/15/24,Nigeria,201,Mama Gold Rice,Food,1.8,2,1.2,0.28,Credit Card,Senior,Male,Benin City,Online
-97H7ZXPV4W,2/22/24,Nigeria,202,Peak Milk,Dairy,1.5,5,1,0.07,Credit Card,Senior,Male,Ibadan,Physical Store
-DFJ6V4D0YB,1/29/24,Nigeria,202,Peak Milk,Dairy,1.5,5,1,0.24,Credit Card,Adult,Female,Ibadan,Online
-EZVNPJ9NAG,1/2/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,1,3.5,0.39,Cash,Young,Female,Ibadan,Online
-KHU9MF2CF6,2/11/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,3,0.3,0.08,Debit Card,Adult,Male,Port Harcourt,Physical Store
-QNDZ19GPAY,2/26/24,Nigeria,201,Mama Gold Rice,Food,1.8,6,1.2,0.08,Mobile Money,Senior,Female,Abuja,Online
-6Z5QAN9UXQ,2/21/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,1,3.6,0.18,Cash,Young,Female,Ibadan,Online
-ZUGESW4MF4,2/5/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,8,1,0.2,Credit Card,Adult,Female,Benin City,Online
-J2KJ0UDC3N,2/10/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,3,0.3,0.04,Credit Card,Adult,Male,Port Harcourt,Physical Store
-H202KO94QR,1/12/24,Nigeria,201,Mama Gold Rice,Food,1.8,5,1.2,0.13,Credit Card,Adult,Male,Benin City,Online
-D0K74ZCJ72,1/7/24,Nigeria,201,Mama Gold Rice,Food,1.8,6,1.2,0.33,Mobile Money,Adult,Female,Lagos,Physical Store
-OY2PRKY1PE,1/30/24,Nigeria,207,Fine Tissue,Hygiene,2.8,2,2,0.45,Cash,Young,Female,Enugu,Physical Store
-PLXYPX02B9,2/13/24,Nigeria,204,Dangote Sugar,Food,1.2,3,0.9,0.01,Mobile Money,Young,Female,Kano,Physical Store
-RQGTLLFK4E,2/15/24,Nigeria,207,Fine Tissue,Hygiene,2.8,10,2,0.4,Bank Transfer,Young,Male,Kano,Online
-OMJ4B46GO5,1/1/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,6,3.6,0.56,Cash,Young,Female,Kano,Physical Store
-PXJ71C8KL4,3/1/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,1,3.5,0.75,Cash,Senior,Female,Abuja,Physical Store
-7CS3CJWT52,2/22/24,Nigeria,202,Peak Milk,Dairy,1.5,7,1,0,Debit Card,Senior,Female,Lagos,Physical Store
-OY2ZJKH7A0,2/22/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,10,1,0.02,Mobile Money,Young,Male,Enugu,Physical Store
-1QGCUOKXNC,2/11/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,1,0.3,0.03,Cash,Adult,Male,Lagos,Online
-F7DO49H22O,1/6/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,4,0.3,0.09,Mobile Money,Senior,Male,Lagos,Physical Store
-PMAKEWTTJD,2/13/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,6,3.5,0.1,Mobile Money,Adult,Male,Port Harcourt,Physical Store
-LR45PVOAB6,2/19/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,10,3.6,0.59,Bank Transfer,Young,Male,Kano,Physical Store
-7LVIK5Q7FF,1/29/24,Nigeria,202,Peak Milk,Dairy,1.5,8,1,0.04,Debit Card,Senior,Female,Enugu,Physical Store
-0ZUH0ELK19,2/18/24,Nigeria,210,Kings Cooking Oil,Food,3.5,7,2.8,0.07,Mobile Money,Senior,Male,Enugu,Online
-DDCZWG0FZT,1/24/24,Nigeria,201,Mama Gold Rice,Food,1.8,6,1.2,0.05,Bank Transfer,Young,Male,Benin City,Online
-UYSJZ5DT1U,1/9/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,2,0.3,0.1,Mobile Money,Senior,Male,Lagos,Online
-ZF3FRZJ5LM,1/17/24,Nigeria,201,Mama Gold Rice,Food,1.8,9,1.2,0.28,Bank Transfer,Adult,Female,Benin City,Online
-WYIAGDOXA5,1/23/24,Nigeria,204,Dangote Sugar,Food,1.2,4,0.9,0.21,Bank Transfer,Adult,Male,Port Harcourt,Online
-NKUZSE34AI,2/13/24,Nigeria,210,Kings Cooking Oil,Food,3.5,5,2.8,0.58,Credit Card,Senior,Female,Ibadan,Physical Store
-7RAUY03ITB,1/1/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,2,0.3,0.05,Debit Card,Young,Male,Enugu,Physical Store
-ZGID79PTGD,2/11/24,Nigeria,204,Dangote Sugar,Food,1.2,5,0.9,0.16,Credit Card,Young,Male,Ibadan,Online
-4E0IY1Q1T4,1/13/24,Nigeria,206,Cadbury Bournvita,Sweets,3,6,2.2,0.47,Bank Transfer,Adult,Female,Ibadan,Physical Store
-0ZX1CHD355,1/19/24,Nigeria,206,Cadbury Bournvita,Sweets,3,10,2.2,0.22,Bank Transfer,Adult,Male,Lagos,Physical Store
-NR6IZPKSNV,1/6/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,7,3.5,0.72,Bank Transfer,Adult,Female,Enugu,Online
-UDETCLAYF3,1/19/24,Nigeria,202,Peak Milk,Dairy,1.5,9,1,0.25,Cash,Adult,Female,Lagos,Physical Store
-Z3C08UVUBF,2/24/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,3,0.3,0.05,Credit Card,Senior,Female,Lagos,Online
-KNT2J2DO42,1/24/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,8,3.6,0.49,Credit Card,Adult,Male,Enugu,Online
-U5BPDWD9MI,2/11/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,5,1,0.22,Debit Card,Senior,Male,Lagos,Online
-T2PWWWV8S0,3/1/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,4,1,0.29,Bank Transfer,Young,Female,Enugu,Online
-5PKAW371UH,2/17/24,Nigeria,204,Dangote Sugar,Food,1.2,5,0.9,0.03,Bank Transfer,Senior,Male,Enugu,Online
-V2Z3OO8I84,1/2/24,Nigeria,204,Dangote Sugar,Food,1.2,6,0.9,0.22,Credit Card,Senior,Female,Lagos,Online
-IU5048TD21,2/7/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,8,0.3,0.03,Debit Card,Young,Male,Kano,Online
-LQT4T7U53M,2/14/24,Nigeria,210,Kings Cooking Oil,Food,3.5,1,2.8,0.03,Cash,Adult,Male,Kano,Physical Store
-YBZWAVUE0F,1/12/24,Nigeria,204,Dangote Sugar,Food,1.2,4,0.9,0.23,Cash,Senior,Female,Benin City,Online
-VV340SAZ75,1/4/24,Nigeria,206,Cadbury Bournvita,Sweets,3,3,2.2,0.18,Mobile Money,Young,Female,Lagos,Online
-VOWC6NLFCF,1/27/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,9,3.6,0.8,Bank Transfer,Young,Male,Enugu,Online
-VY3JJTM2SB,2/26/24,Nigeria,201,Mama Gold Rice,Food,1.8,3,1.2,0.32,Mobile Money,Adult,Female,Enugu,Physical Store
-6JW1SLCLHK,2/12/24,Nigeria,202,Peak Milk,Dairy,1.5,3,1,0.12,Mobile Money,Senior,Female,Enugu,Online
-PY8V78OLL3,1/26/24,Nigeria,206,Cadbury Bournvita,Sweets,3,6,2.2,0.28,Mobile Money,Senior,Male,Benin City,Physical Store
-BZWUO23I6M,1/20/24,Nigeria,206,Cadbury Bournvita,Sweets,3,5,2.2,0.16,Mobile Money,Senior,Female,Enugu,Physical Store
-AX0RZLDO9P,2/3/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,5,3.5,0.72,Bank Transfer,Adult,Male,Port Harcourt,Physical Store
-PXYF22MX7D,2/7/24,Nigeria,206,Cadbury Bournvita,Sweets,3,3,2.2,0.49,Mobile Money,Senior,Female,Lagos,Online
-D3CAIJM17C,1/20/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,4,3.5,0.46,Mobile Money,Senior,Male,Ibadan,Physical Store
-SQRLY0C4UV,1/22/24,Nigeria,201,Mama Gold Rice,Food,1.8,1,1.2,0.19,Mobile Money,Young,Male,Benin City,Online
-2IWZNWVISR,1/8/24,Nigeria,210,Kings Cooking Oil,Food,3.5,9,2.8,0.65,Cash,Adult,Male,Enugu,Online
-D1SH287GCF,1/2/24,Nigeria,204,Dangote Sugar,Food,1.2,4,0.9,0.05,Bank Transfer,Adult,Female,Lagos,Online
-ZRN6OEVOKL,1/21/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,2,1,0.05,Credit Card,Young,Female,Lagos,Online
-L324YHF6PT,1/16/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,2,3.5,0.71,Credit Card,Senior,Female,Port Harcourt,Physical Store
-2KICQLWJKU,1/14/24,Nigeria,206,Cadbury Bournvita,Sweets,3,8,2.2,0.32,Mobile Money,Adult,Female,Abuja,Physical Store
-PKFKLLDTNW,1/10/24,Nigeria,206,Cadbury Bournvita,Sweets,3,10,2.2,0.03,Bank Transfer,Adult,Female,Lagos,Online
-27CAV4HL5E,1/2/24,Nigeria,204,Dangote Sugar,Food,1.2,1,0.9,0.15,Cash,Adult,Female,Lagos,Online
-T5EVZDIVIG,2/29/24,Nigeria,206,Cadbury Bournvita,Sweets,3,4,2.2,0.18,Debit Card,Adult,Female,Benin City,Online
-3Q2F336I94,1/27/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,7,0.3,0.1,Debit Card,Adult,Male,Kano,Online
-0LHY3G661Y,2/4/24,Nigeria,206,Cadbury Bournvita,Sweets,3,10,2.2,0.41,Credit Card,Young,Female,Lagos,Online
-2AGB4N37QC,2/12/24,Nigeria,206,Cadbury Bournvita,Sweets,3,10,2.2,0.32,Debit Card,Adult,Female,Ibadan,Online
-YZHBVB7ZA1,1/18/24,Nigeria,210,Kings Cooking Oil,Food,3.5,6,2.8,0.12,Mobile Money,Senior,Female,Kano,Online
-CWWZXM0N5D,1/26/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,10,0.3,0.02,Debit Card,Adult,Male,Port Harcourt,Physical Store
-68BPRG7VVG,2/27/24,Nigeria,201,Mama Gold Rice,Food,1.8,7,1.2,0.01,Bank Transfer,Senior,Female,Benin City,Physical Store
-NWNHP9GXMB,2/9/24,Nigeria,206,Cadbury Bournvita,Sweets,3,6,2.2,0.38,Mobile Money,Young,Male,Enugu,Online
-PR8ZDQYFQQ,2/6/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,1,1,0.21,Mobile Money,Adult,Male,Benin City,Physical Store
-ZRYRQT0U8W,1/26/24,Nigeria,201,Mama Gold Rice,Food,1.8,7,1.2,0.19,Mobile Money,Young,Male,Port Harcourt,Physical Store
-ABLVHEFRMJ,2/9/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,8,3.5,0.01,Cash,Adult,Male,Enugu,Online
-QCV7STBXIP,1/18/24,Nigeria,210,Kings Cooking Oil,Food,3.5,8,2.8,0.69,Credit Card,Adult,Female,Enugu,Physical Store
-5C60D54NAK,2/26/24,Nigeria,207,Fine Tissue,Hygiene,2.8,5,2,0.31,Credit Card,Senior,Male,Lagos,Online
-SD0ARW9BNO,2/14/24,Nigeria,207,Fine Tissue,Hygiene,2.8,2,2,0.37,Bank Transfer,Young,Female,Kano,Physical Store
-9ZN25PC5WT,2/5/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,4,3.6,0.16,Debit Card,Adult,Male,Enugu,Online
-OOQXSTH4PN,1/8/24,Nigeria,204,Dangote Sugar,Food,1.2,4,0.9,0.19,Debit Card,Adult,Male,Lagos,Online
-U3F71LD9J3,1/19/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,9,0.3,0.02,Bank Transfer,Adult,Male,Abuja,Online
-EAP62M8DUT,1/8/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,10,3.5,0.65,Cash,Senior,Female,Ibadan,Physical Store
-390QXAIHYB,2/15/24,Nigeria,204,Dangote Sugar,Food,1.2,4,0.9,0.11,Bank Transfer,Senior,Male,Enugu,Physical Store
-019N0VE3H3,1/3/24,Nigeria,207,Fine Tissue,Hygiene,2.8,5,2,0.14,Bank Transfer,Senior,Female,Ibadan,Online
-3Y1YCDR0ZD,1/12/24,Nigeria,210,Kings Cooking Oil,Food,3.5,6,2.8,0.34,Credit Card,Young,Female,Benin City,Physical Store
-TOJN8RVSO6,2/13/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,6,0.3,0.06,Credit Card,Adult,Male,Lagos,Online
-EZY7YL7CNF,1/27/24,Nigeria,204,Dangote Sugar,Food,1.2,1,0.9,0.03,Mobile Money,Senior,Female,Lagos,Physical Store
-X97YJSDTR6,1/4/24,Nigeria,206,Cadbury Bournvita,Sweets,3,9,2.2,0.39,Mobile Money,Young,Female,Kano,Online
-4DFSV9OAMR,2/11/24,Nigeria,202,Peak Milk,Dairy,1.5,1,1,0.12,Bank Transfer,Senior,Male,Port Harcourt,Online
-YU2ABS1I9A,1/23/24,Nigeria,201,Mama Gold Rice,Food,1.8,8,1.2,0.15,Cash,Young,Male,Benin City,Online
-NIQZZ35QCF,1/11/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,1,3.6,0.61,Bank Transfer,Adult,Male,Port Harcourt,Online
-QUBC6IBKYV,2/26/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,1,3.6,0.18,Cash,Young,Female,Port Harcourt,Online
-GBUE1BD5A6,1/1/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,5,3.5,0.47,Mobile Money,Adult,Female,Abuja,Online
-N6ARH9WYP4,2/7/24,Nigeria,204,Dangote Sugar,Food,1.2,6,0.9,0.18,Cash,Adult,Male,Kano,Physical Store
-MEQDLOU9OJ,1/26/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,2,3.6,0.26,Credit Card,Young,Female,Ibadan,Physical Store
-ZMG5HRT1U5,1/19/24,Nigeria,206,Cadbury Bournvita,Sweets,3,3,2.2,0.24,Mobile Money,Senior,Male,Kano,Online
-HR8GAV7C8L,2/4/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,9,3.5,0.46,Cash,Adult,Male,Abuja,Physical Store
-3G18MI2RS5,1/23/24,Nigeria,207,Fine Tissue,Hygiene,2.8,5,2,0.32,Bank Transfer,Adult,Male,Kano,Online
-RYWN8ZB9O6,1/11/24,Nigeria,207,Fine Tissue,Hygiene,2.8,1,2,0.2,Bank Transfer,Adult,Male,Lagos,Physical Store
-AK7QW8KPPJ,2/24/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,1,0.3,0.08,Bank Transfer,Senior,Female,Enugu,Online
-T4BX0T4LAK,1/14/24,Nigeria,204,Dangote Sugar,Food,1.2,7,0.9,0.04,Cash,Young,Male,Lagos,Physical Store
-N8GJSFWP2E,2/25/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,1,1,0.01,Credit Card,Adult,Female,Enugu,Online
-U7JXXQ0RLH,2/23/24,Nigeria,202,Peak Milk,Dairy,1.5,8,1,0.22,Bank Transfer,Senior,Male,Abuja,Online
-I0PGEXYUNQ,1/31/24,Nigeria,206,Cadbury Bournvita,Sweets,3,9,2.2,0.54,Cash,Senior,Female,Benin City,Physical Store
-SJ2VR15J56,1/11/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,2,3.6,0.65,Debit Card,Young,Male,Kano,Physical Store
-JFBKMJJL6H,1/24/24,Nigeria,207,Fine Tissue,Hygiene,2.8,2,2,0.23,Debit Card,Young,Male,Benin City,Online
-TQXKVEEMRS,1/6/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,8,0.3,0.02,Cash,Senior,Male,Benin City,Physical Store
-CKFIG5C8AI,2/18/24,Nigeria,210,Kings Cooking Oil,Food,3.5,10,2.8,0.7,Debit Card,Senior,Male,Lagos,Physical Store
-CVC54TY552,2/15/24,Nigeria,204,Dangote Sugar,Food,1.2,3,0.9,0.17,Mobile Money,Senior,Male,Kano,Online
-6KIQDAORVY,1/27/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,1,1,0.13,Cash,Adult,Female,Enugu,Physical Store
-52KFX0Z9CW,1/15/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,1,0.3,0.01,Debit Card,Young,Male,Enugu,Online
-HRKJ72JLRG,1/8/24,Nigeria,206,Cadbury Bournvita,Sweets,3,6,2.2,0.14,Mobile Money,Adult,Female,Kano,Online
-6BUGHR9SN0,1/31/24,Nigeria,207,Fine Tissue,Hygiene,2.8,9,2,0.39,Credit Card,Senior,Female,Ibadan,Online
-NXIZODXUED,1/17/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,4,3.6,0.01,Cash,Adult,Male,Enugu,Online
-XT7Q8H64WG,1/15/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,3,3.6,0.13,Debit Card,Adult,Female,Ibadan,Physical Store
-TK0OJN2SQL,1/4/24,Nigeria,202,Peak Milk,Dairy,1.5,3,1,0.04,Credit Card,Adult,Male,Ibadan,Physical Store
-OPY39NYFET,1/12/24,Nigeria,204,Dangote Sugar,Food,1.2,5,0.9,0.21,Mobile Money,Adult,Male,Abuja,Physical Store
-YW7DGG8NZA,2/18/24,Nigeria,201,Mama Gold Rice,Food,1.8,9,1.2,0.01,Cash,Adult,Male,Kano,Physical Store
-PKUD0JI46Q,1/29/24,Nigeria,206,Cadbury Bournvita,Sweets,3,6,2.2,0.36,Bank Transfer,Young,Female,Lagos,Physical Store
-CERP96SBAA,2/18/24,Nigeria,204,Dangote Sugar,Food,1.2,1,0.9,0.16,Debit Card,Adult,Male,Abuja,Physical Store
-CK4GQO7EQO,1/30/24,Nigeria,201,Mama Gold Rice,Food,1.8,2,1.2,0.18,Bank Transfer,Adult,Male,Abuja,Physical Store
-IA979PKPDA,2/1/24,Nigeria,210,Kings Cooking Oil,Food,3.5,3,2.8,0.52,Cash,Young,Female,Kano,Online
-PXX12B59AL,2/26/24,Nigeria,201,Mama Gold Rice,Food,1.8,6,1.2,0.2,Debit Card,Senior,Male,Benin City,Physical Store
-FCDRFVD7VF,2/14/24,Nigeria,210,Kings Cooking Oil,Food,3.5,7,2.8,0.57,Debit Card,Adult,Male,Kano,Online
-J0VVB1EGT1,1/30/24,Nigeria,202,Peak Milk,Dairy,1.5,8,1,0.29,Mobile Money,Adult,Male,Lagos,Physical Store
-TZP32XC861,2/4/24,Nigeria,204,Dangote Sugar,Food,1.2,1,0.9,0.07,Bank Transfer,Senior,Female,Enugu,Online
-R4R2BFW86F,1/18/24,Nigeria,202,Peak Milk,Dairy,1.5,5,1,0.05,Mobile Money,Adult,Female,Abuja,Online
-8PI4NC6JW2,2/20/24,Nigeria,202,Peak Milk,Dairy,1.5,3,1,0.19,Mobile Money,Adult,Female,Lagos,Physical Store
-FQ6KJHWGQ6,1/21/24,Nigeria,201,Mama Gold Rice,Food,1.8,1,1.2,0.13,Bank Transfer,Adult,Male,Enugu,Physical Store
-5YA858Y0RH,2/1/24,Nigeria,207,Fine Tissue,Hygiene,2.8,7,2,0.38,Credit Card,Adult,Male,Port Harcourt,Physical Store
-Q2RUR2FUUV,2/4/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,5,3.5,0.53,Credit Card,Senior,Male,Kano,Physical Store
-SLBG9HC8VQ,1/20/24,Nigeria,202,Peak Milk,Dairy,1.5,10,1,0.01,Debit Card,Senior,Male,Abuja,Physical Store
-0XKQLEHEU7,2/8/24,Nigeria,206,Cadbury Bournvita,Sweets,3,8,2.2,0.47,Cash,Adult,Female,Abuja,Physical Store
-RJ7OT8KETG,2/9/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,4,1,0.22,Cash,Senior,Male,Enugu,Physical Store
-KL0YY2GHYD,1/5/24,Nigeria,204,Dangote Sugar,Food,1.2,4,0.9,0.13,Bank Transfer,Adult,Male,Ibadan,Physical Store
-6J5GLITWNQ,1/23/24,Nigeria,202,Peak Milk,Dairy,1.5,6,1,0.07,Bank Transfer,Senior,Female,Port Harcourt,Physical Store
-42SAMW2N15,1/13/24,Nigeria,206,Cadbury Bournvita,Sweets,3,9,2.2,0.05,Debit Card,Senior,Female,Ibadan,Online
-7583GRYNGJ,2/11/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,9,3.6,0.69,Bank Transfer,Young,Male,Enugu,Online
-38941GGLES,1/28/24,Nigeria,210,Kings Cooking Oil,Food,3.5,7,2.8,0.41,Bank Transfer,Senior,Female,Abuja,Online
-T8QBQF606M,1/19/24,Nigeria,207,Fine Tissue,Hygiene,2.8,9,2,0.26,Cash,Senior,Female,Port Harcourt,Online
-KB4JJVRWYS,1/7/24,Nigeria,201,Mama Gold Rice,Food,1.8,1,1.2,0.13,Debit Card,Senior,Male,Enugu,Online
-SNL3SFHC06,2/9/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,1,3.5,0.15,Bank Transfer,Adult,Female,Kano,Online
-2JK6M9DDYV,1/10/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,4,3.6,0.48,Mobile Money,Young,Female,Abuja,Online
-WMSSTKA3ZJ,2/22/24,Nigeria,201,Mama Gold Rice,Food,1.8,7,1.2,0.29,Debit Card,Senior,Female,Ibadan,Physical Store
-K7SHE7D50L,2/18/24,Nigeria,202,Peak Milk,Dairy,1.5,5,1,0.18,Credit Card,Adult,Male,Ibadan,Physical Store
-5HE4WOFJ8D,2/4/24,Nigeria,202,Peak Milk,Dairy,1.5,2,1,0.17,Debit Card,Young,Female,Benin City,Physical Store
-T0O1WIV0DA,1/6/24,Nigeria,206,Cadbury Bournvita,Sweets,3,6,2.2,0.24,Debit Card,Senior,Male,Lagos,Physical Store
-VTI16IIL8O,1/15/24,Nigeria,206,Cadbury Bournvita,Sweets,3,3,2.2,0.51,Mobile Money,Senior,Female,Benin City,Online
-2A98EHPKXA,1/22/24,Nigeria,202,Peak Milk,Dairy,1.5,5,1,0.14,Debit Card,Young,Female,Kano,Physical Store
-60WZJJZ1LQ,1/2/24,Nigeria,204,Dangote Sugar,Food,1.2,5,0.9,0.08,Mobile Money,Adult,Male,Abuja,Physical Store
-06L4RCSPFC,1/20/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,7,3.5,0.2,Bank Transfer,Young,Male,Ibadan,Physical Store
-IQLY3NA2JI,1/11/24,Nigeria,202,Peak Milk,Dairy,1.5,10,1,0.12,Mobile Money,Young,Female,Kano,Physical Store
-X6F6P32CXZ,2/7/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,2,3.5,0.63,Bank Transfer,Adult,Male,Lagos,Physical Store
-93OUFJMPH1,1/21/24,Nigeria,201,Mama Gold Rice,Food,1.8,10,1.2,0.05,Mobile Money,Adult,Male,Benin City,Physical Store
-VAJC7WRJHQ,2/15/24,Nigeria,206,Cadbury Bournvita,Sweets,3,4,2.2,0.01,Mobile Money,Young,Female,Enugu,Physical Store
-7C6LPN1HZG,1/16/24,Nigeria,201,Mama Gold Rice,Food,1.8,2,1.2,0.17,Mobile Money,Adult,Female,Abuja,Online
-P2RC9IBGQN,2/14/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,7,3.5,0.42,Bank Transfer,Adult,Female,Enugu,Physical Store
-Z2YCHEUSOJ,1/6/24,Nigeria,201,Mama Gold Rice,Food,1.8,2,1.2,0.27,Mobile Money,Young,Male,Benin City,Physical Store
-X76WU2L5NW,1/14/24,Nigeria,207,Fine Tissue,Hygiene,2.8,5,2,0.06,Debit Card,Adult,Female,Kano,Physical Store
-1UV5QKXA48,1/10/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,10,1,0.08,Credit Card,Adult,Female,Abuja,Physical Store
-ER4OADIQ3P,2/23/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,5,0.3,0.02,Mobile Money,Senior,Female,Enugu,Online
-968MHT0KPJ,1/31/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,1,1,0.05,Mobile Money,Senior,Female,Benin City,Physical Store
-Z3UVQKQHWW,2/13/24,Nigeria,202,Peak Milk,Dairy,1.5,4,1,0.27,Cash,Young,Male,Lagos,Online
-DGU9F22FLP,1/18/24,Nigeria,201,Mama Gold Rice,Food,1.8,3,1.2,0.24,Mobile Money,Adult,Female,Enugu,Physical Store
-GAMB7MVOSB,1/11/24,Nigeria,202,Peak Milk,Dairy,1.5,9,1,0.3,Credit Card,Senior,Female,Port Harcourt,Online
-5F1LEDJC2O,1/27/24,Nigeria,201,Mama Gold Rice,Food,1.8,2,1.2,0.09,Credit Card,Senior,Female,Benin City,Online
-N8U3TB6RHY,2/18/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,5,0.3,0.09,Debit Card,Adult,Male,Lagos,Physical Store
-FV9DYKTYEC,2/6/24,Nigeria,202,Peak Milk,Dairy,1.5,1,1,0.3,Bank Transfer,Senior,Female,Benin City,Online
-GGZS2718OA,1/5/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,2,0.3,0.07,Bank Transfer,Young,Female,Ibadan,Physical Store
-653DD405X3,2/22/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,2,1,0.25,Cash,Young,Female,Abuja,Physical Store
-OCQUHTTB57,2/22/24,Nigeria,201,Mama Gold Rice,Food,1.8,9,1.2,0.34,Credit Card,Adult,Female,Port Harcourt,Physical Store
-VY2SCAB6CI,1/12/24,Nigeria,210,Kings Cooking Oil,Food,3.5,6,2.8,0.62,Cash,Adult,Male,Abuja,Online
-VPOMIB1LS8,2/19/24,Nigeria,202,Peak Milk,Dairy,1.5,1,1,0.01,Mobile Money,Young,Female,Benin City,Online
-0CEYV7PUU3,1/19/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,9,0.3,0.06,Credit Card,Young,Male,Lagos,Physical Store
-CKCP2ZUUO1,1/10/24,Nigeria,206,Cadbury Bournvita,Sweets,3,7,2.2,0.59,Debit Card,Senior,Male,Benin City,Physical Store
-4E5AD2FHKV,1/2/24,Nigeria,207,Fine Tissue,Hygiene,2.8,1,2,0.05,Debit Card,Senior,Female,Enugu,Online
-PGVN7TFWS2,2/18/24,Nigeria,201,Mama Gold Rice,Food,1.8,2,1.2,0.3,Debit Card,Adult,Female,Kano,Physical Store
-5BXLWEW162,1/18/24,Nigeria,210,Kings Cooking Oil,Food,3.5,2,2.8,0.24,Credit Card,Senior,Male,Ibadan,Physical Store
-NRR6LTFSFE,1/2/24,Nigeria,210,Kings Cooking Oil,Food,3.5,3,2.8,0.04,Debit Card,Senior,Female,Benin City,Physical Store
-9IVHDJVYEJ,1/2/24,Nigeria,204,Dangote Sugar,Food,1.2,2,0.9,0.21,Credit Card,Adult,Male,Ibadan,Physical Store
-O02U323XSD,1/20/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,1,3.5,0.45,Bank Transfer,Adult,Female,Kano,Online
-TK5GBQIFMJ,1/15/24,Nigeria,206,Cadbury Bournvita,Sweets,3,2,2.2,0.02,Bank Transfer,Adult,Female,Benin City,Physical Store
-WI6PTBMOLQ,2/8/24,Nigeria,206,Cadbury Bournvita,Sweets,3,4,2.2,0.21,Bank Transfer,Adult,Female,Port Harcourt,Online
-VG8FQD0PPG,2/25/24,Nigeria,210,Kings Cooking Oil,Food,3.5,6,2.8,0.06,Debit Card,Senior,Male,Kano,Physical Store
-ACG8ZQBL2N,2/5/24,Nigeria,207,Fine Tissue,Hygiene,2.8,10,2,0.17,Debit Card,Adult,Female,Lagos,Online
-2ORYYPNZF3,1/5/24,Nigeria,207,Fine Tissue,Hygiene,2.8,2,2,0.05,Mobile Money,Adult,Male,Port Harcourt,Online
-D18R8F8IQO,1/28/24,Nigeria,210,Kings Cooking Oil,Food,3.5,1,2.8,0.35,Debit Card,Adult,Female,Enugu,Online
-RZPPBXI3ZH,1/9/24,Nigeria,210,Kings Cooking Oil,Food,3.5,3,2.8,0.68,Bank Transfer,Young,Male,Benin City,Online
-QBRTPRGPSF,2/5/24,Nigeria,206,Cadbury Bournvita,Sweets,3,1,2.2,0.45,Cash,Young,Female,Enugu,Physical Store
-MJXWH988HN,2/14/24,Nigeria,202,Peak Milk,Dairy,1.5,7,1,0.24,Bank Transfer,Adult,Female,Abuja,Online
-9J1JERG5OT,1/9/24,Nigeria,210,Kings Cooking Oil,Food,3.5,6,2.8,0.52,Credit Card,Senior,Female,Kano,Physical Store
-WOJAJAD9Q3,2/25/24,Nigeria,202,Peak Milk,Dairy,1.5,10,1,0.3,Bank Transfer,Senior,Female,Lagos,Online
-YMN79ME3WJ,1/22/24,Nigeria,202,Peak Milk,Dairy,1.5,4,1,0.02,Debit Card,Senior,Male,Ibadan,Online
-ZFQRVFEXPD,1/25/24,Nigeria,206,Cadbury Bournvita,Sweets,3,1,2.2,0.42,Mobile Money,Young,Female,Lagos,Physical Store
-1N823KPH2O,1/16/24,Nigeria,201,Mama Gold Rice,Food,1.8,8,1.2,0.25,Bank Transfer,Adult,Male,Ibadan,Online
-WUSMF077CA,1/2/24,Nigeria,210,Kings Cooking Oil,Food,3.5,9,2.8,0.49,Bank Transfer,Adult,Male,Ibadan,Physical Store
-VGIXDX2M5W,2/8/24,Nigeria,205,Nescafe Coffee,Beverages,4.5,10,3.5,0.04,Cash,Senior,Female,Kano,Online
-K16WU72KYH,2/15/24,Nigeria,201,Mama Gold Rice,Food,1.8,3,1.2,0.29,Cash,Adult,Female,Port Harcourt,Online
-EFZPBQM6ZR,2/20/24,Nigeria,201,Mama Gold Rice,Food,1.8,6,1.2,0.12,Credit Card,Senior,Female,Enugu,Physical Store
-F7XZE58E5M,2/22/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,3,1,0.07,Mobile Money,Adult,Male,Abuja,Online
-NN77WAXJ1Y,2/5/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,10,0.3,0.06,Bank Transfer,Young,Female,Ibadan,Physical Store
-IA6CJ1GDVX,1/3/24,Nigeria,204,Dangote Sugar,Food,1.2,5,0.9,0.01,Cash,Young,Male,Abuja,Physical Store
-WPW6I4LPBS,2/18/24,Nigeria,202,Peak Milk,Dairy,1.5,3,1,0.15,Mobile Money,Senior,Female,Ibadan,Physical Store
-USUWB4B4CE,1/1/24,Nigeria,209,Imperial Leather Soap,Personal Care,1.5,10,1,0.08,Credit Card,Adult,Female,Benin City,Physical Store
-UVH04E4C3G,1/25/24,Nigeria,203,Golden Penny Bread,Bakery,0.5,9,0.3,0.06,Credit Card,Young,Male,Enugu,Online
-HP8ZLBZ6LL,1/22/24,Nigeria,204,Dangote Sugar,Food,1.2,6,0.9,0.23,Bank Transfer,Adult,Female,Kano,Online
-BUJV3VAU6G,1/11/24,Nigeria,208,Damatol Shampoo,Personal Care,4.8,3,3.6,0.38,Mobile Money,Young,Female,Benin City,Online
-5WFMA5CRX1,1/19/24,Nigeria,210,Kings Cooking Oil,Food,3.5,4,2.8,0.24,Mobile Money,Senior,Male,Port Harcourt,Physical Store
+transaction_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,sales_representative
+bV7045,6/11/24,,70765361-514c-443d-bd64-fc2c8b9a5ecd,Coca-Cola Can,Beverages,1.26,10,12.6,0.2,Debit Card,Adult,Male,Port Harcourt,Ngozi Chukwu
+sC0775,2/10/25,Nigeria,f20c24b7-fb39-4ed7-adb4-cbbdb257731d,Nike Air Max,,189.33,6,1135.98,0.15,Debit Card,Adult,Female,Abuja,Emeka Adeyemi
+dV4049,1/26/25,Nigeria,565d16b1-877d-4d69-92ac-ca784a9a4220,The North Face Jacket,Apparel,265.55,3,796.65,0.15,Debit Card,Adult,Female,Benin City,Ngozi Adeyemi
+Yd6235,6/4/24,Nigeria,af2dae0c-0916-45d8-841a-4a985343c109,iPhone 14,Electronics,1130.06,10,11300.6,0,Credit Card,Senior,Female,Benin City,Ngozi Chukwu
+zS6362,5/15/24,Nigeria,f57129b7-3d32-49b7-8d08-82b74d923fef,Yeti Tumbler,Outdoor,,1,23.74,0,Credit Card,Adult,Male,Benin City,Uche Eze
+JP9530,2/12/25,Nigeria,653fa056-eb64-4729-9eec-003dc3100f4c,Nike Air Max,Footwear,169.98,8,1359.84,0.1,Debit Card,Adult,Female,Abuja,Tope Eze
+xo1020,8/25/24,Nigeria,a33ae994-3724-488c-a9ab-a1cded80e56e,KitchenAid Mixer,Home Appliances,255.64,8,2045.12,0.15,Mobile Wallet,Young,Female,Port Harcourt,Blessing Chukwu
+ka1235,8/10/24,Nigeria,21a277f7-23fe-4bed-826b-394327221292,iPhone 14,Electronics,804.01,3,2412.03,0,Cash,Young,Female,Lagos,Blessing Ogunleye
+Ze1641,11/13/24,Nigeria,d6773fa8-1697-4f0d-8bd3-df3e95dbfc6b,Samsung QLED TV,Electronics,1977.44,8,15819.52,0,Debit Card,Young,Female,,Emeka Chukwu
+Pj2341,10/12/24,Nigeria,71118524-4292-40b7-9ccd-8f94aa51886e,Samsung QLED TV,,684.54,8,5476.32,0.2,Mobile Wallet,Adult,Female,Ibadan,Blessing Balogun
+QK0099,4/24/24,,8c5b061e-d2f5-4e7b-aef1-b461bdf7a7f6,Apple MacBook Pro,Electronics,2393.44,5,11967.2,0.15,Credit Card,Young,Male,Abuja,Ayo Ifeanyi
+HY5294,6/10/24,Nigeria,ff0acca0-d603-4e43-8f07-ab68857cd88c,Nike Air Max,Footwear,175.24,6,1051.44,0.05,Debit Card,Senior,Male,Abuja,Ngozi Adebayo
+UN8320,6/17/24,Nigeria,9c723e1d-74e1-4734-9e9d-252ca26fdb8e,Apple MacBook Pro,Electronics,1889.19,2,3778.38,0.05,Cash,Senior,Female,Lagos,Tunde Balogun
+ty2647,12/16/24,Nigeria,d592867e-8363-47b5-ac9e-329be9cac00d,Samsung QLED TV,Electronics,950.92,2,,0,Debit Card,Senior,Male,Ibadan,Ayo Balogun
+vq7946,11/11/24,Nigeria,,iPhone 14,Electronics,916.33,6,5497.98,0.05,Credit Card,Senior,Male,Lagos,Bola Adeyemi
+rw3060,1/30/25,Nigeria,2f355048-ddaa-43b7-bead-e8e3979dccdf,iPhone 14,Electronics,1090.3,4,4361.2,0.15,Debit Card,Adult,Male,Benin City,
+de8497,10/11/24,Nigeria,,Nike Air Max,Footwear,137.79,4,551.16,0.15,Cash,Young,Male,Port Harcourt,Tunde Okafor
+tO3270,7/17/24,Nigeria,fbd5c871-8bdb-4d26-b54f-4a727c338705,The North Face Jacket,Apparel,153.84,5,769.2,0.15,Debit Card,Adult,Female,Benin City,
+Rp6295,6/13/24,Nigeria,268b7eca-1f94-4bbf-a835-70f01015c977,KitchenAid Mixer,Home Appliances,,6,1803.6,0.15,Debit Card,Young,Female,Lagos,Kelechi Oluwaseun
+Ah4537,5/22/24,Nigeria,d2eb1102-cfb7-4999-8b7f-77c312430028,Nike Air Max,Footwear,169.7,7,,0.1,Debit Card,Adult,Female,Port Harcourt,Tunde Adeyemi
+qZ2580,7/18/24,Nigeria,d3afc7e5-e71a-43f8-ad54-24438f8903a5,Levi's 501 Jeans,Apparel,76.18,7,533.26,0,Online Payment,Senior,Male,Port Harcourt,Emeka Okafor
+SG3691,5/23/24,Nigeria,2798e3f0-ce10-40d5-8a5c-9e6e79fff43b,,Home Appliances,458.49,9,4126.41,0.1,Online Payment,Senior,Female,Benin City,
+Gr1690,8/18/24,Nigeria,b6583505-c29f-4b5d-a54a-42494ad494d0,Yeti Tumbler,Outdoor,47.83,8,382.64,0.05,Mobile Wallet,Adult,Male,Benin City,Tope Balogun
+FG1585,2/1/25,Nigeria,985f0c40-e40a-4e48-b861-e90f46e28469,Doritos Chips,Snacks,4.24,2,8.48,0.1,Debit Card,Adult,Male,,Ayo Oluwaseun
+KD5889,9/4/24,Nigeria,bfcda14d-5d1e-44e2-89c6-9faf284fec36,Doritos Chips,Snacks,2.42,4,9.68,0.05,,,Female,Ibadan,Ayo Adebayo
+XF7969,,Nigeria,33733ed0-6ad5-4b25-bf54-d98035f9d8df,iPhone 14,Electronics,,5,5801.85,0.1,Mobile Wallet,,Male,Ibadan,Emeka Okafor
+ni0731,1/9/25,Nigeria,feb2b58f-cb97-4538-b24d-23b83069d632,The North Face Jacket,Apparel,194.14,2,388.28,0.15,Debit Card,Young,Female,Abuja,Ayo Balogun
+id7966,6/19/24,Nigeria,6009794c-9522-489a-abc4-f7e713c13d85,Nike Air Max,Footwear,175.37,,350.74,0,Mobile Wallet,Young,Female,Abuja,Bola Okafor
+Fd4294,10/2/24,Nigeria,160d93ff-8a60-4071-a0a9-bad49866ad4a,Apple MacBook Pro,,1490.63,7,10434.41,0.2,Credit Card,Young,Male,Benin City,
+Zn0439,10/6/24,Nigeria,de191244-576b-40a8-84d6-832bbd173c3c,Yeti Tumbler,Outdoor,22.38,8,179.04,0.05,Credit Card,Adult,Female,Lagos,Ayo Chukwu
+wa4045,4/26/24,Nigeria,ad9f2c14-3b11-40ba-8275-24b01ee33167,Yeti Tumbler,Outdoor,24.14,4,96.56,0,Debit Card,Young,Male,Port Harcourt,Ayo Adeyemi
+Ol6955,4/16/24,Nigeria,3e8bc3d5-fca7-4778-85d1-14a4a46fdacd,KitchenAid Mixer,Home Appliances,344.02,1,344.02,0.15,Cash,Young,Female,Lagos,Tunde Nwankwo
+Aj9547,8/1/24,Nigeria,dd461efd-d249-4451-ad4b-3a97c4a23b39,KitchenAid Mixer,Home Appliances,354.51,5,1772.55,0.15,Online Payment,Adult,Female,Lagos,Uche Oluwaseun
+We2247,1/3/25,Nigeria,e573bd60-eb04-4c5a-9621-ba9bcd9e2529,Nike Air Max,Footwear,165.17,3,495.51,0.05,Cash,Adult,Female,Ibadan,Ngozi Adebayo
+NO6441,1/9/25,,423be3f5-71ee-41bd-84a5-1f83373f5157,Nike Air Max,Footwear,100.33,10,1003.3,0.1,Cash,Senior,Female,,
+bD8994,,Nigeria,f0ed8c6f-f381-40c6-9ed5-8703ce9ef6d6,KitchenAid Mixer,Home Appliances,433.11,2,866.22,0.1,Online Payment,Senior,Female,Abuja,Emeka Chukwu
+Rd7695,8/26/24,Nigeria,c5755c8e-20b2-4cce-b578-e86b5f8878e0,Levi's 501 Jeans,Apparel,70.96,4,283.84,0.05,Debit Card,Young,Female,,Tunde Nwankwo
+Hb8423,11/7/24,Nigeria,,Samsung QLED TV,,1868.44,9,16815.96,0.05,Debit Card,Young,Male,Lagos,Tope Nwankwo
+ZG0033,1/2/25,Nigeria,bfd2a42b-80ed-4ae4-9d18-0a36f3cf8a56,Nike Air Max,Footwear,179.5,,359,,Credit Card,Young,Female,Abuja,Chioma Okafor
+aU1067,3/4/25,Nigeria,32db4feb-00d1-4c56-86d8-23c168094e72,Doritos Chips,Snacks,2.68,5,13.4,0.15,Cash,Senior,Female,Benin City,Chioma Nwankwo
+bm6854,,Nigeria,1354d789-2a2e-4f95-8b59-31133e4e48aa,Doritos Chips,Snacks,4.79,6,28.74,0.2,Credit Card,Young,Male,Port Harcourt,Blessing Balogun
+hV7648,6/24/24,Nigeria,9886224f-a7df-499c-9abc-6ec1ca736035,Apple MacBook Pro,Electronics,2245.57,6,13473.42,0.1,Online Payment,Adult,Male,Port Harcourt,Bola Eze
+tC9929,1/28/25,Nigeria,8fbca451-c405-4413-bc8e-76be88c91b89,Nike Air Max,Footwear,142.62,6,855.72,0.1,Online Payment,Young,Male,Ibadan,Bola Ifeanyi
+oZ0094,5/23/24,Nigeria,ef9984a3-738a-4eea-b127-f87f75a78bc0,The North Face Jacket,Apparel,247.59,2,495.18,0.05,Debit Card,Senior,Male,Ibadan,
+ZG9549,3/28/24,Nigeria,c5d74bf0-e2dc-4492-a7a6-936c9fadc3c4,Yeti Tumbler,,21.86,6,,0.2,,Adult,Female,Abuja,Emeka Balogun
+YB9093,4/23/24,Nigeria,98d71650-ad2e-40aa-a6c4-6b74348675e4,Doritos Chips,Snacks,4.04,3,12.12,0.15,Online Payment,Adult,Female,Port Harcourt,Tope Adeyemi
+qp3534,4/8/24,Nigeria,5fb625f7-e286-4af2-839c-f147acdefe85,,Electronics,978.99,10,9789.9,0.2,Credit Card,Young,Female,Lagos,Blessing Oluwaseun
+jL2138,6/17/24,Nigeria,0afd2eed-5c8f-419d-ab37-25200d69bbde,Nike Air Max,Footwear,129.52,7,906.64,0,Cash,Young,Male,Lagos,
+se3284,10/9/24,Nigeria,7df0424a-0efd-428a-b502-622a943a3fce,Samsung QLED TV,Electronics,1735.69,,6942.76,0.15,Mobile Wallet,Young,,Ibadan,Blessing Oluwaseun
+CH7582,7/27/24,Nigeria,ad38ef1c-556c-4bcd-8d2a-de0c4c916c2d,The North Face Jacket,Apparel,209.98,10,2099.8,0.05,Mobile Wallet,Senior,Female,Benin City,Kelechi Okafor
+ig7073,12/10/24,Nigeria,ac2af6d2-6267-49b5-8819-d57c12938a39,Yeti Tumbler,Outdoor,47.97,,335.79,0,Credit Card,Young,Female,Lagos,Uche Chukwu
+UX0863,,Nigeria,385df6d1-d0ac-494f-87cb-e0fc58b166a2,Coca-Cola Can,Beverages,1.73,9,15.57,0.2,Credit Card,Young,Male,Port Harcourt,Emeka Chukwu
+pm6820,1/6/25,Nigeria,96ef5c14-13a1-42a1-b9ea-608c2ba5e644,Apple MacBook Pro,Electronics,1589.3,5,7946.5,0.15,Debit Card,Adult,Female,Port Harcourt,Ngozi Ogunleye
+sv1455,2/27/25,Nigeria,a57261da-0a3b-4660-8806-d898385b8c4e,Doritos Chips,Snacks,4.81,6,28.86,0.1,Debit Card,Adult,Male,Benin City,Tunde Oluwaseun
+VK5446,8/7/24,Nigeria,96467b0a-541a-426d-b119-148e2e620e90,Doritos Chips,Snacks,2.94,4,11.76,0.1,Cash,Adult,Male,Port Harcourt,Tope Chukwu
+Ph1140,7/11/24,Nigeria,8d67c863-0000-4962-b521-bd13294a4a30,Coca-Cola Can,Beverages,1.92,7,13.44,0.05,Debit Card,Young,Male,Port Harcourt,Tunde Oluwaseun
+WM7080,10/6/24,Nigeria,865fca2b-4160-4082-b825-c7f3927e1132,KitchenAid Mixer,Home Appliances,394.72,2,789.44,,Cash,Adult,Male,Abuja,Bola Oluwaseun
+Fy9493,6/14/24,Nigeria,913dcd07-60ea-4c3c-8549-f864ee545bd2,Levi's 501 Jeans,Apparel,99.45,1,99.45,,Mobile Wallet,Young,Female,Abuja,Emeka Adeyemi
+gd5404,10/20/24,Nigeria,55a93618-007e-417b-922f-9de042448f75,The North Face Jacket,Apparel,106.84,5,534.2,0,,Senior,,Benin City,Ayo Chukwu
+Li5534,11/24/24,Nigeria,35323c12-1d1f-49fc-97e5-aa68146c7bc2,The North Face Jacket,Apparel,267.91,10,2679.1,0.2,Credit Card,Adult,Male,Benin City,Ngozi Ifeanyi
+tS5292,6/2/24,Nigeria,17825b42-bcdc-47bc-82ef-c57b50859afa,Coca-Cola Can,Beverages,1.78,8,14.24,0.2,,Adult,Male,Lagos,Kelechi Oluwaseun
+vs5170,10/30/24,Nigeria,a64a79a9-658c-4e03-aec2-bc17070f56c3,The North Face Jacket,Apparel,216.15,6,1296.9,0.1,Mobile Wallet,Senior,Female,Lagos,Kelechi Adebayo
+uS9636,6/15/24,Nigeria,d8445dd6-6a7f-4bff-9b2b-7308cae26373,The North Face Jacket,Apparel,183.19,9,1648.71,0.1,Cash,Senior,Female,Lagos,Tunde Nwankwo
+ki6475,1/1/25,Nigeria,24096f9c-2c18-40bf-87d2-724222fe5c9d,Doritos Chips,,4.25,6,25.5,0.1,Online Payment,Young,Male,Port Harcourt,
+oc8386,8/11/24,Nigeria,14414d0c-ac45-4a9f-b621-130d4604a07f,Yeti Tumbler,Outdoor,43.24,8,345.92,0.2,Credit Card,Senior,Female,Benin City,Tope Chukwu
+XS7933,3/7/25,Nigeria,e917abf3-f4e5-48cd-adb0-81fc5b3f529e,,Electronics,933.67,1,933.67,0.1,Cash,Adult,Female,Port Harcourt,Blessing Nwankwo
+rf6959,5/27/24,Nigeria,0402bf18-2217-4cf5-ad7a-9965f7ad9f1f,Apple MacBook Pro,Electronics,1324.52,5,6622.6,0,Online Payment,Adult,,Lagos,Emeka Eze
+of4726,3/10/25,Nigeria,ab98d076-5b52-4d2e-b239-51e94bf39cca,Doritos Chips,Snacks,4.65,4,,0,Online Payment,Senior,Female,Ibadan,Tope Chukwu
+Vu5905,2/21/25,Nigeria,a9eb628e-0c5d-4cdc-9cb1-e7afb31c86f7,KitchenAid Mixer,Home Appliances,250.49,5,1252.45,0.1,Online Payment,Adult,Female,Ibadan,Bola Adebayo
+vO8690,7/15/24,Nigeria,1aa21ac6-ceca-4d68-87db-e848ea24458c,iPhone 14,Electronics,1098.56,7,7689.92,0.1,Credit Card,Young,Male,Abuja,Blessing Ogunleye
+zI5182,10/13/24,Nigeria,2a40034e-d953-4e34-a6cf-897b7e7a50eb,Samsung QLED TV,Electronics,1425.5,7,9978.5,0.15,Online Payment,Adult,Female,Port Harcourt,Chioma Adeyemi
+Io4510,5/8/24,Nigeria,e11f0c15-fc6b-423b-8d70-ac4539fb8aba,The North Face Jacket,Apparel,119.2,1,119.2,0.2,Credit Card,Young,Male,Port Harcourt,Ayo Nwankwo
+Xe6957,8/2/24,Nigeria,67a6ef24-3ab5-44a8-b8e2-9114d782c2f4,Yeti Tumbler,Outdoor,33.94,,67.88,0.15,,Senior,Male,Lagos,Kelechi Chukwu
+fb1977,12/2/24,Nigeria,64638389-e60a-4e17-9ddb-eed562a2c2e8,iPhone 14,Electronics,1054.99,1,1054.99,0,Mobile Wallet,Young,Female,Abuja,Emeka Okafor
+xZ6248,3/17/25,Nigeria,,Yeti Tumbler,Outdoor,44.94,10,449.4,0.2,Mobile Wallet,Young,Male,Lagos,Tunde Okafor
+kI7608,4/1/24,Nigeria,f08d0abb-5165-421a-b6ec-a998e6e6ab0f,Levi's 501 Jeans,Apparel,77.65,3,232.95,0.2,Credit Card,Adult,Female,Benin City,Ngozi Adeyemi
+dK4431,11/1/24,Nigeria,0104c95e-beb3-46dd-ab43-596dadad4aa4,Yeti Tumbler,,20.32,8,162.56,0.1,Cash,Adult,Male,Abuja,Chioma Eze
+Yy1210,2/2/25,Nigeria,efb230dc-fb0e-4830-b678-df5705c47ae5,Levi's 501 Jeans,Apparel,57.98,8,463.84,0.15,Online Payment,Young,Male,Ibadan,Emeka Balogun
+pN7474,11/17/24,,9109c3f5-48d9-46e6-8043-8638410a3c06,The North Face Jacket,Apparel,187.48,10,1874.8,0.2,Online Payment,Senior,Female,Port Harcourt,
+Df0506,10/20/24,Nigeria,a2dd42f8-ec84-41a3-93b3-9537bf432039,Doritos Chips,Snacks,4.19,2,8.38,0.05,Online Payment,Senior,Male,Lagos,Emeka Nwankwo
+tA3595,10/23/24,Nigeria,0665e791-2211-4c9b-be90-a6ba3f94f31d,,Electronics,1944.52,2,3889.04,0.1,Credit Card,Young,,Lagos,Blessing Oluwaseun
+bq7242,10/10/24,Nigeria,7d1b73d3-5881-470f-be5f-52e8783b5f51,Coca-Cola Can,Beverages,1.47,5,7.35,0.15,Online Payment,Senior,Female,Port Harcourt,Emeka Balogun
+MP2338,10/28/24,Nigeria,6421ded5-89b6-4745-afae-406002453e64,The North Face Jacket,Apparel,259.68,1,259.68,0.2,Online Payment,Young,Female,Abuja,Blessing Balogun
+wI3948,3/14/25,Nigeria,a588617b-a0b4-464a-8ee3-74fc77889c09,Coca-Cola Can,Beverages,1.55,1,1.55,0.2,Credit Card,Adult,Male,Abuja,Ngozi Okafor
+nm0954,9/8/24,Nigeria,64d6af45-11e7-4ed5-b355-5819d8d6b9c4,Samsung QLED TV,Electronics,1849.62,3,5548.86,0.15,Debit Card,Young,Female,Ibadan,Ngozi Ogunleye
+kA9695,3/25/24,Nigeria,56f05aba-1727-4261-b89e-69fd851a526e,KitchenAid Mixer,Home Appliances,,5,,0.15,Debit Card,Young,Male,Port Harcourt,Emeka Ifeanyi
+Nb1824,10/2/24,,5b1f4d00-295f-4994-b011-0a92bd5b8e12,Levi's 501 Jeans,Apparel,89.92,9,809.28,0.05,Online Payment,Senior,Male,Benin City,Tunde Eze
+Bo2241,,,c6d77ab5-a237-41a8-86c4-f52870852d28,The North Face Jacket,Apparel,252.89,7,1770.23,0.1,Credit Card,Senior,Male,Benin City,Ngozi Adebayo
+Ck6668,5/5/24,Nigeria,a7e74cec-63e6-4d9d-9831-a2679f039c5f,Doritos Chips,Snacks,,1,2.58,0.1,Cash,Young,Male,Benin City,Ayo Eze
+uR2527,12/12/24,Nigeria,c43e4692-4636-41d8-b033-655b15b228e1,Apple MacBook Pro,Electronics,1419.4,2,2838.8,,Cash,Adult,Female,Ibadan,Ngozi Adeyemi
+IZ2114,2/20/25,Nigeria,aac2c5df-dc58-4acf-bfaf-95c873ef5746,Yeti Tumbler,Outdoor,31.91,1,31.91,0.2,Online Payment,Senior,Female,,
+cH4808,3/25/24,Nigeria,7254a018-d3e4-4f5c-b06a-a11da2028078,KitchenAid Mixer,Home Appliances,383.03,10,,0.15,Online Payment,Adult,Female,,Tope Balogun
+LI0889,8/1/24,Nigeria,6708eca9-490d-4971-9458-4ce9e7ea70c6,The North Face Jacket,Apparel,177.55,5,887.75,0.05,Cash,Young,Female,Abuja,Bola Oluwaseun
+uS6196,12/1/24,Nigeria,8f21c153-48a5-4b93-b377-333581949131,Yeti Tumbler,Outdoor,25.95,6,155.7,0.05,Mobile Wallet,Adult,Male,Ibadan,
+jE5632,6/22/24,Nigeria,e18acd61-f0ba-444a-945f-924a6cd4c1d7,Apple MacBook Pro,Electronics,1901.36,,19013.6,0.15,Debit Card,Young,Male,Port Harcourt,Blessing Adebayo
+bp6565,12/24/24,Nigeria,d3c56588-ecad-46db-b950-ee7cc0876ba5,,Home Appliances,295.58,9,2660.22,0.1,Cash,Young,Male,Lagos,Ayo Adeyemi
+gA7887,12/12/24,Nigeria,81c8c0d5-0c61-4fb2-b81b-dbcdb8d81326,Levi's 501 Jeans,Apparel,91.43,10,914.3,0,Credit Card,Senior,Male,Lagos,Tope Balogun
+Du2014,11/15/24,Nigeria,8f3fd90d-db86-4448-b2c0-99a73404d5c8,Doritos Chips,Snacks,1.71,4,6.84,0.2,Debit Card,Young,Female,Abuja,Tunde Nwankwo
+ad5737,,Nigeria,12ac3186-b24d-4489-9711-9613a3648a01,Apple MacBook Pro,Electronics,2130.01,8,17040.08,0.2,Cash,Adult,Female,Lagos,Ayo Nwankwo
+hm5264,8/21/24,Nigeria,8620734d-f9d2-4956-b53e-bfac4f69d24c,Apple MacBook Pro,Electronics,1509.29,2,3018.58,0.1,Mobile Wallet,Senior,Male,Benin City,
+yQ9081,5/14/24,Nigeria,7602406b-be10-45de-904d-c78758f0035e,Apple MacBook Pro,,1417.44,5,7087.2,0.1,Mobile Wallet,Adult,Male,Ibadan,Emeka Adeyemi
+nj4250,10/21/24,Nigeria,,Levi's 501 Jeans,Apparel,90.55,9,814.95,0.15,Mobile Wallet,Young,Female,Benin City,Kelechi Oluwaseun
+Id3737,3/13/25,Nigeria,686e5e3e-5613-4ea1-9296-f4128d918b36,Yeti Tumbler,Outdoor,49.32,3,147.96,0.1,Debit Card,Young,Male,,Uche Balogun
+jM0229,10/5/24,Nigeria,b8711b7a-7c8d-4d5b-b3b1-fd3c7b9844a9,The North Face Jacket,Apparel,202.84,6,,0.15,Online Payment,,Male,Lagos,Bola Chukwu
+QO9975,11/27/24,Nigeria,0336df66-c692-4363-81c7-8d7222508242,The North Face Jacket,Apparel,203.1,7,1421.7,0.15,Online Payment,Young,Male,Ibadan,Tope Eze
+YP2055,6/16/24,Nigeria,65f80b8f-05e2-4272-8aa8-5e5649f5ef67,The North Face Jacket,Apparel,263.27,3,789.81,0.15,Credit Card,Adult,Female,Lagos,
+oU4418,5/30/24,Nigeria,12cb6247-ee96-46c3-9e06-c5fed2dc6271,Apple MacBook Pro,Electronics,2190.42,2,4380.84,0,Online Payment,Young,Male,Lagos,Emeka Oluwaseun
+MJ2961,12/1/24,Nigeria,3f913e45-e354-4566-8990-96114c0cf962,Nike Air Max,,129.84,9,1168.56,0.1,Credit Card,Adult,Male,Abuja,Tope Adebayo
+Id5419,,Nigeria,a210eb07-325f-4eed-bde9-a5ed096a997e,iPhone 14,Electronics,966.24,4,3864.96,0,Online Payment,Young,Female,Benin City,Ngozi Nwankwo
+bG4193,7/1/24,Nigeria,63def866-b941-45c1-a34b-3504b26952a7,Doritos Chips,Snacks,3.83,,19.15,0.1,Cash,Senior,Male,Abuja,Blessing Nwankwo
+gi2559,9/29/24,Nigeria,cdf820d1-d0e1-4220-b147-4a027a6a45e1,Apple MacBook Pro,Electronics,1421.22,2,2842.44,0,Cash,Young,Female,Port Harcourt,Bola Eze
+at0020,3/3/25,Nigeria,ef321be7-197b-41e4-bdb8-582ed6f12115,Doritos Chips,Snacks,4.03,10,40.3,0.15,Cash,Young,Female,Port Harcourt,Ayo Ogunleye
+df7490,6/3/24,Nigeria,f52762c8-76ac-41c0-9b6f-9cefa0f0c6fc,iPhone 14,Electronics,941.86,9,8476.74,0.2,Cash,Senior,Female,Abuja,Kelechi Chukwu
+fr3657,12/24/24,Nigeria,,Yeti Tumbler,Outdoor,33.15,10,331.5,0.2,Cash,Young,Male,Port Harcourt,Blessing Eze
+Fa1543,,Nigeria,12d9403d-620b-4e38-b224-da5c8ca46af9,,Apparel,69.41,7,485.87,,Debit Card,Adult,Male,Benin City,Uche Balogun
+Oq9239,10/29/24,Nigeria,8156db10-634f-4959-acb8-6b0f6260e5f3,Coca-Cola Can,Beverages,1.59,9,14.31,0.05,Cash,Young,Male,Benin City,Tunde Chukwu
+Pl3529,8/24/24,Nigeria,3d2d9f70-f2ee-453d-be83-f1558070bf48,Coca-Cola Can,Beverages,1.24,4,4.96,,Online Payment,Adult,Female,,Tunde Ifeanyi
+bI8703,7/2/24,Nigeria,6dbdcdfb-c04b-45b5-bbd8-408a71560bf1,The North Face Jacket,Apparel,121.48,4,485.92,0.15,Debit Card,Senior,Male,Port Harcourt,Ayo Chukwu
+gm8938,2/5/25,Nigeria,fe4bc259-ba84-4168-9105-5cf65bf4d954,Doritos Chips,Snacks,3.09,2,6.18,0.1,Debit Card,Young,Male,Port Harcourt,Ayo Nwankwo
+AL2875,1/6/25,Nigeria,,Samsung QLED TV,Electronics,,7,13464.36,0.2,Debit Card,Young,Female,Port Harcourt,Ayo Chukwu
+xH8672,11/29/24,Nigeria,e0e090b5-3d0e-4571-893a-7d6ea460eb7e,Samsung QLED TV,Electronics,1897.63,3,5692.89,0,Mobile Wallet,Young,Male,Abuja,Uche Ogunleye
+Cl0417,9/18/24,,040dba50-2738-44b4-b63c-1b934907fa7c,Apple MacBook Pro,Electronics,1322.97,10,13229.7,0.15,Online Payment,Senior,Male,Ibadan,
+cp9236,4/3/24,Nigeria,111fa64e-3369-4607-ba0f-93583cdbc2b6,Levi's 501 Jeans,Apparel,91.13,4,364.52,0.05,Credit Card,Young,Female,Benin City,
+pG6889,4/25/24,Nigeria,1691eed2-8dd8-4810-8af3-9efa8c10a08f,Doritos Chips,Snacks,1.86,9,16.74,0.15,Credit Card,Senior,Female,Port Harcourt,Blessing Chukwu
+yp1709,11/27/24,Nigeria,69ddc7a5-50a3-4e59-958b-dba06ef163bc,The North Face Jacket,Apparel,222.79,8,1782.32,0.2,Mobile Wallet,Adult,Female,Lagos,Bola Oluwaseun
+sd0812,9/16/24,Nigeria,32167ec2-e2eb-4f6a-b375-511521fcc2b6,,Electronics,1905.64,4,7622.56,0.05,Credit Card,Young,Male,Ibadan,Emeka Nwankwo
+JF0602,4/10/24,Nigeria,eeffc203-6e6d-4b13-a561-b5f7f2afbe47,Yeti Tumbler,Outdoor,25.75,6,154.5,0.05,Cash,Adult,Female,Benin City,Chioma Oluwaseun
+aj2181,8/4/24,Nigeria,f05eced4-0ad8-457e-a261-5d86cb90db52,Coca-Cola Can,Beverages,1.17,4,4.68,0.2,Online Payment,Adult,Male,,Ayo Eze
+rt9012,3/1/25,Nigeria,69003f5d-5c1b-411a-97a6-21ce3b1bdd7d,Nike Air Max,Footwear,159.69,6,958.14,0,Debit Card,,Female,Lagos,
+eV1857,2/20/25,Nigeria,f41bc430-2d96-42c3-ae1b-4d745c008c80,Coca-Cola Can,,1.32,4,5.28,0,Mobile Wallet,Adult,Female,,Ngozi Adebayo
+lM0113,4/26/24,Nigeria,1bd3bd9b-e3f9-4273-899b-9954c73c5efa,KitchenAid Mixer,Home Appliances,389.29,2,778.58,0.1,Online Payment,Senior,Female,Abuja,Ngozi Adebayo
+wS2544,2/17/25,Nigeria,2997046d-8862-4ef3-9f40-ab1c0be0cfb6,Nike Air Max,Footwear,149.23,5,746.15,0.2,,,Female,Ibadan,Ngozi Chukwu
+mN6729,6/12/24,Nigeria,139b3215-818e-4862-b51f-4080e2e8f5ed,Samsung QLED TV,Electronics,1297.5,8,10380,0.15,Online Payment,Senior,Female,Port Harcourt,Emeka Ifeanyi
+gW9196,7/5/24,Nigeria,95e898cc-73cd-45dd-8b49-2beb075c5513,Doritos Chips,Snacks,4.35,5,21.75,0.2,Debit Card,Senior,Male,Abuja,Ayo Balogun
+uU0433,2/8/25,Nigeria,6058ee9a-2330-4790-b227-b1ed236813c2,The North Face Jacket,Apparel,213.16,10,2131.6,0.05,Cash,Adult,Male,Lagos,Ayo Oluwaseun
+Xt6632,6/11/24,Nigeria,e3d7923f-00d1-4b31-94c0-32e084c9ccad,iPhone 14,Electronics,1189.94,10,11899.4,,Online Payment,Young,Male,Abuja,Bola Adebayo
+ON6023,9/2/24,Nigeria,017abfb4-1511-4d08-ae3f-b684d99c3339,Apple MacBook Pro,Electronics,2239.83,7,15678.81,0.2,Online Payment,Adult,Female,Abuja,
+Bp4308,2/26/25,Nigeria,49ce10be-f91c-4da6-af5a-3f924dabf9f3,Nike Air Max,Footwear,193.41,,967.05,0,Online Payment,Adult,Female,Port Harcourt,Blessing Eze
+Iq5627,1/15/25,Nigeria,811b6922-c9dc-4dfa-a007-3021957f2982,Nike Air Max,Footwear,195.76,,1370.32,0.1,Debit Card,Senior,Male,Benin City,Chioma Oluwaseun
+sO0692,6/23/24,,b988ee19-12be-43be-ae8e-ddc2839fdee2,iPhone 14,Electronics,1186.01,8,9488.08,0.15,,Young,Male,Ibadan,Tope Chukwu
+BR6442,7/20/24,Nigeria,890c0657-18a2-4e31-b76c-ba520acd2989,Doritos Chips,Snacks,3.68,8,29.44,0.15,Cash,,Female,Ibadan,Uche Ogunleye
+eO3502,9/1/24,Nigeria,c03218d7-3f84-497d-af29-3670c258a495,Samsung QLED TV,,,1,1484.38,0.2,Debit Card,Adult,Female,Lagos,Kelechi Balogun
+eq8443,7/15/24,Nigeria,b810725c-61f3-44bf-bf97-6f4ea09c08fa,KitchenAid Mixer,Home Appliances,336.15,9,3025.35,0.1,Mobile Wallet,Senior,Female,Port Harcourt,Tope Okafor
+fb5375,4/30/24,Nigeria,16d14162-5003-41e9-bd3d-017d8bb7d76d,Doritos Chips,Snacks,1.54,10,15.4,0.15,Mobile Wallet,Adult,Female,Abuja,Blessing Nwankwo
+Md2009,1/12/25,,,Yeti Tumbler,Outdoor,39.7,8,317.6,,Debit Card,Adult,Female,Port Harcourt,Tunde Nwankwo
+Gq4954,,Nigeria,07e4b9c0-94c4-4596-9ecb-a3fc675fc63d,Doritos Chips,Snacks,3.39,7,23.73,0.05,Debit Card,Young,Male,Benin City,Ayo Okafor
+rW4689,6/27/24,Nigeria,60da2dd4-7f90-4609-bd23-272878a63b7e,Yeti Tumbler,Outdoor,40.15,7,281.05,0.1,Online Payment,Adult,Female,Benin City,Ayo Chukwu
+eZ4149,2/15/25,Nigeria,2d5320ad-ffa4-4b0d-b05d-ac92d52f6a37,Doritos Chips,Snacks,2.72,4,10.88,0.1,Debit Card,Adult,Female,Ibadan,Bola Adebayo
+jb1937,6/12/24,Nigeria,a47eb9a5-2f5f-443f-be54-3086d47e260c,Doritos Chips,Snacks,2,2,4,0.05,Credit Card,Adult,Male,Abuja,Blessing Okafor
+wX2359,6/13/24,Nigeria,ba8ad7bb-e148-422e-9f67-38960c6ecc5d,The North Face Jacket,Apparel,231.63,7,1621.41,0,Online Payment,Young,Male,Port Harcourt,Blessing Chukwu
+aO5985,1/26/25,Nigeria,345807fc-baf6-4b6a-8853-4cc96f1af5ab,Samsung QLED TV,Electronics,1531.05,5,7655.25,0.1,Debit Card,Senior,Female,Port Harcourt,Kelechi Chukwu
+jr3566,3/28/24,Nigeria,af975711-8aae-4380-8a58-9527c26b5a3a,Levi's 501 Jeans,Apparel,78.64,,393.2,0.15,Online Payment,Young,Male,Port Harcourt,Ngozi Ogunleye
+Wr6587,2/28/25,Nigeria,03cc78a6-6475-43e5-9092-8826d6333517,Levi's 501 Jeans,Apparel,85.03,5,425.15,0,Online Payment,Young,Male,Benin City,Bola Eze
+TY5612,12/2/24,Nigeria,b2748b34-51ba-43b0-b3eb-59fd094cc41c,Yeti Tumbler,Outdoor,48.31,5,241.55,0.1,Mobile Wallet,Adult,Female,Lagos,Tunde Adeyemi
+Ah6005,11/16/24,Nigeria,20542cab-ef0e-4b35-84bd-191c5acda902,Samsung QLED TV,Electronics,1445.43,6,8672.58,0.2,,Adult,Female,Ibadan,Kelechi Eze
+pK2676,12/9/24,Nigeria,dc9aa90b-6c68-4f36-8c15-9c6ded050d59,Yeti Tumbler,Outdoor,44.21,8,353.68,0,Cash,Senior,Male,Port Harcourt,Bola Oluwaseun
+Eh5224,10/12/24,Nigeria,ebc3cf7e-043c-4a2d-a777-d3628982e143,Yeti Tumbler,Outdoor,20.79,8,166.32,0.2,Cash,Adult,Female,Benin City,Chioma Balogun
+JQ9513,9/26/24,Nigeria,80d77869-0e7e-4da8-9ce6-8532d615ce43,Levi's 501 Jeans,Apparel,59.1,10,591,0.2,Debit Card,Young,Male,Lagos,Tunde Ogunleye
+Vq1968,9/3/24,Nigeria,5c6cd462-0731-45e9-a399-01635d737073,Doritos Chips,Snacks,3.69,6,22.14,0.05,Online Payment,Young,Female,Ibadan,Chioma Ogunleye
+BR8436,8/29/24,Nigeria,430cfedf-9618-48fb-bd6b-a25a7aa64b6b,,Electronics,2468.17,,,0.05,Online Payment,Young,Male,Benin City,Ngozi Eze
+Sr4192,7/15/24,Nigeria,48c5af86-87bc-417e-9631-bc651a41c387,Nike Air Max,Footwear,191.96,7,1343.72,0,Debit Card,Senior,Female,Benin City,Emeka Eze
+LF8009,10/12/24,Nigeria,a436110c-5c5a-4524-a937-8b604793fd06,Nike Air Max,Footwear,137.72,1,137.72,0,Mobile Wallet,Senior,Female,Lagos,Tunde Okafor
+NA5624,3/19/25,Nigeria,59745e93-6fd4-4c93-8282-ff838916fd8b,Doritos Chips,Snacks,2.64,1,2.64,,,Senior,Female,Lagos,
+yX6194,8/18/24,Nigeria,4a07d314-1bb8-4ad9-8e2e-1e20727b975b,Coca-Cola Can,Beverages,1.84,3,5.52,0.15,Credit Card,Young,Female,Abuja,Tunde Adebayo
+Zz9958,,Nigeria,3afe1c9f-451b-4706-a6f5-c1871df099b5,Nike Air Max,Footwear,160.59,3,481.77,0.05,Credit Card,Senior,Male,Benin City,Kelechi Okafor
+Dk4586,1/24/25,Nigeria,a5616e66-7fa9-4167-8436-9e82417b6434,KitchenAid Mixer,Home Appliances,385.46,3,1156.38,0.15,Credit Card,Senior,,Lagos,Tope Adebayo
+UX3345,9/18/24,Nigeria,071835df-d935-4821-83e5-20b718028ae9,Nike Air Max,Footwear,122.07,4,488.28,0.05,Online Payment,Senior,Female,Lagos,Tunde Nwankwo
+rl0113,11/16/24,Nigeria,a9bef15f-b0d1-4d69-a298-027ee2baa164,Samsung QLED TV,Electronics,759.3,4,3037.2,0.1,Credit Card,Adult,Male,Benin City,Ngozi Balogun
+Sm1909,5/29/24,Nigeria,0749bda1-7a92-438c-bf5e-356874f367ec,Yeti Tumbler,Outdoor,23.19,4,92.76,0.1,Cash,Senior,Male,Port Harcourt,Tope Eze
+DL0299,3/12/25,Nigeria,17b7fe35-5aa5-4489-95d9-92db0e062fd8,Nike Air Max,Footwear,161.04,1,,0.1,Cash,Young,Male,,Bola Balogun
+KA1848,6/6/24,Nigeria,b09f5206-2908-441d-baaa-69c169cf7332,Levi's 501 Jeans,Apparel,61.04,4,244.16,,Mobile Wallet,Young,Male,Lagos,Ngozi Adebayo
+xP1229,3/5/25,Nigeria,2e7ba79a-5a56-446f-9bb0-fd879a04629a,The North Face Jacket,Apparel,218.67,,218.67,0.2,Credit Card,Young,Female,Abuja,Bola Ifeanyi
+KN1425,,Nigeria,c8f0a4ec-d2d4-4fb2-95d9-62eb50e95689,Levi's 501 Jeans,Apparel,,5,340.75,,Cash,Senior,Female,,Tope Nwankwo
+LW9434,8/16/24,Nigeria,f439e223-9e17-422b-b8b8-aad63c7e90ae,Doritos Chips,Snacks,1.93,9,17.37,0.15,Online Payment,Senior,Male,,Tope Ifeanyi
+kI7534,2/16/25,Nigeria,dca62cd8-a9e6-4a9f-86d7-cde2ec42cee5,Samsung QLED TV,Electronics,735.35,9,6618.15,0.2,Debit Card,Young,Male,Benin City,Kelechi Eze
+Hb1018,6/2/24,Nigeria,49f9709a-d2fb-4392-b23d-9a5c00e08df5,KitchenAid Mixer,Home Appliances,342.71,7,2398.97,0.2,Online Payment,Senior,Female,Lagos,Tunde Balogun
+fL7947,7/26/24,Nigeria,bf9a92fb-620b-40dc-a51e-158dadaff75c,KitchenAid Mixer,Home Appliances,474.2,8,3793.6,0.15,Cash,Adult,,Ibadan,Tope Adebayo
+KW3792,2/19/25,Nigeria,8e740092-f6be-4d49-ad4d-3b3096e82efb,Nike Air Max,Footwear,109.64,,548.2,0.05,Online Payment,Senior,Female,,Tope Adebayo
+gs0396,6/12/24,Nigeria,86e6b4b3-b8af-44cd-88e1-e7614306a4f2,Samsung QLED TV,Electronics,602.16,4,2408.64,0,Online Payment,Senior,Female,Benin City,Kelechi Ifeanyi
+IG5827,3/11/25,Nigeria,f6adf41c-a967-4d53-a88b-cdc9e88bb918,Samsung QLED TV,Electronics,1389.97,4,5559.88,0.2,Mobile Wallet,Adult,Female,Port Harcourt,Chioma Ogunleye
+RL7772,5/27/24,Nigeria,16024810-3d0c-4e8e-afb9-af10517ad967,KitchenAid Mixer,Home Appliances,406.02,1,406.02,0.2,Credit Card,Young,Female,Ibadan,Kelechi Chukwu
+yG0728,1/21/25,Nigeria,0303bdb4-6661-4288-8dbb-0cbe76951bd4,iPhone 14,Electronics,1123.01,1,,0.1,Debit Card,Adult,Male,Lagos,Uche Nwankwo
+EI2616,8/31/24,Nigeria,0cc4701b-6601-4007-9c0a-1af6a0b035c7,Coca-Cola Can,Beverages,0.9,4,3.6,0.2,Mobile Wallet,Young,Female,Lagos,Uche Adebayo
+EA8109,5/28/24,Nigeria,120cc5fa-29f2-4635-abdd-1fd3e12860f5,Yeti Tumbler,Outdoor,32.44,9,291.96,0.15,Online Payment,Senior,Female,Lagos,Tunde Nwankwo
+jt8213,4/15/24,Nigeria,fbeb5ef6-99aa-48ff-9e52-d138ee0f6ae6,Apple MacBook Pro,Electronics,1846.65,8,14773.2,,Online Payment,Adult,Female,Benin City,Kelechi Adeyemi
+ud7139,11/28/24,Nigeria,e1410563-b81c-4adb-a437-de061bafc113,Apple MacBook Pro,Electronics,2372.37,9,21351.33,0.1,Mobile Wallet,Adult,Female,Abuja,Kelechi Ifeanyi
+Ke8108,2/12/25,Nigeria,25e68731-3084-4847-836e-077773368e4d,Samsung QLED TV,Electronics,1486.93,6,8921.58,,Mobile Wallet,Young,Female,Abuja,
+IT0472,7/9/24,Nigeria,0f0fdc12-6da2-43ff-b124-bbb1a8334c83,Nike Air Max,Footwear,110.57,1,110.57,0.1,Cash,Adult,Female,Lagos,Chioma Adebayo
+Ep6786,,Nigeria,c16342e8-8568-4995-8889-14d43801a7fa,Apple MacBook Pro,Electronics,2289.54,9,20605.86,0.2,Cash,Senior,Female,Lagos,Kelechi Adeyemi
+KE0325,8/4/24,Nigeria,98cb91d0-5441-4852-ad06-bf0f7ca8e714,Nike Air Max,Footwear,196.5,2,393,0.1,Credit Card,Senior,Female,Ibadan,Blessing Okafor
+vD3257,12/21/24,Nigeria,a90b1ac7-9cf3-4887-b6ca-e6f586acdeeb,Samsung QLED TV,Electronics,1434.34,9,,0.1,Credit Card,Young,Male,Ibadan,Ayo Adeyemi
+Fg7282,6/5/24,Nigeria,343828f4-dfba-4082-8ea2-732fbe045263,iPhone 14,Electronics,982.66,1,982.66,0.15,Debit Card,,Female,Abuja,Uche Eze
+mC3496,1/23/25,Nigeria,873dad55-7751-4401-baec-b585e57366cf,Yeti Tumbler,Outdoor,,2,93.42,0,Online Payment,Senior,Male,Port Harcourt,Kelechi Balogun
+oB4131,11/11/24,Nigeria,1c253eee-cb3f-404e-b100-bcf5a1ae756a,The North Face Jacket,Apparel,124.02,2,248.04,0.15,Cash,,Male,Port Harcourt,Tope Adeyemi
+qh0660,12/6/24,Nigeria,3f8cdc34-6a29-4fdc-9368-31e032da57c4,Levi's 501 Jeans,Apparel,51.35,3,154.05,0.2,Mobile Wallet,,,Abuja,Chioma Ifeanyi
+Vn6535,6/16/24,Nigeria,d1c8539c-573a-4051-ad43-1c960e2f1492,Yeti Tumbler,Outdoor,33.61,9,302.49,0.1,Credit Card,Senior,Female,Abuja,Emeka Adebayo
+Ui0612,9/26/24,Nigeria,a3f6952e-7d8c-4224-8363-0f78a736b12f,KitchenAid Mixer,Home Appliances,469.77,7,3288.39,0.15,Credit Card,Senior,Male,Benin City,Tunde Ifeanyi
+Bq7235,,Nigeria,22b85d5c-228c-4a7b-b308-cee5d58ad694,The North Face Jacket,Apparel,134.74,6,808.44,0.2,Online Payment,Senior,Male,Lagos,Tope Ogunleye
+Jz5086,,Nigeria,93209561-f1d9-4a88-8b31-f962863e50f3,The North Face Jacket,Apparel,135.8,4,543.2,0.05,Debit Card,Young,Female,Abuja,Blessing Ifeanyi
+wB9953,10/5/24,Nigeria,1b9417fa-3b0e-4d1c-81a0-54b1efa6d8ff,KitchenAid Mixer,Home Appliances,364.22,1,364.22,0,Credit Card,Senior,Male,Lagos,Uche Balogun
+Cz7553,6/13/24,Nigeria,1533ba7d-392f-4c6a-96f7-d24942686f1f,Coca-Cola Can,Beverages,0.97,8,,0,Cash,Young,Male,Lagos,Ngozi Oluwaseun
+aA4576,3/10/25,,173aa84d-47da-4d40-b32d-bf97787fda1c,Nike Air Max,Footwear,185.18,9,1666.62,0.1,Debit Card,Young,Male,Abuja,
+kQ3437,8/26/24,Nigeria,7c32f772-b8da-4a91-8ec1-f3ba1dd5a3b5,Samsung QLED TV,Electronics,1496.9,10,14969,0.1,Mobile Wallet,Senior,Female,Lagos,Uche Ogunleye
+jy8243,5/15/24,Nigeria,3c6d3480-7564-4b66-8efe-3b103175a005,Nike Air Max,Footwear,142.78,5,713.9,,Mobile Wallet,Adult,Female,Benin City,Tope Adebayo
+Ae6362,2/8/25,Nigeria,f134d615-c57a-446d-b397-7408c67980af,iPhone 14,Electronics,,8,9142.8,0.05,Mobile Wallet,Adult,Male,Abuja,Uche Adebayo
+Fh4587,12/8/24,Nigeria,a7cebe75-bfaf-4b43-954b-6e85dba31687,Samsung QLED TV,Electronics,951.39,6,,0.2,Cash,Senior,Female,Benin City,Kelechi Okafor
+nR0254,2/20/25,Nigeria,f728e629-ead8-4909-8f11-373624b26cb6,Apple MacBook Pro,Electronics,2478.9,5,12394.5,0.1,Credit Card,Senior,Male,Abuja,Emeka Ogunleye
+KN8606,1/17/25,Nigeria,aa042f57-2ccd-4676-a477-1f85a7d6e18a,Nike Air Max,Footwear,169.57,10,1695.7,,Mobile Wallet,Adult,Female,Port Harcourt,Blessing Adeyemi
+RQ1187,9/13/24,Nigeria,36929dbe-4c24-4e4d-8bbf-b0d4e29b120d,Levi's 501 Jeans,Apparel,56.79,2,113.58,0,Credit Card,Young,Female,Ibadan,Chioma Okafor
+PF9953,11/19/24,Nigeria,1c290249-9fc5-4f10-b465-ecd012150333,Coca-Cola Can,,0.91,8,7.28,0.1,Mobile Wallet,Young,,Abuja,Bola Oluwaseun
+Af9025,4/8/24,Nigeria,25c1b1ce-2f1b-48f3-b44b-4e163bcb09f2,Doritos Chips,Snacks,3.23,6,19.38,0.2,Mobile Wallet,Senior,Male,Port Harcourt,Blessing Ogunleye
+XV8042,7/6/24,Nigeria,9271e015-eb59-45c2-9052-8ff0cf10ba84,Yeti Tumbler,Outdoor,34.75,10,347.5,0.15,Credit Card,Adult,Female,Abuja,Bola Eze
+uH5488,8/19/24,Nigeria,6aae6ceb-5374-4c70-ad17-406826db17e8,Apple MacBook Pro,Electronics,1353.41,6,8120.46,0.1,Mobile Wallet,Adult,Male,Port Harcourt,Ayo Ogunleye
+ep9810,10/17/24,Nigeria,c7dd0815-c52e-4181-ba23-426bea4cce78,,Home Appliances,462.64,5,2313.2,0.2,Cash,Young,Female,Lagos,
+nd7366,12/11/24,Nigeria,2b942412-ef8a-4d86-92bc-d31c21fa404a,Samsung QLED TV,Electronics,1193.75,3,3581.25,0,Mobile Wallet,,Female,,Tunde Adeyemi
+Yv8131,8/4/24,Nigeria,f47b286b-471a-4dea-b56d-89be822967bc,Apple MacBook Pro,Electronics,1600.65,1,1600.65,0,Mobile Wallet,Senior,Male,Benin City,Emeka Adeyemi
+lU3957,5/11/24,Nigeria,4515ff9d-1c9a-4d97-9891-116e0e2273ff,Coca-Cola Can,Beverages,0.67,3,2.01,,Credit Card,Senior,Male,Abuja,Tope Ogunleye
+iJ8154,2/11/25,Nigeria,128ffc4b-8c6a-417b-ab41-bcce318c6b03,Yeti Tumbler,Outdoor,25.99,7,181.93,0.15,Credit Card,Adult,Female,Lagos,Ayo Adebayo
+kA8102,3/7/25,Nigeria,51ea366c-b274-4fef-91ed-eef21304fd9b,Levi's 501 Jeans,Apparel,,3,289.71,0.1,Cash,Adult,Female,Lagos,Kelechi Balogun
+Yn4843,4/6/24,Nigeria,53ba2cb8-e877-4a48-bed4-46427f824b2e,Yeti Tumbler,Outdoor,20.82,5,104.1,0.2,Online Payment,Young,Female,Abuja,Ayo Ogunleye
+ht7649,6/23/24,Nigeria,9bf53912-ba70-4f12-b3ce-51bb670b6c80,Yeti Tumbler,Outdoor,23.9,6,143.4,0.15,Online Payment,Adult,Male,Ibadan,Ayo Adebayo
+aV9968,3/18/25,Nigeria,,Levi's 501 Jeans,Apparel,93.14,9,838.26,0.05,Online Payment,Young,Female,Lagos,Blessing Chukwu
+bn4974,,Nigeria,,Yeti Tumbler,Outdoor,24.2,3,72.6,0,Online Payment,Adult,Male,Port Harcourt,Uche Ifeanyi
+df1643,7/1/24,Nigeria,b4bee0b8-cc61-461f-ac6b-b9e305e83bda,Samsung QLED TV,Electronics,1038.64,7,7270.48,0,,Senior,Female,Lagos,Bola Chukwu
+vP4614,7/11/24,Nigeria,bade47cc-b4e3-46f1-bef9-8105c6ed8060,,Home Appliances,451.59,8,3612.72,0.15,Cash,Young,Female,Lagos,Ngozi Balogun
+pg6966,4/13/24,Nigeria,1e707732-0cb7-458f-8aac-73ee37798abb,Apple MacBook Pro,,2203.69,1,2203.69,0.1,Debit Card,Senior,Male,Lagos,Ayo Okafor
+PH1762,7/14/24,Nigeria,c012abaa-ceb7-49c4-8526-1bc8688bb5d3,The North Face Jacket,Apparel,146.68,7,1026.76,0.2,Credit Card,Senior,Male,Lagos,Ngozi Adeyemi
+Oy3911,11/2/24,Nigeria,1598bda7-a126-4f5a-b4fa-3a9d09d75057,iPhone 14,Electronics,977.48,5,4887.4,0.15,Credit Card,Adult,Male,Abuja,
+Gu7502,5/12/24,Nigeria,9b3f9f0f-67f5-4bb9-b230-ea0510b07ff4,Apple MacBook Pro,Electronics,1673.64,1,1673.64,0,Debit Card,Senior,Female,Port Harcourt,Uche Ogunleye
+oc4641,12/18/24,Nigeria,868b579d-0c41-45bc-b503-61f6f053b3f6,Yeti Tumbler,Outdoor,32.44,1,32.44,0.1,Debit Card,Adult,Male,Abuja,Chioma Ogunleye
+Mq2863,10/6/24,Nigeria,fa784ee7-e980-4b73-9911-a4bb6d91ffad,Yeti Tumbler,Outdoor,47.1,8,376.8,0.2,Online Payment,Adult,Female,Benin City,Ayo Nwankwo
+QZ4321,7/9/24,Nigeria,dd5a6acb-4ddd-4876-9b1b-61657849ecef,Doritos Chips,Snacks,2.3,9,20.7,0.1,Cash,Young,Female,Port Harcourt,Kelechi Ogunleye
+Oy8099,5/19/24,Nigeria,c002c5c0-06a5-4e75-a6d7-86cc7ff0d458,Levi's 501 Jeans,Apparel,60.27,7,421.89,0.05,Cash,Senior,Male,Lagos,Ngozi Balogun
+Rf4677,4/4/24,Nigeria,3c7bd50f-2cc2-4f36-9b2c-8044c4553de8,Apple MacBook Pro,Electronics,1825.62,3,5476.86,0,Credit Card,Young,Male,Lagos,Tope Nwankwo
+TH0454,10/30/24,Nigeria,3282feae-1dba-454a-8a84-86220404801b,Nike Air Max,Footwear,179.65,5,898.25,,Cash,Young,Female,Benin City,Blessing Ogunleye
+ma4904,4/22/24,,f2a680b9-da6e-4c4d-9074-61018022f7e6,Levi's 501 Jeans,Apparel,62.06,3,186.18,0.05,Credit Card,Adult,Female,Benin City,Bola Ogunleye
+Iz7746,9/7/24,Nigeria,61026be2-73df-456b-95b4-67df9e998c0e,Levi's 501 Jeans,Apparel,70.52,2,141.04,0.2,,Young,Male,Abuja,Chioma Eze
+aq9383,11/16/24,Nigeria,f79010fb-0626-406a-90bf-4a25c4c03529,Samsung QLED TV,Electronics,1408.48,6,8450.88,0,Cash,Young,Male,Ibadan,Chioma Ogunleye
+Ao5021,1/7/25,Nigeria,1b0408ce-bde9-4bb1-8a64-0a8b3de44319,Samsung QLED TV,Electronics,1289.95,9,11609.55,0.15,Credit Card,Adult,Male,Ibadan,Kelechi Okafor
+Ov6754,3/1/25,Nigeria,70332e2f-e3f0-454b-8a6e-77707953de15,KitchenAid Mixer,Home Appliances,489.53,7,3426.71,0.2,Debit Card,Adult,Male,Abuja,Tunde Adeyemi
+fz2850,6/8/24,Nigeria,a1c62136-3adf-4050-9802-54d4a12a6023,Doritos Chips,,3.27,6,19.62,0.2,Debit Card,Senior,Female,Lagos,Ayo Adeyemi
+CE0021,10/1/24,Nigeria,357fa5c6-4695-48d8-a7d1-cd3c5e3ae9bf,,Footwear,194.38,10,1943.8,0.1,,Adult,Female,Ibadan,
+Nw4396,8/16/24,Nigeria,f5f91715-fe11-4a89-a444-696069c79be3,Doritos Chips,Snacks,3.83,4,15.32,0.2,Debit Card,Senior,Male,Lagos,Ayo Balogun
+vk4569,,Nigeria,b8aea79c-e90e-4887-b59a-0195515181e6,Samsung QLED TV,Electronics,859.25,2,1718.5,0.1,Online Payment,Senior,Male,Abuja,Bola Oluwaseun
+Wv0065,1/22/25,Nigeria,6e6996e9-c8fe-4032-adb0-63ee5b77a523,Nike Air Max,Footwear,185.12,9,1666.08,0.05,Debit Card,,Female,Lagos,Tope Balogun
+kw9150,9/27/24,Nigeria,e59bfad3-d139-4482-b63f-3f168dea5dc2,iPhone 14,Electronics,1133.01,1,1133.01,0,Debit Card,,Female,Lagos,Chioma Balogun
+WJ1980,10/22/24,Nigeria,,Levi's 501 Jeans,Apparel,73.17,1,73.17,0,Debit Card,Senior,Female,Abuja,Emeka Chukwu
+DE5424,5/8/24,Nigeria,6cd50fea-1ce2-4ff4-a159-271b68520e73,Levi's 501 Jeans,Apparel,77.87,4,311.48,0.05,Cash,Adult,Male,Benin City,Bola Ogunleye
+Tt4816,10/9/24,Nigeria,0b9670a0-bb5c-4b3b-9284-2caf4a4837d2,The North Face Jacket,Apparel,133.09,7,931.63,0.15,Cash,Adult,Male,Ibadan,Chioma Adeyemi
+Ke2591,5/30/24,Nigeria,fd277928-a699-4186-9137-4a2a40d62570,The North Face Jacket,Apparel,179.96,8,1439.68,0.15,Debit Card,Adult,Male,Port Harcourt,Chioma Ifeanyi
+Ir7841,4/21/24,Nigeria,3b1621f2-18de-4c08-bdd8-d2fc67509677,Samsung QLED TV,Electronics,577.69,10,5776.9,0.15,Mobile Wallet,Adult,Male,Benin City,Tunde Adeyemi
+LK6887,10/6/24,Nigeria,f219d7fd-f313-46cf-81fe-e7ee7eb068c6,The North Face Jacket,Apparel,161.27,5,806.35,0.1,Credit Card,Young,Female,,Kelechi Oluwaseun
+ux9081,6/20/24,Nigeria,6b12829d-292d-4177-a7cc-af5948ce6c51,iPhone 14,Electronics,891.9,5,4459.5,0.15,Credit Card,Young,Male,Ibadan,Uche Ogunleye
+BK2086,9/27/24,Nigeria,03d0aadb-cbea-4301-8938-c5031f1f69c4,Doritos Chips,Snacks,3.38,10,33.8,0.05,Credit Card,Adult,Female,Benin City,Tope Okafor
+hI1206,5/25/24,Nigeria,e305118b-8621-4eda-b385-69ced0ba4a75,Doritos Chips,Snacks,2.8,3,8.4,0.05,Online Payment,Senior,Female,Lagos,Ngozi Oluwaseun
+pR0931,10/27/24,Nigeria,4e0ce32f-0250-46d1-9f4d-2dab3867b0ca,Samsung QLED TV,,1166.16,5,,0,Online Payment,,Male,Benin City,Uche Adeyemi
+CT7017,8/7/24,Nigeria,,Doritos Chips,Snacks,3.88,8,31.04,0.15,Cash,Adult,Female,Lagos,Emeka Nwankwo
+EE2167,5/19/24,Nigeria,a3261ac8-56b4-478c-9e1b-a23a05df1f05,Samsung QLED TV,Electronics,799.21,6,,0.15,Mobile Wallet,Senior,Male,,Blessing Okafor
+IE6061,,Nigeria,dd1716c7-53fd-49f7-a32f-c89cc3affe58,KitchenAid Mixer,Home Appliances,459.28,1,459.28,0,Credit Card,Adult,Male,Benin City,Ngozi Okafor
+Lw0750,6/20/24,Nigeria,7ed4563b-934f-4355-b12f-79009465f1db,Yeti Tumbler,Outdoor,35.56,8,284.48,0.15,Mobile Wallet,Senior,Female,,Ayo Ogunleye
+Ns3419,7/22/24,Nigeria,d4d15b7f-6a19-413b-9831-9ee7ae601225,Nike Air Max,Footwear,183.37,4,733.48,0,Debit Card,Young,Male,Benin City,Blessing Oluwaseun
+cs2356,6/5/24,Nigeria,89ccf5cc-9371-4bfa-8fef-20cdcd13920b,Yeti Tumbler,Outdoor,43.18,9,388.62,0.2,Cash,Adult,Female,Ibadan,Ayo Adeyemi
+FJ8261,7/5/24,Nigeria,3249dcdd-4787-480c-be96-be96ba265d5d,Samsung QLED TV,Electronics,994.7,5,4973.5,0.2,Credit Card,Senior,Male,Benin City,Ngozi Okafor
+gJ5955,4/19/24,Nigeria,5b984570-63df-49eb-9c2b-19636dbd274b,Coca-Cola Can,Beverages,1.87,10,18.7,0.1,Online Payment,Senior,Female,Ibadan,Blessing Ifeanyi
+ZY8009,5/13/24,Nigeria,935424d5-f391-4cef-ba77-5ec7ecb887b8,KitchenAid Mixer,Home Appliances,468.91,5,2344.55,0,Debit Card,Adult,Male,Benin City,Blessing Oluwaseun
+ox2909,8/6/24,Nigeria,9f1a7ee2-a7ee-47f6-ae5e-6a2f0c89ca4a,KitchenAid Mixer,Home Appliances,395.97,4,1583.88,0.2,Cash,Senior,Female,Abuja,Kelechi Balogun
+lI1056,,Nigeria,a9a24549-3d1a-48be-8bb9-ddbac1177fc1,Coca-Cola Can,Beverages,1.93,1,1.93,,Online Payment,Adult,Male,Benin City,Uche Balogun
+KY2560,10/10/24,Nigeria,ee0b10b5-0757-45b5-8a2e-c8011fcf52a0,Yeti Tumbler,Outdoor,22.82,3,68.46,0,Credit Card,Adult,Female,Port Harcourt,Uche Nwankwo
+Xl7265,4/12/24,Nigeria,bc50cd93-ed24-48b9-bd13-33b40285e567,Levi's 501 Jeans,Apparel,63.13,4,252.52,0,Online Payment,Adult,Female,Port Harcourt,Ayo Adeyemi
+Ys8195,11/19/24,Nigeria,16dfa9c2-43c7-40e2-bcf9-c0bbc34c2bf6,Apple MacBook Pro,Electronics,1650.1,10,16501,0.15,Online Payment,Young,Male,Port Harcourt,Ayo Okafor
+qg4462,11/5/24,Nigeria,5fa7157f-d49f-4c94-a45d-29ca974560c1,Coca-Cola Can,Beverages,1.67,,10.02,0.15,Credit Card,Adult,Female,Ibadan,Tunde Ifeanyi
+tT7563,,Nigeria,f7df30ea-e6e0-4b9e-9123-a92e69ee3ad1,The North Face Jacket,Apparel,254.9,8,2039.2,0.1,Online Payment,,Female,Benin City,Uche Oluwaseun
+oK9999,3/18/25,Nigeria,3060ee5e-d58e-48a2-a5f1-6b5a723fa433,KitchenAid Mixer,Home Appliances,361.96,2,723.92,0.15,Debit Card,Adult,Female,Ibadan,Blessing Ifeanyi
+GA1639,11/26/24,Nigeria,40f9ec3d-0951-4764-8334-3425177c3077,Apple MacBook Pro,Electronics,2311.74,3,6935.22,0.2,,Adult,Male,Ibadan,Blessing Nwankwo
+hQ8957,11/20/24,Nigeria,,Samsung QLED TV,Electronics,833.62,6,5001.72,0.2,Online Payment,Young,Male,Port Harcourt,Tope Ogunleye
+je2600,10/26/24,Nigeria,54c4435d-17cc-4ae4-8f84-9cd9e4f70284,Yeti Tumbler,Outdoor,44.7,7,312.9,0.05,Debit Card,Young,Male,Port Harcourt,Tope Nwankwo
+ro7574,9/18/24,Nigeria,da2ffbe9-e93a-4d7b-ac37-44e9db3816d3,KitchenAid Mixer,Home Appliances,423.44,9,3810.96,0.2,Debit Card,Adult,Female,Port Harcourt,Ngozi Okafor
+BX5204,10/15/24,Nigeria,77cf4b20-68dc-4420-ad0a-63ce6d563ac6,Yeti Tumbler,Outdoor,42.84,10,428.4,0.2,Online Payment,Adult,Male,Abuja,Bola Balogun
+pO9904,5/14/24,Nigeria,8f3a0aa5-fbff-4732-bd9a-d119d20f7097,Doritos Chips,Snacks,2.8,4,11.2,0.2,Debit Card,Senior,Male,Abuja,Ngozi Ogunleye
+VR8051,5/21/24,Nigeria,16f02cc7-7bb8-4faf-93cf-01f9deb2aa21,Samsung QLED TV,Electronics,1405.57,5,7027.85,0.2,Credit Card,Adult,Female,Abuja,Bola Balogun
+CI7798,,Nigeria,4306e705-687e-4164-8fdf-85db6df21414,Yeti Tumbler,Outdoor,36.78,10,367.8,0,Cash,Young,Female,Ibadan,Kelechi Nwankwo
+ev1513,3/23/24,Nigeria,19bec06a-a227-4569-b402-0e45e8a4c18e,The North Face Jacket,Apparel,228.27,2,456.54,0.15,Cash,Senior,Female,Ibadan,Uche Ifeanyi
+Wb3869,10/29/24,Nigeria,37221294-89dc-4bae-a76b-e7ea76a03076,Nike Air Max,Footwear,107.06,10,1070.6,0,Debit Card,Adult,Female,Benin City,Kelechi Chukwu
+hF3920,11/12/24,Nigeria,5bd42797-50ab-4b6f-8ffb-4629ae3758b0,KitchenAid Mixer,Home Appliances,437.35,5,2186.75,0.15,Credit Card,,Male,Port Harcourt,
+un0701,6/25/24,Nigeria,3c6064a4-d31e-4753-b9f0-02021beb01d9,Yeti Tumbler,,25.93,8,207.44,0.2,Mobile Wallet,Young,Female,Ibadan,Ayo Balogun
+Ys2532,,Nigeria,6205877d-6b0f-42cf-b65a-b8cf19bf4413,Samsung QLED TV,Electronics,1295.76,8,10366.08,0.15,Credit Card,Adult,Male,Benin City,Tope Eze
+vG0249,5/29/24,Nigeria,e4476dac-8646-4a78-ace0-045b8fba207e,The North Face Jacket,Apparel,148.58,8,1188.64,0.1,Debit Card,Adult,Male,Lagos,Uche Chukwu
+Lj9391,3/2/25,Nigeria,046911c4-9f13-477f-9f16-7e38c7c13ead,iPhone 14,Electronics,998.33,8,,0,Mobile Wallet,Young,Male,Port Harcourt,Tunde Nwankwo
+JC5619,8/10/24,Nigeria,,Apple MacBook Pro,Electronics,2467.14,10,24671.4,0.1,Mobile Wallet,,Male,Lagos,Uche Adeyemi
+TM9655,2/20/25,Nigeria,,Doritos Chips,Snacks,4.68,1,,0.15,Cash,Adult,Male,Ibadan,Bola Adebayo
+Vu8534,12/31/24,Nigeria,6355b451-08df-4877-be15-68f1da45a934,Levi's 501 Jeans,Apparel,,4,363.24,0.2,Credit Card,Senior,Female,Ibadan,Bola Nwankwo
+Hn5625,3/22/24,Nigeria,5ebe55b9-d416-4d6c-9506-8df926a18d4f,Yeti Tumbler,Outdoor,47.96,2,95.92,0,Debit Card,Adult,Female,Ibadan,Bola Nwankwo
+Bj7589,8/22/24,Nigeria,7dc25658-7834-45a6-b4db-99a7a66d68b8,Samsung QLED TV,Electronics,1019.32,,10193.2,0.15,Credit Card,Adult,Male,Port Harcourt,Uche Chukwu
+wZ6423,7/26/24,Nigeria,e95f4774-2ccd-4724-ba13-aef3909b3196,Nike Air Max,Footwear,101.97,1,101.97,0.15,,,Female,Ibadan,Ayo Adebayo
+aO0176,11/20/24,Nigeria,07899aa2-7229-4548-b02d-eb9be9e39433,Doritos Chips,Snacks,1.78,7,12.46,0,Cash,Senior,Female,Benin City,Kelechi Adebayo
+bP8049,6/22/24,Nigeria,635b8c04-664a-4dc1-96bd-13eb2a7d1012,Samsung QLED TV,Electronics,1275.32,1,1275.32,0.2,Credit Card,Adult,Female,Benin City,Ngozi Balogun
+kh8673,3/18/25,Nigeria,1938c926-fb39-4ed4-8fc1-ed4ff2a83bb6,Nike Air Max,Footwear,198.07,10,1980.7,0.1,Mobile Wallet,Young,Female,Benin City,Bola Adeyemi
+sq3959,8/29/24,Nigeria,30e3c0c3-6437-4943-868a-14905746153c,Coca-Cola Can,Beverages,0.6,8,4.8,0.05,Credit Card,Adult,Male,Benin City,Chioma Ifeanyi
+Wz3810,5/29/24,Nigeria,615176bc-27ac-4d43-8b37-0359b4e3bc8d,Samsung QLED TV,Electronics,1599.72,4,,0.05,Online Payment,Young,Female,Abuja,Uche Adeyemi
+YU3598,6/5/24,Nigeria,0318c9ba-4aaa-4f21-94d7-7b270f33d96f,KitchenAid Mixer,Home Appliances,299.35,5,1496.75,0.05,Debit Card,Senior,Male,Benin City,Blessing Okafor
+HP5766,5/28/24,Nigeria,17052342-ab36-4dbb-9f09-d23d9e9c8b88,iPhone 14,Electronics,875.31,6,5251.86,0.1,Credit Card,Adult,Female,Abuja,Emeka Chukwu
+xT1061,5/17/24,Nigeria,52894fc0-672e-4927-b06e-cefbf3b85415,Samsung QLED TV,Electronics,1700.45,2,3400.9,0,Cash,Adult,Male,Benin City,
+xW7066,12/16/24,Nigeria,9ca79246-fb40-4d80-80e7-baff63d8da2b,Doritos Chips,Snacks,3.92,,7.84,0.2,Mobile Wallet,Senior,Male,Port Harcourt,Uche Ifeanyi
+Tc5153,4/28/24,Nigeria,fbb5a295-92ef-4255-9cd2-8a29fd45cc78,Yeti Tumbler,Outdoor,44.64,2,89.28,0,Credit Card,Adult,Male,Benin City,Ngozi Balogun
+AX1069,8/1/24,,eb421eb5-0dec-4e55-be42-836db0702942,iPhone 14,Electronics,854.23,7,5979.61,0.15,Online Payment,,Male,Abuja,Chioma Adeyemi
+lw7567,11/15/24,Nigeria,8d5d262b-542c-43ba-ab3d-2520e2497aeb,Coca-Cola Can,,1.26,,,0.05,Online Payment,Adult,Male,,Ngozi Nwankwo
+cb7564,,,3feedac9-8ee8-4a08-9eb6-82146e7c0a84,,Snacks,,4,19.64,0.05,,Adult,Female,Abuja,Chioma Eze
+nm9581,11/26/24,Nigeria,b530a322-c678-4c97-889d-821c60333cbd,Yeti Tumbler,Outdoor,48.82,5,244.1,0,Credit Card,Young,Male,Ibadan,Ayo Nwankwo
+ix0416,11/9/24,Nigeria,2906397c-c00d-48f6-9496-8623d2372547,Samsung QLED TV,Electronics,1689.3,1,1689.3,0.1,Mobile Wallet,,Male,Ibadan,Kelechi Ifeanyi
+zM7430,,Nigeria,01e4bcfe-61ca-40da-a82f-824165f11f38,Doritos Chips,Snacks,3.73,,18.65,0.15,Online Payment,Adult,Male,Port Harcourt,Ayo Adebayo
+tH9335,8/18/24,Nigeria,b861bbb7-8e81-4ca3-af92-adbffbfd07fc,The North Face Jacket,Apparel,244.54,6,1467.24,0.2,Cash,Senior,Female,Abuja,Blessing Chukwu
+yc7302,8/4/24,Nigeria,6145d20e-0f66-4d8c-a218-d6c0176f17c7,Coca-Cola Can,Beverages,1.89,3,5.67,0.2,Debit Card,Senior,Male,Ibadan,Tope Chukwu
+Ch0284,11/2/24,Nigeria,2d23ddea-8851-487b-a000-4d83b6c3fc6e,Levi's 501 Jeans,Apparel,77.39,5,386.95,0.1,,Adult,Male,Abuja,Ngozi Oluwaseun
+qC6077,1/14/25,Nigeria,f8a110b2-032d-43a0-8f10-dea67956992f,Apple MacBook Pro,Electronics,2189.86,9,19708.74,0.15,,Adult,Female,Ibadan,
+ot0667,2/7/25,,602b4b97-daac-487f-bea0-82277a8f229a,KitchenAid Mixer,Home Appliances,444.74,4,1778.96,0.05,Cash,Young,Male,Port Harcourt,Uche Eze
+FC5286,12/18/24,Nigeria,36f3a510-5cb6-4cc4-8b56-28bc99c4f333,KitchenAid Mixer,Home Appliances,465.97,10,4659.7,,Credit Card,Senior,Male,Abuja,Tope Ogunleye
+gP7488,10/9/24,Nigeria,a0fb7cbb-54b4-4951-87c0-86f242f770e8,Samsung QLED TV,Electronics,1602.44,8,12819.52,0.1,Credit Card,Young,Male,Benin City,Uche Chukwu
+Kr4007,11/1/24,Nigeria,37a1943b-982d-42fd-94aa-00a1ae51d186,Samsung QLED TV,Electronics,1331.85,8,10654.8,0,Credit Card,,Female,Abuja,Tunde Oluwaseun
+TT8062,10/30/24,Nigeria,4d52ca0a-e49f-44fd-95d7-559cc63ccd19,KitchenAid Mixer,Home Appliances,268.31,8,2146.48,0.2,Debit Card,Adult,Male,Lagos,Bola Balogun
+jD9526,,Nigeria,707544ff-47f5-44a5-bca0-4fbf89e12902,Doritos Chips,Snacks,2.34,4,9.36,0.05,Debit Card,Senior,Female,Lagos,Ngozi Chukwu
+BZ7142,,Nigeria,b1b32d99-f3e0-4bc2-9e19-8e6281b1e215,Apple MacBook Pro,Electronics,2025.79,2,4051.58,0.15,Credit Card,Young,Female,Benin City,Ayo Okafor
+ow2914,8/30/24,Nigeria,f3c74b56-55ae-4728-b2a2-7b5cc4de264f,Apple MacBook Pro,Electronics,,1,1691.49,0.15,Cash,Adult,Female,Ibadan,Chioma Ifeanyi
+qT7714,10/17/24,Nigeria,016b2e1c-a1be-4670-b755-8838b487561c,Apple MacBook Pro,Electronics,2062.2,5,10311,0.1,Cash,Adult,Female,Lagos,Uche Eze
+jg9323,3/16/25,Nigeria,1454fb6d-734a-452a-8ba3-c3e6d7298337,Apple MacBook Pro,Electronics,2484.41,10,24844.1,,Credit Card,Adult,Male,Lagos,Ngozi Okafor
+Bv5779,4/19/24,Nigeria,bbbbeb26-eaa9-4080-840b-88570c724a3b,The North Face Jacket,Apparel,167.88,2,335.76,0.2,Cash,Young,Male,Abuja,Ngozi Nwankwo
+ve6930,,Nigeria,72bf3c0d-d954-4d54-943b-ce283345cbfa,Nike Air Max,Footwear,147.14,8,1177.12,0.05,Online Payment,Adult,Male,Ibadan,Blessing Adeyemi
+Ml2503,8/23/24,Nigeria,5bf20fd1-6e6c-42d6-8f0d-39034dc81b09,Apple MacBook Pro,Electronics,1964.85,10,19648.5,0.15,Credit Card,Senior,,Ibadan,Blessing Ifeanyi
+hN0370,9/29/24,Nigeria,fe141bd1-178a-4c92-a2f2-1a8369daef07,Levi's 501 Jeans,Apparel,86.81,1,86.81,0.1,Debit Card,Senior,Female,Port Harcourt,Ayo Ogunleye
+RV5693,10/21/24,Nigeria,1e64447d-8fb3-461d-9a8e-79b3def5ad75,Apple MacBook Pro,Electronics,2255.83,2,4511.66,0.2,Cash,Young,Male,Abuja,Ayo Okafor
+ZM2207,,Nigeria,15de9f03-c37f-41c8-9dd9-9a6a4b6780aa,KitchenAid Mixer,Home Appliances,388.11,2,776.22,0,,Senior,Female,Lagos,Emeka Adebayo
+Uk0533,12/2/24,Nigeria,e4fa3124-6647-4665-bc02-da993fd01b18,,Electronics,849.37,10,8493.7,0.05,Online Payment,Adult,Male,Benin City,Blessing Adebayo
+iy3083,2/5/25,Nigeria,b94743cd-6f5a-40b6-a931-b98799b9c274,Apple MacBook Pro,Electronics,1474.82,5,7374.1,0,Cash,Young,Female,Ibadan,
+qm7147,5/28/24,Nigeria,83a00c32-a906-4a19-b140-b1002f1d7d58,Samsung QLED TV,Electronics,1966.23,8,15729.84,0.2,Mobile Wallet,Adult,Male,Ibadan,Emeka Balogun
+gF1407,1/31/25,Nigeria,469cb82f-98a5-43de-af7b-e070da3cd7c5,KitchenAid Mixer,Home Appliances,385.88,2,771.76,0,Debit Card,Senior,,Benin City,Bola Nwankwo
+kY6403,3/20/24,Nigeria,2aae646d-2334-48cd-a32b-39c7ed7a9b68,Levi's 501 Jeans,Apparel,99.14,9,892.26,0.2,Credit Card,,Male,Benin City,Ayo Chukwu
+mW0772,4/24/24,Nigeria,ac51fc7d-eddb-4df2-b986-a2a0cade91b4,KitchenAid Mixer,Home Appliances,437.73,7,3064.11,,Credit Card,Young,Male,Abuja,Kelechi Adebayo
+KZ7871,4/9/24,Nigeria,f3a1fb7d-bf88-49de-85eb-b860ea3c217c,The North Face Jacket,Apparel,175.46,4,701.84,0.2,Cash,Senior,Female,Benin City,Ayo Chukwu
+yR7218,10/6/24,,5b0247db-f038-4b2c-90a6-91f7844ffc22,,Electronics,1991,2,3982,0,Cash,Senior,Female,Ibadan,
+lX8594,,Nigeria,3d281bc5-3204-449c-8dea-e91ba56b1b06,KitchenAid Mixer,Home Appliances,325.7,3,977.1,0.05,Online Payment,Young,Male,Lagos,Blessing Adebayo
+eh0003,9/26/24,Nigeria,8ad93f85-f0a2-4440-9432-ea09d9078a06,KitchenAid Mixer,Home Appliances,478.61,7,3350.27,0,,Young,Male,Abuja,Tope Eze
+GW2411,12/12/24,Nigeria,,Nike Air Max,Footwear,191.67,,575.01,0.15,Online Payment,Adult,Male,Lagos,Uche Okafor
+Ed7334,5/21/24,Nigeria,0885856d-5a0f-465a-a10d-a79d04120415,Yeti Tumbler,Outdoor,28.4,1,28.4,0.2,Online Payment,Young,Male,Port Harcourt,Ayo Ogunleye
+Mg0406,10/14/24,Nigeria,c43fc4f9-d3e8-4cf9-9986-a00e5e41e86c,Nike Air Max,Footwear,177.71,6,1066.26,0,Mobile Wallet,Young,Female,Benin City,Uche Oluwaseun
+cx2051,2/3/25,Nigeria,04ba44ce-95d8-4472-a54c-7f6079266857,Doritos Chips,Snacks,,6,28.32,0.2,Credit Card,Young,Male,Abuja,Emeka Eze
+aH4106,1/27/25,Nigeria,56e7659d-4098-47d9-909d-fd88621485de,Doritos Chips,Snacks,1.65,5,8.25,0.15,Cash,Adult,Female,Benin City,Bola Chukwu
+xc5726,1/29/25,Nigeria,1fb8c615-8388-490d-a533-09028d3e4fe3,Yeti Tumbler,Outdoor,34.11,5,,0.05,Credit Card,Young,Male,Abuja,Ngozi Balogun
+XB9377,7/3/24,Nigeria,5bc39814-19b9-4027-80d4-a1796ee84da2,Samsung QLED TV,Electronics,1414.11,8,11312.88,0.15,Mobile Wallet,Adult,Male,Lagos,Blessing Balogun
+Iy4127,11/14/24,Nigeria,ebccb199-7889-4b81-945f-e7bbb077b823,Coca-Cola Can,Beverages,1.89,10,18.9,0.1,Mobile Wallet,Young,Male,Port Harcourt,Ayo Nwankwo
+wg8279,4/16/24,Nigeria,,Samsung QLED TV,Electronics,1590.38,6,9542.28,0.05,Online Payment,Young,Male,Ibadan,Blessing Balogun
+tS3625,6/8/24,Nigeria,5110a34a-90e1-4671-941a-daf9e722d213,Nike Air Max,Footwear,134.35,5,671.75,0.15,Credit Card,,Male,Port Harcourt,Tunde Ifeanyi
+ee0773,4/6/24,Nigeria,ff5318fa-4d87-4d2e-99b2-8f6680862471,Doritos Chips,Snacks,3.47,2,6.94,0.1,Cash,Young,Male,Port Harcourt,Ngozi Balogun
+hd3206,,Nigeria,eeb56b49-342e-4177-bc41-9ef254f06bfd,Yeti Tumbler,Outdoor,43.39,,347.12,0.05,Debit Card,Young,Female,Abuja,Kelechi Eze
+uE3913,11/13/24,Nigeria,c1833b71-8e1d-44e3-9ea3-39f8baf43cd2,Nike Air Max,Footwear,113.58,10,1135.8,0.05,Online Payment,Young,Female,Lagos,Kelechi Chukwu
+GY2859,6/4/24,Nigeria,,Yeti Tumbler,Outdoor,35.75,5,178.75,0.1,Online Payment,Young,,Abuja,Ayo Nwankwo
+KS0925,12/24/24,Nigeria,a0f09d11-19e3-4e8b-9a75-484332a6beb4,Coca-Cola Can,,1.6,8,12.8,0,Credit Card,Young,Female,Ibadan,Bola Chukwu
+vP2200,6/18/24,Nigeria,f4cde0a6-74e1-414d-b0b4-005edfc531eb,KitchenAid Mixer,Home Appliances,402.96,9,3626.64,0.05,Mobile Wallet,Young,Male,Abuja,
+JL8757,3/31/24,Nigeria,d78000d9-30f0-41c3-8606-40fcf6c9ebf3,Doritos Chips,Snacks,1.66,9,14.94,0.05,Cash,Young,Male,Benin City,Chioma Okafor
+Ub4040,3/31/24,Nigeria,752df5dc-ffa8-4a48-9908-e58201709fa6,Levi's 501 Jeans,Apparel,78.79,7,551.53,0.2,Online Payment,Adult,Male,Ibadan,Tope Adebayo
+ro9504,7/19/24,Nigeria,27b8df0e-1ea1-4942-a5c4-69bf54fa4f9e,Samsung QLED TV,Electronics,1131.22,5,5656.1,0.1,Online Payment,Young,Female,,Blessing Adebayo
+Mj6088,1/24/25,Nigeria,,iPhone 14,Electronics,851.04,1,851.04,0.15,Mobile Wallet,Young,Female,Benin City,Tunde Ifeanyi
+XW3961,4/16/24,Nigeria,0ae7433e-b592-4037-8aeb-a4b5da2aeba8,Coca-Cola Can,Beverages,1.06,1,,0,Cash,Senior,Male,Abuja,Emeka Adebayo
+nh8958,9/2/24,Nigeria,25ced5b9-718f-4a7c-81d4-8eeda4dd253b,,Footwear,150.57,2,301.14,0.1,Credit Card,Young,Male,Benin City,Ngozi Adeyemi
+PV9695,11/9/24,Nigeria,6b2f3a0c-1353-4a41-aec5-ce146a753508,KitchenAid Mixer,Home Appliances,342.14,7,2394.98,0.15,Credit Card,Adult,Female,Port Harcourt,Kelechi Ifeanyi
+CL3872,6/1/24,Nigeria,d6d294d3-c2fa-47fc-82a7-92ea44d34d56,Nike Air Max,Footwear,174.47,,1744.7,0.1,Cash,Adult,Female,Ibadan,Kelechi Adeyemi
+XS6426,4/2/24,Nigeria,17d85131-9054-40d5-a32c-bcdffdde3c49,The North Face Jacket,Apparel,124.74,5,623.7,0.15,Credit Card,Young,Male,Port Harcourt,Tunde Oluwaseun
+Fe5039,6/25/24,Nigeria,34c15703-bab9-4821-a586-30d1979caa4c,Apple MacBook Pro,Electronics,1988.06,4,7952.24,0.2,Mobile Wallet,Young,Female,Port Harcourt,Emeka Eze
+Fl6274,11/29/24,Nigeria,701365b8-d531-4801-b86c-fdd44e24506f,Apple MacBook Pro,Electronics,1438.13,2,2876.26,0.15,Cash,Senior,Female,Abuja,Blessing Balogun
+Te0584,5/8/24,Nigeria,68fbe32e-24b3-42d8-8786-73284391318d,Levi's 501 Jeans,Apparel,72.29,3,,0.2,Credit Card,Young,,Lagos,Blessing Ifeanyi
+Bx7734,8/16/24,Nigeria,68849c1e-62a2-40e0-b433-350397116ec4,Samsung QLED TV,Electronics,1641.51,8,13132.08,0,Cash,Young,Female,Port Harcourt,Blessing Nwankwo
+tb3208,1/5/25,Nigeria,215c69a6-1d81-442a-a703-771e8ccad50c,Doritos Chips,Snacks,4.01,,4.01,0.1,Mobile Wallet,Adult,Male,Abuja,Blessing Eze
+DG8731,5/1/24,Nigeria,,Samsung QLED TV,Electronics,1751.34,,12259.38,0.2,Cash,Adult,Female,Lagos,Kelechi Ogunleye
+qg1365,6/4/24,Nigeria,,Nike Air Max,Footwear,117.55,5,587.75,0.2,,Senior,Female,Lagos,Blessing Adebayo
+up1785,10/16/24,Nigeria,7dcf4cca-f373-4940-87a8-c18ce3d4d03f,The North Face Jacket,Apparel,159.68,10,1596.8,0.05,Online Payment,Adult,Female,Ibadan,Tunde Chukwu
+Km9651,9/2/24,Nigeria,b9041cda-cda1-47e5-9534-633bc331cd2d,KitchenAid Mixer,Home Appliances,455.31,4,1821.24,0.05,Cash,Senior,Female,Ibadan,Tunde Eze
+CZ3532,11/22/24,Nigeria,99aa8183-a0b3-4c18-9e1d-650797617874,Samsung QLED TV,Electronics,,4,7676.2,0,Mobile Wallet,Adult,Female,Port Harcourt,Bola Adeyemi
+HH6159,6/16/24,Nigeria,c8bb1351-5144-4758-8564-57cf4ceaef69,Doritos Chips,Snacks,1.54,6,,0.15,Debit Card,Young,Female,Port Harcourt,Uche Balogun
+lw9827,2/28/25,Nigeria,e73d5196-0c06-4e50-b3eb-13d88419403a,Apple MacBook Pro,Electronics,1420.09,8,11360.72,,Debit Card,Young,Male,Benin City,Ayo Chukwu
+Tg5973,3/2/25,Nigeria,7fc5607b-dea6-4365-9682-f3b268b1c525,The North Face Jacket,Apparel,291.63,5,1458.15,0.05,Cash,Young,Female,Lagos,Bola Oluwaseun
+Rn0818,6/10/24,Nigeria,22b2b1e7-96ed-4aa0-9bb6-cefbbeaa01a3,Apple MacBook Pro,Electronics,1976.09,2,3952.18,0.15,Mobile Wallet,Senior,Male,Lagos,Emeka Ogunleye
+Tw7873,9/4/24,Nigeria,1b7010c7-1714-44bf-b149-69b173669447,Apple MacBook Pro,Electronics,2349.6,,18796.8,0.2,Online Payment,Adult,Female,Abuja,Tunde Eze
+Ls7647,5/17/24,Nigeria,,The North Face Jacket,Apparel,249.79,4,999.16,0.1,Debit Card,Adult,,Benin City,Tope Oluwaseun
+rJ5234,6/6/24,Nigeria,05d94917-a9d3-4165-b839-b8495351942a,Nike Air Max,,104.1,1,104.1,0.2,Debit Card,Young,Female,Ibadan,Emeka Nwankwo
+Hc7067,9/20/24,Nigeria,ee4fb6c9-4438-49b1-b337-ca7817e4c110,iPhone 14,Electronics,948.46,5,4742.3,,Debit Card,Adult,Female,Benin City,Blessing Eze
+cX4011,7/5/24,Nigeria,c0f62be4-22d0-4081-a8dc-91960185a20d,,Footwear,117.36,4,469.44,0.2,Debit Card,Adult,Male,Benin City,Uche Ifeanyi
+Kp8488,9/27/24,Nigeria,544d31c9-ed43-4c1f-84c5-13d8f2d724ea,Nike Air Max,Footwear,137.87,4,551.48,0,Cash,,Female,Ibadan,Ngozi Balogun
+io4927,8/21/24,Nigeria,54c3b4b4-db2f-4ae2-98d2-44c20ed88f4d,Apple MacBook Pro,Electronics,1660.97,6,9965.82,0,Mobile Wallet,Young,Female,Ibadan,Emeka Balogun
+vs9078,10/7/24,Nigeria,8ce9d339-7876-4d7c-b3f2-01205ab35758,Yeti Tumbler,Outdoor,20.08,7,140.56,0.1,Credit Card,Young,Male,Benin City,Tunde Oluwaseun
+YD0355,11/23/24,Nigeria,9966a6cb-297e-408c-9c5c-29808ac6b904,iPhone 14,Electronics,1124.7,9,10122.3,0.2,Cash,Senior,Male,Benin City,Chioma Ifeanyi
+IA2822,5/23/24,Nigeria,28afcef2-fdd2-494f-80c0-276f96b88ed4,Apple MacBook Pro,Electronics,1700.3,2,,0,Cash,Adult,Male,Benin City,Emeka Chukwu
+wQ5893,2/19/25,Nigeria,7e749ad4-4979-46f0-b3dc-9be8648504df,Yeti Tumbler,Outdoor,40.59,8,324.72,0.1,Credit Card,Young,Male,Abuja,Ayo Adeyemi
+NT8963,3/31/24,Nigeria,daf819c7-bc5a-480a-b462-95f94c373ca7,Levi's 501 Jeans,Apparel,70.26,10,702.6,0.2,Cash,Senior,Female,Lagos,Ayo Ogunleye
+sm3040,4/25/24,Nigeria,7950ef27-4a6a-41cc-bb2a-6fa0e2152773,The North Face Jacket,Apparel,163.62,1,163.62,0.2,Credit Card,Senior,Male,Abuja,Tunde Nwankwo
+Uj0317,10/7/24,Nigeria,06822278-d60b-4ca9-8642-58318883ad7b,,Electronics,1083.23,9,,0,Credit Card,Senior,Female,,Chioma Okafor
+kp7104,5/10/24,Nigeria,de3ef7dc-25b2-4acf-a794-6fca5e0cad91,Coca-Cola Can,Beverages,1.46,8,11.68,0.1,Mobile Wallet,Young,Male,Ibadan,Uche Balogun
+Yr1402,8/16/24,Nigeria,069dfbd6-ac63-49e9-a85f-ff75ad97c902,iPhone 14,Electronics,922.21,5,4611.05,0,Cash,Young,Female,Ibadan,Tope Chukwu
+SJ9777,3/8/25,Nigeria,c1be3973-5478-4594-9984-7676f1d5a39e,The North Face Jacket,Apparel,262.82,5,1314.1,0.15,Mobile Wallet,Senior,Female,,Chioma Adebayo
+ch2953,6/14/24,Nigeria,8dc1d9b3-7f7e-4aa9-8a50-4380d6b0316e,Levi's 501 Jeans,Apparel,64.74,10,647.4,0.2,Cash,Adult,Male,Port Harcourt,Bola Ifeanyi
+hh1554,9/4/24,Nigeria,5b91aa16-948a-47de-894b-a65d6bd237b1,Levi's 501 Jeans,Apparel,71.79,7,502.53,0.05,Online Payment,Senior,Male,Abuja,Ayo Oluwaseun
+rL6888,12/14/24,Nigeria,d77cd656-08d4-4195-8f13-038ef7ce2bcb,Yeti Tumbler,Outdoor,26.96,3,80.88,0.2,Cash,Young,Male,Benin City,Uche Adebayo
+zR2128,,Nigeria,c4fb3720-adc0-4b85-b50a-3d507ebcabcf,Samsung QLED TV,Electronics,1748.87,5,8744.35,0.2,Cash,Adult,Male,Lagos,Kelechi Okafor
+ax1374,9/27/24,Nigeria,3b25a897-977f-403a-a378-37bd73493c81,Levi's 501 Jeans,Apparel,96.83,5,484.15,0,Credit Card,Senior,Male,Port Harcourt,Tunde Eze
+ml2513,11/4/24,Nigeria,fff868f6-9e78-4100-96c2-226ecfb8c7c1,Nike Air Max,Footwear,,1,115.38,0.15,Credit Card,Adult,Female,Port Harcourt,Uche Adebayo
+Mn4310,3/31/24,Nigeria,5d28d77a-737f-4a52-89ae-62f95f24ad7b,Samsung QLED TV,Electronics,1500.02,1,1500.02,0.2,Online Payment,Young,Male,Port Harcourt,Emeka Ogunleye
+mG6987,12/19/24,Nigeria,99243f39-6aef-4240-b907-9ff447f80642,Nike Air Max,Footwear,109.95,7,769.65,0,Debit Card,,Male,Benin City,Tope Ogunleye
+rX3728,10/9/24,Nigeria,,Levi's 501 Jeans,Apparel,99.98,7,699.86,0,Credit Card,Adult,Male,Benin City,Ayo Ogunleye
+KZ3241,8/29/24,Nigeria,8d2eff55-cc09-4fc1-a9fc-327631ddf556,iPhone 14,Electronics,934.88,3,2804.64,0.2,,,Female,,Kelechi Okafor
+vu7742,8/25/24,Nigeria,d7fac5ff-4b17-4189-8c1c-10afbdf1334a,Coca-Cola Can,Beverages,1.56,1,1.56,0.2,,Adult,Male,Abuja,Bola Ifeanyi
+yg1323,6/15/24,Nigeria,8dd01d12-af4c-420d-81e2-f7933cb5b48a,Samsung QLED TV,Electronics,1217.26,2,2434.52,0.15,Mobile Wallet,Adult,Female,Lagos,Ayo Oluwaseun
+gl5507,12/16/24,Nigeria,ac841902-42b0-491d-a39d-ca273016f7ae,,Outdoor,22.94,4,91.76,0.05,Mobile Wallet,Young,Female,Ibadan,Blessing Okafor
+Vu5846,3/6/25,,2756d157-1d66-4fa1-baec-68d4298852f5,Coca-Cola Can,,0.75,1,0.75,0.15,Online Payment,Young,Male,Port Harcourt,Emeka Adeyemi
+uH4880,12/30/24,Nigeria,3585ddbc-1a64-48bc-8bce-35e1d13632f4,Coca-Cola Can,Beverages,1.61,1,1.61,0.05,Cash,Senior,Male,Ibadan,Kelechi Balogun
+Jx2418,12/29/24,Nigeria,,Apple MacBook Pro,Electronics,1662.53,6,9975.18,0,Mobile Wallet,Young,Female,Benin City,
+Nt0094,7/29/24,Nigeria,5e480982-0f7d-4fef-ae95-51094c71cf54,Levi's 501 Jeans,Apparel,72.65,6,435.9,0.15,Credit Card,Senior,Female,,Bola Ogunleye
+NM8478,11/15/24,Nigeria,2ab6bb68-43a9-47a1-be1a-19ddd758a193,Coca-Cola Can,Beverages,1.37,4,5.48,0.05,Credit Card,Adult,Female,Benin City,Emeka Adeyemi
+ia8399,6/20/24,Nigeria,,Doritos Chips,Snacks,4.86,4,19.44,0.2,Debit Card,Adult,Male,Port Harcourt,Kelechi Chukwu
+SO7903,2/16/25,Nigeria,61e4ae6b-ee40-431e-b7f4-be23ef2d60b9,Yeti Tumbler,Outdoor,36.54,4,146.16,0.05,Cash,Adult,,Lagos,Uche Ifeanyi
+QS2420,,,ae01745d-4f6f-4ac1-b374-822aab4364b7,Apple MacBook Pro,Electronics,1474.66,5,7373.3,0,Mobile Wallet,Senior,Male,Port Harcourt,Tope Adeyemi
+IG4019,8/24/24,Nigeria,10769738-e7b3-4cdc-a564-f1f44eec425b,Levi's 501 Jeans,Apparel,64.48,4,257.92,0.1,Mobile Wallet,,Male,Benin City,Kelechi Oluwaseun
+EA2335,7/3/24,,a03f51bc-646d-4c7c-ad21-fa311e4be35e,Coca-Cola Can,Beverages,1.81,5,9.05,0.2,Mobile Wallet,Senior,Female,Lagos,Bola Chukwu
+Vp6306,8/29/24,Nigeria,2a057e67-cd73-4e98-bcc8-558d875e7114,Apple MacBook Pro,Electronics,2065.58,4,8262.32,0.2,Online Payment,Young,Female,,Chioma Chukwu
+PV9090,9/22/24,Nigeria,beb4de13-c3e2-400a-8300-78c39cacab3a,KitchenAid Mixer,Home Appliances,346.23,9,3116.07,0.2,Credit Card,Senior,Female,Ibadan,Tunde Okafor
+aj0434,11/21/24,Nigeria,e4285c0d-1895-41fe-be61-9ee98646918d,Samsung QLED TV,Electronics,1610.39,10,16103.9,0.15,Online Payment,Young,Female,Lagos,Tope Ifeanyi
+iA3103,6/23/24,Nigeria,dd30fcfc-b717-4a0d-a0fa-958940bde60c,Coca-Cola Can,Beverages,1.53,8,12.24,0,Cash,Senior,Male,,Ngozi Oluwaseun
+eM8312,7/24/24,Nigeria,266203d4-cbc7-4d4e-b61d-dba82d7882ff,Samsung QLED TV,Electronics,1992.38,1,1992.38,0.05,Mobile Wallet,Adult,Male,Ibadan,Ayo Eze
+oj4382,6/19/24,Nigeria,e437203f-6b56-43ea-a920-d6e6c01645c9,Doritos Chips,Snacks,2.25,7,15.75,0.05,Online Payment,Young,Male,Benin City,Uche Nwankwo
+yZ0610,6/24/24,Nigeria,f7459fa9-c4a5-4bc2-a57b-124b474eddd1,KitchenAid Mixer,Home Appliances,387.76,3,1163.28,0.1,Cash,Adult,Male,Abuja,Bola Nwankwo
+Sr6991,4/3/24,Nigeria,dc57246b-20ea-4435-84a6-b7f987a31504,The North Face Jacket,,173.22,7,1212.54,0.05,Mobile Wallet,Young,Female,Abuja,Tunde Oluwaseun
+VU5259,12/22/24,Nigeria,4d8c8364-faed-4d95-96ba-e5da0cadc2f4,The North Face Jacket,Apparel,208.7,,1460.9,0,Online Payment,Young,Male,Lagos,Bola Okafor
+vY0716,,Nigeria,8142e359-6c3e-4d5b-93e8-abd2ef7aaec4,Yeti Tumbler,,34.8,2,69.6,0.1,Credit Card,Adult,Male,Port Harcourt,Ngozi Oluwaseun
+dt8512,8/18/24,Nigeria,45ef9623-587b-41ae-b46a-b2360947622b,Coca-Cola Can,Beverages,1.01,1,1.01,0.1,Online Payment,Young,Female,Port Harcourt,Ayo Ogunleye
+Kp0258,1/5/25,Nigeria,99ef49c2-4c4d-4b89-a951-cb4e019e9d7e,Apple MacBook Pro,Electronics,1842.05,6,11052.3,0.1,Online Payment,Young,Male,Lagos,Chioma Oluwaseun
+Yc5362,2/15/25,Nigeria,bf8aec8d-b8f1-46d9-a166-234d991e56f4,Doritos Chips,Snacks,2.43,10,24.3,,Mobile Wallet,Adult,Female,Ibadan,Tope Adebayo
+po6709,10/18/24,Nigeria,79a710e8-65d1-4749-b6ed-6a65955e36ba,Coca-Cola Can,Beverages,1.27,3,3.81,0.2,Debit Card,Senior,Female,Benin City,Ayo Adebayo
+sL1977,12/4/24,Nigeria,e7b8c26a-d8fa-4d73-996e-9ec26f2d32a7,iPhone 14,Electronics,1067.48,4,4269.92,0,Cash,Adult,Female,Abuja,Blessing Ifeanyi
+dd7813,3/7/25,Nigeria,62488e3c-eb08-4c5b-beaa-81fbda96b7f4,Samsung QLED TV,Electronics,1259.62,5,6298.1,0.1,Credit Card,Young,Female,Port Harcourt,Kelechi Ifeanyi
+wp4959,10/9/24,Nigeria,11ce55b3-8ec6-4f51-b098-5dcefd8b6a81,KitchenAid Mixer,,435.85,6,2615.1,0.1,Debit Card,Senior,Female,Ibadan,Uche Ogunleye
+gs8395,,Nigeria,15d73fed-f87a-44b3-af70-fe6a1bfe8047,Coca-Cola Can,Beverages,1.58,,9.48,0.1,Mobile Wallet,Adult,Female,Ibadan,Tope Ifeanyi
+yy0367,5/1/24,Nigeria,4111d54b-e861-4b57-b8d7-282cf2c65c39,KitchenAid Mixer,Home Appliances,,9,3294.09,0.15,Debit Card,Senior,Female,,Bola Chukwu
+Ag2029,8/14/24,Nigeria,2693364b-8292-47bd-8836-6d5ae93fc337,Apple MacBook Pro,Electronics,1807.93,4,7231.72,0.2,Mobile Wallet,Senior,Male,Abuja,Kelechi Eze
+qv2067,1/18/25,Nigeria,57551db8-0cb6-4f0f-a24d-952ac94613ae,Yeti Tumbler,Outdoor,28.23,7,197.61,0.1,Credit Card,Young,Female,Port Harcourt,Tunde Balogun
+oJ3428,4/17/24,Nigeria,224e312e-f880-45bb-8fe0-1725dd7e5a87,Coca-Cola Can,Beverages,1.41,8,11.28,0.05,Online Payment,Adult,Male,Lagos,Ayo Adebayo
+aK2658,10/29/24,Nigeria,6eef0900-0d12-4e07-a1df-fd020666b37a,Apple MacBook Pro,Electronics,2240.46,10,22404.6,0.1,Debit Card,Young,Female,Abuja,Uche Ogunleye
+it6239,8/17/24,Nigeria,c92da089-bd9e-4619-a7fe-e4f05afce6cc,Apple MacBook Pro,Electronics,1431.63,3,4294.89,,Debit Card,Adult,Female,Abuja,Tope Chukwu
+bu6752,11/28/24,Nigeria,eedd9740-5e4f-4002-9ea0-b34761c565c8,Yeti Tumbler,,31.29,10,312.9,0.05,Debit Card,Adult,Male,Benin City,Tunde Ifeanyi
+eE2884,8/23/24,Nigeria,3aa5afb4-c27c-4f04-a9d2-29d233976d25,Doritos Chips,Snacks,2.73,4,10.92,0.2,Cash,,Female,Ibadan,Kelechi Nwankwo
+ni9016,2/11/25,Nigeria,65d5bd92-2138-46fe-a4f9-d1faddacce67,Apple MacBook Pro,Electronics,1360.89,7,9526.23,0.2,Debit Card,Young,Female,Benin City,Ngozi Ogunleye
+vK6365,1/19/25,Nigeria,42300ae9-6442-4380-bd56-4ea7269a08ac,Apple MacBook Pro,Electronics,1676.56,8,13412.48,0.05,Cash,Adult,Female,Benin City,Tope Adeyemi
+sp0773,11/13/24,Nigeria,c7c52c51-6249-46a2-9fe2-59ab8364da87,Apple MacBook Pro,Electronics,2396.86,6,14381.16,0,Mobile Wallet,Senior,Male,Lagos,Ngozi Adeyemi
+sT0204,,Nigeria,bad634f7-1a10-46b2-9876-42759db61552,KitchenAid Mixer,Home Appliances,484.85,6,2909.1,0.05,Credit Card,Senior,Female,Ibadan,Uche Adebayo
+Tq7588,3/20/24,Nigeria,c3f86345-34f6-453c-936c-53615762c038,iPhone 14,Electronics,1132.96,4,4531.84,0.2,Mobile Wallet,Young,Female,Lagos,Emeka Chukwu
+ZP6047,,Nigeria,9d7e03b0-938b-470b-b58c-e4fa31759df2,The North Face Jacket,Apparel,226.9,2,453.8,0.15,Online Payment,Young,Female,Port Harcourt,Bola Eze
+cu7181,10/31/24,Nigeria,50ef05e4-8a69-4b51-ac79-ce09a8319d1c,The North Face Jacket,Apparel,160.73,3,482.19,0,Debit Card,Adult,Female,Ibadan,Chioma Okafor
+Uu6271,7/18/24,Nigeria,87e41b67-04fe-4801-b05a-e216de9380d8,Apple MacBook Pro,,2106.73,8,16853.84,0,Mobile Wallet,Young,Male,Abuja,Tope Okafor
+Fd3560,6/17/24,Nigeria,79899da5-cc26-4cf0-9002-88aac1bd6431,Yeti Tumbler,Outdoor,48.98,5,244.9,0.15,Online Payment,Adult,Male,Ibadan,Tunde Chukwu
+kX0226,5/27/24,Nigeria,127ade29-9ad8-40f2-8961-b8e08b4009a8,,Electronics,1234.31,3,3702.93,0,Mobile Wallet,Senior,Female,Abuja,Ayo Chukwu
+xa9464,9/9/24,Nigeria,6761cce7-955e-42ab-94b0-bf7002a8e7ca,Coca-Cola Can,Beverages,1.88,4,7.52,0.2,Mobile Wallet,Adult,Female,Benin City,Ayo Ifeanyi
+vl4815,9/15/24,Nigeria,c8c88f57-57de-4404-a697-e7ad825cd8e2,Doritos Chips,Snacks,2.2,10,22,0.1,Mobile Wallet,Adult,Female,Benin City,
+yy0568,12/2/24,Nigeria,5fc8a5e6-4606-4729-b242-36ff3166f96b,Doritos Chips,Snacks,4.89,9,44.01,,Cash,Adult,Male,Benin City,Ngozi Adeyemi
+Du6491,7/1/24,Nigeria,b8147b59-8501-4255-b8f2-bf36fe9951e9,Levi's 501 Jeans,Apparel,85.3,3,255.9,0,,Young,Male,Abuja,Tope Balogun
+MR6188,3/18/25,Nigeria,e32e010c-c3e1-4f35-b7b7-1b02519e99f8,Doritos Chips,Snacks,1.69,3,5.07,0.15,Credit Card,Adult,Male,Benin City,Ayo Adebayo
+Uu5432,,Nigeria,543fb9ac-fc7c-41be-bde6-50dbaabada25,,Home Appliances,450.13,4,1800.52,,Debit Card,Senior,Male,Benin City,Emeka Oluwaseun
+Wi9361,11/18/24,Nigeria,7d8efdfd-e7da-432a-b0d6-c42587a54ed3,,Electronics,1876.18,2,3752.36,0.05,Online Payment,Adult,Female,Port Harcourt,Tope Oluwaseun
+RT1836,3/12/25,Nigeria,9b0e0200-ff0e-4ef2-95d2-ff8d972ef58f,iPhone 14,Electronics,1060.86,3,,0.15,Cash,Senior,,Lagos,Kelechi Eze
+Ah9964,6/2/24,Nigeria,350f6b43-57ad-415b-a6e6-013f08077589,Coca-Cola Can,Beverages,1.77,7,12.39,,Credit Card,Senior,Female,Lagos,
+jO3707,6/21/24,Nigeria,56ce86f7-d435-44ce-9bc7-a4f498a6323d,Coca-Cola Can,Beverages,1.33,,9.31,0.2,Credit Card,Young,Female,Abuja,Kelechi Chukwu
+od0708,10/28/24,Nigeria,5b76afda-4c9b-4ad7-a709-2d69dbd6c7ff,Nike Air Max,,138.96,3,416.88,0.2,Debit Card,Adult,Male,Ibadan,Uche Nwankwo
+Ce0123,9/7/24,Nigeria,7b4f9889-1692-4ad6-acbf-f9080265cece,Samsung QLED TV,Electronics,1990.74,8,15925.92,0.05,Online Payment,Young,Male,Benin City,Ayo Balogun
+LB9361,6/11/24,Nigeria,51695a59-6e1a-4ba5-85ea-ea6f5ae3cef6,iPhone 14,Electronics,1105.68,3,3317.04,0.1,Credit Card,Adult,Male,Port Harcourt,Tope Chukwu
+KZ5897,6/1/24,Nigeria,949cacfc-f97b-4f05-a11c-4ad2256bfd95,iPhone 14,Electronics,,6,6683.28,0.05,,Young,Male,Port Harcourt,
+wg6456,1/5/25,Nigeria,594ad8bd-1cb9-4336-aa09-f2d40b156e79,,,1190.07,8,9520.56,0.15,Debit Card,Senior,Female,Abuja,Tunde Oluwaseun
+LQ7439,2/22/25,Nigeria,b80bf5c3-aac9-4e78-ac31-3b9563bf45a8,The North Face Jacket,Apparel,120.6,,361.8,0.15,,Senior,Male,Lagos,Kelechi Ogunleye
+ZA5893,1/3/25,Nigeria,686e559d-cb45-417e-9c5b-f51879123d99,Doritos Chips,Snacks,2.18,5,10.9,0.1,Mobile Wallet,Young,Male,Abuja,Kelechi Nwankwo
+Ed6097,3/2/25,,845e6e63-c486-4472-8f6e-de9dbc74f547,iPhone 14,Electronics,1178.42,10,11784.2,0.15,Mobile Wallet,Senior,Female,Port Harcourt,Blessing Adeyemi
+FV9815,10/27/24,Nigeria,94bb9477-c325-42f5-8897-56ea789ceaf3,Apple MacBook Pro,Electronics,1460.1,9,13140.9,0.1,Online Payment,Young,Male,Abuja,
+zQ9112,4/16/24,Nigeria,88d31c6d-660e-47c6-b05f-27ec70cc0a71,Yeti Tumbler,Outdoor,,8,320.72,0.05,Mobile Wallet,Senior,Female,Ibadan,Bola Adebayo
+iR5732,1/10/25,Nigeria,88db9118-ebec-4872-becf-23ddef30e59d,KitchenAid Mixer,Home Appliances,408.64,1,408.64,0.15,Debit Card,Senior,Female,Abuja,Tope Chukwu
+nH1085,9/12/24,Nigeria,4c76be73-4f3e-4e87-9ca8-d06f32861220,Yeti Tumbler,Outdoor,36.77,3,110.31,0.15,Cash,Adult,Female,Benin City,Ayo Adebayo
+Sg4528,1/31/25,Nigeria,11944ee4-84cf-4a7e-9d7f-c0ea98e7eba9,Samsung QLED TV,Electronics,1516.97,7,10618.79,0.1,Credit Card,,Female,Lagos,Kelechi Chukwu
+Ql1685,3/1/25,Nigeria,1b1d7863-834e-4d89-aecd-e01de66b9ded,Samsung QLED TV,Electronics,628.97,10,6289.7,0.2,Mobile Wallet,Young,Female,Port Harcourt,Chioma Adeyemi
+lK4217,11/23/24,Nigeria,f25362c1-548b-4a96-acef-84e02b30a48d,Coca-Cola Can,Beverages,1.08,,7.56,0.2,Credit Card,Adult,Female,Benin City,Blessing Okafor
+lG0353,5/14/24,Nigeria,efb9ef63-8483-4761-96ee-93067b00a4e1,iPhone 14,Electronics,998.31,7,6988.17,0.2,Mobile Wallet,Young,Female,,Ayo Eze
+vi6073,10/8/24,Nigeria,09b7ba7f-22f8-4e09-b2a2-f6ba9f066fbe,Samsung QLED TV,Electronics,1722.95,6,10337.7,0.15,Cash,Adult,Male,Benin City,Tunde Ifeanyi
+HX7978,4/24/24,Nigeria,4e24e181-d8c9-46b3-8b45-65d8214afedb,Apple MacBook Pro,Electronics,1322.16,4,5288.64,0.2,Credit Card,Adult,Male,Port Harcourt,Ngozi Oluwaseun
+bM5832,10/8/24,Nigeria,d3b038eb-5d31-4ccb-ac43-8e34a1dd58c9,KitchenAid Mixer,Home Appliances,360.89,5,1804.45,,,,Male,Lagos,Ayo Oluwaseun
+Mv4425,12/4/24,Nigeria,1ebb38a1-c567-4446-83e2-322ae8b42a2a,iPhone 14,Electronics,825.67,4,3302.68,0.2,Online Payment,Young,Male,Lagos,Kelechi Okafor
+ui8681,6/8/24,Nigeria,28074281-81b8-436c-beff-3027a9e11376,The North Face Jacket,Apparel,134.55,1,134.55,0,Mobile Wallet,Young,Female,Ibadan,Emeka Oluwaseun
+UP1559,,Nigeria,675b5be0-54e5-4e5e-9f89-41055e7d9e65,Doritos Chips,Snacks,2.3,,6.9,0.1,Credit Card,Senior,Male,Benin City,Blessing Nwankwo
+Am7280,10/25/24,Nigeria,788a3732-36cd-4b2f-b81c-64745bf1eb0b,Doritos Chips,,,9,40.05,0,Debit Card,Senior,Female,Ibadan,Bola Nwankwo
+aT5517,,Nigeria,cf4271a7-71ba-4d63-a32e-4554ead760eb,Yeti Tumbler,Outdoor,41.15,10,411.5,0.05,Debit Card,,Female,Benin City,Ayo Chukwu
+bk6503,8/5/24,Nigeria,0ce9f3bd-e0af-4094-8559-32d751a3d08d,iPhone 14,Electronics,910.5,4,3642,0.15,Mobile Wallet,Senior,Female,Port Harcourt,Ngozi Ogunleye
+KP2947,6/20/24,Nigeria,9455bbb6-ea63-4589-a54e-c96d5a9b8eab,Doritos Chips,Snacks,1.71,1,1.71,0.05,Cash,,Female,Ibadan,Emeka Adeyemi
+SF9790,3/8/25,Nigeria,af29c1ec-6b3b-417d-82df-2f6cfee8fa5c,Nike Air Max,Footwear,118.46,10,1184.6,0.2,Mobile Wallet,Young,Female,Abuja,Bola Adeyemi
+bD7949,6/17/24,Nigeria,e6310f5f-5521-412e-9a10-0601b7a2b6d1,Yeti Tumbler,Outdoor,30.89,1,30.89,0.05,Cash,Senior,Male,Ibadan,Tope Adeyemi
+ol4381,4/30/24,Nigeria,a935b080-03c6-491e-ae9b-1abae0d97b89,Apple MacBook Pro,Electronics,2257.74,4,9030.96,0.05,Mobile Wallet,Adult,Male,Abuja,Kelechi Adebayo
+ii7183,,,6530f33e-6c51-4cb5-8a08-14693babdd75,Yeti Tumbler,Outdoor,27.65,9,248.85,0.1,Credit Card,Senior,Female,Port Harcourt,Kelechi Chukwu
+jz9500,4/16/24,Nigeria,c38c874d-f5a1-4632-96b8-444396333f07,Apple MacBook Pro,Electronics,1506.23,9,13556.07,0.05,,Young,Female,Abuja,Chioma Adebayo
+zh3460,3/25/24,Nigeria,654551a8-bec5-4612-9fce-a1a96a9549bc,Yeti Tumbler,Outdoor,26.93,10,269.3,0.15,Debit Card,Adult,Female,Benin City,Uche Balogun
+ba5472,1/21/25,Nigeria,a36dc87d-a2e2-416b-911e-1d7dd1e856b6,Apple MacBook Pro,,2366.66,1,2366.66,0,Credit Card,Senior,Female,Abuja,Tunde Adeyemi
+Pz8320,6/2/24,Nigeria,0f59f97a-898e-43d3-8dfd-81a66bfa9ecd,KitchenAid Mixer,Home Appliances,317.8,10,3178,0.2,Online Payment,Adult,Male,Benin City,Uche Adeyemi
+tT3825,2/28/25,Nigeria,f2ff3ec8-0cd7-4942-90e7-da4452b87b5d,Levi's 501 Jeans,Apparel,,5,424.85,0.2,Mobile Wallet,Senior,Female,Port Harcourt,Emeka Ogunleye

@@ -1,501 +1,501 @@
-transcation_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,store_representation
-WATM45JUMU,2/23/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.13,Debit Card,Adult,Male,Ambato,Online
-2JDDLXZ1EP,2/25/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.11,Bank Transfer,Young,Female,Manta,Online
-C1S79CQPZ8,2/29/24,Ecuador,103,Bimbo Bread,Bakery,0.3,10,0.15,0.01,Credit Card,Adult,Female,Riobamba,Online
-BFOFRROSN2,1/7/24,Ecuador,101,Diana Rice,Food,1.5,7,1,0.28,Debit Card,Adult,Male,Manta,Physical Store
-RW9N9VPUP6,2/11/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.05,Bank Transfer,Adult,Female,Guayaquil,Physical Store
-W785F3BI0I,2/15/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.32,Credit Card,Young,Female,Cuenca,Online
-YAT9K215CD,2/29/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,7,2.5,0.13,Bank Transfer,Adult,Male,Cuenca,Online
-UKSENPBZGX,2/13/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.04,Bank Transfer,Adult,Male,Riobamba,Online
-BVOWEUHCFH,2/19/24,Ecuador,102,Vita Milk,Dairy,0.9,7,0.6,0.06,Cash,Adult,Female,Manta,Physical Store
-Z3XO1U9HQ6,1/22/24,Ecuador,109,Dove Soap,Personal Care,1.2,5,0.8,0.12,Debit Card,Adult,Male,Guayaquil,Online
-W6FRTORQYE,1/11/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.02,Debit Card,Adult,Female,Cuenca,Physical Store
-KYSV552AYY,1/26/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,4,3,0.06,Debit Card,Young,Female,Cuenca,Online
-3G0TUB5ZMS,2/2/24,Ecuador,101,Diana Rice,Food,1.5,10,1,0.22,Bank Transfer,Adult,Male,Manta,Online
-IKCZQACW7W,1/16/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.25,Credit Card,Adult,Female,Riobamba,Physical Store
-S95JDRTF2Y,2/14/24,Ecuador,102,Vita Milk,Dairy,0.9,1,0.6,0.16,Bank Transfer,Adult,Male,Guayaquil,Online
-ZX612UI5U4,1/28/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.07,Credit Card,Young,Female,Quito,Online
-8NKIQ1PDJB,1/29/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.05,Credit Card,Young,Male,Quito,Online
-IVNJWR36ZR,1/31/24,Ecuador,102,Vita Milk,Dairy,0.9,10,0.6,0.03,Bank Transfer,Senior,Male,Guayaquil,Online
-QOLQBZKYBO,1/27/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,4,3,0.41,Bank Transfer,Young,Female,Loja,Physical Store
-TI66MT7AJG,1/9/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,4,4,0.66,Credit Card,Adult,Male,Manta,Physical Store
-1P2886MKR1,1/31/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0.03,Cash,Young,Male,Riobamba,Physical Store
-JCM39K0RXP,1/27/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.61,Cash,Adult,Female,Loja,Online
-CQB7SS684N,1/25/24,Ecuador,104,Valdez Sugar,Food,1.1,7,0.8,0.08,Debit Card,Adult,Male,Guayaquil,Physical Store
-YBBP8JNCPC,2/13/24,Ecuador,104,Valdez Sugar,Food,1.1,1,0.8,0.01,Bank Transfer,Young,Female,Ambato,Online
-C8TGJWYXNS,1/21/24,Ecuador,102,Vita Milk,Dairy,0.9,7,0.6,0.04,Cash,Adult,Female,Ambato,Online
-16I94VJBIC,1/21/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.13,Cash,Adult,Female,Cuenca,Physical Store
-K6901G3B1M,2/21/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.82,Cash,Adult,Female,Guayaquil,Online
-BMHFT2ZOOZ,1/9/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.24,Credit Card,Senior,Female,Ambato,Physical Store
-683WJ9F2WI,1/26/24,Ecuador,103,Bimbo Bread,Bakery,0.3,4,0.15,0.02,Credit Card,Senior,Male,Ambato,Online
-5KB373CGDL,1/14/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.15,Credit Card,Senior,Female,Guayaquil,Physical Store
-K9J9ENZB6K,2/9/24,Ecuador,104,Valdez Sugar,Food,1.1,5,0.8,0.04,Credit Card,Adult,Female,Guayaquil,Physical Store
-CXW9O09HQJ,2/1/24,Ecuador,104,Valdez Sugar,Food,1.1,10,0.8,0.17,Cash,Adult,Female,Quito,Online
-S8UDQPQBKS,2/12/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.52,Debit Card,Adult,Male,Manta,Physical Store
-TSGYZ75Q6M,1/15/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,8,4,0.81,Bank Transfer,Adult,Male,Guayaquil,Online
-GPPQFBC8J6,1/2/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,4,1.8,0.12,Bank Transfer,Young,Female,Manta,Physical Store
-6ELDMV5DNA,2/29/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,7,2.5,0.22,Credit Card,Young,Female,Riobamba,Physical Store
-3XRAAOIW59,2/4/24,Ecuador,101,Diana Rice,Food,1.5,8,1,0.21,Debit Card,Adult,Male,Riobamba,Physical Store
-TEC8822YBY,1/6/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.48,Credit Card,Adult,Male,Cuenca,Physical Store
-QHEQWWCH8J,1/28/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,3,1.8,0.09,Bank Transfer,Adult,Male,Guayaquil,Physical Store
-RYWNLO5O9J,2/4/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.95,Bank Transfer,Adult,Male,Loja,Online
-XADOJL7R38,1/19/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,10,3,0.34,Debit Card,Adult,Female,Riobamba,Online
-UB7EXBCTPB,2/26/24,Ecuador,102,Vita Milk,Dairy,0.9,6,0.6,0.06,Debit Card,Adult,Female,Manta,Online
-KMTUY2RJ05,1/4/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.18,Cash,Senior,Male,Riobamba,Online
-FDVD77R6I6,1/4/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.51,Credit Card,Young,Male,Cuenca,Physical Store
-M1ZZ9GVQVG,1/4/24,Ecuador,109,Dove Soap,Personal Care,1.2,3,0.8,0.08,Cash,Young,Female,Cuenca,Physical Store
-33U986REYK,2/7/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.13,Debit Card,Adult,Male,Riobamba,Online
-5QRIDVCEC9,2/25/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,8,1.8,0.35,Bank Transfer,Adult,Female,Loja,Physical Store
-7UQUNQXHC5,2/15/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,7,4,0.33,Credit Card,Young,Female,Quito,Physical Store
-IZ0ZUO0XOL,1/10/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,4,3,0.11,Credit Card,Adult,Female,Ambato,Physical Store
-3V9ZF00N6I,1/29/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.19,Bank Transfer,Adult,Male,Cuenca,Online
-A0HEW1Z4IO,1/12/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.01,Credit Card,Senior,Male,Ambato,Online
-4T6DZAD29K,1/17/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,7,1.8,0.19,Cash,Adult,Female,Riobamba,Online
-F0P3GHJ5RJ,2/23/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.17,Bank Transfer,Senior,Female,Guayaquil,Online
-P86SS4S7BF,2/16/24,Ecuador,101,Diana Rice,Food,1.5,10,1,0.11,Credit Card,Senior,Male,Ambato,Online
-AH97413FDG,2/18/24,Ecuador,103,Bimbo Bread,Bakery,0.3,8,0.15,0.04,Bank Transfer,Young,Male,Cuenca,Physical Store
-C23HHN8S0V,1/23/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,2,2.9,0.7,Cash,Young,Male,Manta,Physical Store
-Y99N6WACC8,2/22/24,Ecuador,103,Bimbo Bread,Bakery,0.3,8,0.15,0.01,Cash,Adult,Male,Ambato,Physical Store
-QP52MYCHF1,2/17/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.32,Credit Card,Senior,Male,Ambato,Physical Store
-E7B730ND7H,1/15/24,Ecuador,103,Bimbo Bread,Bakery,0.3,9,0.15,0.06,Bank Transfer,Adult,Male,Riobamba,Online
-ZVWI229P1E,2/7/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.35,Cash,Adult,Female,Riobamba,Physical Store
-4QC0VZ1R2S,1/21/24,Ecuador,101,Diana Rice,Food,1.5,1,1,0.17,Cash,Adult,Female,Manta,Online
-FNDGUEI2N7,2/11/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.11,Bank Transfer,Young,Female,Loja,Physical Store
-K858E2O7BN,2/6/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,7,3,0.55,Credit Card,Young,Male,Guayaquil,Online
-Z6WI5WVDCN,1/14/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.17,Credit Card,Young,Female,Guayaquil,Physical Store
-KMF8Y8FUNA,1/7/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.46,Credit Card,Senior,Female,Guayaquil,Physical Store
-XZ55KG43Y7,2/19/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.03,Bank Transfer,Adult,Male,Loja,Physical Store
-PEETHS10AG,1/20/24,Ecuador,103,Bimbo Bread,Bakery,0.3,2,0.15,0.03,Debit Card,Senior,Female,Cuenca,Physical Store
-SHVDJFVT5A,2/18/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,5,2.9,0.5,Bank Transfer,Young,Female,Guayaquil,Online
-SVBD1VLSWM,1/1/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.01,Credit Card,Young,Female,Quito,Online
-W4KRQ0AU8S,1/20/24,Ecuador,104,Valdez Sugar,Food,1.1,8,0.8,0.11,Bank Transfer,Senior,Female,Quito,Physical Store
-WN1RI2LDL8,1/29/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.12,Cash,Senior,Male,Loja,Physical Store
-47L7CJUNZS,3/1/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.14,Bank Transfer,Young,Male,Loja,Physical Store
-Y08P5AC0LK,1/23/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,5,2.9,0.5,Credit Card,Adult,Female,Guayaquil,Online
-YK9XWNWKVT,2/2/24,Ecuador,104,Valdez Sugar,Food,1.1,5,0.8,0.07,Cash,Young,Male,Loja,Online
-IBTC49QHK2,1/25/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.16,Credit Card,Young,Female,Guayaquil,Physical Store
-P2DNTF1S1G,1/8/24,Ecuador,101,Diana Rice,Food,1.5,5,1,0.25,Credit Card,Adult,Female,Riobamba,Online
-GAVWTEXBFU,2/8/24,Ecuador,109,Dove Soap,Personal Care,1.2,1,0.8,0.23,Debit Card,Young,Male,Cuenca,Physical Store
-S9WTQDO5HV,1/26/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,7,2.9,0.26,Debit Card,Young,Female,Guayaquil,Physical Store
-I3PNGNNG5B,1/30/24,Ecuador,109,Dove Soap,Personal Care,1.2,3,0.8,0.22,Bank Transfer,Senior,Male,Loja,Physical Store
-MKRUIK6C45,1/9/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.12,Bank Transfer,Adult,Female,Manta,Physical Store
-FU000J3XPI,1/3/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.6,Debit Card,Adult,Female,Cuenca,Online
-06036RALZJ,2/7/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,5,2.5,0.01,Cash,Young,Female,Ambato,Physical Store
-FGYUGAPPYO,1/16/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.05,Debit Card,Young,Female,Manta,Physical Store
-A1L2FTANVC,1/23/24,Ecuador,104,Valdez Sugar,Food,1.1,10,0.8,0.02,Debit Card,Senior,Male,Riobamba,Physical Store
-WKF7R8GXV9,2/29/24,Ecuador,103,Bimbo Bread,Bakery,0.3,2,0.15,0.06,Cash,Young,Female,Guayaquil,Physical Store
-U0W5UOH093,2/22/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,4,2.9,0.58,Bank Transfer,Young,Female,Quito,Physical Store
-70FBMTTEKI,1/2/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.49,Debit Card,Adult,Female,Quito,Online
-XZQPML0T1A,2/9/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.34,Bank Transfer,Young,Female,Quito,Online
-WT9HMWBLEB,2/16/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.53,Credit Card,Adult,Male,Loja,Online
-EB6185160Y,1/12/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,4,3,0.58,Credit Card,Adult,Male,Riobamba,Online
-0DMIN9G19G,2/27/24,Ecuador,101,Diana Rice,Food,1.5,5,1,0.04,Bank Transfer,Senior,Female,Guayaquil,Physical Store
-UJJG3UIG6A,2/1/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,7,4,0.92,Credit Card,Adult,Male,Manta,Online
-1OIE25UR8K,2/9/24,Ecuador,109,Dove Soap,Personal Care,1.2,3,0.8,0.21,Cash,Senior,Female,Manta,Physical Store
-YV1WTLW6JH,1/4/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.12,Cash,Young,Male,Quito,Online
-BDZK9AEHVT,1/30/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,2,2.9,0.21,Bank Transfer,Adult,Female,Ambato,Online
-LQJ6BS5TSH,2/29/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,5,4,0.87,Debit Card,Adult,Female,Guayaquil,Online
-9A5V608JVY,2/15/24,Ecuador,104,Valdez Sugar,Food,1.1,1,0.8,0.06,Bank Transfer,Adult,Male,Ambato,Online
-0ILDJ9M9X8,1/30/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,3,2.5,0.19,Credit Card,Adult,Male,Cuenca,Physical Store
-Q6QAJ699S4,1/12/24,Ecuador,104,Valdez Sugar,Food,1.1,6,0.8,0.14,Bank Transfer,Young,Female,Guayaquil,Online
-6ISFF2GDWS,1/11/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.14,Debit Card,Adult,Female,Riobamba,Physical Store
-M5EKB8FILJ,1/13/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.09,Cash,Adult,Male,Loja,Physical Store
-EA3GIWLI9S,2/25/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,4,4,0.01,Cash,Senior,Male,Ambato,Online
-H7C68ZGS1J,2/27/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.35,Debit Card,Senior,Female,Riobamba,Online
-WI1LDH4NSA,1/24/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,1.07,Cash,Adult,Male,Loja,Online
-JF5ZIQM373,1/25/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.19,Cash,Young,Male,Quito,Online
-HI74GXULNE,1/16/24,Ecuador,104,Valdez Sugar,Food,1.1,5,0.8,0.13,Bank Transfer,Adult,Male,Cuenca,Physical Store
-V8ZXR664SZ,1/20/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.03,Debit Card,Adult,Female,Cuenca,Physical Store
-I2FVM6W6CW,2/23/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.13,Bank Transfer,Senior,Female,Ambato,Physical Store
-075YW7YU35,2/26/24,Ecuador,101,Diana Rice,Food,1.5,3,1,0.2,Credit Card,Adult,Male,Quito,Online
-UNNWEW3PFC,1/31/24,Ecuador,109,Dove Soap,Personal Care,1.2,1,0.8,0.18,Cash,Young,Male,Quito,Online
-MCIWNHJ6MZ,2/28/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.76,Credit Card,Adult,Male,Ambato,Physical Store
-UNQTMZWPUK,2/13/24,Ecuador,109,Dove Soap,Personal Care,1.2,5,0.8,0.15,Bank Transfer,Adult,Female,Ambato,Physical Store
-OE36U19XEW,1/17/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,2,3,0.55,Credit Card,Senior,Female,Guayaquil,Physical Store
-17VOG88YBG,2/22/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.13,Bank Transfer,Young,Female,Ambato,Physical Store
-0II0K4MSUA,1/9/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,9,1.8,0.44,Bank Transfer,Young,Male,Guayaquil,Online
-LNVUW8SI08,1/27/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.03,Cash,Senior,Male,Cuenca,Online
-F4YTL96KV5,2/18/24,Ecuador,102,Vita Milk,Dairy,0.9,10,0.6,0.16,Cash,Senior,Male,Guayaquil,Online
-OGTV81TFZQ,1/3/24,Ecuador,109,Dove Soap,Personal Care,1.2,10,0.8,0.06,Debit Card,Adult,Female,Quito,Physical Store
-4SQFBX07VZ,2/25/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.03,Cash,Young,Male,Cuenca,Physical Store
-FRT1SCCAUW,2/9/24,Ecuador,103,Bimbo Bread,Bakery,0.3,2,0.15,0.03,Debit Card,Senior,Female,Cuenca,Online
-IPZHFBEJV2,2/20/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.32,Bank Transfer,Young,Male,Loja,Physical Store
-OLSCW0RC7F,1/13/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.19,Credit Card,Adult,Female,Quito,Online
-LDAUN6GQF2,1/12/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.04,Credit Card,Adult,Female,Loja,Online
-I0SPUWHEQ0,1/14/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,4,1.8,0.28,Bank Transfer,Adult,Female,Riobamba,Physical Store
-TZBYKHTVS3,2/1/24,Ecuador,101,Diana Rice,Food,1.5,9,1,0.02,Credit Card,Adult,Male,Loja,Physical Store
-NIR6CN1PCT,1/7/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.06,Debit Card,Senior,Female,Ambato,Online
-AHYQOOMG0D,2/11/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.07,Cash,Senior,Female,Loja,Online
-MWU31LXX8A,1/6/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.04,Credit Card,Adult,Male,Quito,Physical Store
-JAV5FOKZDX,2/25/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.18,Credit Card,Adult,Male,Manta,Online
-F8IL5RI7G1,1/2/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,1,1.8,0.09,Cash,Young,Male,Cuenca,Physical Store
-1TGZL04BE4,2/12/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.4,Credit Card,Adult,Female,Ambato,Online
-G11YGQIW3A,2/20/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.55,Bank Transfer,Adult,Female,Ambato,Online
-YQIGEYMAHI,2/15/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.12,Cash,Adult,Female,Riobamba,Physical Store
-GF36CTQ531,1/3/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.07,Cash,Adult,Male,Manta,Physical Store
-RGCM4E86S4,2/5/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0.06,Debit Card,Young,Female,Loja,Online
-Q00WC67YG1,1/27/24,Ecuador,104,Valdez Sugar,Food,1.1,8,0.8,0.12,Cash,Young,Male,Riobamba,Physical Store
-WND1UDRRZ4,1/6/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.05,Credit Card,Young,Male,Guayaquil,Physical Store
-DR2CWU5Z2B,1/5/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.49,Credit Card,Young,Female,Riobamba,Physical Store
-8PXKQ6VSL4,2/11/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.05,Credit Card,Adult,Female,Ambato,Physical Store
-P53NRIP1RS,2/6/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.38,Credit Card,Young,Male,Loja,Online
-9LQRT83SP0,1/24/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.37,Bank Transfer,Adult,Female,Quito,Physical Store
-UTY4BSKK6M,1/24/24,Ecuador,103,Bimbo Bread,Bakery,0.3,3,0.15,0,Debit Card,Adult,Male,Ambato,Online
-KR7AQWT41V,2/2/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.82,Cash,Adult,Male,Manta,Online
-F9BULJS81G,2/14/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.17,Credit Card,Young,Female,Cuenca,Physical Store
-0E3SIMMZVV,2/3/24,Ecuador,101,Diana Rice,Food,1.5,9,1,0.11,Bank Transfer,Senior,Female,Quito,Physical Store
-DQ7X7OX73D,2/4/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,5,3,0.32,Bank Transfer,Young,Female,Loja,Physical Store
-HEWMORJO8E,2/28/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.12,Debit Card,Adult,Female,Guayaquil,Online
-XI63P0GLQQ,1/15/24,Ecuador,101,Diana Rice,Food,1.5,4,1,0.07,Cash,Adult,Male,Manta,Physical Store
-2ACP2NEK7J,1/9/24,Ecuador,101,Diana Rice,Food,1.5,9,1,0.23,Credit Card,Adult,Male,Ambato,Physical Store
-BKIAGAO8IZ,1/21/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,2,1.8,0.15,Debit Card,Adult,Female,Quito,Physical Store
-XLRY97TAFF,1/21/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.12,Debit Card,Adult,Male,Guayaquil,Physical Store
-TPCZLW6GDD,1/5/24,Ecuador,101,Diana Rice,Food,1.5,9,1,0.11,Debit Card,Young,Male,Guayaquil,Physical Store
-YGYPFYOS23,3/1/24,Ecuador,101,Diana Rice,Food,1.5,2,1,0.11,Bank Transfer,Adult,Male,Manta,Online
-35HG1DJH74,1/23/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.38,Cash,Adult,Female,Riobamba,Online
-PKM5XT92OJ,2/14/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.68,Bank Transfer,Young,Female,Loja,Online
-Q09BNNZ17Y,1/13/24,Ecuador,101,Diana Rice,Food,1.5,8,1,0.13,Cash,Adult,Male,Quito,Online
-DU32UHOKS8,1/7/24,Ecuador,102,Vita Milk,Dairy,0.9,10,0.6,0.04,Credit Card,Adult,Male,Quito,Online
-EZ3MICI5PP,1/23/24,Ecuador,101,Diana Rice,Food,1.5,7,1,0.15,Cash,Senior,Male,Manta,Physical Store
-0QRNV033HT,2/22/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,3,2.5,0.28,Debit Card,Senior,Female,Manta,Online
-UA6TXZW9J4,2/2/24,Ecuador,109,Dove Soap,Personal Care,1.2,3,0.8,0.14,Credit Card,Senior,Female,Riobamba,Physical Store
-EXR9FLLDNX,2/15/24,Ecuador,103,Bimbo Bread,Bakery,0.3,1,0.15,0.03,Credit Card,Adult,Female,Quito,Online
-N4VXE78RRC,2/21/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.2,Debit Card,Senior,Female,Loja,Physical Store
-9DAIMLGVQN,1/4/24,Ecuador,104,Valdez Sugar,Food,1.1,1,0.8,0.03,Cash,Adult,Female,Quito,Online
-KTVR1Z4AT2,3/1/24,Ecuador,102,Vita Milk,Dairy,0.9,7,0.6,0,Debit Card,Adult,Female,Cuenca,Physical Store
-2PW6ZCA6AS,1/30/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,4,1.8,0.4,Cash,Adult,Female,Guayaquil,Physical Store
-XSZP8167XT,1/5/24,Ecuador,102,Vita Milk,Dairy,0.9,3,0.6,0.11,Credit Card,Senior,Male,Cuenca,Physical Store
-MGY6R0D1JO,2/3/24,Ecuador,101,Diana Rice,Food,1.5,1,1,0.17,Bank Transfer,Young,Female,Manta,Physical Store
-X2ON5VXNRN,1/14/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,1,2.9,0.66,Debit Card,Adult,Female,Quito,Physical Store
-IP9WB2KF2I,1/11/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.01,Cash,Young,Female,Cuenca,Physical Store
-TK302L4OI7,2/28/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.36,Cash,Senior,Male,Loja,Online
-9H7DAK4B7H,2/26/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,3,3,0.44,Cash,Adult,Female,Loja,Physical Store
-TMYWCYH09W,1/14/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,8,1.8,0.1,Credit Card,Young,Male,Cuenca,Online
-97UU96RZR2,1/29/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,2,4,0.2,Debit Card,Adult,Female,Loja,Physical Store
-XUUE4FB7Z0,2/23/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,1,4,0.4,Debit Card,Senior,Female,Loja,Online
-7WZT2M967W,2/13/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.16,Debit Card,Adult,Male,Manta,Physical Store
-FVTD9WQKCA,2/14/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,4,4,0.14,Bank Transfer,Adult,Male,Guayaquil,Physical Store
-Y698EAUF57,1/25/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,1,1.8,0.06,Credit Card,Adult,Female,Riobamba,Online
-GCT120LGXZ,1/8/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,4,4,0.1,Bank Transfer,Senior,Female,Guayaquil,Physical Store
-AQ2Z2RVVCS,2/23/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.09,Bank Transfer,Senior,Female,Manta,Online
-9YEEP2GG0E,2/26/24,Ecuador,101,Diana Rice,Food,1.5,5,1,0.16,Debit Card,Adult,Female,Riobamba,Physical Store
-OYV0Y5A5SB,1/17/24,Ecuador,103,Bimbo Bread,Bakery,0.3,1,0.15,0.01,Credit Card,Senior,Female,Quito,Online
-HS81P4M28M,1/8/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,8,2.9,0.55,Cash,Young,Female,Cuenca,Physical Store
-LGPIS3U6OC,1/22/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.02,Debit Card,Adult,Male,Guayaquil,Physical Store
-SYXFDNZE2L,1/2/24,Ecuador,101,Diana Rice,Food,1.5,10,1,0.01,Credit Card,Young,Male,Riobamba,Physical Store
-BH12TP03I4,2/14/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,5,2.9,0.25,Credit Card,Adult,Male,Quito,Physical Store
-2LB6D9Z3LV,2/18/24,Ecuador,102,Vita Milk,Dairy,0.9,7,0.6,0.17,Debit Card,Adult,Female,Loja,Online
-A4AGP287HA,2/14/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,9,3,0.26,Bank Transfer,Young,Female,Riobamba,Online
-W6PXFKYBQ6,2/7/24,Ecuador,104,Valdez Sugar,Food,1.1,1,0.8,0.04,Bank Transfer,Senior,Female,Loja,Physical Store
-R5QUMY3FUW,2/13/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,2,1.8,0.48,Debit Card,Young,Male,Cuenca,Online
-EB0N83MJPR,2/13/24,Ecuador,104,Valdez Sugar,Food,1.1,10,0.8,0.03,Bank Transfer,Adult,Male,Guayaquil,Physical Store
-PRE595SR7H,2/18/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.03,Cash,Adult,Female,Riobamba,Physical Store
-920GRFZFXM,1/4/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,4,1.8,0.31,Credit Card,Young,Male,Riobamba,Physical Store
-GRD6NIGLC0,2/2/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,2,3,0.1,Cash,Adult,Female,Loja,Online
-FH19ZJ3QTQ,1/12/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.06,Credit Card,Senior,Female,Guayaquil,Physical Store
-3HKZVX5S7U,2/3/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.07,Credit Card,Senior,Female,Quito,Physical Store
-MQBPJTYJ8Y,1/28/24,Ecuador,101,Diana Rice,Food,1.5,6,1,0.16,Bank Transfer,Young,Female,Loja,Online
-HJ6F010QIQ,1/2/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,6,2.9,0.21,Bank Transfer,Young,Male,Guayaquil,Online
-DEFIEAHL14,2/27/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,2,1.8,0.08,Bank Transfer,Senior,Female,Cuenca,Physical Store
-LSYHDDUHC1,1/2/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,5,4,0.21,Credit Card,Adult,Female,Manta,Physical Store
-O5PA1D6TQ4,1/29/24,Ecuador,101,Diana Rice,Food,1.5,4,1,0.27,Cash,Young,Male,Manta,Physical Store
-VUBTA03J2B,1/28/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,2,3,0.22,Cash,Young,Male,Guayaquil,Online
-IIFNM0NOC4,1/23/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.26,Cash,Young,Female,Loja,Online
-C71K3Y4WSB,2/3/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.15,Cash,Senior,Male,Manta,Online
-O1DUHMKDSA,2/18/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.1,Credit Card,Adult,Male,Loja,Physical Store
-5RHR5CZ13A,2/12/24,Ecuador,103,Bimbo Bread,Bakery,0.3,1,0.15,0.05,Credit Card,Adult,Male,Guayaquil,Physical Store
-J7C9WMKX2L,1/12/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.07,Cash,Adult,Male,Manta,Physical Store
-51QZ2FBBCG,2/8/24,Ecuador,104,Valdez Sugar,Food,1.1,5,0.8,0.04,Bank Transfer,Young,Female,Cuenca,Physical Store
-9YVXO9BKV0,1/9/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,1,4,0.13,Credit Card,Adult,Male,Ambato,Physical Store
-HQ5BMIGG5T,1/26/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.1,Cash,Adult,Female,Cuenca,Physical Store
-IMV8U4KTS7,2/9/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.02,Credit Card,Adult,Female,Loja,Online
-FK0YY4C6LC,1/24/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,9,3,0.31,Debit Card,Adult,Male,Cuenca,Physical Store
-DO15LXQ4NP,1/11/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.04,Debit Card,Young,Female,Manta,Online
-O9FZFZPD5V,2/24/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,9,3,0.03,Bank Transfer,Adult,Female,Ambato,Physical Store
-O0G8739OOC,1/2/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.24,Bank Transfer,Adult,Female,Loja,Physical Store
-S42QPJUG5I,2/27/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0.01,Bank Transfer,Adult,Female,Guayaquil,Online
-1OD47WCOKE,1/13/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.01,Bank Transfer,Adult,Male,Cuenca,Online
-KGARUMHDU3,2/26/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.5,Cash,Adult,Female,Ambato,Physical Store
-3Q7LXL2P9Y,1/29/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,3,3,0.54,Bank Transfer,Adult,Female,Guayaquil,Online
-8HB6H580BR,1/16/24,Ecuador,102,Vita Milk,Dairy,0.9,7,0.6,0.13,Bank Transfer,Adult,Male,Ambato,Physical Store
-LV4498028R,1/3/24,Ecuador,101,Diana Rice,Food,1.5,7,1,0.05,Credit Card,Young,Female,Ambato,Physical Store
-9A90VBPVNR,2/21/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,6,2.9,0.14,Bank Transfer,Adult,Male,Manta,Physical Store
-E65OUJFVOA,1/4/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,10,4,0.49,Credit Card,Adult,Female,Quito,Online
-94OMPKGMU0,2/13/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,1,2.5,0.51,Cash,Adult,Male,Cuenca,Physical Store
-HW4G72L4EG,1/5/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,1,4,1.04,Cash,Adult,Female,Ambato,Physical Store
-YMU9Y7UT2Z,1/14/24,Ecuador,103,Bimbo Bread,Bakery,0.3,8,0.15,0,Bank Transfer,Adult,Male,Guayaquil,Physical Store
-IUJXNK0UH9,2/4/24,Ecuador,102,Vita Milk,Dairy,0.9,1,0.6,0.03,Debit Card,Senior,Male,Cuenca,Physical Store
-4R9B70I3I7,2/21/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,8,4,0.68,Debit Card,Adult,Male,Manta,Online
-2IGDISN74T,2/23/24,Ecuador,104,Valdez Sugar,Food,1.1,10,0.8,0.09,Cash,Young,Female,Quito,Online
-T22WP4JX7N,2/26/24,Ecuador,103,Bimbo Bread,Bakery,0.3,7,0.15,0.01,Cash,Adult,Male,Loja,Physical Store
-MCMV30Q141,2/28/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,1,2.9,0.57,Debit Card,Adult,Male,Loja,Online
-40CTANKPKH,2/2/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.23,Cash,Adult,Male,Manta,Online
-W6MRIM3IMN,2/18/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.46,Cash,Adult,Male,Quito,Online
-9YTA0BDE0E,1/21/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.58,Bank Transfer,Adult,Female,Cuenca,Physical Store
-W79338ZR2E,2/23/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.09,Debit Card,Adult,Male,Cuenca,Online
-L2YMY7SSRU,1/2/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.18,Bank Transfer,Senior,Male,Loja,Online
-7GZ6D98MQO,1/5/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,5,3,0.12,Credit Card,Young,Male,Loja,Online
-4LK4F9OBYA,2/18/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,2,3,0.48,Bank Transfer,Young,Female,Riobamba,Online
-L0KZU49HZI,2/9/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.28,Credit Card,Adult,Female,Cuenca,Online
-1KI3HAFUW5,1/4/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.11,Credit Card,Senior,Female,Manta,Physical Store
-DFC6I0184W,2/7/24,Ecuador,101,Diana Rice,Food,1.5,3,1,0.3,Bank Transfer,Adult,Male,Manta,Physical Store
-G9EY0H5AMG,1/13/24,Ecuador,103,Bimbo Bread,Bakery,0.3,3,0.15,0.05,Credit Card,Young,Female,Ambato,Online
-PK0BEZ9W38,2/12/24,Ecuador,101,Diana Rice,Food,1.5,7,1,0.25,Bank Transfer,Young,Female,Quito,Physical Store
-S18OGRLIDJ,1/6/24,Ecuador,101,Diana Rice,Food,1.5,5,1,0.3,Cash,Adult,Male,Ambato,Physical Store
-AVO8AQ3A4P,1/22/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,8,3,0.67,Debit Card,Young,Female,Ambato,Physical Store
-VILFCQ2MXT,1/22/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,4,2.5,0.16,Bank Transfer,Adult,Female,Riobamba,Physical Store
-ZIMEDV5KBU,2/10/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.11,Debit Card,Senior,Male,Quito,Online
-Z83EGH1QMQ,1/23/24,Ecuador,109,Dove Soap,Personal Care,1.2,6,0.8,0.04,Bank Transfer,Adult,Male,Quito,Physical Store
-VZH8T99K2X,1/29/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,8,2.9,0.13,Cash,Senior,Male,Ambato,Online
-0VHKOX3UVC,2/1/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.52,Debit Card,Adult,Male,Manta,Online
-NUX1YVBXAC,1/12/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.44,Bank Transfer,Adult,Female,Quito,Physical Store
-7FV64D02MX,1/28/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,8,1.8,0.26,Cash,Adult,Female,Riobamba,Physical Store
-U9P0GKTW97,1/25/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.33,Cash,Adult,Male,Loja,Online
-JE7VHRX6SM,1/16/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,10,4,0.97,Bank Transfer,Adult,Female,Loja,Physical Store
-JKWXU7JQOO,1/21/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.21,Cash,Adult,Male,Cuenca,Online
-EL7ZH42FEB,2/26/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.22,Cash,Adult,Male,Ambato,Online
-E3DV3YJGIS,2/13/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.02,Credit Card,Adult,Male,Cuenca,Online
-PA58RMBDBW,2/4/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.02,Credit Card,Young,Female,Cuenca,Physical Store
-MIU4QC7K9N,2/25/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.1,Bank Transfer,Adult,Male,Manta,Physical Store
-AT0GKOJULQ,1/20/24,Ecuador,101,Diana Rice,Food,1.5,10,1,0.13,Bank Transfer,Young,Male,Loja,Physical Store
-AMXDIIHIPD,2/27/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.12,Bank Transfer,Adult,Female,Manta,Online
-IQSEFY4GX5,2/5/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,1,1.8,0.24,Debit Card,Adult,Male,Loja,Physical Store
-IJHO51MYSM,1/19/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.14,Credit Card,Young,Male,Ambato,Online
-5MOFB2EEHW,2/6/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,7,2.5,0.42,Cash,Senior,Female,Guayaquil,Physical Store
-WPLP4UT24M,1/26/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0,Credit Card,Adult,Female,Quito,Online
-H2778OW2BV,2/5/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.24,Credit Card,Adult,Male,Manta,Physical Store
-VQQUYV9FHO,2/22/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.06,Cash,Senior,Male,Quito,Physical Store
-IGSIC3CQJT,2/6/24,Ecuador,104,Valdez Sugar,Food,1.1,9,0.8,0.07,Cash,Senior,Female,Quito,Online
-486H3PGGS2,1/16/24,Ecuador,109,Dove Soap,Personal Care,1.2,10,0.8,0.05,Cash,Adult,Male,Manta,Online
-OOC0Q5GJKH,2/14/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,2,3,0.3,Cash,Adult,Male,Quito,Online
-JNOUVSXGKE,1/8/24,Ecuador,101,Diana Rice,Food,1.5,6,1,0.26,Bank Transfer,Senior,Male,Ambato,Physical Store
-QE8G9K8JHZ,1/27/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,2,1.8,0.26,Cash,Adult,Female,Guayaquil,Online
-GXW43RHIVX,1/13/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,7,4,0.61,Bank Transfer,Adult,Female,Manta,Online
-17O34PZUWS,2/21/24,Ecuador,109,Dove Soap,Personal Care,1.2,1,0.8,0.05,Credit Card,Adult,Male,Ambato,Physical Store
-M42I38V0MY,1/16/24,Ecuador,101,Diana Rice,Food,1.5,4,1,0.25,Bank Transfer,Senior,Male,Quito,Online
-63878F3G43,1/30/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,6,2.9,0.14,Cash,Young,Male,Manta,Physical Store
-CDQR5Y7A9N,1/2/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,6,3,0.13,Debit Card,Young,Male,Ambato,Physical Store
-UDMFC4E0WR,2/5/24,Ecuador,101,Diana Rice,Food,1.5,2,1,0.1,Bank Transfer,Adult,Male,Riobamba,Physical Store
-PGUBYMEQNN,1/10/24,Ecuador,104,Valdez Sugar,Food,1.1,4,0.8,0.09,Cash,Adult,Male,Guayaquil,Online
-5DC985AEI3,2/13/24,Ecuador,102,Vita Milk,Dairy,0.9,3,0.6,0.1,Credit Card,Adult,Female,Manta,Online
-0WXRBQNWOT,1/20/24,Ecuador,109,Dove Soap,Personal Care,1.2,5,0.8,0.17,Credit Card,Young,Female,Cuenca,Physical Store
-0S9IAETRGU,2/1/24,Ecuador,101,Diana Rice,Food,1.5,8,1,0.04,Bank Transfer,Young,Male,Guayaquil,Physical Store
-RLYXF6PWPW,1/2/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,7,2.9,0.58,Debit Card,Young,Female,Manta,Physical Store
-N5WRZFPTLS,1/6/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.18,Debit Card,Adult,Male,Guayaquil,Physical Store
-CKDFQVYQ1J,2/25/24,Ecuador,101,Diana Rice,Food,1.5,7,1,0.01,Debit Card,Senior,Male,Riobamba,Online
-JNEE6CHITL,1/31/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.9,Bank Transfer,Adult,Female,Loja,Online
-MR8XE30KBM,1/30/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.1,Debit Card,Young,Female,Cuenca,Online
-XZX2J1OFMH,2/24/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,9,1.8,0.19,Bank Transfer,Young,Male,Quito,Physical Store
-MXRANY6SWF,1/24/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,3,2.5,0.17,Debit Card,Young,Female,Riobamba,Physical Store
-WZEJMO19KC,1/2/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,7,4,1.09,Bank Transfer,Young,Female,Loja,Physical Store
-79X6YW3AZF,1/4/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,9,1.8,0.47,Cash,Adult,Male,Loja,Physical Store
-V3BRNQH6R7,1/11/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.76,Cash,Young,Female,Riobamba,Online
-SLIEZV9K91,2/14/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.02,Cash,Adult,Male,Loja,Physical Store
-3N16XFC11J,2/16/24,Ecuador,101,Diana Rice,Food,1.5,6,1,0.11,Debit Card,Senior,Female,Guayaquil,Online
-WRG62ISE5M,2/1/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.19,Credit Card,Adult,Female,Ambato,Physical Store
-ADXXHOVZPM,2/29/24,Ecuador,109,Dove Soap,Personal Care,1.2,2,0.8,0.24,Cash,Senior,Female,Guayaquil,Online
-FTWGCYWVMJ,1/12/24,Ecuador,101,Diana Rice,Food,1.5,8,1,0.08,Cash,Young,Female,Guayaquil,Online
-Y3VCHDLO84,1/16/24,Ecuador,109,Dove Soap,Personal Care,1.2,2,0.8,0.17,Cash,Adult,Female,Riobamba,Physical Store
-KZHWZ74OQR,2/21/24,Ecuador,104,Valdez Sugar,Food,1.1,9,0.8,0.01,Debit Card,Young,Male,Loja,Physical Store
-OVCKPG07T7,1/19/24,Ecuador,103,Bimbo Bread,Bakery,0.3,7,0.15,0.01,Bank Transfer,Senior,Male,Ambato,Physical Store
-JMVORS5S04,1/17/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,5,2.5,0.32,Cash,Adult,Male,Riobamba,Physical Store
-1HS8W0J9CH,2/2/24,Ecuador,101,Diana Rice,Food,1.5,4,1,0.27,Cash,Young,Male,Quito,Online
-ZWBOSWMR7W,1/6/24,Ecuador,104,Valdez Sugar,Food,1.1,5,0.8,0.06,Debit Card,Adult,Female,Guayaquil,Physical Store
-DJU4LVO7T7,2/11/24,Ecuador,103,Bimbo Bread,Bakery,0.3,9,0.15,0.01,Credit Card,Adult,Male,Loja,Online
-OV2MYMLR12,2/19/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.04,Credit Card,Adult,Female,Manta,Physical Store
-R5Y7G11E2D,1/7/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,2,4,0.43,Cash,Adult,Female,Ambato,Online
-IO6WYC55T3,1/16/24,Ecuador,103,Bimbo Bread,Bakery,0.3,9,0.15,0.05,Debit Card,Senior,Male,Riobamba,Physical Store
-DP0LP7M8N3,1/15/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,5,3,0.01,Debit Card,Adult,Male,Ambato,Online
-RRHKIBJET9,2/26/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.52,Cash,Adult,Female,Cuenca,Physical Store
-TOKLF8HWQC,2/4/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,2,2.9,0.61,Cash,Adult,Male,Manta,Online
-WOV9X7LSR3,1/15/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.64,Bank Transfer,Adult,Male,Loja,Online
-795ABBKRRN,2/8/24,Ecuador,109,Dove Soap,Personal Care,1.2,10,0.8,0.04,Credit Card,Young,Male,Manta,Online
-2XO9BB02IA,2/29/24,Ecuador,109,Dove Soap,Personal Care,1.2,1,0.8,0.23,Debit Card,Young,Female,Quito,Online
-UHIXL1GRUF,2/21/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.19,Cash,Young,Female,Ambato,Online
-C43YIKNFL3,1/11/24,Ecuador,104,Valdez Sugar,Food,1.1,7,0.8,0.03,Cash,Adult,Male,Quito,Physical Store
-MAV5RKKHIV,1/3/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.05,Cash,Young,Male,Ambato,Physical Store
-WWC0JS055M,2/13/24,Ecuador,103,Bimbo Bread,Bakery,0.3,10,0.15,0.02,Credit Card,Adult,Male,Loja,Online
-L3U8Q0PU05,2/16/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.01,Debit Card,Senior,Female,Ambato,Online
-DTZNGVFP8N,1/11/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.32,Bank Transfer,Adult,Female,Loja,Physical Store
-E8LZEBFG9I,1/21/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,7,1.8,0.04,Debit Card,Adult,Female,Ambato,Online
-E52JOQKMCI,2/29/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,7,3,0.71,Credit Card,Adult,Female,Guayaquil,Online
-L1QZEZRPID,1/4/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,6,3,0.24,Bank Transfer,Adult,Male,Cuenca,Online
-LC4UZZRI6Z,1/4/24,Ecuador,101,Diana Rice,Food,1.5,9,1,0.01,Debit Card,Young,Male,Cuenca,Online
-I9ODCN8C3G,2/27/24,Ecuador,103,Bimbo Bread,Bakery,0.3,9,0.15,0.03,Bank Transfer,Young,Male,Guayaquil,Physical Store
-JEHYCX5FNJ,1/15/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,8,2.9,0.6,Credit Card,Senior,Male,Loja,Physical Store
-PMICGKCNJ9,1/10/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,6,2.5,0.03,Debit Card,Adult,Female,Ambato,Physical Store
-2CJ2A373R2,1/11/24,Ecuador,104,Valdez Sugar,Food,1.1,6,0.8,0.07,Debit Card,Senior,Female,Cuenca,Physical Store
-3CGMU3Y19M,2/22/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.75,Credit Card,Senior,Male,Ambato,Online
-BN6FMWI6JI,2/27/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.12,Cash,Young,Male,Guayaquil,Physical Store
-U0SQRC1AEG,2/10/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,6,3,0.43,Debit Card,Adult,Female,Riobamba,Online
-PL51OQDQ9T,1/23/24,Ecuador,104,Valdez Sugar,Food,1.1,7,0.8,0.09,Credit Card,Young,Female,Quito,Physical Store
-AHQ00I6U3O,2/12/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,5,2.5,0.2,Bank Transfer,Young,Male,Quito,Online
-XISGCJDKJS,1/28/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.15,Cash,Young,Male,Guayaquil,Physical Store
-SH8H10DB28,2/26/24,Ecuador,101,Diana Rice,Food,1.5,3,1,0.21,Cash,Young,Female,Cuenca,Physical Store
-3GCSVGN44X,1/13/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,2,2.9,0.47,Bank Transfer,Senior,Male,Ambato,Online
-5QS7GB1WX3,2/17/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.05,Credit Card,Adult,Female,Quito,Physical Store
-VF84C1UDV7,2/7/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,8,2.9,0.11,Cash,Adult,Male,Quito,Physical Store
-XD8X6G86YS,1/4/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,6,1.8,0.49,Bank Transfer,Adult,Male,Loja,Online
-SRUCXP2MZJ,1/4/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.11,Debit Card,Young,Male,Quito,Physical Store
-BJEQJ233LV,1/14/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,7,4,0.06,Cash,Senior,Male,Manta,Online
-THNBQZU14K,2/5/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,2,1.8,0.34,Cash,Adult,Female,Guayaquil,Online
-PQPVCV320I,2/10/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.14,Debit Card,Senior,Male,Manta,Online
-N2T3XNIWKS,1/5/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.1,Debit Card,Adult,Male,Ambato,Physical Store
-OE0FJXCSPR,1/31/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,7,4,1.09,Bank Transfer,Adult,Male,Quito,Physical Store
-MM4HOYD0H1,1/2/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.22,Credit Card,Young,Male,Loja,Online
-C0FSW953ZQ,2/13/24,Ecuador,102,Vita Milk,Dairy,0.9,1,0.6,0.16,Cash,Senior,Male,Cuenca,Online
-AETTDVZYFO,1/6/24,Ecuador,104,Valdez Sugar,Food,1.1,10,0.8,0.06,Credit Card,Senior,Male,Manta,Physical Store
-09RMFALFE5,1/14/24,Ecuador,103,Bimbo Bread,Bakery,0.3,2,0.15,0.04,Cash,Senior,Female,Riobamba,Online
-K4EIWF81CH,1/8/24,Ecuador,104,Valdez Sugar,Food,1.1,5,0.8,0.21,Bank Transfer,Senior,Female,Riobamba,Physical Store
-IEC4T3OJ6B,1/8/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,1,2.9,0.67,Bank Transfer,Adult,Male,Manta,Online
-BI4BOGU1I2,1/27/24,Ecuador,103,Bimbo Bread,Bakery,0.3,3,0.15,0.02,Bank Transfer,Adult,Male,Riobamba,Physical Store
-0LTIM3ZV6E,1/7/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.02,Debit Card,Adult,Male,Loja,Online
-N94LFNWVH6,2/27/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.08,Bank Transfer,Senior,Female,Loja,Online
-BDSAT89STW,1/11/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.05,Credit Card,Adult,Female,Manta,Online
-DE7NPKJGSX,1/13/24,Ecuador,101,Diana Rice,Food,1.5,1,1,0.29,Debit Card,Senior,Female,Loja,Physical Store
-RM0G6U6F9Z,2/1/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.06,Cash,Adult,Female,Quito,Online
-L4ZZBWEW4U,2/18/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,3,1.8,0.37,Cash,Senior,Female,Loja,Physical Store
-1UTHZWEC3J,2/4/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,4,1.8,0.29,Credit Card,Young,Female,Cuenca,Online
-2DUD9FVBT4,1/18/24,Ecuador,103,Bimbo Bread,Bakery,0.3,6,0.15,0.01,Debit Card,Young,Female,Guayaquil,Physical Store
-1M56DKF6OM,1/4/24,Ecuador,103,Bimbo Bread,Bakery,0.3,2,0.15,0.06,Credit Card,Senior,Male,Quito,Physical Store
-40Y9LMVTS4,1/30/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,7,2.5,0.57,Bank Transfer,Adult,Female,Cuenca,Online
-TC06PKLW9G,2/17/24,Ecuador,103,Bimbo Bread,Bakery,0.3,8,0.15,0.05,Bank Transfer,Young,Female,Cuenca,Online
-CQ8Q0HM7QO,1/16/24,Ecuador,104,Valdez Sugar,Food,1.1,10,0.8,0.01,Bank Transfer,Adult,Male,Loja,Online
-5H4VAD9RBK,2/22/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.59,Bank Transfer,Young,Male,Loja,Online
-BXKOGS5OOI,2/3/24,Ecuador,103,Bimbo Bread,Bakery,0.3,8,0.15,0.05,Debit Card,Adult,Male,Quito,Online
-3C6MLUB70Y,2/8/24,Ecuador,109,Dove Soap,Personal Care,1.2,5,0.8,0.13,Credit Card,Young,Female,Riobamba,Online
-KRBNS4LH6V,1/28/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0.01,Debit Card,Adult,Male,Guayaquil,Physical Store
-9ECRS4SMO9,1/23/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.15,Debit Card,Senior,Female,Quito,Online
-OYR4NTQS4I,2/24/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.04,Cash,Senior,Female,Cuenca,Online
-YX9OZVHUPT,2/11/24,Ecuador,102,Vita Milk,Dairy,0.9,10,0.6,0.1,Credit Card,Adult,Female,Manta,Physical Store
-KQYGYY764P,1/1/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0.03,Debit Card,Young,Male,Guayaquil,Online
-EOURGVSCRM,1/2/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.28,Credit Card,Young,Male,Ambato,Physical Store
-1ESFOW5R4Z,1/31/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,4,2.5,0.49,Cash,Adult,Male,Cuenca,Physical Store
-DQTHHB9UJG,1/1/24,Ecuador,104,Valdez Sugar,Food,1.1,4,0.8,0.14,Credit Card,Young,Female,Guayaquil,Online
-X8SHDO6SWC,2/28/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.66,Credit Card,Senior,Male,Loja,Physical Store
-LL834OK0MD,2/9/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.06,Bank Transfer,Young,Female,Quito,Physical Store
-1250D1APSN,1/15/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,4,2.9,0.44,Debit Card,Adult,Female,Manta,Online
-QS8AT5ILVN,1/1/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,3,1.8,0.31,Credit Card,Adult,Female,Riobamba,Online
-7EI3DEUW9A,1/14/24,Ecuador,103,Bimbo Bread,Bakery,0.3,7,0.15,0.04,Cash,Adult,Male,Loja,Physical Store
-EBDW31X9NM,2/23/24,Ecuador,104,Valdez Sugar,Food,1.1,4,0.8,0.1,Debit Card,Young,Male,Quito,Online
-N20LYTJUB6,2/23/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.64,Bank Transfer,Young,Male,Riobamba,Physical Store
-DWX1535HP1,1/18/24,Ecuador,109,Dove Soap,Personal Care,1.2,10,0.8,0.13,Debit Card,Young,Male,Loja,Physical Store
-B5HZ6S3BUI,2/29/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.08,Credit Card,Young,Female,Cuenca,Physical Store
-M37BGK1U6A,2/26/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0,Cash,Adult,Female,Ambato,Online
-M9BRA9T2KM,1/18/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.34,Debit Card,Adult,Female,Quito,Physical Store
-UNBMFXMBOM,1/1/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,7,3,0.61,Cash,Adult,Female,Ambato,Online
-VNK4RBL87M,2/8/24,Ecuador,109,Dove Soap,Personal Care,1.2,6,0.8,0.1,Bank Transfer,Adult,Male,Guayaquil,Physical Store
-C7KJER79ZP,1/5/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,2,4,0.13,Bank Transfer,Young,Female,Loja,Physical Store
-WXXCUBVBT5,1/13/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.09,Debit Card,Adult,Male,Loja,Online
-YLLUIK7BT7,1/3/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,8,4,0.22,Debit Card,Adult,Female,Guayaquil,Physical Store
-7AZCKLS4ID,2/14/24,Ecuador,104,Valdez Sugar,Food,1.1,4,0.8,0.14,Credit Card,Young,Male,Ambato,Physical Store
-AJ3PBD1J0D,1/15/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,7,2.9,0.54,Bank Transfer,Senior,Female,Ambato,Physical Store
-X771LR2SOB,2/14/24,Ecuador,102,Vita Milk,Dairy,0.9,1,0.6,0.03,Credit Card,Young,Male,Manta,Physical Store
-IIBZ3B1B3O,1/6/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,9,4,0.79,Debit Card,Adult,Female,Quito,Online
-PYCU6J12HA,1/6/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.2,Debit Card,Senior,Female,Cuenca,Online
-WYRULRCKWK,1/17/24,Ecuador,109,Dove Soap,Personal Care,1.2,3,0.8,0.08,Debit Card,Young,Male,Cuenca,Online
-74ALYMTPLN,3/1/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,5,2.5,0.56,Debit Card,Senior,Male,Riobamba,Online
-SGQBA40KIL,2/11/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.25,Cash,Young,Male,Guayaquil,Online
-DO9VD1H19M,1/29/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.04,Credit Card,Young,Male,Guayaquil,Online
-P7B5E6UMPY,1/23/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,7,3,0.24,Credit Card,Adult,Female,Quito,Online
-NJ5NXHMTKO,1/22/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.25,Bank Transfer,Adult,Female,Ambato,Physical Store
-82FUX5ATMJ,2/19/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.48,Debit Card,Adult,Female,Loja,Online
-RWVFUMGTRK,1/27/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,9,1.8,0.48,Cash,Senior,Female,Guayaquil,Online
-0BQXMSEOKF,2/4/24,Ecuador,101,Diana Rice,Food,1.5,1,1,0.27,Debit Card,Adult,Male,Guayaquil,Physical Store
-VLVH9ZJGDJ,1/17/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.4,Cash,Adult,Male,Guayaquil,Physical Store
-XSJN0M25UH,1/13/24,Ecuador,109,Dove Soap,Personal Care,1.2,9,0.8,0.07,Debit Card,Young,Male,Loja,Physical Store
-V40ZCII1YV,1/3/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,3,3,0.5,Credit Card,Adult,Female,Riobamba,Physical Store
-7IJ7FB5HPE,2/16/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.16,Debit Card,Adult,Female,Manta,Online
-ZAM9YXW3PM,1/30/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.01,Debit Card,Adult,Male,Quito,Online
-B1JFO5G8IA,1/18/24,Ecuador,103,Bimbo Bread,Bakery,0.3,1,0.15,0.01,Debit Card,Young,Female,Ambato,Physical Store
-VTVWT09M0U,1/29/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,5,4,0.53,Credit Card,Young,Male,Cuenca,Online
-8ZE7W2Y1ZR,3/1/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.39,Cash,Adult,Female,Loja,Physical Store
-TVP02TVXFD,1/29/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,10,3,0.64,Bank Transfer,Young,Male,Cuenca,Physical Store
-6TWG07C4KX,2/14/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.09,Debit Card,Young,Male,Quito,Physical Store
-ZNK10F7XFL,2/2/24,Ecuador,109,Dove Soap,Personal Care,1.2,2,0.8,0.03,Cash,Adult,Female,Guayaquil,Physical Store
-X8JVY540T5,1/11/24,Ecuador,103,Bimbo Bread,Bakery,0.3,10,0.15,0.03,Debit Card,Adult,Female,Riobamba,Online
-EJCX7XNOJQ,1/16/24,Ecuador,102,Vita Milk,Dairy,0.9,3,0.6,0.05,Bank Transfer,Senior,Male,Riobamba,Online
-RF6JDLNKJY,1/4/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.01,Cash,Senior,Female,Guayaquil,Online
-CM24JS1AT9,2/27/24,Ecuador,103,Bimbo Bread,Bakery,0.3,3,0.15,0.04,Credit Card,Adult,Female,Quito,Physical Store
-TQ5TQAD6GW,1/28/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.02,Credit Card,Young,Female,Ambato,Online
-YX83K9KIRF,2/23/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,1,1.8,0.42,Cash,Young,Male,Quito,Physical Store
-VFWMCJCP1Y,2/20/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,10,3,0.55,Credit Card,Young,Female,Riobamba,Online
-WFNIRCVVQD,2/7/24,Ecuador,102,Vita Milk,Dairy,0.9,2,0.6,0.04,Debit Card,Senior,Female,Quito,Online
-ZVQVHX619P,2/17/24,Ecuador,101,Diana Rice,Food,1.5,6,1,0.06,Cash,Adult,Female,Cuenca,Online
-C728HSQ6S7,2/26/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,10,4,1.08,Cash,Adult,Female,Guayaquil,Physical Store
-P0IWA5DTP5,1/30/24,Ecuador,109,Dove Soap,Personal Care,1.2,7,0.8,0.06,Cash,Adult,Male,Guayaquil,Online
-KCP5UI5BJB,3/1/24,Ecuador,104,Valdez Sugar,Food,1.1,9,0.8,0.18,Debit Card,Adult,Female,Quito,Online
-81SWACEZRE,1/17/24,Ecuador,101,Diana Rice,Food,1.5,5,1,0.23,Bank Transfer,Adult,Male,Riobamba,Physical Store
-RE2NN2YX02,1/22/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,8,3,0.54,Cash,Adult,Male,Manta,Physical Store
-OG50VA4Q9K,2/7/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,2,4,0.31,Credit Card,Adult,Male,Manta,Online
-7IJ4WM5AYC,2/18/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.34,Credit Card,Young,Female,Manta,Physical Store
-QR8E2GEBBZ,2/20/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.13,Credit Card,Young,Female,Quito,Online
-VVK5RX8EI2,1/31/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,6,4,0.41,Credit Card,Adult,Male,Quito,Online
-CKI649KRQ1,2/29/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,8,3,0.35,Cash,Young,Male,Quito,Online
-H1M28SL647,2/25/24,Ecuador,104,Valdez Sugar,Food,1.1,2,0.8,0.19,Cash,Young,Female,Ambato,Physical Store
-VYZM523S6B,1/11/24,Ecuador,101,Diana Rice,Food,1.5,4,1,0.05,Debit Card,Young,Male,Quito,Physical Store
-72HIM1VCTU,2/8/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,8,2.9,0.49,Credit Card,Young,Female,Manta,Physical Store
-HU4J6B4YBN,1/26/24,Ecuador,103,Bimbo Bread,Bakery,0.3,4,0.15,0.04,Bank Transfer,Adult,Female,Riobamba,Physical Store
-JXNH2KBY76,2/14/24,Ecuador,109,Dove Soap,Personal Care,1.2,3,0.8,0.01,Debit Card,Adult,Female,Loja,Physical Store
-A4PNVQYWIH,2/1/24,Ecuador,104,Valdez Sugar,Food,1.1,9,0.8,0.18,Debit Card,Young,Female,Quito,Online
-FEIYSYH0DB,2/28/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,4,3,0.44,Cash,Young,Female,Ambato,Physical Store
-YCJG3MTY4D,1/15/24,Ecuador,104,Valdez Sugar,Food,1.1,1,0.8,0.1,Bank Transfer,Adult,Female,Cuenca,Physical Store
-Q6KOBDJFWE,1/19/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.06,Cash,Adult,Female,Loja,Physical Store
-530XLB9MGA,1/25/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.6,Credit Card,Young,Female,Ambato,Physical Store
-U8XZ0JA4YT,2/20/24,Ecuador,102,Vita Milk,Dairy,0.9,6,0.6,0.09,Cash,Adult,Male,Quito,Physical Store
-EK3KX7XIQJ,1/7/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,2,4,0.35,Credit Card,Adult,Male,Cuenca,Online
-L7FUCH2H4S,1/29/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,9,2.5,0.19,Cash,Young,Female,Riobamba,Physical Store
-EG2W63HBST,1/1/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,8,2.9,0.17,Debit Card,Young,Male,Loja,Physical Store
-YYAAJPHGRX,1/14/24,Ecuador,101,Diana Rice,Food,1.5,2,1,0.01,Debit Card,Young,Female,Quito,Online
-EIC9GOJCWE,2/2/24,Ecuador,103,Bimbo Bread,Bakery,0.3,4,0.15,0.03,Credit Card,Adult,Male,Manta,Physical Store
-54679LWJ78,2/9/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,1,3,0.76,Cash,Adult,Female,Guayaquil,Online
-ZWH5TBGUNO,2/8/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,2,3,0.38,Debit Card,Adult,Female,Ambato,Physical Store
-2M4JD5IN9Q,2/13/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,3,4,0.2,Debit Card,Adult,Male,Quito,Online
-QIDUYFSZBL,2/19/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,10,2.9,0.51,Bank Transfer,Adult,Female,Ambato,Physical Store
-THWYRCOSWU,1/20/24,Ecuador,104,Valdez Sugar,Food,1.1,8,0.8,0.02,Debit Card,Adult,Female,Ambato,Physical Store
-LE816V42XT,1/19/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,6,3,0.16,Debit Card,Adult,Male,Quito,Physical Store
-K576B7ICA7,1/18/24,Ecuador,101,Diana Rice,Food,1.5,4,1,0.04,Credit Card,Adult,Male,Ambato,Online
-1HRHHAQRUC,1/23/24,Ecuador,101,Diana Rice,Food,1.5,10,1,0.3,Cash,Adult,Female,Loja,Physical Store
-DEJRHCYPAW,2/28/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.03,Cash,Young,Female,Guayaquil,Physical Store
-0Y27CH81EO,1/15/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.08,Bank Transfer,Young,Male,Guayaquil,Physical Store
-60HV1TM24O,1/31/24,Ecuador,109,Dove Soap,Personal Care,1.2,8,0.8,0.07,Cash,Adult,Female,Loja,Online
-7KN5AE6Y0E,1/8/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.16,Cash,Senior,Male,Loja,Online
-FJ31IOZNHZ,1/22/24,Ecuador,102,Vita Milk,Dairy,0.9,5,0.6,0.11,Debit Card,Adult,Female,Quito,Online
-5IOX105ZX4,2/16/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,2,2.5,0.29,Cash,Young,Male,Quito,Online
-ZVMOTWNV5V,2/3/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.09,Credit Card,Adult,Female,Cuenca,Online
-0AX2Y6M6UK,1/31/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,4,2.9,0.28,Debit Card,Adult,Female,Ambato,Online
-LD54WBRR6Q,1/24/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,1,2.5,0.62,Bank Transfer,Young,Female,Riobamba,Online
-Z8N8TEYQS7,1/30/24,Ecuador,109,Dove Soap,Personal Care,1.2,4,0.8,0.09,Cash,Adult,Male,Quito,Online
-KORPXUBGHI,1/27/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,7,3,0.45,Cash,Adult,Male,Riobamba,Physical Store
-EXQ0CVBR9D,3/1/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,6,3,0.18,Bank Transfer,Adult,Male,Riobamba,Physical Store
-V69YT367RH,3/1/24,Ecuador,109,Dove Soap,Personal Care,1.2,2,0.8,0.06,Debit Card,Adult,Male,Manta,Online
-YV7RWOH813,2/5/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,8,2.5,0.49,Credit Card,Adult,Female,Quito,Online
-UWLATUWM5H,1/16/24,Ecuador,109,Dove Soap,Personal Care,1.2,6,0.8,0.23,Bank Transfer,Adult,Male,Ambato,Online
-0Z4YPYLWGA,1/25/24,Ecuador,107,Familia Toilet Paper,Hygiene,3.2,10,2.5,0.49,Debit Card,Adult,Female,Manta,Online
-CG6ME4G6SF,3/1/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,3,1.8,0.11,Cash,Young,Male,Ambato,Online
-PGATJVM1WK,1/25/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,6,3,0.58,Cash,Adult,Male,Loja,Physical Store
-GQ7PYPL4V3,2/17/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,3,2.9,0.25,Bank Transfer,Young,Male,Riobamba,Online
-Q315XP1WD2,1/3/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.17,Debit Card,Adult,Male,Manta,Physical Store
-R2BRA66E89,2/21/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,8,1.8,0.01,Cash,Young,Male,Ambato,Online
-LVMROJGCXA,2/28/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,4,1.8,0.26,Bank Transfer,Adult,Male,Ambato,Physical Store
-ANINGTTDLX,1/21/24,Ecuador,101,Diana Rice,Food,1.5,8,1,0.06,Bank Transfer,Adult,Female,Quito,Physical Store
-OJIAYI75V9,1/30/24,Ecuador,103,Bimbo Bread,Bakery,0.3,10,0.15,0.03,Cash,Adult,Male,Cuenca,Physical Store
-JXH95DT91I,2/24/24,Ecuador,103,Bimbo Bread,Bakery,0.3,9,0.15,0.04,Cash,Senior,Male,Guayaquil,Physical Store
-GJPKU7NR64,1/19/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,9,2.9,0.1,Cash,Adult,Male,Ambato,Online
-NP791HZRV5,1/1/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,4,2.9,0.05,Bank Transfer,Senior,Male,Riobamba,Online
-7UNFVHMCJF,1/4/24,Ecuador,108,Sedal Shampoo,Personal Care,5.5,10,4,0.4,Cash,Young,Female,Cuenca,Physical Store
-G3RU5GTGY8,2/24/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,2,1.8,0.38,Debit Card,Adult,Female,Loja,Physical Store
-MFSNX5UJNA,2/12/24,Ecuador,101,Diana Rice,Food,1.5,6,1,0.08,Debit Card,Adult,Female,Ambato,Physical Store
-MQLPZ8GPT8,2/19/24,Ecuador,110,La Favorita Cooking Oil,Food,3.8,4,2.9,0.43,Credit Card,Adult,Female,Riobamba,Online
-NNEJ0ZOUBM,2/5/24,Ecuador,102,Vita Milk,Dairy,0.9,4,0.6,0.05,Cash,Adult,Female,Riobamba,Physical Store
-XN3RKYXD8F,1/8/24,Ecuador,104,Valdez Sugar,Food,1.1,9,0.8,0.18,Credit Card,Adult,Female,Loja,Online
-50LIJ001IB,2/24/24,Ecuador,103,Bimbo Bread,Bakery,0.3,5,0.15,0.05,Bank Transfer,Adult,Male,Ambato,Physical Store
-HVUAL4FGWQ,2/9/24,Ecuador,102,Vita Milk,Dairy,0.9,9,0.6,0.18,Credit Card,Young,Female,Guayaquil,Online
-OZ3NHG8AC2,2/3/24,Ecuador,102,Vita Milk,Dairy,0.9,8,0.6,0.11,Bank Transfer,Adult,Female,Cuenca,Physical Store
-GX0EZO9VOG,1/23/24,Ecuador,103,Bimbo Bread,Bakery,0.3,2,0.15,0.04,Cash,Senior,Female,Riobamba,Physical Store
-ZNSN0HNAUF,1/6/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,8,3,0.55,Credit Card,Young,Male,Ambato,Online
-55K9CBTEDX,2/24/24,Ecuador,105,Juan Valdez Coffee,Beverages,4,4,3,0.58,Bank Transfer,Adult,Male,Quito,Physical Store
-2ZP70RCW9D,2/3/24,Ecuador,101,Diana Rice,Food,1.5,7,1,0.26,Bank Transfer,Adult,Female,Loja,Physical Store
-2HRYTKREJJ,2/15/24,Ecuador,102,Vita Milk,Dairy,0.9,7,0.6,0.14,Debit Card,Adult,Male,Cuenca,Physical Store
-4621GYIU4R,1/21/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,5,1.8,0.02,Cash,Young,Female,Quito,Online
-QHCSSLYPWC,2/10/24,Ecuador,106,Nestle Chocolate,Sweets,2.5,10,1.8,0.13,Credit Card,Adult,Male,Cuenca,Physical Store
+transaction_id,transaction_date,country,product_id,product_name,category,price_per_unit,quantity_purchased,cost_price,discount_applied,payment_method,customer_age_group,customer_gender,store_location,sales_representative
+De0272,6/7/24,Ecuador,c64eaa47-4fa9-4d95-8970-346f34627997,Samsung QLED TV,Electronics,1377.51,1,1377.51,0.1,Mobile Wallet,Young,Male,Guayaquil,Carmen Torres
+Vz4156,8/29/24,Ecuador,39054923-c226-4903-820b-74f6918c26be,Doritos Chips,Snacks,4.76,10,47.6,0,Mobile Wallet,Young,Male,Cuenca,Luis Torres
+mT1946,4/27/24,Ecuador,a0f5bc7d-138a-4d7e-a000-bf61ab6b2dec,Levi's 501 Jeans,Apparel,75.16,7,526.12,0.15,Debit Card,Senior,Female,Santo Domingo,Jorge Ramirez
+rF3115,2/25/25,Ecuador,791e9d6c-0eea-48ef-a09d-59f0d7cdfa38,Nike Air Max,Footwear,186.14,3,558.42,0.2,Credit Card,Young,Female,Cuenca,Luisa Lopez
+ot2979,3/30/24,,75cfbd28-177d-431a-bd09-4ed3ad7dc1a1,Samsung QLED TV,Electronics,1950.9,9,17558.1,0.2,Credit Card,Young,Female,Quito,Carlos Perez
+RZ2354,7/16/24,Ecuador,536a8af2-4474-413e-a83a-446b750bc933,Levi's 501 Jeans,Apparel,79.4,5,397,,Debit Card,Adult,Female,Machala,Ana Lopez
+Xw5953,2/26/25,Ecuador,4e2c5739-d2fd-42ff-a2e2-96fca1e4939a,Samsung QLED TV,Electronics,1623.62,2,3247.24,0.05,Debit Card,Senior,Male,Santo Domingo,Carmen Martinez
+Jg3496,1/2/25,Ecuador,2533c0ac-ff96-400e-8b7a-65fb7878fd78,The North Face Jacket,Apparel,160.23,2,320.46,0.05,Credit Card,Adult,Female,Machala,
+Iv2459,5/21/24,Ecuador,690cfa2d-da55-4800-9170-a045962c16f0,Coca-Cola Can,Beverages,0.54,7,,0,Debit Card,Adult,Female,Santo Domingo,Ana Vargas
+yx7480,7/16/24,Ecuador,1932ae41-833f-4138-992b-edcc8048bce2,Doritos Chips,Snacks,4.25,4,17,0,Credit Card,Senior,Female,Quito,Juan Perez
+eX5286,3/1/25,Ecuador,f918813e-2308-41c6-a803-7174270fd983,Levi's 501 Jeans,Apparel,66.08,7,462.56,0.15,Mobile Wallet,Senior,Male,Machala,Luis Rodriguez
+jv5571,5/12/24,Ecuador,,iPhone 14,Electronics,898.52,10,8985.2,0.15,Mobile Wallet,Adult,Male,Machala,Pedro Lopez
+Nl9636,7/30/24,Ecuador,1d2d42cd-f5cd-4bee-88cd-4c14d66dd013,Coca-Cola Can,Beverages,0.52,8,4.16,0.1,Mobile Wallet,Young,Male,Cuenca,Jorge Perez
+xJ0706,4/21/24,Ecuador,90d1d9b5-f325-43aa-9803-91b82ba7dfc1,Coca-Cola Can,Beverages,1.88,5,9.4,0.15,Mobile Wallet,Adult,Male,Guayaquil,Maria Torres
+Au3008,5/24/24,Ecuador,72b98ae6-ccf3-4ece-abea-5cbbb59c00a5,Samsung QLED TV,Electronics,958.31,9,8624.79,0.2,Debit Card,Senior,Female,Guayaquil,Jose Torres
+Td5475,,Ecuador,26cc967c-6825-4f77-87e1-b4fffb7b63e2,Doritos Chips,Snacks,2.24,3,6.72,0.15,Online Payment,Young,Female,Cuenca,Maria Torres
+Ex4283,,Ecuador,,Nike Air Max,Footwear,125.78,10,1257.8,0,Online Payment,Senior,Male,Guayaquil,Juan Lopez
+YL7185,3/21/24,Ecuador,c1b52db2-0065-47b2-b95c-bb861d3cdcbe,Doritos Chips,Snacks,1.85,1,1.85,0.05,Online Payment,Young,,Santo Domingo,Pedro Ramirez
+Ys8490,5/9/24,Ecuador,d2264faf-1780-4ead-b080-51b23d4fd2b6,Doritos Chips,Snacks,,3,7.68,0.15,,Senior,Male,Cuenca,Luisa Lopez
+xL8130,4/23/24,Ecuador,03577697-636e-493b-a77f-4e85eec1f33b,Coca-Cola Can,Beverages,1.78,1,1.78,0.05,Credit Card,Young,Female,Santo Domingo,Jorge Garcia
+Jr7812,7/26/24,Ecuador,b3aec5ae-f780-432a-a94f-dade63118855,Coca-Cola Can,Beverages,0.52,3,1.56,0.05,Debit Card,,Female,Machala,Carmen Garcia
+pz2512,8/28/24,Ecuador,887f3dd6-e6d6-45e3-aff1-a30f35b58183,Doritos Chips,,,8,13.68,0.15,Cash,Senior,Female,Quito,Carlos Martinez
+iD5769,4/8/24,Ecuador,91a4870b-0125-4e94-83a1-4fdc6935936f,Samsung QLED TV,Electronics,1722.07,8,13776.56,0.05,Debit Card,Senior,Female,Guayaquil,Carmen Sanchez
+Ji4901,7/5/24,Ecuador,fd2f84bd-5d48-48b4-8ff9-26c6c19fbc34,Levi's 501 Jeans,Apparel,52.29,4,209.16,0.1,Online Payment,Senior,Male,Quito,Juan Garcia
+Yk9661,12/22/24,Ecuador,b6b3c78a-fafa-4eee-9caf-40432945b0fb,,Beverages,1,2,2,0.1,Debit Card,Senior,Male,Cuenca,Maria Rodriguez
+bc1435,5/16/24,Ecuador,1f1ec9da-1922-44d3-9210-c5157a00593c,KitchenAid Mixer,Home Appliances,269.23,7,1884.61,0.05,Mobile Wallet,,Female,Quito,Jorge Lopez
+lK5058,12/15/24,Ecuador,28775c2a-3cf9-4e18-87a6-be5dac484761,Apple MacBook Pro,Electronics,,8,17186.96,0.15,Cash,Adult,Male,Guayaquil,Jorge Sanchez
+zL1273,7/13/24,Ecuador,fb06e6d0-987f-4edb-9b60-1d3c8ff40ab9,Yeti Tumbler,Outdoor,33.69,7,235.83,0.05,Mobile Wallet,Adult,Female,Quito,
+zw3839,3/11/25,Ecuador,99d5fe3e-fdbb-4530-9e93-0c1d7ef4f268,Levi's 501 Jeans,Apparel,77.15,7,540.05,0,Debit Card,Senior,Female,Santo Domingo,Ana Martinez
+RL4276,11/26/24,,951369c3-012c-4aa2-9c95-2a1b16570de7,iPhone 14,Electronics,812.8,5,4064,0.05,Debit Card,Senior,Female,Cuenca,Ana Perez
+NB5353,1/10/25,Ecuador,9c688340-1114-4aa8-88bf-9a8f2f1a5e9d,Apple MacBook Pro,Electronics,1553.47,6,9320.82,0,Mobile Wallet,Adult,Male,Quito,Juan Lopez
+GR2642,5/6/24,Ecuador,afdd18f1-58b4-43cc-916c-0362c40736b6,Yeti Tumbler,Outdoor,20.79,3,62.37,0.2,Credit Card,Adult,Female,Santo Domingo,Jorge Torres
+Rc5663,9/1/24,,f6ae9511-7c91-4763-a609-d89fb73ff139,Doritos Chips,Snacks,4.03,,8.06,0.2,Online Payment,Young,Male,,Ana Torres
+mO0225,6/2/24,Ecuador,228f22a3-b8e6-412d-8d41-90635127f72e,The North Face Jacket,Apparel,105.87,3,317.61,0.15,Cash,Adult,Male,Machala,Ana Torres
+IK3830,8/22/24,Ecuador,a9dc8fbf-dee5-40b0-97c1-d8baedc5ca14,KitchenAid Mixer,Home Appliances,377.95,1,377.95,0.15,Mobile Wallet,,Male,Cuenca,Juan Perez
+vg7825,11/17/24,Ecuador,19c3bcaa-f774-404d-9ef7-5ac1215a223c,Apple MacBook Pro,Electronics,1451.71,7,10161.97,0.05,Credit Card,Senior,Male,Machala,Jorge Ramirez
+Xk2301,8/14/24,Ecuador,39f3e41b-b475-4a0d-8178-43a9f704d357,Apple MacBook Pro,Electronics,2269.45,6,13616.7,0.15,Online Payment,Senior,Female,Cuenca,Luis Lopez
+dA2077,,Ecuador,f08954a5-c58b-4a0e-a6e9-1b095aff1bdf,The North Face Jacket,Apparel,139.39,1,139.39,0.05,Online Payment,Senior,Male,Santo Domingo,Pedro Martinez
+Ri8299,10/30/24,Ecuador,ced9e3bc-cf92-41ee-88c1-2aa0a56c598a,iPhone 14,Electronics,990.82,4,3963.28,0.1,Credit Card,Senior,Male,Machala,Juan Vargas
+Iq6735,8/15/24,Ecuador,4d64b18c-209d-4b4a-b9fe-1a0385c231fd,Doritos Chips,,3.63,5,18.15,0.15,Online Payment,,Female,Santo Domingo,Jorge Martinez
+CP7666,3/17/25,Ecuador,0cf48a18-eb9a-4b86-ae5f-f5080373c62b,Levi's 501 Jeans,Apparel,58.24,3,174.72,0.15,Online Payment,Adult,Male,Cuenca,Luis Martinez
+Ef1570,1/4/25,Ecuador,a4e7a85a-6211-44fb-8276-b611be3efa7c,Coca-Cola Can,Beverages,1.68,9,,0.2,,Senior,Male,Guayaquil,Maria Rodriguez
+mx1550,2/2/25,Ecuador,58f24858-252c-451c-ac11-18bb6a3f2b61,Doritos Chips,Snacks,2.66,3,7.98,0.15,Debit Card,Senior,Female,Machala,Luisa Torres
+lL5620,11/24/24,Ecuador,eb8a4794-6e86-4ed3-992d-a1c4c2601f31,Yeti Tumbler,Outdoor,,7,188.44,0.15,Mobile Wallet,,Male,Machala,Maria Perez
+xN9076,,Ecuador,e4da5e8f-449a-4596-b34b-5f4bc8e47186,Samsung QLED TV,Electronics,845.52,3,2536.56,0.05,Mobile Wallet,Senior,Male,Santo Domingo,Ana Torres
+nP9802,11/23/24,Ecuador,c99b7e1a-70df-4e2b-8a59-5f3c9b3b4db9,KitchenAid Mixer,Home Appliances,409.14,9,3682.26,0,Debit Card,Senior,Male,Machala,Luis Martinez
+gH6100,5/16/24,Ecuador,,Yeti Tumbler,Outdoor,31.85,,318.5,0,Mobile Wallet,Senior,,Cuenca,Carmen Gomez
+lR2309,5/31/24,Ecuador,7de14384-c07d-453c-b83c-e7a95a0f3bff,KitchenAid Mixer,Home Appliances,432.84,8,3462.72,0.2,Online Payment,Senior,Male,Machala,Maria Lopez
+il0680,9/6/24,Ecuador,edcdd643-2824-42d2-8f71-090e7b03c77f,The North Face Jacket,Apparel,142.71,4,570.84,0.15,Cash,Young,Male,Machala,
+nJ9249,11/2/24,Ecuador,8d88e7b1-e879-48a2-9838-07269b92c65d,The North Face Jacket,Apparel,,6,1143.84,0.15,Cash,Senior,Male,Guayaquil,Ana Martinez
+LD0412,3/7/25,Ecuador,97f4c394-37d2-4ac7-9491-5a190997fd7e,iPhone 14,Electronics,985.14,4,3940.56,0.1,Credit Card,Adult,Female,Santo Domingo,Jorge Gomez
+pk8226,1/7/25,Ecuador,ae06a529-3121-40f3-baa1-41d3c661bc90,Yeti Tumbler,Outdoor,33.87,,270.96,,Credit Card,Senior,Female,Machala,Jorge Gomez
+zO7018,4/6/24,Ecuador,8419428d-5cd9-43cd-9c11-866c0878ddf5,,Electronics,1053.19,5,5265.95,0,Cash,Adult,Female,Santo Domingo,Jose Perez
+ck8806,10/20/24,Ecuador,aaabb238-63d0-4c07-af9b-2c995c43f516,Levi's 501 Jeans,Apparel,74.11,10,741.1,0.05,Credit Card,Young,Male,Quito,Luisa Rodriguez
+ch2263,9/30/24,Ecuador,decacc6f-3749-43e9-b254-9a8e15cfce3a,Nike Air Max,Footwear,121.56,9,1094.04,0.2,Debit Card,Adult,Female,Santo Domingo,Jose Gomez
+BT3947,1/18/25,Ecuador,,Apple MacBook Pro,Electronics,1797.78,7,12584.46,0.1,Debit Card,Senior,Female,Cuenca,Juan Torres
+IL8937,1/17/25,Ecuador,c6f57948-f9eb-4377-9ade-9777acfe2bda,Samsung QLED TV,Electronics,1825.46,6,10952.76,0.05,Credit Card,Senior,Female,,Jose Rodriguez
+Zx0229,6/22/24,Ecuador,ba9c6543-7c5d-4e86-8796-c4b77e0ac835,Coca-Cola Can,Beverages,1.31,5,6.55,0.05,Debit Card,Young,Female,Machala,Maria Rodriguez
+hL6431,,Ecuador,3ba1acc8-fcfb-4698-bbfa-813898c111d3,Levi's 501 Jeans,Apparel,,3,248.79,0.15,Credit Card,Adult,Female,Quito,Ana Martinez
+Ri3674,7/16/24,Ecuador,75d0677d-e594-4f7a-a67c-b85539de5a3c,The North Face Jacket,Apparel,116.09,8,928.72,0.05,Online Payment,Senior,Female,Guayaquil,Juan Garcia
+PU8799,10/3/24,Ecuador,6af82cbc-9ad2-42e2-8515-8bbe47b6258e,Nike Air Max,Footwear,108.77,8,870.16,0.05,Credit Card,Senior,Female,Machala,Ana Martinez
+Mz7748,10/24/24,Ecuador,fbe7d2f1-3b82-4d60-97fa-782673d5e93b,Yeti Tumbler,Outdoor,48.8,5,244,0,Mobile Wallet,Senior,Male,Guayaquil,Jorge Sanchez
+IV9224,,Ecuador,,iPhone 14,Electronics,1081.19,10,10811.9,,Mobile Wallet,Senior,Male,Quito,Carmen Garcia
+Up6614,12/10/24,Ecuador,8e795000-d2b1-4a7b-bc9f-b18f6afbc11d,Levi's 501 Jeans,Apparel,63.13,1,63.13,0,Credit Card,Adult,Female,Cuenca,Jose Rodriguez
+jL7450,7/12/24,Ecuador,76b52c1f-083c-4351-bbc1-b5e800927300,Samsung QLED TV,Electronics,1132.89,8,9063.12,0.2,Online Payment,Adult,Female,Guayaquil,Carlos Rodriguez
+Uz5323,4/7/24,Ecuador,5d7a8ce8-23a3-4b74-ac68-169460e9de8a,iPhone 14,Electronics,1094.97,9,9854.73,0.15,Online Payment,Senior,Female,Quito,Maria Rodriguez
+rn7201,10/20/24,Ecuador,2ed7fc48-543f-4af6-9e86-f372e0e19363,Doritos Chips,Snacks,1.53,6,9.18,0.1,Online Payment,Adult,Female,Machala,Jose Garcia
+jN0900,6/26/24,Ecuador,9b866505-df72-4d26-8fb6-99b454530d07,KitchenAid Mixer,Home Appliances,,9,3829.05,0.1,,Senior,Male,Quito,
+kq6617,8/24/24,Ecuador,7a197db6-e44f-4022-977d-5ee4cb5de5f7,Apple MacBook Pro,Electronics,1526.49,5,7632.45,0,Debit Card,Adult,Female,Quito,Pedro Sanchez
+Yr2834,9/10/24,Ecuador,c0b78442-3305-4cd8-ab33-719152450f8c,Coca-Cola Can,Beverages,1.88,5,9.4,0.1,Mobile Wallet,Young,Female,Machala,Juan Ramirez
+Dn9887,4/11/24,Ecuador,54e618b5-a249-48aa-847b-51e84dd4f879,Levi's 501 Jeans,Apparel,69.99,2,139.98,0.15,Debit Card,Adult,Male,Quito,
+ug9063,2/12/25,Ecuador,2ede727b-8a43-423a-b5a7-5e7f7f71aa8d,Apple MacBook Pro,Electronics,1887.26,9,16985.34,0.1,Mobile Wallet,Adult,Male,Quito,Pedro Gomez
+uO7147,11/22/24,Ecuador,f8bb44b4-216c-48c1-80ba-244f1e2d3e33,,Outdoor,31.18,7,218.26,0.1,Credit Card,Senior,Female,Santo Domingo,Luis Garcia
+QM3250,12/10/24,Ecuador,c424adff-57be-48f9-ac5a-279785c3c7cc,Apple MacBook Pro,Electronics,1979.21,9,17812.89,0.15,Debit Card,Senior,Male,Quito,Jose Sanchez
+hV0594,2/18/25,Ecuador,9e7ec71e-8f1a-4068-93bd-e0c08d8bb26f,Apple MacBook Pro,Electronics,1476.14,9,13285.26,0,Online Payment,Young,Male,Cuenca,Juan Gomez
+iz5797,2/19/25,Ecuador,abd7562b-d489-423e-9b3a-fa99dc5a1080,iPhone 14,Electronics,974.02,2,1948.04,0.15,Cash,Senior,Male,Guayaquil,Carmen Torres
+mF7348,7/30/24,Ecuador,68739989-2313-4e54-b627-983f1e28986b,Apple MacBook Pro,Electronics,1326.03,1,1326.03,0.2,Debit Card,Young,Male,Quito,Luis Perez
+Ei4220,6/29/24,Ecuador,5328cf5c-f701-4957-a3d0-6049b305573a,Coca-Cola Can,Beverages,1.33,2,2.66,0,Debit Card,Young,Female,Guayaquil,Maria Perez
+lV5206,11/25/24,,94337c86-4ffc-455a-a9ac-8fd13d6de94e,KitchenAid Mixer,Home Appliances,371.64,8,2973.12,0.2,Mobile Wallet,Senior,Male,Guayaquil,Ana Gomez
+BJ4197,11/17/24,Ecuador,cdd39e67-510d-44ce-b930-741d2c5dbcfe,Doritos Chips,Snacks,4.33,9,38.97,0.05,Mobile Wallet,Adult,Female,Cuenca,Carlos Vargas
+DT7655,3/4/25,Ecuador,f52d5ded-c4f5-4fac-a726-1c5fb388cc34,The North Face Jacket,Apparel,143.03,4,572.12,0.1,Credit Card,Senior,,Cuenca,Pedro Torres
+sc4988,12/20/24,Ecuador,242b254b-2ce9-41cd-be42-2844195cc859,KitchenAid Mixer,Home Appliances,259.4,2,518.8,0.15,Debit Card,Senior,Male,Quito,Pedro Perez
+JL4442,9/29/24,,c7b7b795-d972-4028-ab99-8a251679b375,iPhone 14,Electronics,952.29,9,8570.61,0.05,Credit Card,Young,Male,Santo Domingo,Ana Vargas
+hc3832,8/15/24,Ecuador,afc2e757-d49e-4e1d-9eb3-620019cbf95c,Apple MacBook Pro,Electronics,2036.15,8,16289.2,0,Online Payment,Senior,Male,,Luisa Lopez
+cb3492,11/12/24,Ecuador,7d85a6d5-28a6-46fb-a26c-3adfc37043ef,Levi's 501 Jeans,,91.7,8,733.6,0.1,Online Payment,Young,Female,Cuenca,Maria Rodriguez
+aP7116,,Ecuador,1eaf75f4-1df0-4a18-9cd7-5eb558428683,KitchenAid Mixer,Home Appliances,389.51,1,,0.05,,Adult,Female,Santo Domingo,Luisa Rodriguez
+fQ6741,,Ecuador,0d962b2f-3fd3-4c1d-bfb0-c9712b751b61,iPhone 14,Electronics,1176.87,4,4707.48,0,Credit Card,Adult,Male,Quito,Luis Martinez
+QK9802,11/30/24,Ecuador,cef3c2ad-965d-415c-a295-4b007bae7b9a,Doritos Chips,Snacks,3.46,10,34.6,0.1,Debit Card,Senior,Male,Guayaquil,Jose Garcia
+vh9382,9/5/24,Ecuador,751e7920-0064-4f3d-b43f-5b8bc6fa6ac7,iPhone 14,Electronics,887.45,1,887.45,0,Cash,Senior,Female,Guayaquil,Ana Gomez
+va6666,1/22/25,Ecuador,292dea95-ae29-4c51-8456-36d6dfc206fd,KitchenAid Mixer,Home Appliances,322.78,7,2259.46,0.2,Cash,Young,Female,Quito,Pedro Rodriguez
+Fe5438,4/29/24,Ecuador,3144849c-7ee7-4d31-b16f-96049df1e4fb,Apple MacBook Pro,Electronics,2238.79,1,2238.79,0.05,Cash,Adult,Female,Cuenca,Carmen Martinez
+kz9717,4/7/24,Ecuador,5e3f7fbf-4c31-4381-9ea2-ab02319f368e,Doritos Chips,Snacks,3.04,8,24.32,0,Debit Card,Adult,Male,Quito,Juan Ramirez
+OE2648,11/3/24,Ecuador,ca7d07c9-38d5-4d08-8ef0-f417f021c608,iPhone 14,Electronics,860.71,1,860.71,0,Online Payment,Senior,,Cuenca,Carmen Martinez
+ey0871,10/23/24,Ecuador,7d71c3b1-2523-4f16-9025-34883da8df35,Doritos Chips,Snacks,3.14,1,3.14,0,Debit Card,Young,Female,Quito,Luisa Lopez
+Hu7935,2/1/25,Ecuador,3b473fbc-63c8-47b7-b608-733d5f2c6fbf,Yeti Tumbler,Outdoor,22.93,5,114.65,0,Debit Card,Adult,Male,Santo Domingo,Carmen Sanchez
+WT6485,11/17/24,Ecuador,e0cc98c0-b690-4c07-908d-218ff90f49a2,Samsung QLED TV,Electronics,1282.92,7,8980.44,0.2,Credit Card,Senior,Male,Cuenca,Carlos Rodriguez
+UR9897,10/19/24,Ecuador,04b4f0c9-c60b-417b-bc1d-d85ef9d47a95,Apple MacBook Pro,Electronics,1558.71,10,15587.1,0.2,Credit Card,Adult,Male,Quito,Pedro Torres
+Fu7288,10/18/24,Ecuador,1b2fdfed-60a1-4895-adab-8ebcef3135b4,Levi's 501 Jeans,Apparel,55.02,4,220.08,0.15,Online Payment,Senior,Male,Cuenca,Carlos Rodriguez
+Vm8034,8/25/24,Ecuador,53813085-02d3-4efa-b0f4-7577199d8cf4,Samsung QLED TV,Electronics,1678.49,7,11749.43,0.05,Online Payment,Senior,Male,Cuenca,Juan Martinez
+ot6631,8/22/24,Ecuador,6ee9a552-e984-4361-9223-75b4f19129d7,Samsung QLED TV,Electronics,1066.22,5,5331.1,0,Debit Card,Senior,Female,Santo Domingo,Juan Sanchez
+ej3301,8/3/24,Ecuador,,Nike Air Max,Footwear,105.9,8,847.2,0.15,Online Payment,Adult,Male,Machala,Maria Ramirez
+EU9443,3/29/24,Ecuador,fede8a78-7c9d-4ba8-85fc-722377fdb6ba,Nike Air Max,Footwear,179.05,6,1074.3,0.1,Debit Card,Adult,Female,Santo Domingo,Pedro Sanchez
+lB5749,9/10/24,Ecuador,3790b0a6-3ae6-43be-aa20-be98392939bd,Yeti Tumbler,Outdoor,20.49,8,163.92,0,,Adult,Male,Quito,Jorge Perez
+cB1143,4/13/24,Ecuador,3abb3e5d-6534-4624-befa-e5f9c2654653,KitchenAid Mixer,Home Appliances,429.3,1,429.3,0.05,Credit Card,Senior,Male,Quito,Juan Lopez
+gP6035,12/25/24,Ecuador,ae51a8b2-764f-4b7e-825c-eda6d24db3e8,The North Face Jacket,Apparel,251.7,8,2013.6,0.1,Debit Card,Senior,Female,Guayaquil,
+IA5737,6/29/24,Ecuador,491aa9cf-5ba7-4ace-ba6f-7ab67bc02456,Coca-Cola Can,Beverages,1.75,4,7,0.15,Credit Card,Senior,Female,Guayaquil,Maria Ramirez
+Ya8231,4/27/24,Ecuador,21924387-17dd-4db0-a3d2-00c2a2aba760,Levi's 501 Jeans,Apparel,74.29,10,742.9,0.1,Cash,,Male,Cuenca,Jose Gomez
+Ix9353,5/19/24,Ecuador,f09defa4-7ad8-4cad-8f7f-1fb55c49053d,Levi's 501 Jeans,Apparel,61.53,6,369.18,0.1,Cash,Young,Male,Machala,Carmen Sanchez
+ZQ1642,7/3/24,Ecuador,1ec4673c-559d-49de-8bec-42630fe0f901,The North Face Jacket,Apparel,226.99,,1361.94,0.15,Online Payment,Young,,Quito,Luisa Gomez
+fy9204,6/24/24,,91ee9e3f-d9ba-4414-8be2-5a57d05befa1,Apple MacBook Pro,Electronics,1301.31,2,2602.62,0,Cash,,Female,Santo Domingo,Pedro Garcia
+Vy8480,,Ecuador,5d998466-5dee-47ad-bdd7-26df8a8ab54d,KitchenAid Mixer,Home Appliances,307.5,9,,0,Credit Card,Young,Female,Cuenca,Maria Rodriguez
+RJ3204,11/6/24,Ecuador,ae19ae8b-d69f-42b1-8d15-857cf3a5b577,KitchenAid Mixer,Home Appliances,361.74,9,3255.66,0.2,Credit Card,Young,Male,,Jorge Sanchez
+mW9726,2/23/25,Ecuador,04ec4be9-da08-4414-85f3-3489033755eb,iPhone 14,Electronics,1055.77,2,,0.15,,Young,,Guayaquil,Juan Vargas
+vS5457,9/14/24,Ecuador,d5b6042a-e90a-49b7-8db2-60c2e650df89,,Footwear,121.02,10,1210.2,0.05,Mobile Wallet,Adult,Male,Cuenca,Luisa Perez
+GH2516,4/1/24,Ecuador,bdfa823f-5619-41fd-ae3c-60608ec0d287,Nike Air Max,Footwear,,1,185.36,0.05,Online Payment,Adult,Female,,Maria Gomez
+Ej1437,10/20/24,Ecuador,d4b1f46a-f27e-4507-acd7-10195778d110,Nike Air Max,Footwear,149.86,4,,0.15,Credit Card,Young,Female,Machala,Maria Sanchez
+ch6850,2/16/25,Ecuador,81dcdab1-be54-4388-a45e-5df7453a27cd,Coca-Cola Can,Beverages,0.61,1,0.61,0,Credit Card,Young,Male,Quito,Juan Vargas
+di9693,2/1/25,Ecuador,32e11d8c-4f1e-4d02-a0ac-c924346ee308,Apple MacBook Pro,Electronics,1808.45,2,3616.9,0.1,Online Payment,Adult,,Santo Domingo,Luisa Ramirez
+Vd3191,12/24/24,Ecuador,b50d2bf9-5d77-46d2-bbef-087b03460acc,KitchenAid Mixer,Home Appliances,323.67,4,1294.68,0.2,Credit Card,Senior,Female,Machala,Juan Martinez
+rV5997,5/10/24,Ecuador,a92b0e73-6de1-40a2-a96b-7c4a55ec8323,Nike Air Max,Footwear,157.22,8,1257.76,0,Debit Card,Senior,Male,Quito,Jose Sanchez
+NO8353,12/7/24,,f4ef5991-ce7c-4a9f-9049-bb242893d619,KitchenAid Mixer,Home Appliances,268.34,4,1073.36,0.05,Debit Card,Adult,Male,Cuenca,Luisa Lopez
+hs3545,1/22/25,Ecuador,8b1fc240-ca1f-41b7-8acf-5adcf1f17958,Coca-Cola Can,Beverages,1.31,1,1.31,0.05,Debit Card,Senior,Male,Santo Domingo,Juan Sanchez
+la9612,7/7/24,Ecuador,a8ff004c-fbd7-416d-9ebd-6e4ce1e14fb4,Nike Air Max,Footwear,139.67,5,698.35,0,Credit Card,Adult,Female,Santo Domingo,
+oi9805,7/25/24,Ecuador,b81d0f31-5bd2-499c-9912-b6a4bec57066,iPhone 14,Electronics,1073.85,8,8590.8,,Mobile Wallet,Adult,Female,Santo Domingo,Jose Gomez
+LY8640,9/22/24,Ecuador,fd7d0ad8-1070-4da6-9ac0-9bacea6c1868,KitchenAid Mixer,Home Appliances,454,7,3178,0.05,Debit Card,Adult,Male,Cuenca,Maria Perez
+Ol2181,9/13/24,Ecuador,2fb8b1ae-ebee-4214-b43b-802c340653c2,Doritos Chips,Snacks,3.25,9,29.25,0.2,Credit Card,Senior,Female,Santo Domingo,Jose Ramirez
+sJ7359,5/16/24,Ecuador,afb47af8-cfbd-4a83-9037-11ad01b488d9,Coca-Cola Can,Beverages,1.02,1,1.02,0.2,Credit Card,Young,Female,Santo Domingo,Carlos Perez
+jL2291,1/20/25,,8ec53419-e36f-45cf-ab65-f2bbe257085b,Doritos Chips,Snacks,2.92,2,5.84,0.2,Cash,Young,Male,Machala,
+Cw3150,1/28/25,Ecuador,f2404e60-360b-4ba9-b533-f5a6343f064d,Levi's 501 Jeans,Apparel,71.28,4,285.12,,Mobile Wallet,Young,Female,,Luisa Ramirez
+rP5440,8/21/24,Ecuador,735e8da8-d3d3-4004-bc27-6f7872c118f1,Samsung QLED TV,Electronics,1054.56,6,6327.36,0.2,Cash,Young,Male,Guayaquil,Jorge Ramirez
+Tk8377,,Ecuador,b29442ff-f22a-4080-be57-b5be6161d7f8,Doritos Chips,Snacks,2.82,2,5.64,0.15,Online Payment,Young,Male,Santo Domingo,Pedro Ramirez
+tk2960,10/1/24,Ecuador,27544b89-f9d4-44d4-b44a-19696d3b5066,The North Face Jacket,,259.63,7,1817.41,0.2,Cash,Young,Female,Santo Domingo,Carmen Ramirez
+kE1048,3/4/25,Ecuador,f9ed922f-d375-47cb-9532-f519dbf23042,,Electronics,923.8,5,4619,0.05,Mobile Wallet,Adult,Female,Guayaquil,
+oD0092,3/1/25,Ecuador,4d695230-58ad-47b9-a746-18393ff86099,Levi's 501 Jeans,Apparel,67,10,670,0.05,Debit Card,Senior,Male,Cuenca,Pedro Sanchez
+Gk1075,3/31/24,Ecuador,7202d261-60a4-4bb5-a8bc-a2e446381aa8,Apple MacBook Pro,Electronics,1705.57,10,17055.7,0.05,Credit Card,Adult,Female,Quito,Pedro Sanchez
+Ny0490,7/9/24,Ecuador,4c22de37-f462-4817-9899-204b3aba0b10,Coca-Cola Can,Beverages,1.36,1,1.36,0.05,Online Payment,Senior,Female,Guayaquil,Carlos Garcia
+rf0939,12/13/24,Ecuador,3af2e1d1-9c0b-49ca-ba33-1b52d8fe6f55,KitchenAid Mixer,Home Appliances,386.26,1,386.26,0,,Adult,Male,Quito,Maria Gomez
+ps9614,12/15/24,Ecuador,395ee14d-328c-4436-9a2c-beac5b2d776a,Levi's 501 Jeans,Apparel,67.08,,268.32,0.2,Mobile Wallet,Adult,Female,Cuenca,Carlos Garcia
+IS4630,1/20/25,Ecuador,066a35b6-2a3a-4861-8ae5-af572bfc6d99,Samsung QLED TV,Electronics,564.07,2,1128.14,0.05,Mobile Wallet,Young,Male,Quito,Luis Gomez
+Gy6664,3/7/25,Ecuador,c1cc9d91-2cd2-4dc9-9666-49609c7c4c71,Apple MacBook Pro,Electronics,2241.12,8,17928.96,0.15,Cash,Young,Male,Machala,Pedro Perez
+BS6411,,Ecuador,14d3edd3-b9f8-4f39-b783-8d39b43f8856,Doritos Chips,Snacks,3.49,7,24.43,0,Mobile Wallet,Senior,Male,Cuenca,Luisa Garcia
+Jx0478,9/1/24,Ecuador,8269fff7-0c24-47e1-8283-1655a25fa380,iPhone 14,,1056.27,10,10562.7,0.1,Credit Card,Senior,,Cuenca,Luis Lopez
+Ka6030,9/18/24,Ecuador,4cdd8594-6ff8-4959-ae44-69b164240147,Samsung QLED TV,Electronics,1585.91,9,14273.19,0.2,Debit Card,Senior,Male,Santo Domingo,Carmen Sanchez
+jy6291,12/5/24,Ecuador,fa9d4d6b-8c90-4991-b8af-274bc8aa64c2,Yeti Tumbler,Outdoor,20.56,1,,0,Credit Card,Young,Female,Quito,Ana Perez
+nr6930,6/15/24,Ecuador,9728af82-850c-4733-a044-8f3aa5c319e4,KitchenAid Mixer,Home Appliances,324.69,6,1948.14,0.05,Debit Card,Young,Male,Guayaquil,Pedro Martinez
+aG7291,6/10/24,Ecuador,4de77891-718b-4e89-95a9-5c8d729d9738,The North Face Jacket,Apparel,217.16,9,1954.44,0.2,Cash,Senior,Female,Cuenca,
+ky5355,7/22/24,Ecuador,4cc0c007-7384-437a-8ad4-ee9e4ed94f0c,iPhone 14,Electronics,1169.51,8,,0.05,Online Payment,Senior,Male,Cuenca,Ana Perez
+td0196,2/9/25,Ecuador,04e7b175-04f0-4ccb-98cf-cb1c1ab89bb1,Nike Air Max,Footwear,158.18,2,316.36,0.05,Mobile Wallet,Adult,Male,Guayaquil,Maria Lopez
+mu6855,10/10/24,Ecuador,1c20127a-0aa8-4eb4-8ef0-047ae4901cca,The North Face Jacket,Apparel,112.11,10,1121.1,0.1,Cash,Young,Male,Quito,Luisa Perez
+VS5930,,Ecuador,,The North Face Jacket,Apparel,117.58,4,470.32,0,Debit Card,Senior,Male,Cuenca,Jose Torres
+fa4350,6/20/24,Ecuador,da47f213-8268-480d-91e8-1cd1a7b239c0,Coca-Cola Can,Beverages,1.09,4,4.36,0.15,Mobile Wallet,Senior,Female,Quito,Jose Gomez
+ia1931,10/12/24,Ecuador,3f4c5346-4374-4ff0-971d-fcd5bb06d9ce,Nike Air Max,Footwear,,5,872.25,0.15,Mobile Wallet,Young,Female,Quito,Juan Garcia
+wt3641,6/24/24,Ecuador,0ab27784-b0f1-4ea6-8949-73df25f86ef5,iPhone 14,Electronics,1066.97,5,5334.85,0.05,Debit Card,Adult,Male,Quito,Maria Torres
+dO7096,10/27/24,Ecuador,deb04b50-e188-4c7b-88b5-8d9cba7d863b,The North Face Jacket,Apparel,298.22,7,2087.54,0.1,Mobile Wallet,Young,Female,Machala,Maria Lopez
+mE4691,2/20/25,Ecuador,d85e40b3-98e0-4c01-bb6d-643dc71d8bcb,Doritos Chips,Snacks,2.43,3,7.29,0.2,Credit Card,Adult,Female,,Maria Gomez
+Ow1660,5/15/24,Ecuador,f922a156-746e-4295-918a-70c2d8ccdb0b,The North Face Jacket,Apparel,262.63,7,1838.41,0.05,Debit Card,Adult,Female,Santo Domingo,Pedro Torres
+ra6094,7/16/24,Ecuador,7a15381e-173d-48e4-a407-5e71e8b2ba53,Apple MacBook Pro,Electronics,2156.75,3,6470.25,0.05,Mobile Wallet,Young,Male,Guayaquil,Juan Rodriguez
+dO3860,12/19/24,Ecuador,c9e99932-4c45-4678-90c1-1c6dff39a65f,Apple MacBook Pro,Electronics,1465.71,5,7328.55,0.2,Credit Card,Senior,Male,Guayaquil,Luis Gomez
+JS9389,4/13/24,Ecuador,87dbcac1-c641-4fc3-aef9-318148b4ffd5,The North Face Jacket,Apparel,130.73,5,653.65,0.15,Online Payment,Young,Female,Guayaquil,Carmen Ramirez
+Ag1984,3/12/25,Ecuador,a44c256b-d15f-4fdf-a33d-e0afb3cca082,Levi's 501 Jeans,Apparel,91.87,6,551.22,0.15,Online Payment,Young,Male,Santo Domingo,Luisa Torres
+iK8947,10/31/24,Ecuador,d3077099-d75a-4e1b-874a-47df2c1c0862,KitchenAid Mixer,Home Appliances,437.15,6,,0.2,Mobile Wallet,Senior,Male,Quito,Carmen Martinez
+Bu9656,9/20/24,Ecuador,d10b7fc0-6663-475a-add9-52bb69952114,The North Face Jacket,Apparel,260.86,2,521.72,0.2,Online Payment,Senior,Male,Guayaquil,Maria Sanchez
+kz5258,1/27/25,Ecuador,67bc42bd-2882-4914-8410-4bab0894a04b,Samsung QLED TV,Electronics,1212.51,10,12125.1,0,Credit Card,Young,Male,Guayaquil,Carmen Sanchez
+gw0003,4/7/24,Ecuador,e834dfd0-3af7-4651-a948-4cca5ed3753a,Coca-Cola Can,Beverages,,7,9.66,0.2,,Adult,Male,Machala,Jorge Rodriguez
+VY5812,10/29/24,Ecuador,94b39604-cccc-479d-91b7-86209e2086f9,Nike Air Max,Footwear,130.04,9,1170.36,0.15,Cash,Adult,Female,,Maria Torres
+Gl8797,1/12/25,Ecuador,e125e4eb-c8af-4fb9-b706-f7386c9749e1,The North Face Jacket,Apparel,254.45,8,2035.6,0.2,Credit Card,Senior,,Santo Domingo,Luis Ramirez
+EM1745,8/4/24,Ecuador,2c3719fa-1fd6-44f8-ae91-d170e483933f,The North Face Jacket,Apparel,123.91,3,371.73,0.15,Online Payment,Young,Male,Santo Domingo,Carmen Vargas
+cL5183,11/16/24,,1af95306-5ec4-40b7-a9ee-3a57c11ef6ae,iPhone 14,Electronics,807.56,5,4037.8,0.1,Mobile Wallet,Young,Female,Machala,Carmen Garcia
+Ua0494,12/18/24,Ecuador,dbb51f81-9f84-4cad-85de-2115d0d796b8,Nike Air Max,Footwear,177.73,7,1244.11,0.2,Debit Card,Adult,Female,Guayaquil,Jose Rodriguez
+on6646,2/8/25,Ecuador,41e71435-e30b-4cbe-bbc9-f15ae2f8785f,iPhone 14,Electronics,808.25,4,3233,0.2,Mobile Wallet,Senior,Female,Cuenca,Jorge Perez
+mu0945,1/20/25,Ecuador,f745ea98-f3b0-49a0-80d3-695c12c145a0,The North Face Jacket,Apparel,194.44,2,388.88,,Credit Card,Young,,Machala,Carmen Gomez
+SS2494,10/1/24,Ecuador,2c3fdc8d-3d62-4d2e-9a18-c20f4f3ab7b8,The North Face Jacket,Apparel,256.92,6,1541.52,0.05,Online Payment,Adult,Male,Cuenca,Carlos Martinez
+Kp0962,2/25/25,Ecuador,9bc5dd44-8b10-495d-9d29-d017ce99b046,KitchenAid Mixer,Home Appliances,360.8,5,1804,0.05,Debit Card,Adult,Female,Santo Domingo,Luis Vargas
+jL5478,10/13/24,Ecuador,2923b8f6-6dd3-44d8-aad4-f9aa19714d48,The North Face Jacket,Apparel,108.72,1,108.72,0.2,Mobile Wallet,Senior,Female,,Carmen Lopez
+sh5429,3/20/24,Ecuador,a4a232b0-19bc-45ec-a39c-c3a3243482e0,Samsung QLED TV,Electronics,1521.3,2,3042.6,0.1,Cash,Young,,Guayaquil,Juan Martinez
+IA0549,9/11/24,,ee2a5945-ef3c-48f6-bac1-90004e0a8ac3,,Footwear,144.36,7,1010.52,0,,Young,Female,Quito,Luisa Lopez
+to7932,,Ecuador,4689f33d-9699-4916-b3c5-e45d3c7cab75,Samsung QLED TV,Electronics,1845.23,10,18452.3,0.05,Online Payment,Adult,Male,Santo Domingo,Ana Garcia
+lj8472,10/15/24,Ecuador,d8833dfe-1f45-4006-b259-7bc1d6821f27,Doritos Chips,Snacks,4.66,1,4.66,0.1,Cash,Young,Female,Santo Domingo,Carmen Martinez
+Vn6703,3/18/25,Ecuador,b0d23d6e-1ebf-41d9-8ca1-6d730ff86224,KitchenAid Mixer,,394.76,1,394.76,0.2,Mobile Wallet,Adult,Male,Santo Domingo,Jose Rodriguez
+Ad6550,1/22/25,Ecuador,5edd7700-ebeb-4e09-b287-6573b05de790,Coca-Cola Can,Beverages,0.57,4,2.28,0.05,Cash,Young,Male,Santo Domingo,Maria Rodriguez
+Ls6179,9/22/24,Ecuador,3eda29e0-c5e2-4d06-be68-13218a24b3f6,KitchenAid Mixer,Home Appliances,351.11,1,351.11,,Debit Card,Adult,Female,,Jose Martinez
+Ls0720,7/15/24,Ecuador,5644616e-e78e-446b-a1fa-c1c59957314f,The North Face Jacket,Apparel,141.92,10,,0.15,,Senior,Female,Quito,Luis Lopez
+zK5843,3/16/25,Ecuador,4a75254d-065f-4485-9969-c4505224a2dd,Nike Air Max,Footwear,175.93,6,1055.58,0,Cash,Young,Male,Machala,Jose Rodriguez
+yz3535,4/26/24,Ecuador,,Levi's 501 Jeans,Apparel,78.85,2,157.7,0.05,,Senior,Male,Guayaquil,Luis Gomez
+Hi7170,5/17/24,Ecuador,bdc11810-41ea-43bd-90d5-98dab1499e77,Levi's 501 Jeans,Apparel,,10,796.1,0.15,Credit Card,Young,Female,Cuenca,Luis Gomez
+mS2888,12/30/24,Ecuador,20526679-1fb5-40f1-b1d3-5acd740b9774,Apple MacBook Pro,Electronics,1886.79,10,18867.9,0.1,Cash,Adult,Male,Quito,Carlos Garcia
+LE5240,6/17/24,Ecuador,c9eb8c60-daab-4a9b-9b1e-65eb54370b1b,KitchenAid Mixer,Home Appliances,406.31,1,406.31,0,Cash,Adult,Male,Santo Domingo,Carlos Torres
+vI7344,4/21/24,Ecuador,3309ee96-da9a-497f-bbe0-17222f78be51,Nike Air Max,Footwear,184.03,1,184.03,0.1,Cash,Senior,Male,Santo Domingo,Pedro Vargas
+St4592,1/30/25,Ecuador,24cbb187-bfc8-48a4-88e1-bd4484c795f3,Yeti Tumbler,Outdoor,49.06,10,490.6,0,Cash,Young,Male,Quito,Carlos Vargas
+gV8657,,Ecuador,051aeae4-a044-4ab0-b192-270700f42839,iPhone 14,Electronics,1072.1,2,2144.2,0.2,Mobile Wallet,Young,Male,Machala,
+WG1306,7/17/24,Ecuador,19f6ef7d-a475-4e4a-abaf-fde380429284,Samsung QLED TV,Electronics,1378.16,9,12403.44,0.2,Mobile Wallet,Young,Female,Quito,Pedro Gomez
+fp8144,1/4/25,Ecuador,c8365ef1-1c03-431f-8ac3-f4889593b2b1,KitchenAid Mixer,,401.28,4,1605.12,0,Mobile Wallet,Senior,Male,Cuenca,Carmen Torres
+zS1799,10/11/24,Ecuador,e1553b0b-6915-496e-9c91-976eab15cf19,Apple MacBook Pro,Electronics,2200.18,1,,0.05,Mobile Wallet,Adult,Female,Machala,Carmen Rodriguez
+Qx3961,7/9/24,Ecuador,7f883bca-814f-413f-8798-4b8baa7fb027,Samsung QLED TV,Electronics,1936.26,7,13553.82,0.05,Credit Card,Young,Male,Guayaquil,Pedro Sanchez
+Tl8810,9/15/24,Ecuador,d8ee7668-2da3-4fe4-adf4-9c38e69d9a7b,Nike Air Max,Footwear,166.43,3,499.29,0.15,Cash,Young,Female,Santo Domingo,Carlos Gomez
+Dr2552,12/9/24,,0a7db2d2-a343-4dd3-8fe5-3192c7d0db34,Apple MacBook Pro,Electronics,1654.98,4,6619.92,0.05,Mobile Wallet,Young,Male,Guayaquil,Jose Gomez
+zO2479,9/19/24,Ecuador,ef729d00-652c-47fe-8398-b57f99ae8d6f,The North Face Jacket,Apparel,259.58,10,2595.8,,Online Payment,Young,Male,Santo Domingo,Carlos Ramirez
+CI3642,1/28/25,Ecuador,2c18f620-cb13-4b03-91f5-4ac934df8f98,Yeti Tumbler,Outdoor,41.98,9,377.82,0.15,Online Payment,Adult,Female,Quito,
+No2342,3/6/25,Ecuador,ac3310e7-1e17-45cd-a154-3ba8affb69d0,Apple MacBook Pro,Electronics,2454.73,9,22092.57,0.15,Online Payment,Young,Female,Santo Domingo,Juan Vargas
+wT0908,8/2/24,Ecuador,,Doritos Chips,Snacks,4.62,3,13.86,0,Online Payment,Young,Male,Guayaquil,Juan Sanchez
+ZT9952,7/7/24,Ecuador,f1585869-089f-486f-ad64-849689dbb7f9,Levi's 501 Jeans,Apparel,70.05,6,420.3,0,Credit Card,Young,Female,Cuenca,Luis Torres
+Rm4343,7/8/24,Ecuador,94b47138-2e65-4d87-a8a8-a6d2c38be5f2,The North Face Jacket,Apparel,149.44,4,597.76,0.05,Debit Card,Senior,Male,Quito,Carlos Perez
+im0497,7/4/24,Ecuador,36420954-83b4-4251-af3b-8275085f0972,Yeti Tumbler,Outdoor,29.36,5,146.8,0.1,,Young,Female,,Luisa Martinez
+Nf5833,7/26/24,Ecuador,baa451b0-5b7e-424a-b4ca-4aa3927c1bb1,Coca-Cola Can,Beverages,0.57,5,2.85,,Mobile Wallet,Adult,Male,Cuenca,Juan Lopez
+Or1599,3/30/24,Ecuador,cc859ec4-8ec6-43e1-94b3-aff5eda9cdca,Nike Air Max,Footwear,101.67,7,711.69,0.05,Debit Card,Adult,Male,Guayaquil,Luis Perez
+ga2530,7/10/24,Ecuador,3bdb31d9-99a2-4fda-9f0f-d3797bcfda0a,Samsung QLED TV,Electronics,751.96,5,3759.8,0.05,Cash,Young,Female,Cuenca,Juan Ramirez
+UJ5917,10/16/24,Ecuador,3ec76cc5-ed29-4b58-a096-61fb9863810e,Samsung QLED TV,Electronics,1943.7,1,1943.7,0.05,Online Payment,Young,Female,,Luisa Gomez
+yU8116,5/10/24,Ecuador,6442e650-2e6c-40d4-b2b6-d43844852350,Samsung QLED TV,Electronics,1496.35,3,4489.05,0.2,Online Payment,Adult,Female,Santo Domingo,Pedro Lopez
+VK8447,5/21/24,Ecuador,b510fb82-8f80-4ea5-9c4b-e3bf8b0e6ed6,KitchenAid Mixer,Home Appliances,294.1,3,882.3,0.05,Online Payment,Adult,Female,Cuenca,Jose Lopez
+px7027,9/12/24,Ecuador,07361bd0-c7f7-4db2-b20e-461b08d9e9bd,Coca-Cola Can,Beverages,1.18,8,9.44,0,Mobile Wallet,Young,Male,Guayaquil,
+Sb1074,4/17/24,Ecuador,fd09cd3d-8638-4a21-ab1b-fc5085a40309,KitchenAid Mixer,Home Appliances,490.68,10,4906.8,0,Credit Card,Adult,Female,Machala,Jorge Sanchez
+KC1505,11/6/24,Ecuador,e95f1948-10b8-4346-a30d-300636b337d1,iPhone 14,Electronics,928.98,8,7431.84,0.1,Mobile Wallet,Young,Female,Guayaquil,Jorge Sanchez
+um8954,12/2/24,Ecuador,e5fe54a7-1398-452f-9e68-e6fe0f6362c4,Nike Air Max,Footwear,,6,919.44,0.1,Debit Card,Young,,Machala,Luisa Torres
+QQ0866,5/7/24,Ecuador,980d2340-7188-4174-a73f-c6b758be5915,KitchenAid Mixer,Home Appliances,367.47,6,2204.82,0.05,Debit Card,Young,Female,Guayaquil,Carlos Perez
+QY1029,9/30/24,Ecuador,505d4ce3-c93b-4454-8f82-ff93dae9cc46,Nike Air Max,Footwear,174.53,4,698.12,0.1,Online Payment,Senior,Female,Santo Domingo,Maria Vargas
+Ch7208,8/22/24,Ecuador,2b412a62-887f-4dc7-96e6-038688ce662a,Levi's 501 Jeans,Apparel,77.55,1,77.55,0.15,Debit Card,Young,Male,Quito,Carlos Martinez
+lC8931,7/10/24,Ecuador,7ad29259-e96b-4270-856d-fc0b627ecde3,Levi's 501 Jeans,Apparel,96.89,3,290.67,0.2,Mobile Wallet,Young,Female,Machala,Carlos Martinez
+kI5474,8/11/24,Ecuador,5525a30b-bef3-40dd-ab6e-5e97b7973230,Samsung QLED TV,Electronics,1195.97,3,3587.91,0.1,Online Payment,Adult,Female,Santo Domingo,Pedro Garcia
+Ii4264,10/25/24,Ecuador,683048c5-cd39-4a04-9ec1-adc3b6da6bac,Yeti Tumbler,Outdoor,,9,211.95,0.1,Mobile Wallet,Senior,Male,Cuenca,Carlos Sanchez
+aN2806,1/18/25,Ecuador,,The North Face Jacket,Apparel,221.85,7,1552.95,0.15,Credit Card,Adult,Female,Machala,Jorge Martinez
+Ij2204,5/27/24,Ecuador,878b48b8-60af-4926-b688-16442d561656,Nike Air Max,Footwear,106.92,4,427.68,0.1,Credit Card,Senior,Female,Quito,Pedro Ramirez
+Mz0689,11/5/24,,2c6c90ef-8479-4dae-a785-d222566df484,Levi's 501 Jeans,Apparel,99.92,8,799.36,0.2,,Adult,Male,Guayaquil,Carmen Sanchez
+kV3890,1/5/25,Ecuador,388c2a87-a914-4ed4-9224-7807fff2b99f,iPhone 14,Electronics,923.5,5,4617.5,0.2,Mobile Wallet,Senior,Female,Quito,Jose Rodriguez
+AK3032,,Ecuador,c926f2f4-0ad2-46d2-b705-982bb7f19b45,Levi's 501 Jeans,Apparel,82.85,5,414.25,0.15,Mobile Wallet,Young,Female,Quito,Juan Gomez
+SC2494,1/30/25,Ecuador,e1a012c5-3d03-4e45-8eed-b67d77eb85e3,The North Face Jacket,Apparel,203.68,2,407.36,0.15,Cash,Adult,Male,Machala,Luisa Perez
+aO7880,11/8/24,Ecuador,f23eca49-72aa-418f-9a9b-7905727be90e,Nike Air Max,Footwear,181.42,8,1451.36,0.05,Cash,Adult,Male,Quito,Luis Torres
+al8551,8/18/24,Ecuador,,Levi's 501 Jeans,Apparel,59.62,,238.48,0.1,,Adult,Female,Santo Domingo,Luisa Rodriguez
+fX5410,2/18/25,Ecuador,46f6fe00-3c3d-43bb-a483-2477d76ad47d,Yeti Tumbler,Outdoor,35.7,2,71.4,0.2,Credit Card,Young,Female,Quito,Carlos Perez
+ET4837,,Ecuador,e5db968b-69c0-4fb8-9f3d-3d0d424270b7,Coca-Cola Can,Beverages,1.97,9,17.73,0,Debit Card,Senior,Female,Machala,Maria Gomez
+Rw8595,4/25/24,Ecuador,e0b3b996-17e5-49b7-bf3f-5d69a733a478,Doritos Chips,Snacks,3.31,8,26.48,0.05,Debit Card,Adult,Male,Machala,Luis Martinez
+QH7345,1/5/25,Ecuador,104b34e9-9432-48e5-a5ab-691c66ff04bf,Levi's 501 Jeans,Apparel,94.26,6,565.56,0.05,Mobile Wallet,Adult,Male,Cuenca,Luisa Torres
+wI9918,6/14/24,Ecuador,7b358979-119d-405f-999c-8d47bffff707,,Apparel,183.67,6,1102.02,0,Cash,Adult,Male,Machala,Jorge Ramirez
+bl0289,,Ecuador,c348060e-f43d-4b4f-bb10-fd7e15a5c557,Yeti Tumbler,Outdoor,23.74,7,166.18,0.2,Debit Card,Young,Male,,Ana Perez
+sE0791,9/26/24,Ecuador,b9aa46d9-54e9-427f-a77a-2d22bf488a52,iPhone 14,Electronics,1134.37,8,9074.96,0.15,Cash,Adult,Female,Cuenca,Luis Garcia
+lh5826,4/18/24,Ecuador,7a7c41c4-f7eb-463e-b449-7ad977fbe95d,iPhone 14,Electronics,821.55,10,8215.5,0.1,Credit Card,Senior,Female,Santo Domingo,Carlos Martinez
+vX6866,1/31/25,Ecuador,66ada677-73df-4618-ab81-8dcabca4fc0b,Nike Air Max,Footwear,185.63,1,185.63,0.2,Debit Card,Adult,Female,Santo Domingo,Carmen Sanchez
+Yw6629,6/10/24,Ecuador,,Levi's 501 Jeans,,71.69,1,71.69,0,Mobile Wallet,,Male,Guayaquil,Jose Gomez
+vl8808,,,7ec74731-8e4e-4ce4-81bc-11d28c4e1626,Nike Air Max,Footwear,141.3,7,989.1,0.1,Credit Card,Senior,Female,Santo Domingo,Jose Martinez
+qM7565,2/9/25,Ecuador,e6ee566b-6487-478c-a0f2-2c964155ff36,Coca-Cola Can,Beverages,1.61,7,11.27,0,Credit Card,Adult,Male,Cuenca,Maria Perez
+lZ0143,7/4/24,Ecuador,3bebb426-0910-4247-a8a0-75b0d761cd67,iPhone 14,Electronics,1107.75,5,5538.75,0.05,Mobile Wallet,Adult,Female,Machala,Luis Martinez
+Ff7528,6/5/24,Ecuador,3d877bee-26b7-4a0f-9ddc-af96f2e0944f,KitchenAid Mixer,Home Appliances,358.25,1,358.25,,Debit Card,Adult,Female,Santo Domingo,Carlos Rodriguez
+Mo8258,6/26/24,Ecuador,9c1bf237-7553-4a11-8359-e613dc807959,Samsung QLED TV,Electronics,508.07,,1524.21,0.2,Mobile Wallet,Adult,Female,Quito,Ana Sanchez
+Wd0634,10/1/24,Ecuador,3226c041-4969-42fc-abd0-0f7278be9149,Coca-Cola Can,Beverages,0.87,3,2.61,,Mobile Wallet,Senior,Male,Machala,Jorge Vargas
+EG4630,2/3/25,Ecuador,e1ddcfb0-6ad3-41a2-9b2e-6c824d8bb9af,Apple MacBook Pro,Electronics,1313.84,1,1313.84,0.15,Debit Card,Senior,Female,Santo Domingo,
+Gz3082,4/22/24,Ecuador,1194caa3-aecd-4a7f-9db2-ea3a2755198b,Levi's 501 Jeans,Apparel,84.69,3,254.07,0.05,Online Payment,Senior,Female,Santo Domingo,Ana Vargas
+Hz8609,8/30/24,Ecuador,9e69d6a1-e961-482f-945b-d05077cc3ac6,The North Face Jacket,Apparel,120.41,9,1083.69,0,Cash,Adult,Male,Santo Domingo,Juan Lopez
+FC8370,9/6/24,Ecuador,dd9fcf0d-6fe0-42ba-922d-d68163fe0230,The North Face Jacket,Apparel,207.49,8,1659.92,0,Cash,Senior,Male,Guayaquil,Carmen Vargas
+PF9257,3/25/24,Ecuador,32282222-41c9-4085-8879-fbc95171d779,Nike Air Max,Footwear,141.26,2,,0.1,Debit Card,Young,Female,Guayaquil,Ana Martinez
+gC6972,1/24/25,Ecuador,091992a8-c9e3-48e5-ab3f-44a8986d4a59,Yeti Tumbler,Outdoor,46.48,6,278.88,0.1,Debit Card,Young,Male,Guayaquil,Ana Sanchez
+NC5782,7/20/24,Ecuador,,Levi's 501 Jeans,Apparel,72.44,6,434.64,0.15,Mobile Wallet,Young,Male,Santo Domingo,Maria Torres
+Aq7313,5/8/24,Ecuador,75e8ddcc-7029-43f4-8ebc-2dac3c7ab7d3,Levi's 501 Jeans,Apparel,68.4,1,68.4,0.2,,Adult,Male,Machala,Juan Perez
+KL5040,,Ecuador,1390419a-1f0e-4b3e-898f-e6b19353516f,Levi's 501 Jeans,Apparel,88.44,7,619.08,0.1,Mobile Wallet,Young,Female,Quito,Jose Perez
+XJ1266,10/28/24,Ecuador,00c79e2c-c80a-40df-bdf2-adca1163b64f,Coca-Cola Can,Beverages,1.23,1,,0.15,Credit Card,Senior,Male,Quito,
+UB5356,1/19/25,Ecuador,7f993951-d971-4ea7-b434-186730ec3494,The North Face Jacket,Apparel,288.88,9,2599.92,0.2,Cash,Adult,Male,Santo Domingo,Pedro Torres
+VL2811,9/29/24,Ecuador,d1271a19-89dc-4fe3-ba5a-28f86a778164,Coca-Cola Can,Beverages,1.42,9,12.78,0.1,,Senior,Female,Santo Domingo,Maria Lopez
+eL2112,4/6/24,Ecuador,13fcc57a-efff-4017-a73c-5f2fc286c496,KitchenAid Mixer,Home Appliances,314.83,6,1888.98,0,Cash,Senior,Male,Guayaquil,Carmen Sanchez
+EY4367,10/22/24,Ecuador,8cd9d181-d4d6-4548-b55f-89cfc9acae3e,Nike Air Max,Footwear,158.07,1,158.07,0.1,Credit Card,Senior,Male,,Pedro Sanchez
+oM6306,8/9/24,Ecuador,ce15b3f1-340c-4e66-836d-73a15d1fbbd3,iPhone 14,Electronics,1001.32,2,2002.64,0.1,Cash,Senior,Female,Guayaquil,Luisa Lopez
+pm7973,6/24/24,Ecuador,c9214756-45ae-4554-b952-25923d0d6426,Yeti Tumbler,Outdoor,35.8,10,358,0,Mobile Wallet,Young,Female,Quito,Pedro Martinez
+xb2028,3/1/25,Ecuador,417008db-2b45-4472-87ff-f56a4ea9c1a1,KitchenAid Mixer,Home Appliances,325.62,9,2930.58,0.05,Online Payment,Young,Male,Quito,Pedro Sanchez
+rH5802,10/17/24,Ecuador,e3d484fe-7f4c-4e99-ba73-e7846e30c6d6,,Outdoor,47.06,8,376.48,0.1,Credit Card,Senior,Female,Guayaquil,
+ac6002,9/7/24,Ecuador,bf917baa-aff3-41af-8245-fbf5faa72108,Apple MacBook Pro,Electronics,2436.6,,7309.8,0.2,Online Payment,Adult,Female,Machala,
+Za2034,10/24/24,Ecuador,,Samsung QLED TV,Electronics,1316.56,2,2633.12,0,Debit Card,Senior,Male,Guayaquil,Maria Torres
+GS5358,5/27/24,Ecuador,4d95cb79-f8d7-415b-a497-80f961f6b97b,iPhone 14,Electronics,834.45,4,3337.8,0.2,Mobile Wallet,Young,Female,Guayaquil,Juan Sanchez
+qx5715,9/7/24,Ecuador,b1cba2b6-9453-4203-9e54-6fcdbe6d67c3,Nike Air Max,Footwear,153.53,4,614.12,0.2,Mobile Wallet,Adult,Male,Machala,Luis Martinez
+qB1486,9/11/24,Ecuador,7fbcfba2-af14-4e55-9ac0-03c8c09d95ad,Apple MacBook Pro,,2015.51,5,10077.55,0.2,Online Payment,Young,Female,,Juan Perez
+Ek1165,8/2/24,Ecuador,973c27b2-9a79-45e6-927d-683f12be1095,Samsung QLED TV,Electronics,1502.56,7,,0.15,Online Payment,Young,Female,Quito,
+eQ7292,,Ecuador,312e2c80-79b0-4e6f-8d64-c6ea0a51bd6c,iPhone 14,Electronics,912.98,10,9129.8,0.05,Mobile Wallet,Young,Male,Guayaquil,Luis Vargas
+rK2294,11/6/24,Ecuador,4efaac20-c930-44c4-bb0a-36a28f50f35f,Coca-Cola Can,Beverages,1.69,8,13.52,0,Credit Card,Adult,Male,Machala,Carlos Rodriguez
+cL5643,3/12/25,Ecuador,01700e47-ac39-451d-a525-01a814fd3614,Coca-Cola Can,Beverages,1.88,2,3.76,0.05,Mobile Wallet,Senior,,Santo Domingo,Carmen Vargas
+VP8563,8/4/24,Ecuador,c8eb1901-4f29-4573-beae-d499c351bf54,Levi's 501 Jeans,Apparel,90.34,5,451.7,0,Mobile Wallet,Young,Male,Guayaquil,Pedro Garcia
+Rh5156,9/23/24,Ecuador,0ad6d511-136d-45d2-9450-e92027d28855,Levi's 501 Jeans,Apparel,88.65,7,620.55,0.15,Debit Card,,Male,Cuenca,Juan Perez
+sp0172,7/26/24,Ecuador,ea206178-3135-4bf8-ac2c-de7bed6ce8db,Yeti Tumbler,Outdoor,22.77,8,182.16,0.15,Mobile Wallet,Senior,Female,Machala,Jose Ramirez
+mk1216,1/22/25,Ecuador,c8d2a363-0b78-4775-b3e2-67c43fc06055,iPhone 14,Electronics,933.51,9,8401.59,0.15,Cash,Senior,Female,Guayaquil,Ana Vargas
+jk6641,1/4/25,Ecuador,7cf41100-37e7-4d8d-97c3-1af7f20578f1,Doritos Chips,Snacks,4,3,12,,Online Payment,Young,Female,Santo Domingo,Carlos Garcia
+JV3269,4/20/24,Ecuador,608e54b0-6638-478b-ba13-d396b7d76525,Doritos Chips,,2.59,8,20.72,0,Cash,Adult,,Guayaquil,Jose Ramirez
+GT4283,6/15/24,Ecuador,b3fe592d-55ef-4ad7-b581-a1aa71c25483,Coca-Cola Can,Beverages,1.17,1,1.17,0.05,Debit Card,Senior,Female,,Jose Sanchez
+Pj7257,9/27/24,Ecuador,52554bed-3c07-4afe-851a-3df1cc3c4495,Yeti Tumbler,Outdoor,48.65,8,389.2,0.15,Cash,Senior,Male,Machala,Carmen Rodriguez
+Je8451,5/12/24,Ecuador,844e1d5d-0d3e-44f3-9a07-94ed2b7c2c0d,iPhone 14,Electronics,916.31,4,3665.24,,Cash,Young,Female,Guayaquil,Pedro Gomez
+Oj5398,11/4/24,Ecuador,8bd4e4df-6e70-461a-88ed-db1657512091,The North Face Jacket,Apparel,231.87,5,1159.35,0,Cash,Adult,,,Carmen Vargas
+JP7041,9/29/24,Ecuador,1f1f0024-54a4-45cf-8d68-4dda9c542a00,Samsung QLED TV,Electronics,1912.15,4,7648.6,0,Cash,Senior,Male,Machala,Ana Perez
+Su6244,1/27/25,Ecuador,f8ac2cf6-82dc-4bde-af8f-030f3553f8c3,Samsung QLED TV,Electronics,1223.58,7,8565.06,0.1,Debit Card,Adult,Female,Machala,Jose Torres
+rg9845,8/17/24,,9634d070-e225-4211-b8b9-f7ee8c00890d,Coca-Cola Can,Beverages,0.7,1,0.7,0.1,Debit Card,Young,Male,Santo Domingo,Carlos Sanchez
+Ke6362,3/19/25,Ecuador,cb726722-1e75-4461-a1ae-f7d21a1fdb8b,Coca-Cola Can,Beverages,1.91,8,15.28,0.15,Credit Card,Adult,Male,Guayaquil,Maria Martinez
+lI4990,4/7/24,Ecuador,f757833b-f0a6-4cb4-b057-536859cfa05d,KitchenAid Mixer,Home Appliances,437.14,10,4371.4,0.15,Credit Card,Young,Female,Machala,Luis Perez
+wO6622,6/2/24,Ecuador,06f2a5e1-61f9-4128-b132-7e00e1c92e71,Doritos Chips,Snacks,1.63,5,8.15,0.15,Debit Card,Senior,Female,Machala,Jose Gomez
+sv0584,8/21/24,Ecuador,12c12e53-3277-4745-bfc7-a2810df370ee,,Snacks,4.59,2,9.18,0.1,Debit Card,Adult,Female,Quito,Luisa Garcia
+pG6812,10/23/24,Ecuador,595017a6-1406-4632-b975-7586323c33d7,Levi's 501 Jeans,Apparel,,4,343.04,0.05,Debit Card,Young,Male,Cuenca,Ana Vargas
+Yx7440,,Ecuador,,Samsung QLED TV,Electronics,1568.94,5,7844.7,0.2,Mobile Wallet,Senior,Female,Cuenca,Jorge Lopez
+pJ1863,4/11/24,Ecuador,d438029a-2588-42f8-9f7a-15369750cd3b,KitchenAid Mixer,Home Appliances,357.11,10,3571.1,0,Cash,Adult,Male,Guayaquil,Maria Rodriguez
+Jf5899,11/12/24,Ecuador,36c06872-240e-4d6a-be97-c997800d3a30,Nike Air Max,Footwear,192.85,4,771.4,0,Cash,Young,Female,Santo Domingo,Luis Rodriguez
+lL1094,11/8/24,Ecuador,86fdc7e2-ccdc-48c2-9d15-0632578f2464,Apple MacBook Pro,Electronics,1991.43,1,1991.43,0.05,Mobile Wallet,Young,Female,Guayaquil,Pedro Vargas
+Uu0570,5/25/24,Ecuador,5da325a8-f0b5-4b4e-bb55-d484bf335836,Apple MacBook Pro,Electronics,1465.86,7,10261.02,0.2,Mobile Wallet,,Male,Santo Domingo,Luis Perez
+au1300,11/13/24,Ecuador,e46a9a59-550c-4622-9862-fc8044678920,Samsung QLED TV,,1627.17,10,16271.7,0,Online Payment,Young,Male,Santo Domingo,Maria Perez
+HT3240,4/16/24,Ecuador,6ce19d95-6aa4-4bcb-aad9-ce4267f7f9de,Levi's 501 Jeans,Apparel,78.28,9,704.52,0.2,Mobile Wallet,Senior,Male,Machala,Luisa Gomez
+aN4713,3/3/25,Ecuador,547103cb-0d6f-41dd-80bf-28116c32abb1,Apple MacBook Pro,Electronics,1309.06,6,7854.36,0.1,Online Payment,Senior,Female,Quito,Luisa Rodriguez
+AA9329,4/19/24,Ecuador,6f593305-2836-40bb-b500-9659e6773ed7,Doritos Chips,Snacks,2.12,8,16.96,0.1,Credit Card,Adult,,Santo Domingo,Juan Lopez
+yq8851,4/30/24,Ecuador,e5cf45fb-f4ab-4059-bcf4-6cd63b847570,Nike Air Max,Footwear,179.11,4,716.44,0.05,Cash,,Male,Guayaquil,Pedro Torres
+fx6262,4/16/24,Ecuador,2012d2c0-d48c-4025-a580-2e18d535647d,The North Face Jacket,Apparel,250.13,2,500.26,0.2,Online Payment,Young,Female,,Pedro Martinez
+pv0824,10/17/24,Ecuador,c17301fd-e446-40c1-aefc-5b8f600da06e,Nike Air Max,Footwear,153.93,4,615.72,0,Credit Card,Young,Male,Machala,Carmen Ramirez
+nf7727,11/26/24,Ecuador,e19b16f2-3fca-48d2-b03c-3102980ce222,Apple MacBook Pro,Electronics,2157.25,5,10786.25,0,Online Payment,Young,Male,Cuenca,Juan Lopez
+ug5967,5/9/24,Ecuador,78ebc061-b331-4fc6-848c-06c8c60d2ec3,Coca-Cola Can,Beverages,1.8,4,7.2,0.2,Debit Card,Young,Male,Machala,Juan Sanchez
+Cf7343,2/3/25,Ecuador,e77e720b-3dce-45f1-840e-d2d8df58586d,Doritos Chips,Snacks,4.56,2,9.12,0,Credit Card,Young,Male,Santo Domingo,Luisa Perez
+bQ5817,10/25/24,Ecuador,c9ee4727-4f38-426f-9aeb-95081e7140b1,,Electronics,1801.48,5,,0.1,Mobile Wallet,Adult,Female,Guayaquil,Ana Sanchez
+RX9271,9/28/24,Ecuador,92a02e1f-f206-4cde-a159-d08eebba43f4,Levi's 501 Jeans,Apparel,,3,195.93,0.15,Online Payment,Young,Male,Machala,Carmen Sanchez
+rQ7126,10/6/24,Ecuador,8e48b958-6458-41ab-bebe-3f8aa12c3575,Nike Air Max,Footwear,171.65,10,1716.5,0,Cash,Young,Male,Cuenca,Luis Garcia
+nB5885,8/15/24,,ce1b0bbd-73f2-4edc-9c77-8e4f8c63862b,iPhone 14,Electronics,1145.7,9,10311.3,0.05,Cash,Senior,,Santo Domingo,Luisa Ramirez
+eh6567,1/26/25,Ecuador,9de707d6-67e4-4348-b3ee-2b9a329de8cb,Levi's 501 Jeans,Apparel,66.98,7,,0.15,Cash,Senior,Male,Quito,Luisa Lopez
+Qs8982,10/27/24,Ecuador,,Doritos Chips,Snacks,4.06,4,16.24,0.15,Mobile Wallet,Young,Female,Guayaquil,Ana Torres
+gu3090,12/23/24,Ecuador,30090743-e0b1-4aa3-a411-512dd7cbbe37,,Apparel,199.26,,398.52,0.15,Cash,Adult,Female,Machala,Jose Perez
+If5907,10/7/24,Ecuador,83bb696d-37df-4f05-a30d-a26dbbd31ea7,Doritos Chips,Snacks,4.44,10,44.4,0,Debit Card,Young,Female,Cuenca,Ana Sanchez
+qL0534,3/4/25,,fac325b3-574b-4ed7-9aec-3fd65ff5e403,Samsung QLED TV,Electronics,535.89,7,3751.23,,Mobile Wallet,,Male,Guayaquil,Jorge Sanchez
+Ha2874,3/1/25,Ecuador,475538af-b08c-4c75-b8da-35ab46d78cb0,,Apparel,82.34,10,823.4,0.15,Credit Card,Adult,,Cuenca,Luisa Martinez
+ZM0194,9/28/24,Ecuador,ea85bf41-d23a-4dc2-834c-7a3c2a93637b,Coca-Cola Can,Beverages,1.55,6,9.3,0,Cash,Adult,Male,Quito,Luisa Vargas
+Sj6731,2/24/25,Ecuador,863e6209-4625-48f6-bd44-98e58d7765ad,Coca-Cola Can,Beverages,0.88,4,3.52,0,Online Payment,Adult,Female,Quito,
+FF4619,4/16/24,,,Doritos Chips,Snacks,3.5,,31.5,0.05,Online Payment,Senior,Male,Machala,Ana Martinez
+qs3596,4/23/24,Ecuador,9349d6bd-668d-4c0e-90d9-b978cb78778d,Coca-Cola Can,Beverages,1.25,8,10,0.1,,Adult,Male,Guayaquil,Pedro Ramirez
+MV7343,10/13/24,Ecuador,3a593f6f-dab6-4590-a43b-e0f0252bbbfd,Nike Air Max,Footwear,165.07,8,1320.56,0.1,Mobile Wallet,Adult,Male,Guayaquil,Luis Vargas
+OC3290,2/4/25,,f9129259-2389-487b-8666-81e057f445ee,The North Face Jacket,Apparel,251.44,1,251.44,0,Cash,Senior,Male,Quito,Pedro Sanchez
+dP7932,4/26/24,Ecuador,dd653663-4d8d-4a5e-a555-abfe0e89f5a6,Samsung QLED TV,Electronics,1600.96,,8004.8,0.15,Mobile Wallet,Senior,Male,Cuenca,Ana Perez
+EH5792,,Ecuador,bde35846-6c8f-4fd6-ac6e-b4049a8bab5b,Levi's 501 Jeans,Apparel,77.16,5,385.8,0.2,Credit Card,Young,Female,Santo Domingo,Luis Vargas
+fl7531,,Ecuador,36e79fe2-94ad-4b67-90df-529660fac4fc,Apple MacBook Pro,Electronics,2384.57,10,23845.7,0.2,Debit Card,Young,Male,Quito,Ana Lopez
+YI3125,12/29/24,Ecuador,63f34277-df44-4cc8-b0bc-f3826db6549b,Samsung QLED TV,Electronics,,1,923.37,0.15,Mobile Wallet,Adult,Male,Santo Domingo,Jorge Lopez
+zg4204,4/26/24,Ecuador,088497f1-978f-4ffb-a234-67e68bb623a1,Yeti Tumbler,Outdoor,35.77,7,250.39,0.15,,Adult,Male,Guayaquil,Luisa Torres
+Jz4478,3/20/25,Ecuador,3e2704fb-dbcc-41a4-af5f-c6dc3dbb0501,Doritos Chips,Snacks,3.28,8,26.24,0.15,Debit Card,Senior,Male,Santo Domingo,Carmen Rodriguez
+SH4981,4/18/24,Ecuador,92ca657e-3128-4e15-be60-27fe44a2e9ed,Coca-Cola Can,Beverages,0.79,7,5.53,0,,Senior,Female,Machala,Jose Lopez
+AE3510,7/15/24,Ecuador,21c05ddd-2904-400e-8779-3e06e33862df,iPhone 14,Electronics,821.55,5,4107.75,,Cash,Adult,Female,Guayaquil,Ana Lopez
+Hg1807,12/22/24,Ecuador,c91fdda2-bf0a-46e0-8875-0abd898f73c8,Doritos Chips,Snacks,2.4,,7.2,0.15,Credit Card,Senior,Male,Quito,Jose Sanchez
+oi6278,1/20/25,Ecuador,668e7541-33c0-450b-89bf-654cc0e9edfb,Yeti Tumbler,Outdoor,41.46,2,82.92,0.1,Debit Card,,Male,Cuenca,Ana Garcia
+vK2350,,Ecuador,a327cfa6-ccf5-41c4-87a3-78b9066d654a,KitchenAid Mixer,Home Appliances,295.84,7,,0.05,Credit Card,,Male,Cuenca,Jorge Gomez
+qe5372,5/9/24,Ecuador,dbe375fd-9d94-4271-a701-0ac3a231b879,Apple MacBook Pro,Electronics,2117.32,7,14821.24,0.05,Cash,Young,Male,Quito,Maria Sanchez
+Il0630,10/29/24,Ecuador,54cb63ef-f945-492f-be77-d59e0726b890,Apple MacBook Pro,Electronics,1946.31,5,9731.55,0,Mobile Wallet,Adult,Male,Quito,Jose Martinez
+zr1704,11/25/24,Ecuador,bdcdebe1-6a01-46fa-935a-17e076fd6131,Nike Air Max,Footwear,146.81,9,,0.05,Cash,Adult,Male,Santo Domingo,Carmen Garcia
+Al4892,7/3/24,Ecuador,a95972ed-41a8-47ed-9c7b-65225b35bca7,Apple MacBook Pro,Electronics,2324.89,4,9299.56,,Online Payment,Young,Female,Quito,Ana Vargas
+ZG9795,8/25/24,Ecuador,85d17326-5ca5-44d8-8806-21acad69d342,,Electronics,975.36,6,5852.16,0.1,Debit Card,Adult,Male,Guayaquil,Luisa Sanchez
+yt2519,2/14/25,Ecuador,2a196bee-aa28-4d15-96ef-8b5488e957d4,Levi's 501 Jeans,Apparel,65.14,7,455.98,0.1,Cash,Young,Female,Santo Domingo,Luisa Rodriguez
+oA3988,1/21/25,Ecuador,a0c73d37-489c-4756-94e6-f3ccaa95d95a,Coca-Cola Can,,1.79,6,10.74,0.05,Credit Card,Adult,Female,Cuenca,Ana Perez
+IM1720,,Ecuador,9bddb6b0-635d-4183-8852-08420943185c,Nike Air Max,Footwear,106.12,3,318.36,0.1,Mobile Wallet,Adult,Male,Santo Domingo,Maria Ramirez
+Xn2239,2/1/25,Ecuador,ae1a3401-4256-46c2-9db7-dca278f5236e,Samsung QLED TV,Electronics,1431.69,5,7158.45,0.05,Credit Card,Young,Male,Guayaquil,Maria Garcia
+Ub8522,10/2/24,Ecuador,91e44da0-aa32-4853-be47-61a3b5d14edb,Doritos Chips,Snacks,4.79,2,9.58,0,Debit Card,Senior,Female,Santo Domingo,
+Qb3917,,Ecuador,a4d9c4cd-ffae-4ace-9cfb-de1cfa5976b5,iPhone 14,Electronics,869.41,10,8694.1,0.1,Mobile Wallet,Senior,Female,Quito,Pedro Perez
+XO0000,7/8/24,Ecuador,59f551cd-e730-4535-a551-f1c257e23ace,Apple MacBook Pro,Electronics,1396.05,5,6980.25,0.1,Online Payment,Adult,Female,Guayaquil,Jose Gomez
+wU1605,2/3/25,Ecuador,0b647fa7-e861-4c20-9e6d-cac821b9c7f9,Nike Air Max,Footwear,116.17,8,929.36,0.05,Cash,Senior,Male,Cuenca,Luis Lopez
+Qa5777,6/17/24,Ecuador,0f6ca058-fb99-44da-8110-3cc76488e0d3,KitchenAid Mixer,Home Appliances,,4,1599.08,0.15,Credit Card,Adult,Male,Quito,Jorge Ramirez
+pv1089,7/21/24,,cbf4ec55-2432-462e-9aba-064ba3506a0c,Doritos Chips,Snacks,3.47,6,20.82,0.2,Debit Card,Senior,Male,Machala,Jose Rodriguez
+Qp2768,12/31/24,Ecuador,39851c05-b7f6-43c5-a69a-d9b8b84fc18a,Apple MacBook Pro,Electronics,1627.27,9,14645.43,0,Mobile Wallet,Adult,Female,Santo Domingo,Juan Ramirez
+BX7205,5/12/24,Ecuador,fb3f6f2b-9265-4803-a993-e50be9a39be2,iPhone 14,Electronics,825.77,7,5780.39,0.05,Credit Card,Adult,Male,Guayaquil,Jose Ramirez
+jF3257,7/28/24,Ecuador,dbd669af-af1f-4848-b209-bc77abbc3099,Levi's 501 Jeans,Apparel,70.96,2,141.92,0.05,Online Payment,Senior,Male,Cuenca,Jose Martinez
+YB7631,2/9/25,Ecuador,5b40feca-1989-4905-bc3e-97acb31c631e,Apple MacBook Pro,,2194.82,4,8779.28,0.2,Cash,Young,Male,Quito,Carlos Martinez
+ej4116,12/8/24,Ecuador,363e3bcd-292e-48f6-ad04-da18e3450159,Samsung QLED TV,Electronics,951.79,,9517.9,0.2,Online Payment,Young,Female,Quito,Ana Garcia
+ND9642,6/14/24,,4b2cefe7-fd51-4098-96fe-30fd204c6122,Coca-Cola Can,Beverages,1.57,,9.42,0.15,Mobile Wallet,Senior,Female,Machala,Jose Gomez
+Pv5702,2/5/25,Ecuador,cdc38fbe-2382-4565-96bf-cd0073c8053a,Doritos Chips,Snacks,2.89,1,2.89,0.15,Mobile Wallet,Young,Male,,Jose Torres
+oW3632,6/27/24,Ecuador,9d0b2a6e-93ce-4156-89e2-b32d8515b1c4,,Apparel,96.3,7,674.1,0.15,Credit Card,Young,Female,Guayaquil,Pedro Ramirez
+pZ3653,2/11/25,Ecuador,5e66e870-f047-427a-8c0c-c55a607d8616,Nike Air Max,Footwear,186.5,3,559.5,0.2,Credit Card,Adult,Male,Cuenca,Pedro Garcia
+AI0495,6/28/24,Ecuador,9c325f9a-686c-4680-91c7-c350ea047ef9,KitchenAid Mixer,Home Appliances,306.86,4,1227.44,0,Credit Card,Senior,Male,Guayaquil,
+ck5307,7/10/24,Ecuador,4977cac3-aa89-49a0-9ac8-3e60c4a5c54c,Samsung QLED TV,Electronics,1201.24,3,3603.72,0.15,,Adult,Female,Machala,Jorge Gomez
+qZ3389,2/18/25,Ecuador,604041b1-229e-45d4-8821-622c751937c3,Nike Air Max,Footwear,199.46,9,1795.14,0.2,Mobile Wallet,Young,Female,Quito,Luis Garcia
+cu9573,4/9/24,Ecuador,9afa4d08-75ef-4c1f-a3f6-fba8fa108983,Apple MacBook Pro,Electronics,1485.94,1,1485.94,0.1,Credit Card,Senior,Female,Guayaquil,Carlos Torres
+ur2169,3/13/25,Ecuador,97072e76-35d9-40c5-bb6b-c7e5fb207944,The North Face Jacket,Apparel,284.95,4,1139.8,0.05,Credit Card,Adult,Female,Quito,Juan Garcia
+eK7245,2/17/25,Ecuador,2ed0ed00-2ff1-459c-8cbc-e1f53e44ca62,Samsung QLED TV,Electronics,1735.02,,12145.14,0.2,Cash,Senior,Male,,Ana Sanchez
+uD7971,11/13/24,Ecuador,f526a5ac-de09-4d60-994e-f7dc961235de,Coca-Cola Can,Beverages,1.14,1,1.14,0.15,Debit Card,Senior,Male,,Luisa Ramirez
+ov3955,2/18/25,Ecuador,2dbce766-6e80-46c5-a6ce-1ac9052a09c9,Samsung QLED TV,Electronics,1027.31,7,7191.17,0.05,Online Payment,Adult,Male,Machala,Carlos Vargas
+SI7265,5/11/24,,25656cdc-8cae-4cdf-87ad-85f9e3b525ec,KitchenAid Mixer,Home Appliances,329.24,5,1646.2,0.2,Online Payment,Young,Female,Santo Domingo,
+JG4812,8/25/24,Ecuador,4ef71e38-6543-42c4-9a6b-c45c49ddf0f3,Samsung QLED TV,Electronics,752.58,3,2257.74,0.1,Debit Card,Young,Male,Guayaquil,Jose Torres
+TT7717,8/31/24,Ecuador,1a9a1740-f0ac-47f0-8749-72614625487d,Apple MacBook Pro,Electronics,1396.87,2,2793.74,0,Debit Card,Adult,Female,Santo Domingo,Luisa Gomez
+zl7430,1/29/25,Ecuador,96212f14-32d7-46f5-9e95-04aae658d025,Yeti Tumbler,Outdoor,26.5,9,238.5,,Mobile Wallet,Adult,Male,,Carlos Vargas
+Ad8934,12/19/24,Ecuador,9f1a5ac3-3dbc-4090-a492-5c97d07c379a,KitchenAid Mixer,Home Appliances,326.2,9,2935.8,0.15,Cash,Senior,Female,Cuenca,
+MQ4897,4/13/24,Ecuador,36c48334-2523-466d-bbea-53483b13763f,Levi's 501 Jeans,Apparel,58.37,6,350.22,0.1,Mobile Wallet,Adult,Female,Quito,Maria Rodriguez
+ro0014,4/5/24,Ecuador,813bb1ab-e526-465c-8e7b-4055e7c9d4e2,Nike Air Max,Footwear,179.66,8,1437.28,0.15,Mobile Wallet,Young,Male,Guayaquil,Jose Perez
+ng0198,2/24/25,Ecuador,,KitchenAid Mixer,Home Appliances,405.72,8,3245.76,0,Cash,Young,Male,Guayaquil,Luisa Perez
+UQ4806,9/15/24,Ecuador,6a91dac9-91ed-49fb-b46a-933de933d733,Coca-Cola Can,Beverages,0.77,,7.7,0,Cash,Young,Male,,Carlos Sanchez
+uH8410,5/27/24,Ecuador,4f618cbc-fb69-43a9-8aea-dc52950af526,KitchenAid Mixer,Home Appliances,451.63,1,451.63,0.2,Online Payment,Young,Female,Machala,Luisa Ramirez
+XT5312,2/6/25,,c368a90e-1182-44a7-819b-7d7399a5dccd,Yeti Tumbler,,30.02,1,30.02,0.05,Online Payment,Adult,Female,Guayaquil,Jose Rodriguez
+sI3826,1/27/25,Ecuador,854210a3-692a-4f66-9133-923f41e1b3b1,Apple MacBook Pro,Electronics,1921.41,8,15371.28,0,Online Payment,Senior,Female,Cuenca,Luis Sanchez
+Go8990,6/29/24,,e6801a2f-4879-4a0f-a232-ef2003a17f8a,The North Face Jacket,Apparel,245.72,7,1720.04,0,Mobile Wallet,Adult,Female,Machala,Pedro Gomez
+pI4826,12/1/24,Ecuador,e4119e34-d635-4f11-9d3c-a31841126fa5,Yeti Tumbler,Outdoor,45.95,4,183.8,0,Online Payment,Senior,Female,Machala,Juan Lopez
+no7217,10/4/24,Ecuador,6797a7ac-1105-4dbd-ab33-aa343e718578,Yeti Tumbler,Outdoor,21.52,10,215.2,0.15,Cash,Adult,Female,,Luis Rodriguez
+uj2475,5/10/24,Ecuador,9e3e47b9-7464-41c2-93ab-abb617caa39b,KitchenAid Mixer,Home Appliances,417.22,2,834.44,0.15,Debit Card,Senior,Female,Guayaquil,Luisa Lopez
+SP7720,11/30/24,Ecuador,e8f26700-2ceb-49b1-9627-0a65ae39585a,Samsung QLED TV,Electronics,1479.31,2,2958.62,0.05,Mobile Wallet,Adult,Male,Cuenca,Carlos Sanchez
+gA3246,6/21/24,Ecuador,ea4338aa-6e94-4867-a199-33b86d6f459b,Levi's 501 Jeans,Apparel,,1,78.24,0.2,Debit Card,Senior,Female,Santo Domingo,Luis Vargas
+eq8102,3/25/24,Ecuador,cf7a7f14-b383-4228-9880-194aef401e18,Doritos Chips,Snacks,2.21,5,11.05,,Online Payment,Young,Male,Cuenca,Jorge Perez
+Ov9219,1/11/25,Ecuador,99ee9f87-bcce-43ee-b0b9-96b8b56f6139,KitchenAid Mixer,Home Appliances,453.94,8,3631.52,0.05,Online Payment,Senior,Male,Quito,Carlos Rodriguez
+cR9747,11/4/24,Ecuador,b1dc0799-ea23-4c19-9229-6e19efceb6e5,Coca-Cola Can,Beverages,1.73,3,5.19,0.05,Online Payment,Young,Female,Machala,Carmen Ramirez
+lK8298,7/12/24,Ecuador,bf2c73d9-6dc2-48ab-93f0-a4673eefb6ba,Coca-Cola Can,Beverages,1.83,6,10.98,0.2,Cash,Senior,Male,Cuenca,Luis Gomez
+JR8145,6/7/24,Ecuador,a0543bd1-40c8-43a0-948e-e66e02b48e11,Yeti Tumbler,Outdoor,31.23,6,187.38,0.2,Cash,Young,Male,Guayaquil,Carlos Lopez
+my7157,10/13/24,Ecuador,5fb26f23-6e2e-40b0-9235-17bb8d10d5b0,Coca-Cola Can,Beverages,0.86,1,0.86,0.2,Mobile Wallet,Young,Male,Cuenca,Luisa Martinez
+ta5926,2/22/25,Ecuador,4ae54911-c8fd-4fda-8c98-63c46ec7f2a8,Nike Air Max,Footwear,124.56,1,124.56,0,Credit Card,Young,Female,Guayaquil,
+Tn9099,5/30/24,Ecuador,924df88a-1c42-4389-8213-7fc4a8213d95,Apple MacBook Pro,Electronics,1535.73,2,3071.46,0.1,Debit Card,Adult,Male,Guayaquil,Carmen Garcia
+lW3958,8/26/24,,9707f343-4b36-48ed-93f4-41eeec176fc7,Doritos Chips,Snacks,2.44,1,2.44,0.05,Mobile Wallet,Adult,,Cuenca,Juan Lopez
+Bx9436,8/23/24,Ecuador,678b744f-09f7-4980-8852-b4dad9927a29,Samsung QLED TV,Electronics,1191.77,1,1191.77,,Online Payment,,Male,Cuenca,Luisa Gomez
+yA9833,7/6/24,Ecuador,8ea03f05-b64b-4351-a4e9-8d2482672e25,Apple MacBook Pro,Electronics,1882.68,7,13178.76,0.2,Online Payment,Senior,Male,Machala,Ana Perez
+cW9977,11/3/24,Ecuador,a849fca2-2775-4f48-9d97-bd081aaaf490,The North Face Jacket,Apparel,198.8,9,1789.2,0.15,Credit Card,Senior,,Machala,Luis Vargas
+Nu1550,11/15/24,Ecuador,5e09ae2f-38ab-4cae-b955-ef7e0db9b420,iPhone 14,Electronics,859.69,8,6877.52,0.1,Credit Card,Adult,Female,Quito,Luisa Torres
+aQ6912,6/30/24,Ecuador,b7c71dd9-4177-4f6a-a0eb-4b88eeb30cd6,Nike Air Max,Footwear,182.54,6,1095.24,0.1,Online Payment,Adult,,Quito,Maria Martinez
+IK6596,7/23/24,Ecuador,6f7daa39-f5a4-44b5-80de-3ea44ec37653,Apple MacBook Pro,Electronics,1841.58,3,,0.1,Mobile Wallet,Senior,Female,Machala,Luisa Rodriguez
+GG6940,12/13/24,Ecuador,bb341fbd-ad8a-4f69-81f2-62104453742b,Apple MacBook Pro,Electronics,2136.74,9,19230.66,0,Cash,Adult,Female,Quito,Carlos Rodriguez
+wn4891,1/17/25,Ecuador,e0839ef3-5fb6-40ca-bfda-f5ab823f3e14,,Apparel,265.62,2,531.24,0.15,Mobile Wallet,Adult,Male,Cuenca,Juan Vargas
+et4363,1/16/25,,455d94f7-0041-403d-ab71-e8480982f943,Yeti Tumbler,Outdoor,27.23,7,190.61,0.05,Cash,Senior,Male,Santo Domingo,Ana Sanchez
+RO2954,2/28/25,Ecuador,2f36cb22-da95-4a1d-a743-aef1c7c86d79,Levi's 501 Jeans,Apparel,88.16,4,352.64,0.05,Online Payment,Young,Male,Cuenca,Carmen Torres
+WW8440,8/7/24,Ecuador,76d8fd23-92ee-4fb8-9b5a-df8fa9eeb1a3,,Footwear,142.55,4,570.2,0,Debit Card,Adult,Male,Cuenca,Carmen Torres
+Cg8405,4/4/24,Ecuador,efd9f5bf-17f4-444f-a41c-3a09bc79f941,Coca-Cola Can,Beverages,1.93,6,11.58,0,Mobile Wallet,Young,Female,Guayaquil,Maria Lopez
+MZ5280,9/3/24,Ecuador,911cb22b-a3d2-44a4-9de9-a4470797ef68,iPhone 14,Electronics,1001.53,6,6009.18,0.15,Credit Card,Young,,Quito,Pedro Rodriguez
+gM2297,11/30/24,Ecuador,5ef2a38c-9d91-490a-8839-9f8d40c351f2,KitchenAid Mixer,Home Appliances,419.7,6,2518.2,0.2,Credit Card,Adult,,Cuenca,Luis Rodriguez
+yl8234,9/12/24,Ecuador,8cb5a04d-34a5-43b2-85b5-0e0af2c9a736,,Outdoor,23.92,9,215.28,0.2,Debit Card,Young,Female,Quito,Luisa Garcia
+hf7219,5/31/24,Ecuador,1c5c3e70-a156-493c-a819-8abbc8f5f07e,Coca-Cola Can,Beverages,1.37,9,12.33,0,Online Payment,Adult,Female,Guayaquil,Jose Ramirez
+uK0193,,Ecuador,00e777ad-085c-4b99-a774-fecf4f1ff171,iPhone 14,Electronics,1020.21,5,5101.05,0.05,Credit Card,Adult,Male,Quito,Jose Perez
+FN3045,9/10/24,Ecuador,54fe21d4-ed52-4c6e-abeb-0de63ad12ec1,Yeti Tumbler,Outdoor,38.5,6,231,0.2,Credit Card,Young,Female,Machala,Maria Ramirez
+yX4034,5/25/24,,f9b54908-7fa7-4701-9169-c34f8841ecc8,The North Face Jacket,Apparel,123.91,5,619.55,0.2,,Senior,Male,Cuenca,Pedro Lopez
+KE4020,9/2/24,Ecuador,f273ec3a-e46b-4a10-aef2-979bb272523d,Samsung QLED TV,Electronics,1521,7,10647,0.15,Cash,Adult,Female,Santo Domingo,Carlos Perez
+mC5084,4/9/24,Ecuador,f6bbc498-f91b-4b55-b505-c062be843d70,iPhone 14,Electronics,1163.13,8,9305.04,0.2,Mobile Wallet,Senior,Female,Machala,Maria Ramirez
+IS7327,8/18/24,Ecuador,,Doritos Chips,Snacks,4.03,1,4.03,,Debit Card,Senior,Female,Cuenca,Maria Garcia
+CJ9956,4/28/24,Ecuador,,KitchenAid Mixer,Home Appliances,453.61,9,4082.49,0.05,Debit Card,,Male,Quito,Jose Garcia
+mw4805,3/20/25,Ecuador,a7ec4569-7ba7-47df-9dfb-80b6bbf0b380,iPhone 14,Electronics,1045.78,3,3137.34,0.15,Credit Card,Senior,Male,Quito,Maria Rodriguez
+eN1811,9/25/24,Ecuador,0812fc9c-a3c9-4b72-813b-91d2c42377e0,Yeti Tumbler,Outdoor,28.28,4,113.12,0.1,Online Payment,Young,Male,Santo Domingo,Ana Rodriguez
+oT5221,12/18/24,Ecuador,9113e287-413d-46e9-9a47-ee4bc173b783,Levi's 501 Jeans,Apparel,71.29,9,641.61,0.05,Credit Card,Adult,Male,Santo Domingo,Carmen Rodriguez
+kx9954,4/8/24,Ecuador,cf9a3ed3-e792-4abb-963f-6adee1058f10,Samsung QLED TV,Electronics,1571.91,7,11003.37,0,Debit Card,Young,Female,Machala,Jorge Perez
+ZK0867,7/18/24,Ecuador,350bbd0c-9e62-4e9b-bdd3-cf49a48f6834,Apple MacBook Pro,Electronics,2480.49,3,7441.47,,Debit Card,Senior,Female,Machala,Carmen Martinez
+TP7646,7/27/24,Ecuador,aa2af012-a92c-4b5f-b38c-e75a9c6706db,,Outdoor,45.85,2,91.7,0,Debit Card,Senior,Male,Quito,Luisa Sanchez
+rD1375,5/15/24,Ecuador,,iPhone 14,Electronics,958.47,10,9584.7,0,Debit Card,Adult,Male,Santo Domingo,
+EI4971,6/14/24,,9a0c9800-d5ef-4616-8c32-811db6556bf3,iPhone 14,Electronics,1124.77,8,8998.16,0,Credit Card,Young,Male,Guayaquil,Carlos Lopez
+wT0956,10/9/24,Ecuador,f2e05372-35eb-4337-8c6b-86bcf60f7b65,Yeti Tumbler,Outdoor,28.82,3,86.46,0,,Senior,Female,Santo Domingo,Jorge Gomez
+TD4353,7/17/24,Ecuador,e23240bd-cafc-41a7-9a47-87f383fa70d3,Levi's 501 Jeans,Apparel,87.13,3,261.39,0.1,Cash,Young,Male,Guayaquil,Jorge Sanchez
+UT5663,11/24/24,Ecuador,91c8ae6d-e5f3-4907-9b1d-1334aa5bde9c,Apple MacBook Pro,Electronics,,1,,0,Debit Card,Young,Female,Santo Domingo,Luisa Rodriguez
+Lf1370,11/9/24,Ecuador,89829f20-dea4-410c-96db-c7dedac091a5,Apple MacBook Pro,Electronics,2361.19,4,9444.76,0.2,Debit Card,,Female,Cuenca,Luisa Ramirez
+jc5100,10/14/24,Ecuador,7699399e-fcea-42df-a9de-b6883df91b11,Levi's 501 Jeans,Apparel,79.61,3,238.83,0.2,Online Payment,Adult,Female,Machala,Pedro Lopez
+dQ9545,9/16/24,Ecuador,e71c066a-282d-466c-9aa2-8a5248dca0cc,Doritos Chips,Snacks,3.15,1,3.15,0.2,Debit Card,Senior,Female,Quito,Carlos Rodriguez
+eK8377,8/29/24,Ecuador,,Yeti Tumbler,Outdoor,34.97,4,139.88,0.05,Cash,Adult,Female,Guayaquil,Jorge Perez
+tS2376,9/16/24,Ecuador,,Samsung QLED TV,Electronics,1801.41,4,7205.64,,Mobile Wallet,Young,Male,Guayaquil,Luis Garcia
+iQ6907,4/6/24,Ecuador,c9d2d384-2b86-424a-8468-1cddaf4e9085,Coca-Cola Can,Beverages,0.77,3,2.31,0.1,Debit Card,,Female,Machala,Juan Torres
+Sp2144,12/14/24,Ecuador,66791af3-1245-4f6c-a528-1a48beb812ec,KitchenAid Mixer,Home Appliances,298.7,1,,0.2,Cash,Young,Male,Machala,Carmen Rodriguez
+Ei7604,11/3/24,Ecuador,de3afc8c-1068-4dd8-b884-162246c0c798,Doritos Chips,Snacks,4.79,6,28.74,0.2,Cash,Senior,Female,Machala,Juan Sanchez
+rE9372,6/27/24,Ecuador,67cdc7c7-2b90-471e-830b-98ecc0e80242,Apple MacBook Pro,Electronics,1833.85,,7335.4,0,Mobile Wallet,Adult,Female,Santo Domingo,Jorge Lopez
+Ca2097,9/2/24,Ecuador,88684b90-bfb0-4175-8c16-b72f6c09fc35,Nike Air Max,Footwear,143.84,4,575.36,0.05,Cash,Adult,Male,Cuenca,Luisa Vargas
+iq3571,9/21/24,Ecuador,,iPhone 14,Electronics,962.08,8,7696.64,0.15,Mobile Wallet,,Male,Machala,Jose Torres
+dM8959,5/18/24,Ecuador,1d0bf1ae-a460-4a9b-afb7-3c0d1431a083,iPhone 14,Electronics,948.08,2,1896.16,0.2,Debit Card,Senior,,Guayaquil,Pedro Perez
+TG8447,7/9/24,Ecuador,b1833190-0453-47e7-beb0-7428aaa0e409,Nike Air Max,Footwear,131.58,6,789.48,0.05,Credit Card,Adult,Male,Quito,Jose Vargas
+La1570,5/16/24,Ecuador,,iPhone 14,Electronics,998.56,6,5991.36,0.1,Debit Card,Young,Female,Cuenca,Jorge Sanchez
+jX7123,2/12/25,Ecuador,6138c6fc-132f-4550-860b-595adb7265c8,,Apparel,193.16,9,1738.44,0.1,Mobile Wallet,,Female,Santo Domingo,Maria Torres
+lx9143,1/27/25,Ecuador,46a76ee4-54eb-40c7-a8b3-5994e5f2051c,Doritos Chips,Snacks,3.82,2,7.64,0,Debit Card,Senior,Male,Guayaquil,Luis Perez
+ht0542,2/6/25,Ecuador,7fad8984-e748-4ecd-a47a-1c8d7a0c8b87,KitchenAid Mixer,Home Appliances,294.12,1,294.12,0.2,Debit Card,Young,Female,Cuenca,
+yG6977,11/21/24,Ecuador,a71f6cc0-08f6-44db-80d8-bee97041e6f3,Doritos Chips,Snacks,3.47,7,24.29,0.05,Online Payment,Young,Male,Quito,Luisa Sanchez
+zu4780,4/30/24,,5be078e5-230a-41fe-9520-c7afce1b1039,,Footwear,190.84,7,1335.88,0.05,Debit Card,Senior,Male,Guayaquil,Juan Lopez
+by5928,4/7/24,Ecuador,c2a1c34f-d106-4d77-901b-0c6a52b5b394,,Electronics,971.55,10,9715.5,0.2,,Adult,Male,Cuenca,Ana Garcia
+OX1317,8/22/24,Ecuador,c14900d3-56fe-4207-990a-86412d4dfa00,iPhone 14,Electronics,858.73,5,4293.65,0.2,Credit Card,Adult,Male,Guayaquil,Pedro Sanchez
+WZ3131,3/8/25,Ecuador,f8377a2a-0aa0-43f1-b38b-4d6821148b97,Apple MacBook Pro,Electronics,1898.45,4,7593.8,0.05,Debit Card,Adult,Female,Machala,Pedro Sanchez
+dO9328,6/16/24,Ecuador,cd49c75f-ab73-4f6f-9d1f-0c958f3df044,iPhone 14,Electronics,919.8,1,919.8,0.2,Debit Card,Young,Male,Machala,Luis Rodriguez
+kk6074,7/20/24,Ecuador,d27dab4b-cbe9-43b8-a6e5-922284d2c7ab,Apple MacBook Pro,Electronics,1843.63,4,7374.52,0.15,Cash,Adult,Male,Santo Domingo,Juan Lopez
+cY9357,1/18/25,Ecuador,f8265c84-b8bb-4913-bc46-4c72ddfbb734,Apple MacBook Pro,Electronics,1631.02,4,6524.08,0.05,Online Payment,Adult,Female,Santo Domingo,Pedro Lopez
+tq7200,,Ecuador,b13cbcb9-0744-4196-8978-662f1bf1e09d,Levi's 501 Jeans,Apparel,65,9,585,0.2,Debit Card,Young,Male,Quito,Jose Torres
+Np4371,,,3e8d0ba6-387a-4277-8e27-525ae17a8035,The North Face Jacket,Apparel,223.23,,1116.15,,Cash,,Female,Machala,Pedro Vargas
+Uf8407,7/26/24,Ecuador,6641b70d-9947-4b60-bd72-b7098f53eb1e,,Snacks,2.66,10,26.6,0.05,Cash,Young,Female,,Carmen Perez
+RK6483,3/23/24,Ecuador,a27f5de5-a8f3-41fa-9e80-91b6ecd860c2,Yeti Tumbler,Outdoor,26.5,,,0.2,Cash,,Male,Guayaquil,Luisa Martinez
+XK2866,8/30/24,Ecuador,3291b4a5-77f7-4544-b326-e8731377e7ef,Levi's 501 Jeans,Apparel,75.42,5,,0,Online Payment,Senior,Male,Santo Domingo,Ana Lopez
+Li6570,4/4/24,Ecuador,5c69f62d-5e5c-4b93-bf85-15a9ce241d43,Samsung QLED TV,Electronics,945.27,1,945.27,0.1,Online Payment,Adult,Female,Machala,Maria Perez
+db3169,8/16/24,Ecuador,4735b5a6-57e3-458b-abe1-67d8c09734ef,KitchenAid Mixer,Home Appliances,260.48,,520.96,0.05,Debit Card,Young,Female,Santo Domingo,Carmen Perez
+kR7913,9/18/24,Ecuador,75b995d0-b2b1-4fe4-9929-2deb1c82a5b0,Coca-Cola Can,Beverages,1.59,,15.9,0,Credit Card,Adult,Male,Guayaquil,Maria Vargas
+YZ2477,7/23/24,Ecuador,c70bdfa2-74e9-4ffe-b4ba-dfb5f7e3de66,iPhone 14,Electronics,1065.57,4,4262.28,0.1,Debit Card,Young,Male,Santo Domingo,Pedro Lopez
+Qu7118,4/14/24,Ecuador,619240f4-f8c0-4dcb-a976-30e8ee7e67a9,Doritos Chips,Snacks,3.23,9,29.07,0.1,,Adult,Male,,Jose Vargas
+kt3542,,Ecuador,39f7001b-7d7d-40c9-ab2d-75dc9afec569,Yeti Tumbler,Outdoor,49.6,3,148.8,0.1,Mobile Wallet,Senior,Female,Quito,Jose Sanchez
+Kq0324,6/30/24,Ecuador,74be80ef-3ba5-4313-b62c-0d2ca0d03966,The North Face Jacket,Apparel,257.92,4,1031.68,0.15,Credit Card,Senior,Female,Cuenca,Carlos Martinez
+eu2378,12/15/24,Ecuador,5f1f0ecd-284d-4958-9ac0-051ac66bf10c,iPhone 14,Electronics,1102.37,4,4409.48,0.1,Online Payment,Adult,Female,Guayaquil,Luisa Perez
+lZ6433,,Ecuador,862c50b3-dca4-43dc-a5ae-86a461817398,Coca-Cola Can,Beverages,1.33,3,3.99,0.2,Online Payment,Adult,Female,Cuenca,Juan Sanchez
+Bm1752,9/4/24,Ecuador,726ee92a-ad28-4545-8b4d-1581ce3233cf,KitchenAid Mixer,Home Appliances,334.35,7,2340.45,0.05,Online Payment,Young,Male,Guayaquil,Maria Lopez
+FI7879,10/9/24,Ecuador,c7ae3c7c-092e-49b1-81d0-4f155e94a483,KitchenAid Mixer,Home Appliances,421.08,3,1263.24,0.05,Mobile Wallet,Young,Female,Machala,Ana Ramirez
+xH7973,,Ecuador,22616fce-2d8a-4ea9-87a4-60a535e08346,Nike Air Max,Footwear,189.97,10,1899.7,0,,Senior,Female,Cuenca,Jose Rodriguez
+Hv5969,12/1/24,Ecuador,50cbc39e-7f3e-4082-b71b-8228b7987841,Nike Air Max,Footwear,173.99,7,1217.93,0.15,Mobile Wallet,Young,Male,Guayaquil,Juan Rodriguez
+jJ9496,11/27/24,Ecuador,ac411ea4-54b9-400b-b7f6-17cbf11602cf,The North Face Jacket,Apparel,115.41,,807.87,0.15,Debit Card,Young,Male,Guayaquil,Luisa Perez
+SH5103,6/13/24,Ecuador,550633a6-771d-40b5-aa9f-f836f2a9d9f0,iPhone 14,Electronics,918.17,7,6427.19,0.2,Online Payment,Adult,Male,Cuenca,Carmen Lopez
+za1154,9/13/24,Ecuador,84ab0a0b-41c3-42c2-89e6-3b6736ecd550,Levi's 501 Jeans,Apparel,72.78,9,655.02,0.05,Online Payment,Senior,Male,Quito,Juan Garcia
+OP5448,8/6/24,Ecuador,c2fc8b2d-3aee-47a8-8876-e3b0e5b1aec4,Doritos Chips,Snacks,4.81,10,48.1,,Credit Card,Young,Male,Santo Domingo,Pedro Perez
+iy0790,6/4/24,Ecuador,c93ae799-3290-4573-be8f-9a2453efec26,Apple MacBook Pro,Electronics,1446.28,9,13016.52,0.2,Cash,Young,Female,Santo Domingo,Jose Martinez
+ud1403,10/20/24,Ecuador,5d64455c-0458-430b-bf82-d73b96b2fb3a,Yeti Tumbler,Outdoor,31.15,6,186.9,0.2,Cash,Senior,Female,,Carlos Garcia
+GJ3790,9/24/24,Ecuador,d2ba09b4-0fa5-4d49-a735-defb0373ea1a,Coca-Cola Can,Beverages,1.03,9,9.27,0.05,Debit Card,Adult,Female,Machala,Jorge Gomez
+Sm0794,5/31/24,Ecuador,033510a9-b58e-4333-a72f-302db3ba7d73,Coca-Cola Can,Beverages,0.99,1,0.99,0.1,Online Payment,Young,Male,Santo Domingo,Juan Ramirez
+uF2600,10/28/24,Ecuador,ef755063-739b-4321-84da-718da9aafb36,Nike Air Max,Footwear,112.07,4,448.28,0.1,Cash,Young,Male,,Luis Gomez
+oj8356,9/26/24,Ecuador,a5ed90aa-313b-4922-acb7-51578751b8bd,Doritos Chips,Snacks,4.05,3,12.15,0.1,Debit Card,Young,Female,Santo Domingo,Maria Sanchez
+HY4639,8/5/24,Ecuador,010c8f76-e744-42bc-a19e-86fdb8b3299e,Levi's 501 Jeans,Apparel,72.82,3,218.46,0,Debit Card,Adult,Female,Guayaquil,Jorge Gomez
+YO9621,11/19/24,Ecuador,f6711426-da6a-4e8c-a1a8-c3fa93a69d1d,KitchenAid Mixer,,398.27,5,1991.35,,Debit Card,Adult,Female,Guayaquil,Luisa Lopez
+HS6816,2/7/25,,,KitchenAid Mixer,Home Appliances,474.37,1,,0.1,Cash,Young,Female,Quito,Luis Lopez
+wF8535,6/12/24,Ecuador,5368e580-3c0d-4b05-8341-071379855618,Samsung QLED TV,Electronics,,10,17773.5,0.05,Mobile Wallet,Adult,Female,Machala,Luisa Ramirez
+Yy0030,8/10/24,Ecuador,35a26dde-1b76-47e6-9af3-910b3fd42b24,KitchenAid Mixer,Home Appliances,251.63,5,1258.15,0,Online Payment,Adult,Female,Quito,Ana Gomez
+ib5496,12/31/24,Ecuador,8c02b3db-51da-4d1c-b983-ab39d444bff4,Apple MacBook Pro,Electronics,2447.59,10,24475.9,0.1,Mobile Wallet,Young,Male,Cuenca,Luis Lopez
+wu6516,12/26/24,Ecuador,410be019-ecbd-4540-88ff-8f808f308f2b,Nike Air Max,Footwear,197.81,8,1582.48,0,Debit Card,Young,Male,Quito,Jorge Garcia
+OZ0974,10/13/24,Ecuador,e03a6290-7006-4e8a-b21d-e486c887df68,Yeti Tumbler,Outdoor,36.93,6,221.58,0.1,Credit Card,Young,Male,Cuenca,Maria Rodriguez
+MT1275,5/28/24,Ecuador,,Apple MacBook Pro,Electronics,2377.68,10,23776.8,0.15,Online Payment,Adult,Male,Quito,Luisa Rodriguez
+bT8835,3/9/25,Ecuador,d9a66f61-6968-4c0a-bde0-e32e820a1434,Coca-Cola Can,Beverages,0.86,6,5.16,0.05,Online Payment,Adult,,,Jorge Torres
+YU7811,6/2/24,Ecuador,8214f046-944d-476c-b59a-9a7bd05226c4,Doritos Chips,Snacks,,10,27.1,0.15,Credit Card,Adult,Male,Guayaquil,Juan Ramirez
+qJ1975,6/10/24,Ecuador,49a438a5-4151-427a-8351-7c5d0aa39c41,Apple MacBook Pro,Electronics,2330.94,10,23309.4,0,Cash,Adult,Male,,Jose Garcia
+xP0310,11/14/24,Ecuador,21113c4f-01d6-45fd-941c-93ca96390c57,iPhone 14,Electronics,1073.78,7,7516.46,0.15,Credit Card,Senior,Female,Cuenca,Jorge Ramirez
+KQ1392,9/13/24,Ecuador,31a29fc3-349f-4421-85a8-360ba10c0248,Nike Air Max,Footwear,152.55,9,1372.95,,Cash,Young,Male,Machala,Pedro Sanchez
+Do7243,2/2/25,Ecuador,642d9d7f-3d91-40d6-8be1-132d81d493ce,Doritos Chips,Snacks,2.81,1,2.81,0.1,Debit Card,Young,Female,Cuenca,Ana Gomez
+ep3102,11/27/24,Ecuador,244ae124-6f26-47f2-a55e-b4a3e6c32180,The North Face Jacket,Apparel,295.19,,1771.14,0.1,Online Payment,Senior,Male,Santo Domingo,Maria Garcia
+Rl1454,7/24/24,Ecuador,2377a7ea-fe43-4537-8e3a-18aa860a9389,Samsung QLED TV,Electronics,1208.36,3,3625.08,0.15,Mobile Wallet,Senior,Female,Santo Domingo,Maria Gomez
+DB8844,12/12/24,Ecuador,be45df75-c2a3-40a9-9ac1-397295b2660a,Apple MacBook Pro,Electronics,2363.95,4,,0.2,Mobile Wallet,Senior,Female,Machala,Luisa Vargas
+xk4801,9/4/24,Ecuador,d5353d22-3ff5-4374-9a00-e237b0bdb263,iPhone 14,Electronics,1192.83,2,2385.66,0.15,Cash,Adult,Male,Guayaquil,Ana Ramirez
+Jb0371,10/29/24,Ecuador,987134b6-99bd-4659-bdcb-57a22eeeff0b,Levi's 501 Jeans,Apparel,77.48,9,697.32,0,Credit Card,Young,Male,Machala,Luisa Sanchez
+NU7984,,Ecuador,51494ea4-151c-433b-a2fe-31d92de9802e,Nike Air Max,Footwear,112.35,10,1123.5,0.05,Credit Card,Young,Female,Guayaquil,Luis Sanchez
+sL0540,7/20/24,Ecuador,30f43efd-56d7-4bc1-82c2-34f966b8e6ec,Samsung QLED TV,Electronics,1303.29,9,11729.61,0,Mobile Wallet,Adult,Male,Guayaquil,Juan Perez
+ZM7996,2/22/25,Ecuador,78b930bd-1876-42c9-be1e-c4cd67aada11,Samsung QLED TV,Electronics,,9,11350.08,0.2,Online Payment,Senior,Male,Santo Domingo,Carlos Ramirez
+GZ8010,1/3/25,Ecuador,9962fb70-8372-42f2-a4cc-9260bc2a9b0f,Coca-Cola Can,Beverages,1.24,10,12.4,0.1,Mobile Wallet,Senior,,Quito,Carmen Lopez
